@@ -1,0 +1,74 @@
+[
+  {
+    "id": 13901,
+    "name": "15 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13903,
+    "name": "22 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13902,
+    "name": "18 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13905,
+    "name": "29 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13904,
+    "name": "25 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13906,
+    "name": "32 Pound Salmon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13914,
+    "name": "70 Pound Mightfish",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13915,
+    "name": "85 Pound Mightfish",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13916,
+    "name": "92 Pound Mightfish",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 13917,
+    "name": "103 Pound Mightfish",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 27515,
+    "name": "Huge Spotted Feltail",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 27516,
+    "name": "Enormous Barbed Gill Trout",
+    "slot": 16,
+    "notEnchantable": true
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13503,
+    "name": "Alchemist\u0027s Stone",
+    "slot": 12
+  },
+  {
+    "id": 35748,
+    "name": "Guardian\u0027s Alchemist Stone",
+    "slot": 12
+  },
+  {
+    "id": 35751,
+    "name": "Assassin\u0027s Alchemist Stone",
+    "slot": 12
+  },
+  {
+    "id": 35750,
+    "name": "Redeemer\u0027s Alchemist Stone",
+    "slot": 12
+  },
+  {
+    "id": 35749,
+    "name": "Sorcerer\u0027s Alchemist Stone",
+    "slot": 12
+  }
+]

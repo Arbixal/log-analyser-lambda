@@ -1,0 +1,10 @@
+aiohttp~=3.8.1
+boto3~=1.21.4
+idna~=3.3
+multidict~=6.0.2
+attrs~=21.4.0
+yarl~=1.7.2
+aiosignal~=1.2.0
+frozenlist~=1.3.0
+botocore~=1.24.5
+aiolimiter~=1.0.0
