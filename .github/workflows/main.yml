@@ -52,4 +52,5 @@ jobs:
         run: |
           cd package
           zip ../deploy.zip ./* #--> Zip the Code As we know lambda function accept the zip file.
+          cd ..
           aws lambda update-function-code --function-name=load-report --zip-file=fileb://package.zip 
