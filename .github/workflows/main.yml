@@ -43,16 +43,13 @@ jobs:
       - name: Install packages
         run: pip install --target ./package aiohttp aiolimiter
       
-      - name: Copy data
-        run: cp -R ./data/ ./package/data/
-      
       - name: Copy code
-        run: cp ./*.py ./package/
-      
-      - name: zip
-        uses: montudor/action-zip@v0.1.0
-        with:
-          args: zip -qq -r ./package.zip ./package
+        run: |
+          cp -R ./data/ ./package/data/
+          cp ./*.py ./package/
           
       - name: deploy
-        run: aws lambda update-function-code --function-name=load-report --zip-file=fileb://package.zip 
+        run: |
+          cd package
+          zip ../deploy.zip ./* #--> Zip the Code As we know lambda function accept the zip file.
+          aws lambda update-function-code --function-name=load-report --zip-file=fileb://package.zip 
