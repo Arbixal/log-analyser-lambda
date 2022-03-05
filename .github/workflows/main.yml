@@ -50,5 +50,5 @@ jobs:
           
       - name: deploy
         run: |
-          (cd package && zip ../package.zip ./*)
+          (cd package && zip -r ../package.zip ./*)
           aws lambda update-function-code --function-name=load-report --zip-file=fileb://package.zip 
