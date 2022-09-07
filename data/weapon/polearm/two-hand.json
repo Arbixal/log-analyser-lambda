@@ -30,11 +30,6 @@
     "slot": 15
   },
   {
-    "id": 13059,
-    "name": "Stoneraven",
-    "slot": 15
-  },
-  {
     "id": 13060,
     "name": "The Needler",
     "slot": 15
@@ -42,6 +37,11 @@
   {
     "id": 13056,
     "name": "Frenzied Striker",
+    "slot": 15
+  },
+  {
+    "id": 13059,
+    "name": "Stoneraven",
     "slot": 15
   },
   {
@@ -144,8 +144,32 @@
     "randomEnchantment": true
   },
   {
-    "id": 25226,
-    "name": "War Scythe",
+    "id": 25236,
+    "name": "Grim Scythe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25228,
+    "name": "Halberd Polearm",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25229,
+    "name": "Partisan Polearm",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25234,
+    "name": "Telaari Polearm",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25231,
+    "name": "Fel-Wrought Halberd",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -162,8 +186,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25235,
-    "name": "Ethereal-Etched Glaive",
+    "id": 25233,
+    "name": "Battle Scythe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25226,
+    "name": "War Scythe",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -174,20 +204,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25229,
-    "name": "Partisan Polearm",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25228,
-    "name": "Halberd Polearm",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25234,
-    "name": "Telaari Polearm",
+    "id": 25237,
+    "name": "Nether Trident",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -198,26 +216,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25236,
-    "name": "Grim Scythe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25237,
-    "name": "Nether Trident",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25233,
-    "name": "Battle Scythe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25231,
-    "name": "Fel-Wrought Halberd",
+    "id": 25235,
+    "name": "Ethereal-Etched Glaive",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -268,13 +268,13 @@
     "slot": 15
   },
   {
-    "id": 29167,
-    "name": "Blackened Spear",
+    "id": 29166,
+    "name": "Hellforged Halberd",
     "slot": 15
   },
   {
-    "id": 29166,
-    "name": "Hellforged Halberd",
+    "id": 29167,
+    "name": "Blackened Spear",
     "slot": 15
   },
   {
@@ -337,5 +337,338 @@
     "id": 35064,
     "name": "Brutal Gladiator\u0027s Painsaw",
     "slot": 15
+  },
+  {
+    "id": 36608,
+    "name": "Piercing Glaive",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36602,
+    "name": "Rust-Covered Polearm",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36603,
+    "name": "Archaic Longspear",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36612,
+    "name": "Scourge War Spear",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36600,
+    "name": "Village Scythe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36610,
+    "name": "Plagued Pike",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36607,
+    "name": "Dwarven Halberd",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36609,
+    "name": "Abandoned Spear",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36599,
+    "name": "Ocean Trident",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36606,
+    "name": "Rugged Polearm",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36611,
+    "name": "Bleak Scythe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36601,
+    "name": "Patient Harpoon",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36605,
+    "name": "Wind Scythe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36604,
+    "name": "Grizzly Glaive",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37461,
+    "name": "Tidebreaker Trident",
+    "slot": 15
+  },
+  {
+    "id": 37813,
+    "name": "Banner Slicer",
+    "slot": 15
+  },
+  {
+    "id": 39123,
+    "name": "QR IC35 Polearm (Hunter) - PH",
+    "slot": 15
+  },
+  {
+    "id": 39221,
+    "name": "Wraith Spear",
+    "slot": 15
+  },
+  {
+    "id": 39987,
+    "name": "Tuskarr Fishing Spear",
+    "slot": 15
+  },
+  {
+    "id": 40208,
+    "name": "Cryptfiend\u0027s Bite",
+    "slot": 15
+  },
+  {
+    "id": 40497,
+    "name": "Black Ice",
+    "slot": 15
+  },
+  {
+    "id": 41815,
+    "name": "Icier Barbed Spear",
+    "slot": 15
+  },
+  {
+    "id": 42296,
+    "name": "Savage Gladiator\u0027s Pike",
+    "slot": 15
+  },
+  {
+    "id": 42327,
+    "name": "Deadly Gladiator\u0027s Pike",
+    "slot": 15
+  },
+  {
+    "id": 42329,
+    "name": "Relentless Gladiator\u0027s Pike",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42328,
+    "name": "Furious Gladiator\u0027s Pike",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42326,
+    "name": "Hateful Gladiator\u0027s Pike",
+    "slot": 15
+  },
+  {
+    "id": 43409,
+    "name": "Saliva Corroded Pike",
+    "slot": 15
+  },
+  {
+    "id": 43600,
+    "name": "Brunnhildar Harpoon",
+    "slot": 15
+  },
+  {
+    "id": 44053,
+    "name": "Whale-Stick Harpoon",
+    "slot": 15
+  },
+  {
+    "id": 44654,
+    "name": "Dalaran Spear",
+    "slot": 15
+  },
+  {
+    "id": 45311,
+    "name": "Relentless Edge",
+    "slot": 15
+  },
+  {
+    "id": 45533,
+    "name": "Dark Edge of Depravity",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 45498,
+    "name": "Lotrafen, Spear of the Damned",
+    "slot": 15
+  },
+  {
+    "id": 45951,
+    "name": "Furious Gladiator\u0027s Halberd",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 45996,
+    "name": "Hoperender",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47233,
+    "name": "Archon Glaive",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47239,
+    "name": "Archon Glaive",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47329,
+    "name": "Hellion Glaive",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47522,
+    "name": "Marrowstrike",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47491,
+    "name": "Hellion Glaive",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47834,
+    "name": "Fordragon Blades",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47911,
+    "name": "Anguish",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47979,
+    "name": "Fordragon Blades",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48056,
+    "name": "Anguish",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48517,
+    "name": "Relentless Gladiator\u0027s Halberd",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 49301,
+    "name": "Reclaimed Thunderstrike",
+    "slot": 15
+  },
+  {
+    "id": 49302,
+    "name": "Reclaimed Shadowstrike",
+    "slot": 15
+  },
+  {
+    "id": 49497,
+    "name": "Reinforced Thunderstrike",
+    "slot": 15
+  },
+  {
+    "id": 49496,
+    "name": "Reinforced Shadowstrike",
+    "slot": 15
+  },
+  {
+    "id": 50296,
+    "name": "Orca-Hunter\u0027s Harpoon",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 50178,
+    "name": "Bloodfall",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50425,
+    "name": "Oathbinder, Charge of the Ranger-General",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50735,
+    "name": "Oathbinder, Charge of the Ranger-General",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 50727,
+    "name": "Bloodfall",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 51022,
+    "name": "Hersir\u0027s Greatspear",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51481,
+    "name": "Wrathful Gladiator\u0027s Halberd",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51480,
+    "name": "Wrathful Gladiator\u0027s Pike",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51857,
+    "name": "Hersir\u0027s Greatspear",
+    "slot": 15,
+    "sockets": 3
   }
 ]

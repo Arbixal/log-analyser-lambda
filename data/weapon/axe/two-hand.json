@@ -20,13 +20,13 @@
     "slot": 15
   },
   {
-    "id": 11907,
-    "name": "Beastslayer",
+    "id": 11931,
+    "name": "Dreadforge Retaliator",
     "slot": 15
   },
   {
-    "id": 11931,
-    "name": "Dreadforge Retaliator",
+    "id": 11907,
+    "name": "Beastslayer",
     "slot": 15
   },
   {
@@ -70,14 +70,14 @@
     "slot": 15
   },
   {
-    "id": 15272,
-    "name": "Razor Axe",
+    "id": 15271,
+    "name": "Colossal Great Axe",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 15271,
-    "name": "Colossal Great Axe",
+    "id": 15272,
+    "name": "Razor Axe",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -178,26 +178,14 @@
     "slot": 15
   },
   {
+    "id": 25213,
+    "name": "Fel-Touched Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
     "id": 25212,
     "name": "Lucky Strike Axe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25218,
-    "name": "Silver-Edged Axe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25215,
-    "name": "Spiked Battle Axe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25217,
-    "name": "Sundering Axe",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -208,14 +196,32 @@
     "randomEnchantment": true
   },
   {
-    "id": 25213,
-    "name": "Fel-Touched Axe",
+    "id": 25216,
+    "name": "Ogre Splitting Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25219,
+    "name": "Rending Claw",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25223,
+    "name": "Windcaller Hatchet",
     "slot": 15,
     "randomEnchantment": true
   },
   {
     "id": 25225,
     "name": "Deepforge Broadaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25215,
+    "name": "Spiked Battle Axe",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -232,6 +238,12 @@
     "randomEnchantment": true
   },
   {
+    "id": 25218,
+    "name": "Silver-Edged Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
     "id": 25224,
     "name": "Slavemaster Axe",
     "slot": 15,
@@ -244,20 +256,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25223,
-    "name": "Windcaller Hatchet",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25216,
-    "name": "Ogre Splitting Axe",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25219,
-    "name": "Rending Claw",
+    "id": 25217,
+    "name": "Sundering Axe",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -304,13 +304,13 @@
     "slot": 15
   },
   {
-    "id": 28434,
-    "name": "Lunar Crescent",
+    "id": 28435,
+    "name": "Mooncleaver",
     "slot": 15
   },
   {
-    "id": 28435,
-    "name": "Mooncleaver",
+    "id": 28434,
+    "name": "Lunar Crescent",
     "slot": 15
   },
   {
@@ -420,18 +420,23 @@
     "slot": 15
   },
   {
-    "id": 32422,
-    "name": "Tom\u0027s Axe B",
-    "slot": 15
-  },
-  {
     "id": 32421,
     "name": "Tom\u0027s Axe A",
     "slot": 15
   },
   {
+    "id": 32422,
+    "name": "Tom\u0027s Axe B",
+    "slot": 15
+  },
+  {
     "id": 32663,
     "name": "Apexis Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 33429,
+    "name": "Ice Cleaver",
     "slot": 15
   },
   {
@@ -469,5 +474,373 @@
     "id": 34997,
     "name": "Brutal Gladiator\u0027s Decapitator",
     "slot": 15
+  },
+  {
+    "id": 35576,
+    "name": "Ingvar\u0027s Monolithic Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 35870,
+    "name": "Stoneground Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 36589,
+    "name": "Segmenting Broadaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36586,
+    "name": "Wreaking Battleaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36596,
+    "name": "Rupturing Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36591,
+    "name": "Winged Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36590,
+    "name": "Bone Plate Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36594,
+    "name": "Fracturing Battleaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36588,
+    "name": "Burning Battleaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36598,
+    "name": "Scarlet Battle Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36597,
+    "name": "Ice-Splintering Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36592,
+    "name": "Deforester Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36593,
+    "name": "Troll Decollator",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36587,
+    "name": "Taunka Axe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36585,
+    "name": "Finned Battleaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36595,
+    "name": "Planate Broadaxe",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36962,
+    "name": "Wyrmclaw Battleaxe",
+    "slot": 15
+  },
+  {
+    "id": 37025,
+    "name": "Blubber Carver",
+    "slot": 15
+  },
+  {
+    "id": 37054,
+    "name": "Frostbiter",
+    "slot": 15
+  },
+  {
+    "id": 37811,
+    "name": "Captain Carver\u0027s Persuader",
+    "slot": 15
+  },
+  {
+    "id": 37852,
+    "name": "Colossal Skull-Clad Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 38156,
+    "name": "Battered Magnataur Dualblade",
+    "slot": 15
+  },
+  {
+    "id": 38244,
+    "name": "Valorous Exterminator",
+    "slot": 15
+  },
+  {
+    "id": 38197,
+    "name": "Mounted Boneshredder",
+    "slot": 15
+  },
+  {
+    "id": 38237,
+    "name": "Axe of Frozen Death",
+    "slot": 15
+  },
+  {
+    "id": 38178,
+    "name": "Battlement Enforcer\u0027s Axe",
+    "slot": 15
+  },
+  {
+    "id": 38633,
+    "name": "Greataxe of the Ebon Blade",
+    "slot": 15
+  },
+  {
+    "id": 39115,
+    "name": "Axe of Bloodstained Ice",
+    "slot": 15
+  },
+  {
+    "id": 39114,
+    "name": "Axe of the Warlord\u0027s Demise",
+    "slot": 15
+  },
+  {
+    "id": 39417,
+    "name": "Death\u0027s Bite",
+    "slot": 15
+  },
+  {
+    "id": 39769,
+    "name": "Arcanite Ripper",
+    "slot": 15
+  },
+  {
+    "id": 39824,
+    "name": "Cleaver of Diligence",
+    "slot": 15
+  },
+  {
+    "id": 40384,
+    "name": "Betrayer of Humanity",
+    "slot": 15
+  },
+  {
+    "id": 41181,
+    "name": "Honed Cobalt Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 41816,
+    "name": "De-Raged Waraxe",
+    "slot": 15
+  },
+  {
+    "id": 42294,
+    "name": "Savage Gladiator\u0027s Decapitator",
+    "slot": 15
+  },
+  {
+    "id": 42318,
+    "name": "Furious Gladiator\u0027s Decapitator",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42316,
+    "name": "Hateful Gladiator\u0027s Decapitator",
+    "slot": 15
+  },
+  {
+    "id": 42319,
+    "name": "Relentless Gladiator\u0027s Decapitator",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42317,
+    "name": "Deadly Gladiator\u0027s Decapitator",
+    "slot": 15
+  },
+  {
+    "id": 42824,
+    "name": "Maker\u0027s Edge",
+    "slot": 15
+  },
+  {
+    "id": 43281,
+    "name": "Edge of Oblivion",
+    "slot": 15
+  },
+  {
+    "id": 43601,
+    "name": "Brunnhildar Great Axe",
+    "slot": 15
+  },
+  {
+    "id": 43899,
+    "name": "Sapph\u0027s Cleaver",
+    "slot": 15
+  },
+  {
+    "id": 44191,
+    "name": "Ice-Rimed Chopper",
+    "slot": 15
+  },
+  {
+    "id": 44640,
+    "name": "Dalaran Great Axe",
+    "slot": 15
+  },
+  {
+    "id": 44924,
+    "name": "Arcanite Ripper (NEW)",
+    "slot": 15
+  },
+  {
+    "id": 45165,
+    "name": "Worldcarver",
+    "slot": 15
+  },
+  {
+    "id": 45458,
+    "name": "Stormedge",
+    "slot": 15
+  },
+  {
+    "id": 45948,
+    "name": "Furious Gladiator\u0027s Sunderer",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47069,
+    "name": "Justicebringer",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47078,
+    "name": "Justicebringer",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47285,
+    "name": "Dual-blade Butcher",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47446,
+    "name": "Dual-blade Butcher",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47493,
+    "name": "Edge of Ruin",
+    "slot": 15
+  },
+  {
+    "id": 48402,
+    "name": "Relentless Gladiator\u0027s Sunderer",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48695,
+    "name": "Mor\u0027kosh, the Bloodreaver",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48713,
+    "name": "Lothar\u0027s Edge",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 49623,
+    "name": "Shadowmourne",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 49888,
+    "name": "Shadow\u0027s Edge",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50267,
+    "name": "Tyrannical Beheader",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 50415,
+    "name": "Bryntroll, the Bone Arbiter",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50709,
+    "name": "Bryntroll, the Bone Arbiter",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 50798,
+    "name": "Ramaladni\u0027s Blade of Culling",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51389,
+    "name": "Wrathful Gladiator\u0027s Sunderer",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51388,
+    "name": "Wrathful Gladiator\u0027s Decapitator",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51905,
+    "name": "Ramaladni\u0027s Blade of Culling",
+    "slot": 15,
+    "sockets": 3
   }
 ]

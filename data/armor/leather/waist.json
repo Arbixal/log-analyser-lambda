@@ -1,12 +1,12 @@
 [
   {
-    "id": 3977,
-    "name": "Strapped Belt",
+    "id": 3969,
+    "name": "Smooth Leather Belt",
     "slot": 5
   },
   {
-    "id": 3969,
-    "name": "Smooth Leather Belt",
+    "id": 3977,
+    "name": "Strapped Belt",
     "slot": 5
   },
   {
@@ -144,14 +144,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 15428,
-    "name": "Peerless Belt",
+    "id": 15434,
+    "name": "Supreme Sash",
     "slot": 5,
     "randomEnchantment": true
   },
   {
-    "id": 15434,
-    "name": "Supreme Sash",
+    "id": 15428,
+    "name": "Peerless Belt",
     "slot": 5,
     "randomEnchantment": true
   },
@@ -198,13 +198,13 @@
     }
   },
   {
-    "id": 18391,
-    "name": "Eyestalk Cord",
+    "id": 18451,
+    "name": "Hyena Hide Belt",
     "slot": 5
   },
   {
-    "id": 18451,
-    "name": "Hyena Hide Belt",
+    "id": 18391,
+    "name": "Eyestalk Cord",
     "slot": 5
   },
   {
@@ -223,16 +223,16 @@
     "slot": 5
   },
   {
-    "id": 19089,
-    "name": "Frostwolf Leather Belt",
+    "id": 19093,
+    "name": "Stormpike Leather Girdle",
     "slot": 5,
     "resistances": {
       "Frost": 5
     }
   },
   {
-    "id": 19093,
-    "name": "Stormpike Leather Girdle",
+    "id": 19089,
+    "name": "Frostwolf Leather Belt",
     "slot": 5,
     "resistances": {
       "Frost": 5
@@ -288,18 +288,13 @@
     "slot": 5
   },
   {
-    "id": 20103,
-    "name": "Highlander\u0027s Lizardhide Girdle",
-    "slot": 5
-  },
-  {
     "id": 20115,
     "name": "Highlander\u0027s Leather Girdle",
     "slot": 5
   },
   {
-    "id": 20174,
-    "name": "Defiler\u0027s Lizardhide Girdle",
+    "id": 20103,
+    "name": "Highlander\u0027s Lizardhide Girdle",
     "slot": 5
   },
   {
@@ -308,8 +303,13 @@
     "slot": 5
   },
   {
-    "id": 20216,
-    "name": "Belt of Preserved Heads",
+    "id": 20174,
+    "name": "Defiler\u0027s Lizardhide Girdle",
+    "slot": 5
+  },
+  {
+    "id": 20190,
+    "name": "Defiler\u0027s Leather Girdle",
     "slot": 5
   },
   {
@@ -318,8 +318,8 @@
     "slot": 5
   },
   {
-    "id": 20190,
-    "name": "Defiler\u0027s Leather Girdle",
+    "id": 20216,
+    "name": "Belt of Preserved Heads",
     "slot": 5
   },
   {
@@ -339,13 +339,13 @@
     "slot": 5
   },
   {
-    "id": 21609,
-    "name": "Regenerating Belt of Vek\u0027nilash",
+    "id": 21586,
+    "name": "Belt of Never-ending Agony",
     "slot": 5
   },
   {
-    "id": 21586,
-    "name": "Belt of Never-ending Agony",
+    "id": 21609,
+    "name": "Regenerating Belt of Vek\u0027nilash",
     "slot": 5
   },
   {
@@ -393,6 +393,12 @@
     "sockets": 2
   },
   {
+    "id": 24693,
+    "name": "Bonechewer Pelt-Girdle",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
     "id": 24701,
     "name": "Haal\u0027eshi Cord",
     "slot": 5,
@@ -405,26 +411,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 24693,
-    "name": "Bonechewer Pelt-Girdle",
-    "slot": 5,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24717,
-    "name": "Dreghood Belt",
-    "slot": 5,
-    "randomEnchantment": true
-  },
-  {
     "id": 24733,
     "name": "Sunroc Waistband",
     "slot": 5,
     "randomEnchantment": true
   },
   {
-    "id": 24725,
-    "name": "Dementia Cord",
+    "id": 24717,
+    "name": "Dreghood Belt",
     "slot": 5,
     "randomEnchantment": true
   },
@@ -441,8 +435,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24757,
-    "name": "Umbrafen Waistband",
+    "id": 24765,
+    "name": "Clefthoof Belt",
     "slot": 5,
     "randomEnchantment": true
   },
@@ -453,8 +447,20 @@
     "randomEnchantment": true
   },
   {
-    "id": 24765,
-    "name": "Clefthoof Belt",
+    "id": 24757,
+    "name": "Umbrafen Waistband",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24725,
+    "name": "Dementia Cord",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24781,
+    "name": "Murkblood Belt",
     "slot": 5,
     "randomEnchantment": true
   },
@@ -471,19 +477,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 24781,
-    "name": "Murkblood Belt",
-    "slot": 5,
-    "randomEnchantment": true
+    "id": 25350,
+    "name": "Moldy Leather Belt",
+    "slot": 5
   },
   {
     "id": 25358,
     "name": "Decaying Leather Belt",
-    "slot": 5
-  },
-  {
-    "id": 25350,
-    "name": "Moldy Leather Belt",
     "slot": 5
   },
   {
@@ -502,12 +502,12 @@
     "slot": 5
   },
   {
-    "id": 25605,
+    "id": 25609,
     "name": "Burning Blade Devotee\u0027s Cinch",
     "slot": 5
   },
   {
-    "id": 25609,
+    "id": 25605,
     "name": "Burning Blade Devotee\u0027s Cinch",
     "slot": 5
   },
@@ -554,6 +554,11 @@
     "slot": 5
   },
   {
+    "id": 28443,
+    "name": "General\u0027s Dragonhide Belt",
+    "slot": 5
+  },
+  {
     "id": 28423,
     "name": "General\u0027s Leather Belt",
     "slot": 5
@@ -561,11 +566,6 @@
   {
     "id": 28446,
     "name": "General\u0027s Wyrmhide Belt",
-    "slot": 5
-  },
-  {
-    "id": 28443,
-    "name": "General\u0027s Dragonhide Belt",
     "slot": 5
   },
   {
@@ -592,13 +592,13 @@
     "sockets": 2
   },
   {
-    "id": 28976,
-    "name": "Marshal\u0027s Dragonhide Belt",
+    "id": 28986,
+    "name": "Marshal\u0027s Leather Belt",
     "slot": 5
   },
   {
-    "id": 28986,
-    "name": "Marshal\u0027s Leather Belt",
+    "id": 28976,
+    "name": "Marshal\u0027s Dragonhide Belt",
     "slot": 5
   },
   {
@@ -708,14 +708,14 @@
     "slot": 5
   },
   {
-    "id": 31198,
-    "name": "Voidhide Cord",
+    "id": 31229,
+    "name": "Feathered Waistband",
     "slot": 5,
     "randomEnchantment": true
   },
   {
-    "id": 31229,
-    "name": "Feathered Waistband",
+    "id": 31198,
+    "name": "Voidhide Cord",
     "slot": 5,
     "randomEnchantment": true
   },
@@ -730,24 +730,24 @@
     "slot": 5
   },
   {
-    "id": 31513,
-    "name": "Blackwhelp Belt",
-    "slot": 5
-  },
-  {
     "id": 31563,
     "name": "Skystalker\u0027s Cord",
     "slot": 5,
     "randomEnchantment": true
   },
   {
-    "id": 31596,
-    "name": "Marshal\u0027s Kodohide Belt",
+    "id": 31513,
+    "name": "Blackwhelp Belt",
     "slot": 5
   },
   {
     "id": 31594,
     "name": "General\u0027s Kodohide Belt",
+    "slot": 5
+  },
+  {
+    "id": 31596,
+    "name": "Marshal\u0027s Kodohide Belt",
     "slot": 5
   },
   {
@@ -780,16 +780,6 @@
     "sockets": 2
   },
   {
-    "id": 32800,
-    "name": "Veteran\u0027s Kodohide Belt",
-    "slot": 5
-  },
-  {
-    "id": 32802,
-    "name": "Veteran\u0027s Leather Belt",
-    "slot": 5
-  },
-  {
     "id": 32798,
     "name": "Veteran\u0027s Dragonhide Belt",
     "slot": 5
@@ -800,20 +790,34 @@
     "slot": 5
   },
   {
+    "id": 32800,
+    "name": "Veteran\u0027s Kodohide Belt",
+    "slot": 5
+  },
+  {
+    "id": 32802,
+    "name": "Veteran\u0027s Leather Belt",
+    "slot": 5
+  },
+  {
     "id": 33211,
     "name": "Bladeangel\u0027s Money Belt",
     "slot": 5,
     "sockets": 1
   },
   {
-    "id": 33483,
-    "name": "Life-step Belt",
-    "slot": 5,
-    "sockets": 2
+    "id": 33373,
+    "name": "Fur-Lined Belt",
+    "slot": 5
   },
   {
-    "id": 33583,
-    "name": "Waistguard of the Great Beast",
+    "id": 33380,
+    "name": "Frozen Belt",
+    "slot": 5
+  },
+  {
+    "id": 33483,
+    "name": "Life-step Belt",
     "slot": 5,
     "sockets": 2
   },
@@ -824,8 +828,14 @@
     "sockets": 2
   },
   {
-    "id": 33891,
-    "name": "Vindicator\u0027s Leather Belt",
+    "id": 33583,
+    "name": "Waistguard of the Great Beast",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 33885,
+    "name": "Vindicator\u0027s Kodohide Belt",
     "slot": 5
   },
   {
@@ -839,15 +849,9 @@
     "slot": 5
   },
   {
-    "id": 33885,
-    "name": "Vindicator\u0027s Kodohide Belt",
+    "id": 33891,
+    "name": "Vindicator\u0027s Leather Belt",
     "slot": 5
-  },
-  {
-    "id": 34554,
-    "name": "Thunderheart Belt",
-    "slot": 5,
-    "sockets": 1
   },
   {
     "id": 34555,
@@ -856,8 +860,8 @@
     "sockets": 1
   },
   {
-    "id": 34558,
-    "name": "Slayer\u0027s Belt",
+    "id": 34554,
+    "name": "Thunderheart Belt",
     "slot": 5,
     "sockets": 1
   },
@@ -868,19 +872,30 @@
     "sockets": 1
   },
   {
+    "id": 34558,
+    "name": "Slayer\u0027s Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
     "id": 34929,
     "name": "Belt of the Silent Path",
     "slot": 5,
     "sockets": 1
   },
   {
-    "id": 35154,
-    "name": "Guardian\u0027s Kodohide Belt",
+    "id": 35156,
+    "name": "Guardian\u0027s Leather Belt",
     "slot": 5
   },
   {
-    "id": 35156,
-    "name": "Guardian\u0027s Leather Belt",
+    "id": 35152,
+    "name": "Guardian\u0027s Dragonhide Belt",
+    "slot": 5
+  },
+  {
+    "id": 35154,
+    "name": "Guardian\u0027s Kodohide Belt",
     "slot": 5
   },
   {
@@ -889,8 +904,723 @@
     "slot": 5
   },
   {
-    "id": 35152,
-    "name": "Guardian\u0027s Dragonhide Belt",
+    "id": 35613,
+    "name": "Pyramid Embossed Belt",
+    "slot": 5
+  },
+  {
+    "id": 35605,
+    "name": "Belt of Draconic Runes",
+    "slot": 5
+  },
+  {
+    "id": 35901,
+    "name": "Rejuvenating Cord",
+    "slot": 5
+  },
+  {
+    "id": 35893,
+    "name": "Coldstone-Inlaid Waistguard",
+    "slot": 5
+  },
+  {
+    "id": 36115,
+    "name": "Taunka Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36083,
+    "name": "Riplash Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36091,
+    "name": "Wildevar Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36099,
+    "name": "Caribou Waistband",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36139,
+    "name": "Ghrino Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36131,
+    "name": "Wolverine Girdle",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36107,
+    "name": "Vileprey Cord",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36147,
+    "name": "Pygmy Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36155,
+    "name": "Wendigo Girdle",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36075,
+    "name": "Winterfin Cord",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36067,
+    "name": "Daggercap Waistband",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36123,
+    "name": "Muradin Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36163,
+    "name": "Webspinner Cord",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36171,
+    "name": "Geist Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36978,
+    "name": "Ley-Whelphide Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 37106,
+    "name": "Ouroboros Belt",
+    "slot": 5
+  },
+  {
+    "id": 37194,
+    "name": "Sharp-Barbed Leather Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 37243,
+    "name": "Treasure Seeker\u0027s Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 37382,
+    "name": "Charred Drakehide Belt",
+    "slot": 5
+  },
+  {
+    "id": 37388,
+    "name": "Reinforced Elastic Band",
+    "slot": 5
+  },
+  {
+    "id": 37323,
+    "name": "BT48 Leather Physical Belt3",
+    "slot": 5
+  },
+  {
+    "id": 37394,
+    "name": "Marshwalker Waistguard",
+    "slot": 5
+  },
+  {
+    "id": 37643,
+    "name": "Sash of Blood Removal",
+    "slot": 5
+  },
+  {
+    "id": 37714,
+    "name": "Batrider\u0027s Cord",
+    "slot": 5
+  },
+  {
+    "id": 37762,
+    "name": "Many-Pocketed Belt",
+    "slot": 5
+  },
+  {
+    "id": 37842,
+    "name": "Belt of Vivacity",
+    "slot": 5
+  },
+  {
+    "id": 38006,
+    "name": "Glade Wanderer Belt",
+    "slot": 5
+  },
+  {
+    "id": 38008,
+    "name": "Lothalar Woodwalker Belt",
+    "slot": 5
+  },
+  {
+    "id": 37990,
+    "name": "Narf\u0027s Explosiveproof Strand",
+    "slot": 5
+  },
+  {
+    "id": 38004,
+    "name": "Scourgeslayer Belt",
+    "slot": 5
+  },
+  {
+    "id": 38405,
+    "name": "Arctic Belt",
+    "slot": 5
+  },
+  {
+    "id": 38406,
+    "name": "Iceborne Belt",
+    "slot": 5
+  },
+  {
+    "id": 38616,
+    "name": "Maiden\u0027s Girdle",
+    "slot": 5
+  },
+  {
+    "id": 38532,
+    "name": "Belt of Vengeful Purification",
+    "slot": 5
+  },
+  {
+    "id": 39017,
+    "name": "Belt of Keen Hearing",
+    "slot": 5
+  },
+  {
+    "id": 39029,
+    "name": "Waistguard of Expedient Procurement",
+    "slot": 5
+  },
+  {
+    "id": 39308,
+    "name": "Girdle of Lenience",
+    "slot": 5
+  },
+  {
+    "id": 39279,
+    "name": "Blistered Belt of Decay",
+    "slot": 5
+  },
+  {
+    "id": 39377,
+    "name": "Toenail Belt",
+    "slot": 5
+  },
+  {
+    "id": 39402,
+    "name": "Binding of the Ancient Keeper",
+    "slot": 5
+  },
+  {
+    "id": 39710,
+    "name": "Verdant Tundra Belt",
+    "slot": 5
+  },
+  {
+    "id": 39876,
+    "name": "Aged Abomination Tripe",
+    "slot": 5
+  },
+  {
+    "id": 39864,
+    "name": "Belt of Service",
+    "slot": 5
+  },
+  {
+    "id": 39838,
+    "name": "Supple Belt of the Bloodletter",
+    "slot": 5
+  },
+  {
+    "id": 40200,
+    "name": "Belt of Potent Chanting",
+    "slot": 5
+  },
+  {
+    "id": 40205,
+    "name": "Stalk-Skin Belt",
+    "slot": 5
+  },
+  {
+    "id": 40260,
+    "name": "Belt of the Tortured",
+    "slot": 5
+  },
+  {
+    "id": 40341,
+    "name": "Shackled Cinch",
+    "slot": 5
+  },
+  {
+    "id": 40566,
+    "name": "Unravelling Strands of Sanity",
+    "slot": 5
+  },
+  {
+    "id": 40695,
+    "name": "Vine Belt of the Woodland Dryad",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 40694,
+    "name": "Jorach\u0027s Crocolisk Skin Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41330,
+    "name": "Hateful Gladiator\u0027s Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41616,
+    "name": "Deadly Gladiator\u0027s Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41617,
+    "name": "Furious Gladiator\u0027s Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41628,
+    "name": "Hateful Gladiator\u0027s Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41630,
+    "name": "Furious Gladiator\u0027s Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41631,
+    "name": "Relentless Gladiator\u0027s Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41618,
+    "name": "Relentless Gladiator\u0027s Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41629,
+    "name": "Deadly Gladiator\u0027s Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41827,
+    "name": "Hateful Gladiator\u0027s Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41832,
+    "name": "Furious Gladiator\u0027s Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41833,
+    "name": "Relentless Gladiator\u0027s Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 41831,
+    "name": "Deadly Gladiator\u0027s Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 42084,
+    "name": "Snowhide Belt",
+    "slot": 5
+  },
+  {
+    "id": 42802,
+    "name": "Hardened Whipping Belt",
+    "slot": 5
+  },
+  {
+    "id": 43165,
+    "name": "Strange Voodoo Belt",
+    "slot": 5
+  },
+  {
+    "id": 43266,
+    "name": "Overcast Belt",
+    "slot": 5
+  },
+  {
+    "id": 43437,
+    "name": "Eviscerator\u0027s Waistguard",
+    "slot": 5
+  },
+  {
+    "id": 43484,
+    "name": "Trollwoven Girdle",
+    "slot": 5
+  },
+  {
+    "id": 43591,
+    "name": "Polar Cord",
+    "slot": 5,
+    "sockets": 2,
+    "resistances": {
+      "Frost": 86
+    }
+  },
+  {
+    "id": 43909,
+    "name": "Belt of Njorndar",
+    "slot": 5
+  },
+  {
+    "id": 43892,
+    "name": "Refurbished Demolisher Gear Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 43914,
+    "name": "Girdle of Reprieve",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 44041,
+    "name": "Belt of the Never-Forgotten",
+    "slot": 5
+  },
+  {
+    "id": 44106,
+    "name": "Glitterscale Wrap",
+    "slot": 5
+  },
+  {
+    "id": 44181,
+    "name": "Ghostflicker Waistband",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 45181,
+    "name": "Wrap of the Everliving Tree",
+    "slot": 5
+  },
+  {
+    "id": 45185,
+    "name": "Flamewrought Cinch",
+    "slot": 5
+  },
+  {
+    "id": 45211,
+    "name": "Waistguard of Equine Fury",
+    "slot": 5
+  },
+  {
+    "id": 45491,
+    "name": "Waistguard of the Creator",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 45455,
+    "name": "Belt of the Crystal Tree",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 45547,
+    "name": "Relic Hunter\u0027s Cord",
+    "slot": 5
+  },
+  {
+    "id": 45616,
+    "name": "Star-beaded Clutch",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 45556,
+    "name": "Belt of Arctic Life",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 45555,
+    "name": "Death-warmed Belt",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 45548,
+    "name": "Belt of the Sleeper",
+    "slot": 5
+  },
+  {
+    "id": 45709,
+    "name": "Nimble Climber\u0027s Belt",
+    "slot": 5
+  },
+  {
+    "id": 45829,
+    "name": "Belt of the Twilight Assassin",
+    "slot": 5
+  },
+  {
+    "id": 45830,
+    "name": "Belt of the Living Thicket",
+    "slot": 5
+  },
+  {
+    "id": 46095,
+    "name": "Soul-Devouring Cinch",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 46078,
+    "name": "Titan-Forged Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 46077,
+    "name": "Titan-Forged Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 46076,
+    "name": "Titan-Forged Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47140,
+    "name": "Cord of Pale Thorns",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47107,
+    "name": "Belt of the Merciless Killer",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47112,
+    "name": "Belt of the Merciless Killer",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 47145,
+    "name": "Cord of Pale Thorns",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 47170,
+    "name": "Belt of Fierce Competition",
+    "slot": 5
+  },
+  {
+    "id": 47174,
+    "name": "Binding of the Tranquil Glade",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47308,
+    "name": "Belt of Pale Thorns",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47469,
+    "name": "Belt of Pale Thorns",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 47299,
+    "name": "Belt of the Pitiless Killer",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47460,
+    "name": "Belt of the Pitiless Killer",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 47669,
+    "name": "Belt of the Winter Solstice",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47863,
+    "name": "Belt of the Bloodhoof Emissary",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 47929,
+    "name": "Belt of the Winter Solstice",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 48002,
+    "name": "Belt of the Bloodhoof Emissary",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 49806,
+    "name": "Flayer\u0027s Black Belt",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 50069,
+    "name": "Professor\u0027s Bloodied Smock",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50067,
+    "name": "Astrylian\u0027s Sutured Cinch",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50778,
+    "name": "Soulthief\u0027s Braided Belt",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50705,
+    "name": "Professor\u0027s Bloodied Smock",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50707,
+    "name": "Astrylian\u0027s Sutured Cinch",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50795,
+    "name": "Cord of Dark Suffering",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50994,
+    "name": "Belt of Petrified Ivy",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 50995,
+    "name": "Vengeful Noose",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 51343,
+    "name": "Wrathful Gladiator\u0027s Belt of Dominance",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 51340,
+    "name": "Wrathful Gladiator\u0027s Belt of Salvation",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 51368,
+    "name": "Wrathful Gladiator\u0027s Belt of Triumph",
+    "slot": 5,
+    "sockets": 1
+  },
+  {
+    "id": 51959,
+    "name": "Vigorous Belt",
+    "slot": 5,
+    "randomEnchantment": true
+  },
+  {
+    "id": 51908,
+    "name": "Cord of Dark Suffering",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 51925,
+    "name": "Soulthief\u0027s Braided Belt",
+    "slot": 5,
+    "sockets": 2
+  },
+  {
+    "id": 186029,
+    "name": "Communal Belt",
+    "slot": 5
+  },
+  {
+    "id": 199466,
+    "name": "Collective Belt",
+    "slot": 5
+  },
+  {
+    "id": 199481,
+    "name": "Collective Belt",
     "slot": 5
   }
 ]

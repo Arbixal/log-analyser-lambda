@@ -18,5 +18,56 @@
     "id": 34988,
     "name": "Brutal Gladiator\u0027s Bonecracker",
     "slot": 16
+  },
+  {
+    "id": 42221,
+    "name": "Savage Gladiator\u0027s Bonecracker",
+    "slot": 16
+  },
+  {
+    "id": 42281,
+    "name": "Furious Gladiator\u0027s Bonecracker",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42280,
+    "name": "Deadly Gladiator\u0027s Bonecracker",
+    "slot": 16
+  },
+  {
+    "id": 42282,
+    "name": "Relentless Gladiator\u0027s Bonecracker",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42279,
+    "name": "Hateful Gladiator\u0027s Bonecracker",
+    "slot": 16
+  },
+  {
+    "id": 45964,
+    "name": "Furious Gladiator\u0027s Punisher",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48435,
+    "name": "Relentless Gladiator\u0027s Punisher",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51445,
+    "name": "Wrathful Gladiator\u0027s Bonecracker",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51446,
+    "name": "Wrathful Gladiator\u0027s Punisher",
+    "slot": 16,
+    "sockets": 1
   }
 ]

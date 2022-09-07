@@ -33,5 +33,60 @@
     "id": 35072,
     "name": "Brutal Gladiator\u0027s Quickblade",
     "slot": 16
+  },
+  {
+    "id": 40703,
+    "name": "Grasscutter",
+    "slot": 16
+  },
+  {
+    "id": 42223,
+    "name": "Savage Gladiator\u0027s Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 42291,
+    "name": "Furious Gladiator\u0027s Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 42289,
+    "name": "Hateful Gladiator\u0027s Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 42290,
+    "name": "Deadly Gladiator\u0027s Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 42292,
+    "name": "Relentless Gladiator\u0027s Quickblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45965,
+    "name": "Furious Gladiator\u0027s Swiftblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48438,
+    "name": "Relentless Gladiator\u0027s Swiftblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51447,
+    "name": "Wrathful Gladiator\u0027s Quickblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51448,
+    "name": "Wrathful Gladiator\u0027s Swiftblade",
+    "slot": 16,
+    "sockets": 1
   }
 ]

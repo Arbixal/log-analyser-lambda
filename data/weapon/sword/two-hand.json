@@ -35,13 +35,13 @@
     "slot": 15
   },
   {
-    "id": 12782,
-    "name": "Corruption",
+    "id": 12764,
+    "name": "Thorium Greatsword",
     "slot": 15
   },
   {
-    "id": 12764,
-    "name": "Thorium Greatsword",
+    "id": 12782,
+    "name": "Corruption",
     "slot": 15
   },
   {
@@ -50,8 +50,8 @@
     "slot": 15
   },
   {
-    "id": 13052,
-    "name": "Warmonger",
+    "id": 13044,
+    "name": "Demonslayer",
     "slot": 15
   },
   {
@@ -60,8 +60,8 @@
     "slot": 15
   },
   {
-    "id": 13044,
-    "name": "Demonslayer",
+    "id": 13052,
+    "name": "Warmonger",
     "slot": 15
   },
   {
@@ -95,26 +95,8 @@
     "slot": 15
   },
   {
-    "id": 15255,
-    "name": "Gallant Flamberge",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15256,
-    "name": "Massacre Sword",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
     "id": 15254,
     "name": "Dark Espadon",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15257,
-    "name": "Shin Blade",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -127,6 +109,24 @@
   {
     "id": 15258,
     "name": "Divine Warblade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15257,
+    "name": "Shin Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15256,
+    "name": "Massacre Sword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15255,
+    "name": "Gallant Flamberge",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -161,13 +161,13 @@
     "slot": 15
   },
   {
-    "id": 18876,
-    "name": "Grand Marshal\u0027s Claymore",
+    "id": 18877,
+    "name": "High Warlord\u0027s Greatsword",
     "slot": 15
   },
   {
-    "id": 18877,
-    "name": "High Warlord\u0027s Greatsword",
+    "id": 18876,
+    "name": "Grand Marshal\u0027s Claymore",
     "slot": 15
   },
   {
@@ -221,13 +221,13 @@
     "slot": 15
   },
   {
-    "id": 23541,
-    "name": "Khorium Champion",
+    "id": 23499,
+    "name": "Fel Iron Greatsword",
     "slot": 15
   },
   {
-    "id": 23499,
-    "name": "Fel Iron Greatsword",
+    "id": 23541,
+    "name": "Khorium Champion",
     "slot": 15
   },
   {
@@ -236,32 +236,8 @@
     "slot": 15
   },
   {
-    "id": 25160,
-    "name": "Vengeance Blade",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25163,
-    "name": "Elexorien Blade",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25159,
-    "name": "Thunderstrike Falchion",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25164,
-    "name": "Crude Umbrafen Blade",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25156,
-    "name": "Royal Crusader Sword",
+    "id": 25157,
+    "name": "Serpentlord Claymore",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -272,8 +248,32 @@
     "randomEnchantment": true
   },
   {
-    "id": 25157,
-    "name": "Serpentlord Claymore",
+    "id": 25159,
+    "name": "Thunderstrike Falchion",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25166,
+    "name": "Mok\u0027Nathal Warblade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25167,
+    "name": "Nethersteel Claymore",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25164,
+    "name": "Crude Umbrafen Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25160,
+    "name": "Vengeance Blade",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -290,20 +290,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25166,
-    "name": "Mok\u0027Nathal Warblade",
+    "id": 25169,
+    "name": "Fel Orc Brute Sword",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 25165,
-    "name": "Boulderfist Claymore",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25167,
-    "name": "Nethersteel Claymore",
+    "id": 25163,
+    "name": "Elexorien Blade",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -314,8 +308,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25169,
-    "name": "Fel Orc Brute Sword",
+    "id": 25156,
+    "name": "Royal Crusader Sword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25165,
+    "name": "Boulderfist Claymore",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -360,13 +360,13 @@
     "slot": 15
   },
   {
-    "id": 28429,
-    "name": "Lionheart Champion",
+    "id": 28430,
+    "name": "Lionheart Executioner",
     "slot": 15
   },
   {
-    "id": 28430,
-    "name": "Lionheart Executioner",
+    "id": 28429,
+    "name": "Lionheart Champion",
     "slot": 15
   },
   {
@@ -441,13 +441,13 @@
     "slot": 15
   },
   {
-    "id": 32824,
-    "name": "Trashbringer",
+    "id": 32951,
+    "name": "Unusually Slow Two-Hander",
     "slot": 15
   },
   {
-    "id": 32951,
-    "name": "Unusually Slow Two-Hander",
+    "id": 33430,
+    "name": "Abandoned Greatsword",
     "slot": 15
   },
   {
@@ -467,8 +467,402 @@
     "sockets": 3
   },
   {
+    "id": 34661,
+    "name": "Massacre Sword",
+    "slot": 15
+  },
+  {
     "id": 35015,
     "name": "Brutal Gladiator\u0027s Greatsword",
     "slot": 15
+  },
+  {
+    "id": 35618,
+    "name": "Troll Butcherer",
+    "slot": 15
+  },
+  {
+    "id": 35849,
+    "name": "Featherweight Claymore",
+    "slot": 15
+  },
+  {
+    "id": 36541,
+    "name": "Wintry Claymore",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36539,
+    "name": "Chilled Warblade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36529,
+    "name": "Unearthed Broadsword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36540,
+    "name": "Petrified Sword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36537,
+    "name": "Fur-Grip Broadsword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36542,
+    "name": "Invasion Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36533,
+    "name": "Adorned Broadsword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36538,
+    "name": "Trollish Destroyer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36531,
+    "name": "Sawtooth Greatsword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36535,
+    "name": "Dragon\u0027s Rib Sword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36532,
+    "name": "Shark Fin Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36534,
+    "name": "Tempered-Steel Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36530,
+    "name": "Whetted Ironblade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36536,
+    "name": "Inlaid Greatsword",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36883,
+    "name": "Combatant Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 37080,
+    "name": "Crimson Will",
+    "slot": 15
+  },
+  {
+    "id": 37108,
+    "name": "Dreadlord\u0027s Blade",
+    "slot": 15
+  },
+  {
+    "id": 37653,
+    "name": "Sword of Justice",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 37659,
+    "name": "Enti\u0027s Quenched Sword",
+    "slot": 15
+  },
+  {
+    "id": 38195,
+    "name": "Magister\u0027s Bane",
+    "slot": 15
+  },
+  {
+    "id": 38182,
+    "name": "DB38 2H Sword2",
+    "slot": 15
+  },
+  {
+    "id": 38181,
+    "name": "Warblade of the Forgotten Footman",
+    "slot": 15
+  },
+  {
+    "id": 38282,
+    "name": "Bland Two-Handed Blade",
+    "slot": 15
+  },
+  {
+    "id": 38632,
+    "name": "Greatsword of the Ebon Blade",
+    "slot": 15
+  },
+  {
+    "id": 38707,
+    "name": "Runed Soulblade",
+    "slot": 15
+  },
+  {
+    "id": 39117,
+    "name": "Liberator\u0027s Blade",
+    "slot": 15
+  },
+  {
+    "id": 39370,
+    "name": "Keleseth\u0027s Persuader",
+    "slot": 15
+  },
+  {
+    "id": 39393,
+    "name": "Claymore of Ancient Power",
+    "slot": 15
+  },
+  {
+    "id": 39802,
+    "name": "Crusader\u0027s Greatblade",
+    "slot": 15
+  },
+  {
+    "id": 40004,
+    "name": "Forsaken Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 40343,
+    "name": "Armageddon",
+    "slot": 15
+  },
+  {
+    "id": 41242,
+    "name": "Forged Cobalt Claymore",
+    "slot": 15
+  },
+  {
+    "id": 42297,
+    "name": "Savage Gladiator\u0027s Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 42334,
+    "name": "Relentless Gladiator\u0027s Greatsword",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42332,
+    "name": "Deadly Gladiator\u0027s Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 42331,
+    "name": "Hateful Gladiator\u0027s Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 42333,
+    "name": "Furious Gladiator\u0027s Greatsword",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42799,
+    "name": "Snowblind Butcher",
+    "slot": 15
+  },
+  {
+    "id": 43832,
+    "name": "The Argent Resolve",
+    "slot": 15
+  },
+  {
+    "id": 43883,
+    "name": "Arete\u0027s Command",
+    "slot": 15
+  },
+  {
+    "id": 44249,
+    "name": "Runeblade of Demonstrable Power",
+    "slot": 15
+  },
+  {
+    "id": 44639,
+    "name": "Dalaran Greatsword",
+    "slot": 15
+  },
+  {
+    "id": 45074,
+    "name": "Claymore of the Prophet",
+    "slot": 15
+  },
+  {
+    "id": 45205,
+    "name": "Greatsword of the Sin\u0027dorei",
+    "slot": 15
+  },
+  {
+    "id": 45233,
+    "name": "Stormrune Edge",
+    "slot": 15
+  },
+  {
+    "id": 45516,
+    "name": "Voldrethar, Dark Blade of Oblivion",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 45868,
+    "name": "Aesir\u0027s Edge",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 45950,
+    "name": "Furious Gladiator\u0027s Claymore",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 46016,
+    "name": "Abaddon",
+    "slot": 15
+  },
+  {
+    "id": 47516,
+    "name": "Fleshrender",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47515,
+    "name": "Decimation",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47737,
+    "name": "Reckoning",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47884,
+    "name": "Edge of Agony",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47951,
+    "name": "Reckoning",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48023,
+    "name": "Edge of Agony",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48406,
+    "name": "Relentless Gladiator\u0027s Claymore",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 49299,
+    "name": "Keen Obsidian Edged Blade",
+    "slot": 15
+  },
+  {
+    "id": 49498,
+    "name": "Sharpened Obsidian Edged Blade",
+    "slot": 15
+  },
+  {
+    "id": 49666,
+    "name": "OMAR\u0027S Furious Gladiator\u0027s Claymore",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 49839,
+    "name": "Mourning Malice",
+    "slot": 15
+  },
+  {
+    "id": 50049,
+    "name": "Quel\u0027Delar, Ferocity of the Scorned",
+    "slot": 15
+  },
+  {
+    "id": 50070,
+    "name": "Glorenzelg, High-Blade of the Silver Hand",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50048,
+    "name": "Quel\u0027Delar, Might of the Faithful",
+    "slot": 15
+  },
+  {
+    "id": 50442,
+    "name": "Ashbringer (Extra Effects)",
+    "slot": 15
+  },
+  {
+    "id": 50730,
+    "name": "Glorenzelg, High-Blade of the Silver Hand",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 50761,
+    "name": "Citadel Enforcer\u0027s Claymore",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51392,
+    "name": "Wrathful Gladiator\u0027s Greatsword",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51393,
+    "name": "Wrathful Gladiator\u0027s Claymore",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51936,
+    "name": "Citadel Enforcer\u0027s Claymore",
+    "slot": 15,
+    "sockets": 2
   }
 ]

@@ -53,5 +53,112 @@
     "id": 35095,
     "name": "Brutal Gladiator\u0027s Shiv",
     "slot": 16
+  },
+  {
+    "id": 40702,
+    "name": "Rolfsen\u0027s Ripper",
+    "slot": 16
+  },
+  {
+    "id": 42250,
+    "name": "Relentless Gladiator\u0027s Shiv",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42257,
+    "name": "Relentless Gladiator\u0027s Mutilator",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42248,
+    "name": "Deadly Gladiator\u0027s Shiv",
+    "slot": 16
+  },
+  {
+    "id": 42215,
+    "name": "Savage Gladiator\u0027s Mutilator",
+    "slot": 16
+  },
+  {
+    "id": 42249,
+    "name": "Furious Gladiator\u0027s Shiv",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42247,
+    "name": "Hateful Gladiator\u0027s Shiv",
+    "slot": 16
+  },
+  {
+    "id": 42254,
+    "name": "Hateful Gladiator\u0027s Mutilator",
+    "slot": 16
+  },
+  {
+    "id": 42217,
+    "name": "Savage Gladiator\u0027s Shiv",
+    "slot": 16
+  },
+  {
+    "id": 42255,
+    "name": "Deadly Gladiator\u0027s Mutilator",
+    "slot": 16
+  },
+  {
+    "id": 42256,
+    "name": "Furious Gladiator\u0027s Mutilator",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45967,
+    "name": "Furious Gladiator\u0027s Eviscerator",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45962,
+    "name": "Furious Gladiator\u0027s Dirk",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48428,
+    "name": "Relentless Gladiator\u0027s Dirk",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48442,
+    "name": "Relentless Gladiator\u0027s Eviscerator",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51442,
+    "name": "Wrathful Gladiator\u0027s Dirk",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51441,
+    "name": "Wrathful Gladiator\u0027s Shiv",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51528,
+    "name": "Wrathful Gladiator\u0027s Eviscerator",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51527,
+    "name": "Wrathful Gladiator\u0027s Mutilator",
+    "slot": 16,
+    "sockets": 1
   }
 ]

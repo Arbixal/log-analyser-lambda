@@ -1,0 +1,22 @@
+[
+  {
+    "id": 50329,
+    "name": "Icecrown-10 Normal Loot Token",
+    "slot": 8
+  },
+  {
+    "id": 50332,
+    "name": "Icecrown-25 Normal Loot Token",
+    "slot": 8
+  },
+  {
+    "id": 50331,
+    "name": "Icecrown-25 Heroic Loot Token",
+    "slot": 8
+  },
+  {
+    "id": 50330,
+    "name": "Icecrown-10 Heroic Loot Token",
+    "slot": 8
+  }
+]

@@ -24,14 +24,14 @@
     "notEnchantable": true
   },
   {
-    "id": 23200,
-    "name": "Totem of Sustaining",
+    "id": 23199,
+    "name": "Totem of the Storm",
     "slot": 17,
     "notEnchantable": true
   },
   {
-    "id": 23199,
-    "name": "Totem of the Storm",
+    "id": 23200,
+    "name": "Totem of Sustaining",
     "slot": 17,
     "notEnchantable": true
   },
@@ -60,6 +60,12 @@
     "notEnchantable": true
   },
   {
+    "id": 27947,
+    "name": "Totem of Impact",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
     "id": 27984,
     "name": "Totem of Impact",
     "slot": 17,
@@ -68,12 +74,6 @@
   {
     "id": 28066,
     "name": "Totem of Lightning",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 27947,
-    "name": "Totem of Impact",
     "slot": 17,
     "notEnchantable": true
   },
@@ -126,6 +126,12 @@
     "notEnchantable": true
   },
   {
+    "id": 33505,
+    "name": "Totem of Living Water",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
     "id": 33507,
     "name": "Stonebreaker\u0027s Totem",
     "slot": 17,
@@ -138,20 +144,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33505,
-    "name": "Totem of Living Water",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
     "id": 33843,
     "name": "Vengeful Gladiator\u0027s Totem of the Third Wind",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 33951,
-    "name": "Gladiator\u0027s Totem of Survival",
     "slot": 17,
     "notEnchantable": true
   },
@@ -170,6 +164,12 @@
   {
     "id": 33953,
     "name": "Vengeful Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 33951,
+    "name": "Gladiator\u0027s Totem of Survival",
     "slot": 17,
     "notEnchantable": true
   },
@@ -200,6 +200,264 @@
   {
     "id": 35104,
     "name": "Brutal Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 37575,
+    "name": "Totem of the Tundra",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38367,
+    "name": "Venture Co. Flame Slicer",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38361,
+    "name": "Venture Co. Lightning Rod",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38368,
+    "name": "Totem of the Bay",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 39728,
+    "name": "Totem of Misery",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40322,
+    "name": "Totem of Dueling",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40267,
+    "name": "Totem of Hex",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40710,
+    "name": "Totem of Splintering",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40708,
+    "name": "Totem of the Elemental Plane",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40709,
+    "name": "Totem of Forest Growth",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42601,
+    "name": "Hateful Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42593,
+    "name": "Savage Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42609,
+    "name": "Relentless Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42603,
+    "name": "Furious Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42597,
+    "name": "Deadly Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42607,
+    "name": "Deadly Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42598,
+    "name": "Furious Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42599,
+    "name": "Relentless Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42594,
+    "name": "Savage Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42602,
+    "name": "Deadly Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42604,
+    "name": "Relentless Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42608,
+    "name": "Furious Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42596,
+    "name": "Hateful Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42606,
+    "name": "Hateful Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42595,
+    "name": "Savage Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45114,
+    "name": "Steamcaller\u0027s Totem",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45169,
+    "name": "Totem of the Dancing Flame",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45255,
+    "name": "Thunderfall Totem",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47667,
+    "name": "Totem of Quaking Earth",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47666,
+    "name": "Totem of Electrifying Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47665,
+    "name": "Totem of Calming Tides",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50463,
+    "name": "Totem of the Avalanche",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50458,
+    "name": "Bizuri\u0027s Totem of Shattered Ice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50464,
+    "name": "Totem of the Surging Sea",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51507,
+    "name": "Wrathful Gladiator\u0027s Totem of Indomitability",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51513,
+    "name": "Wrathful Gladiator\u0027s Totem of Survival",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51501,
+    "name": "Wrathful Gladiator\u0027s Totem of the Third Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186073,
+    "name": "Communal Totem of the Storm",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186072,
+    "name": "Communal Totem of Restoration",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186071,
+    "name": "Communal Totem of Lightning",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199642,
+    "name": "Collective Totem of Lightning",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199644,
+    "name": "Collective Totem of the Storm",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199643,
+    "name": "Collective Totem of Restoration",
     "slot": 17,
     "notEnchantable": true
   }

@@ -30,13 +30,13 @@
     "slot": -1
   },
   {
-    "id": 28061,
-    "name": "Ironbite Shell",
+    "id": 28060,
+    "name": "Impact Shot",
     "slot": -1
   },
   {
-    "id": 28060,
-    "name": "Impact Shot",
+    "id": 28061,
+    "name": "Ironbite Shell",
     "slot": -1
   },
   {
@@ -67,6 +67,21 @@
   {
     "id": 34582,
     "name": "Mysterious Shell",
+    "slot": -1
+  },
+  {
+    "id": 41164,
+    "name": "Mammoth Cutters",
+    "slot": -1
+  },
+  {
+    "id": 41584,
+    "name": "Frostbite Bullets",
+    "slot": -1
+  },
+  {
+    "id": 52020,
+    "name": "Shatter Rounds",
     "slot": -1
   }
 ]

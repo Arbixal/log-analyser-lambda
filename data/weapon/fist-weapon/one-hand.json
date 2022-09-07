@@ -25,6 +25,12 @@
     "slot": 16
   },
   {
+    "id": 25192,
+    "name": "Gutrippers",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
     "id": 25193,
     "name": "Deathclaw Talons",
     "slot": 16,
@@ -43,12 +49,6 @@
     "randomEnchantment": true
   },
   {
-    "id": 25192,
-    "name": "Gutrippers",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
     "id": 25538,
     "name": "Sporeling Claw",
     "slot": 16
@@ -57,5 +57,89 @@
     "id": 25764,
     "name": "Mag\u0027hari Fury Brand",
     "slot": 16
+  },
+  {
+    "id": 36558,
+    "name": "Curved Scratcher",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36565,
+    "name": "Hero\u0027s Knuckles",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36557,
+    "name": "Meat Ripper",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36560,
+    "name": "Fighter\u0027s Grip",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36562,
+    "name": "Blue-Nailed Claws",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36561,
+    "name": "Mummified Paw",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36563,
+    "name": "Gloved Talons",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36564,
+    "name": "Spider Claw",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36559,
+    "name": "Prized Handscythes",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36568,
+    "name": "Hollowed Bone Knuckles",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36569,
+    "name": "Savage Talons",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36567,
+    "name": "Six-Fingered Claws",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36570,
+    "name": "Corrupted Scythes",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36566,
+    "name": "Gilded Fangs",
+    "slot": 16,
+    "randomEnchantment": true
   }
 ]

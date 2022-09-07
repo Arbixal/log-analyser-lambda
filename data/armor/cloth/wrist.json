@@ -10,14 +10,20 @@
     "slot": 8
   },
   {
+    "id": 8285,
+    "name": "Arcane Bands",
+    "slot": 8
+  },
+  {
     "id": 8247,
     "name": "Imperial Red Bracers",
     "slot": 8
   },
   {
-    "id": 8285,
-    "name": "Arcane Bands",
-    "slot": 8
+    "id": 10096,
+    "name": "Councillor\u0027s Cuffs",
+    "slot": 8,
+    "randomEnchantment": true
   },
   {
     "id": 10136,
@@ -28,12 +34,6 @@
   {
     "id": 10173,
     "name": "Mystical Bracers",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 10096,
-    "name": "Councillor\u0027s Cuffs",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -82,13 +82,13 @@
     "slot": 8
   },
   {
-    "id": 12626,
-    "name": "Funeral Cuffs",
+    "id": 12546,
+    "name": "Aristocratic Cuffs",
     "slot": 8
   },
   {
-    "id": 12546,
-    "name": "Aristocratic Cuffs",
+    "id": 12626,
+    "name": "Funeral Cuffs",
     "slot": 8
   },
   {
@@ -114,6 +114,12 @@
     "randomEnchantment": true
   },
   {
+    "id": 14311,
+    "name": "Celestial Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
     "id": 14330,
     "name": "Eternal Bindings",
     "slot": 8,
@@ -126,19 +132,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 14311,
-    "name": "Celestial Bindings",
-    "slot": 8,
-    "randomEnchantment": true
+    "id": 14457,
+    "name": "Elunarian Cuffs",
+    "slot": 8
   },
   {
     "id": 14448,
     "name": "Highborne Bracelets",
-    "slot": 8
-  },
-  {
-    "id": 14457,
-    "name": "Elunarian Cuffs",
     "slot": 8
   },
   {
@@ -167,11 +167,6 @@
     "slot": 8
   },
   {
-    "id": 16819,
-    "name": "Vambraces of Prophecy",
-    "slot": 8
-  },
-  {
     "id": 16799,
     "name": "Arcanist Bindings",
     "slot": 8
@@ -182,8 +177,13 @@
     "slot": 8
   },
   {
-    "id": 16926,
-    "name": "Bindings of Transcendence",
+    "id": 16819,
+    "name": "Vambraces of Prophecy",
+    "slot": 8
+  },
+  {
+    "id": 16918,
+    "name": "Netherwind Bindings",
     "slot": 8
   },
   {
@@ -192,8 +192,8 @@
     "slot": 8
   },
   {
-    "id": 16918,
-    "name": "Netherwind Bindings",
+    "id": 16926,
+    "name": "Bindings of Transcendence",
     "slot": 8
   },
   {
@@ -230,13 +230,18 @@
     "slot": 8
   },
   {
+    "id": 19595,
+    "name": "Dryad\u0027s Wrist Bindings",
+    "slot": 8
+  },
+  {
     "id": 19596,
     "name": "Dryad\u0027s Wrist Bindings",
     "slot": 8
   },
   {
-    "id": 19595,
-    "name": "Dryad\u0027s Wrist Bindings",
+    "id": 19843,
+    "name": "Zandalar Confessor\u0027s Wraps",
     "slot": 8
   },
   {
@@ -247,11 +252,6 @@
   {
     "id": 19848,
     "name": "Zandalar Demoniac\u0027s Wraps",
-    "slot": 8
-  },
-  {
-    "id": 19843,
-    "name": "Zandalar Confessor\u0027s Wraps",
     "slot": 8
   },
   {
@@ -324,6 +324,11 @@
     "slot": 8
   },
   {
+    "id": 22503,
+    "name": "Frostfire Bindings",
+    "slot": 8
+  },
+  {
     "id": 22519,
     "name": "Bindings of Faith",
     "slot": 8
@@ -331,11 +336,6 @@
   {
     "id": 22511,
     "name": "Plagueheart Bindings",
-    "slot": 8
-  },
-  {
-    "id": 22503,
-    "name": "Frostfire Bindings",
     "slot": 8
   },
   {
@@ -367,12 +367,6 @@
     "slot": 8
   },
   {
-    "id": 24249,
-    "name": "Unyielding Bracers",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
     "id": 24251,
     "name": "Blackstrike Bracers",
     "slot": 8,
@@ -381,6 +375,12 @@
   {
     "id": 24250,
     "name": "Bracers of Havok",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 24249,
+    "name": "Unyielding Bracers",
     "slot": 8,
     "sockets": 1
   },
@@ -401,14 +401,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24612,
-    "name": "Laughing Skull Bracelets",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24620,
-    "name": "Vindicator Bracers",
+    "id": 24596,
+    "name": "Fireheart Bracers",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -419,8 +413,26 @@
     "randomEnchantment": true
   },
   {
+    "id": 24612,
+    "name": "Laughing Skull Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
     "id": 24636,
     "name": "Feralfen Cuffs",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24620,
+    "name": "Vindicator Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24644,
+    "name": "Mistyreed Bracers",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -431,38 +443,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24644,
-    "name": "Mistyreed Bracer",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24652,
-    "name": "Astralaan Bracer",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
     "id": 24660,
     "name": "Consortium Bracer",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24596,
-    "name": "Fireheart Bracers",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24684,
-    "name": "Archmage Bracelets",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24692,
-    "name": "Elementalist Bracelets",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -475,6 +457,24 @@
   {
     "id": 24676,
     "name": "Eldr\u0027naan Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24684,
+    "name": "Archmage Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24652,
+    "name": "Astralaan Bracer",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24692,
+    "name": "Elementalist Bracelets",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -499,13 +499,13 @@
     "slot": 8
   },
   {
-    "id": 27517,
-    "name": "Bands of Nethekurse",
+    "id": 27462,
+    "name": "Crimson Bracers of Gloom",
     "slot": 8
   },
   {
-    "id": 27462,
-    "name": "Crimson Bracers of Gloom",
+    "id": 27517,
+    "name": "Bands of Nethekurse",
     "slot": 8
   },
   {
@@ -525,14 +525,14 @@
     "sockets": 1
   },
   {
-    "id": 28411,
-    "name": "General\u0027s Silk Cuffs",
+    "id": 28405,
+    "name": "General\u0027s Dreadweave Cuffs",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 28405,
-    "name": "General\u0027s Dreadweave Cuffs",
+    "id": 28411,
+    "name": "General\u0027s Silk Cuffs",
     "slot": 8,
     "sockets": 1
   },
@@ -542,13 +542,13 @@
     "slot": 8
   },
   {
-    "id": 28511,
-    "name": "Bands of Indwelling",
+    "id": 28515,
+    "name": "Bands of Nefarious Deeds",
     "slot": 8
   },
   {
-    "id": 28515,
-    "name": "Bands of Nefarious Deeds",
+    "id": 28511,
+    "name": "Bands of Indwelling",
     "slot": 8
   },
   {
@@ -569,13 +569,13 @@
     "slot": 8
   },
   {
-    "id": 29249,
-    "name": "Bands of the Benevolent",
+    "id": 29255,
+    "name": "Bands of Rarefied Magic",
     "slot": 8
   },
   {
-    "id": 29255,
-    "name": "Bands of Rarefied Magic",
+    "id": 29249,
+    "name": "Bands of the Benevolent",
     "slot": 8
   },
   {
@@ -599,13 +599,13 @@
     "slot": 8
   },
   {
-    "id": 30464,
-    "name": "Lifeblood Bracers",
+    "id": 30520,
+    "name": "Gold-Trimmed Cuffs",
     "slot": 8
   },
   {
-    "id": 30520,
-    "name": "Gold-Trimmed Cuffs",
+    "id": 30464,
+    "name": "Lifeblood Bracers",
     "slot": 8
   },
   {
@@ -640,14 +640,14 @@
     "slot": 8
   },
   {
-    "id": 31192,
-    "name": "Crocolisk Hide Bindings",
+    "id": 31225,
+    "name": "Illidari Bindings",
     "slot": 8,
     "randomEnchantment": true
   },
   {
-    "id": 31225,
-    "name": "Illidari Bindings",
+    "id": 31192,
+    "name": "Crocolisk Hide Bindings",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -662,15 +662,15 @@
     "slot": 8
   },
   {
-    "id": 31531,
-    "name": "Wraithcloth Bindings",
-    "slot": 8
-  },
-  {
     "id": 31558,
     "name": "Windchanneller\u0027s Bindings",
     "slot": 8,
     "randomEnchantment": true
+  },
+  {
+    "id": 31531,
+    "name": "Wraithcloth Bindings",
+    "slot": 8
   },
   {
     "id": 31770,
@@ -691,13 +691,13 @@
     }
   },
   {
-    "id": 32516,
-    "name": "Wraps of Purification",
+    "id": 32513,
+    "name": "Wristbands of Divine Influence",
     "slot": 8
   },
   {
-    "id": 32513,
-    "name": "Wristbands of Divine Influence",
+    "id": 32516,
+    "name": "Wraps of Purification",
     "slot": 8
   },
   {
@@ -729,8 +729,8 @@
     "sockets": 1
   },
   {
-    "id": 32973,
-    "name": "General\u0027s Mooncloth Cuffs",
+    "id": 32980,
+    "name": "Veteran\u0027s Mooncloth Cuffs",
     "slot": 8,
     "sockets": 1
   },
@@ -741,8 +741,8 @@
     "sockets": 1
   },
   {
-    "id": 32980,
-    "name": "Veteran\u0027s Mooncloth Cuffs",
+    "id": 32973,
+    "name": "General\u0027s Mooncloth Cuffs",
     "slot": 8,
     "sockets": 1
   },
@@ -751,6 +751,16 @@
     "name": "Fury of the Ursine",
     "slot": 8,
     "sockets": 1
+  },
+  {
+    "id": 33360,
+    "name": "Thread-Bare Cloth Bracers",
+    "slot": 8
+  },
+  {
+    "id": 33367,
+    "name": "Frost-Rimed Cloth Bracers",
+    "slot": 8
   },
   {
     "id": 33589,
@@ -764,26 +774,20 @@
     "slot": 8
   },
   {
-    "id": 33883,
-    "name": "Vindicator\u0027s Dreadweave Cuffs",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
     "id": 33913,
     "name": "Vindicator\u0027s Silk Cuffs",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 33901,
-    "name": "Vindicator\u0027s Mooncloth Cuffs",
+    "id": 33883,
+    "name": "Vindicator\u0027s Dreadweave Cuffs",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 34436,
-    "name": "Bracers of the Malefic",
+    "id": 33901,
+    "name": "Vindicator\u0027s Mooncloth Cuffs",
     "slot": 8,
     "sockets": 1
   },
@@ -796,6 +800,12 @@
   {
     "id": 34447,
     "name": "Bracers of the Tempest",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 34436,
+    "name": "Bracers of the Malefic",
     "slot": 8,
     "sockets": 1
   },
@@ -818,12 +828,6 @@
     "sockets": 1
   },
   {
-    "id": 35179,
-    "name": "Guardian\u0027s Silk Cuffs",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
     "id": 35174,
     "name": "Guardian\u0027s Mooncloth Cuffs",
     "slot": 8,
@@ -834,5 +838,632 @@
     "name": "Guardian\u0027s Dreadweave Cuffs",
     "slot": 8,
     "sockets": 1
+  },
+  {
+    "id": 35179,
+    "name": "Guardian\u0027s Silk Cuffs",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 35654,
+    "name": "Bindings of the Bastille",
+    "slot": 8
+  },
+  {
+    "id": 35682,
+    "name": "Rune Giant Bindings",
+    "slot": 8
+  },
+  {
+    "id": 35896,
+    "name": "Icestriker Bands",
+    "slot": 8
+  },
+  {
+    "id": 35962,
+    "name": "Farshire Cuffs",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36034,
+    "name": "Oracle Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35994,
+    "name": "Bristlepine Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36018,
+    "name": "Tethys Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36002,
+    "name": "Voldrune Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35986,
+    "name": "Foothold Cuffs",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36058,
+    "name": "Vizier Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35978,
+    "name": "Mur\u0027ghoul Wristwraps",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36026,
+    "name": "Aerie Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36042,
+    "name": "Condor Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36050,
+    "name": "Crystalsong Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36010,
+    "name": "Icemist Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35970,
+    "name": "Bloodspore Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36066,
+    "name": "Coldwraith Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36945,
+    "name": "Verdisa\u0027s Cuffs of Dreaming",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 37113,
+    "name": "Demonic Fabric Bands",
+    "slot": 8
+  },
+  {
+    "id": 37245,
+    "name": "Tangled Web Bindings",
+    "slot": 8
+  },
+  {
+    "id": 37208,
+    "name": "Transborean Bracers",
+    "slot": 8
+  },
+  {
+    "id": 37213,
+    "name": "Iceflow Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 37279,
+    "name": "BT48 Cloth Spell Bracer3",
+    "slot": 8
+  },
+  {
+    "id": 37228,
+    "name": "Sweltering Cuffs",
+    "slot": 8
+  },
+  {
+    "id": 37361,
+    "name": "Cuffs of Winged Levitation",
+    "slot": 8
+  },
+  {
+    "id": 37370,
+    "name": "Cuffs of the Trussed Hall",
+    "slot": 8
+  },
+  {
+    "id": 37613,
+    "name": "Flame Sphere Bindings",
+    "slot": 8
+  },
+  {
+    "id": 37725,
+    "name": "Savage Wound Wrap",
+    "slot": 8
+  },
+  {
+    "id": 37760,
+    "name": "Cracklefire Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 37884,
+    "name": "Azure Cloth Bindings",
+    "slot": 8
+  },
+  {
+    "id": 37950,
+    "name": "Highseas Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 37957,
+    "name": "Wastewind Bracers",
+    "slot": 8
+  },
+  {
+    "id": 37966,
+    "name": "Bracers of Nature\u0027s Fury",
+    "slot": 8
+  },
+  {
+    "id": 37964,
+    "name": "Spiderwarder Braces",
+    "slot": 8
+  },
+  {
+    "id": 38536,
+    "name": "Bindings of the Forceful Vanquisher",
+    "slot": 8
+  },
+  {
+    "id": 38710,
+    "name": "Wayfinder\u0027s Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38736,
+    "name": "Smuggler\u0027s Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38739,
+    "name": "Fleshwerk Shackles",
+    "slot": 8
+  },
+  {
+    "id": 39252,
+    "name": "Preceptor\u0027s Bindings",
+    "slot": 8
+  },
+  {
+    "id": 39336,
+    "name": "Bracers of Prompt Reclamation",
+    "slot": 8
+  },
+  {
+    "id": 39332,
+    "name": "Ogre-Crushing Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 39390,
+    "name": "Resurgent Phantom Bindings",
+    "slot": 8
+  },
+  {
+    "id": 39676,
+    "name": "Wraps of the San\u0027layn",
+    "slot": 8
+  },
+  {
+    "id": 39772,
+    "name": "Bloodbinder\u0027s Wrist Wraps",
+    "slot": 8
+  },
+  {
+    "id": 39731,
+    "name": "Punctilious Bindings",
+    "slot": 8
+  },
+  {
+    "id": 39791,
+    "name": "Soothsayer\u0027s Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 40198,
+    "name": "Bands of Impurity",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 40325,
+    "name": "Bindings of the Expansive Mind",
+    "slot": 8
+  },
+  {
+    "id": 40338,
+    "name": "Bindings of Yearning",
+    "slot": 8
+  },
+  {
+    "id": 40740,
+    "name": "Wraps of the Astral Traveler",
+    "slot": 8
+  },
+  {
+    "id": 40741,
+    "name": "Cuffs of the Shadow Ascendant",
+    "slot": 8
+  },
+  {
+    "id": 41551,
+    "name": "Duskweave Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 41555,
+    "name": "Black Duskweave Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 41528,
+    "name": "Mystic Frostwoven Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 41512,
+    "name": "Frostwoven Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 41894,
+    "name": "Relentless Gladiator\u0027s Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41878,
+    "name": "Hateful Gladiator\u0027s Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41907,
+    "name": "Hateful Gladiator\u0027s Cuffs of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41893,
+    "name": "Furious Gladiator\u0027s Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41910,
+    "name": "Relentless Gladiator\u0027s Cuffs of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41908,
+    "name": "Deadly Gladiator\u0027s Cuffs of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41892,
+    "name": "Deadly Gladiator\u0027s Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41909,
+    "name": "Furious Gladiator\u0027s Cuffs of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 42787,
+    "name": "Ironwool Bindings",
+    "slot": 8
+  },
+  {
+    "id": 43855,
+    "name": "Adepts Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 43974,
+    "name": "Frostsavage Bracers",
+    "slot": 8
+  },
+  {
+    "id": 43879,
+    "name": "Gryphon Rider\u0027s Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 44016,
+    "name": "Wristguard of the Bone Witch",
+    "slot": 8
+  },
+  {
+    "id": 44008,
+    "name": "Unsullied Cuffs",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 44200,
+    "name": "Ancestral Sinew Wristguards",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 44338,
+    "name": "Cuffs of Gratitude",
+    "slot": 8
+  },
+  {
+    "id": 44366,
+    "name": "Shameful Cuffs",
+    "slot": 8
+  },
+  {
+    "id": 44674,
+    "name": "Ichor-Stained Wraps",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45146,
+    "name": "Shackles of the Odalisque",
+    "slot": 8
+  },
+  {
+    "id": 45275,
+    "name": "Bracers of Unleashed Magic",
+    "slot": 8
+  },
+  {
+    "id": 45291,
+    "name": "Combustion Bracers",
+    "slot": 8
+  },
+  {
+    "id": 45423,
+    "name": "Runetouch Wristwraps",
+    "slot": 8
+  },
+  {
+    "id": 45446,
+    "name": "Grasps of Reason",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 45549,
+    "name": "Grips of Chaos",
+    "slot": 8
+  },
+  {
+    "id": 47173,
+    "name": "Bindings of the Wicked",
+    "slot": 8
+  },
+  {
+    "id": 47141,
+    "name": "Bindings of Dark Essence",
+    "slot": 8
+  },
+  {
+    "id": 47143,
+    "name": "Bindings of Dark Essence",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47208,
+    "name": "Armbands of the Ashen Saint",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47203,
+    "name": "Armbands of the Ashen Saint",
+    "slot": 8
+  },
+  {
+    "id": 47324,
+    "name": "Bindings of the Ashen Saint",
+    "slot": 8
+  },
+  {
+    "id": 47306,
+    "name": "Dark Essence Bindings",
+    "slot": 8
+  },
+  {
+    "id": 47467,
+    "name": "Dark Essence Bindings",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47587,
+    "name": "Royal Moonshroud Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47588,
+    "name": "Royal Moonshroud Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47485,
+    "name": "Bindings of the Ashen Saint",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47585,
+    "name": "Bejeweled Wizard\u0027s Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47586,
+    "name": "Bejeweled Wizard\u0027s Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47663,
+    "name": "Felspark Bindings",
+    "slot": 8
+  },
+  {
+    "id": 47861,
+    "name": "Felspark Bracers",
+    "slot": 8
+  },
+  {
+    "id": 47927,
+    "name": "Felspark Bindings",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 48000,
+    "name": "Felspark Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 48979,
+    "name": "Titan-Forged Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 49181,
+    "name": "Relentless Gladiator\u0027s Cuffs of Alacrity",
+    "slot": 8
+  },
+  {
+    "id": 49809,
+    "name": "Wristguards of Subterranean Moss",
+    "slot": 8
+  },
+  {
+    "id": 49994,
+    "name": "The Lady\u0027s Brittle Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50032,
+    "name": "Death Surgeon\u0027s Sleeves",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50292,
+    "name": "Bracer of Worn Molars",
+    "slot": 8
+  },
+  {
+    "id": 50651,
+    "name": "The Lady\u0027s Brittle Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50686,
+    "name": "Death Surgeon\u0027s Sleeves",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50785,
+    "name": "Bracers of Dark Blessings",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 51007,
+    "name": "Ether-Soaked Bracers",
+    "slot": 8
+  },
+  {
+    "id": 51339,
+    "name": "Wrathful Gladiator\u0027s Cuffs of Alacrity",
+    "slot": 8
+  },
+  {
+    "id": 51367,
+    "name": "Wrathful Gladiator\u0027s Cuffs of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 51329,
+    "name": "Wrathful Gladiator\u0027s Cuffs of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 51872,
+    "name": "Ether-Soaked Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 51918,
+    "name": "Bracers of Dark Blessings",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 51972,
+    "name": "Enumerated Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 53486,
+    "name": "Bracers of Fiery Night",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 54582,
+    "name": "Bracers of Fiery Night",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 186024,
+    "name": "Communal Bracers",
+    "slot": 8
+  },
+  {
+    "id": 199333,
+    "name": "Collective Bracers",
+    "slot": 8
   }
 ]

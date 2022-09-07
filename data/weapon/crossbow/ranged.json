@@ -68,60 +68,6 @@
     "slot": 17
   },
   {
-    "id": 25254,
-    "name": "Tower Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25256,
-    "name": "Stronghold Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25258,
-    "name": "Repeater Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25255,
-    "name": "Ram\u0027s Head Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25260,
-    "name": "Archer\u0027s Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25264,
-    "name": "Pocket Ballista",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25262,
-    "name": "Battle Damaged Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25261,
-    "name": "Mighty Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25263,
-    "name": "Assassins\u0027 Silent Crossbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
     "id": 25257,
     "name": "Citadel Crossbow",
     "slot": 17,
@@ -134,8 +80,62 @@
     "randomEnchantment": true
   },
   {
+    "id": 25263,
+    "name": "Assassins\u0027 Silent Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25254,
+    "name": "Tower Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25256,
+    "name": "Stronghold Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25264,
+    "name": "Pocket Ballista",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
     "id": 25266,
     "name": "Well-Balanced Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25262,
+    "name": "Battle Damaged Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25255,
+    "name": "Ram\u0027s Head Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25258,
+    "name": "Repeater Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25260,
+    "name": "Archer\u0027s Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25261,
+    "name": "Mighty Crossbow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -177,13 +177,13 @@
     "slot": 17
   },
   {
-    "id": 28960,
-    "name": "Grand Marshal\u0027s Heavy Crossbow",
+    "id": 28933,
+    "name": "High Warlord\u0027s Heavy Crossbow",
     "slot": 17
   },
   {
-    "id": 28933,
-    "name": "High Warlord\u0027s Heavy Crossbow",
+    "id": 28960,
+    "name": "Grand Marshal\u0027s Heavy Crossbow",
     "slot": 17
   },
   {
@@ -235,5 +235,291 @@
     "id": 35018,
     "name": "Brutal Gladiator\u0027s Heavy Crossbow",
     "slot": 17
+  },
+  {
+    "id": 35811,
+    "name": "Elekk-Horn Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 36630,
+    "name": "Sinewed Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36637,
+    "name": "Horrific Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36629,
+    "name": "Ferocious Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36636,
+    "name": "Arbalest Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36627,
+    "name": "Composite Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36634,
+    "name": "Pain Repeater",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36639,
+    "name": "Brutal Ballista",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36631,
+    "name": "Horned Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36633,
+    "name": "Palisade Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36640,
+    "name": "Scourge Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36635,
+    "name": "Marvelous Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36638,
+    "name": "Bloody Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36628,
+    "name": "Under-Arm Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36632,
+    "name": "Slingshot Crossbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37044,
+    "name": "Amphibious Speargun",
+    "slot": 17
+  },
+  {
+    "id": 37023,
+    "name": "Compact Arrow Launcher",
+    "slot": 17
+  },
+  {
+    "id": 37191,
+    "name": "Drake-Mounted Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 38150,
+    "name": "Imported Ironshod Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 38200,
+    "name": "DB50 Crossbow3",
+    "slot": 17
+  },
+  {
+    "id": 38172,
+    "name": "Crossbow of the Hardened Ranger",
+    "slot": 17
+  },
+  {
+    "id": 39131,
+    "name": "Warbling Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 39818,
+    "name": "Frigid Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 40346,
+    "name": "Final Voyage",
+    "slot": 17
+  },
+  {
+    "id": 42494,
+    "name": "Hateful Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 42496,
+    "name": "Furious Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 42498,
+    "name": "Relentless Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 42495,
+    "name": "Deadly Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 42446,
+    "name": "Savage Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 42858,
+    "name": "Crossbow of the Storms",
+    "slot": 17
+  },
+  {
+    "id": 43284,
+    "name": "Amanitar Skullbow",
+    "slot": 17
+  },
+  {
+    "id": 43918,
+    "name": "Shooter\u0027s Glory",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 44393,
+    "name": "Polished Zombie Exterminator",
+    "slot": 17
+  },
+  {
+    "id": 44637,
+    "name": "Dalaran Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 45570,
+    "name": "Skyforge Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 45939,
+    "name": "Furious Gladiator\u0027s Repeater",
+    "slot": 17
+  },
+  {
+    "id": 46018,
+    "name": "Deliverance",
+    "slot": 17
+  },
+  {
+    "id": 46994,
+    "name": "Talonstrike",
+    "slot": 17
+  },
+  {
+    "id": 46995,
+    "name": "Talonstrike",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47267,
+    "name": "Death\u0027s Head Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 47428,
+    "name": "Death\u0027s Head Crossbow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47741,
+    "name": "Baelgun\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 47907,
+    "name": "Darkmaw Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 47975,
+    "name": "Baelgun\u0027s Heavy Crossbow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 48052,
+    "name": "Darkmaw Crossbow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 48422,
+    "name": "Relentless Gladiator\u0027s Repeater",
+    "slot": 17
+  },
+  {
+    "id": 49981,
+    "name": "Fal\u0027inrush, Defender of Quel\u0027thalas",
+    "slot": 17
+  },
+  {
+    "id": 50262,
+    "name": "Felglacier Bolter",
+    "slot": 17
+  },
+  {
+    "id": 50733,
+    "name": "Fal\u0027inrush, Defender of Quel\u0027thalas",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 51411,
+    "name": "Wrathful Gladiator\u0027s Heavy Crossbow",
+    "slot": 17
+  },
+  {
+    "id": 51412,
+    "name": "Wrathful Gladiator\u0027s Repeater",
+    "slot": 17
+  },
+  {
+    "id": 51802,
+    "name": "Windrunner\u0027s Heartseeker",
+    "slot": 17
+  },
+  {
+    "id": 51940,
+    "name": "Windrunner\u0027s Heartseeker",
+    "slot": 17,
+    "sockets": 1
   }
 ]

@@ -40,6 +40,12 @@
     "slot": 16
   },
   {
+    "id": 25185,
+    "name": "Thrasher Blades",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
     "id": 25189,
     "name": "Ironspine Point",
     "slot": 16,
@@ -58,12 +64,6 @@
     "randomEnchantment": true
   },
   {
-    "id": 25185,
-    "name": "Thrasher Blades",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
     "id": 25187,
     "name": "Shekketh Talons",
     "slot": 16,
@@ -75,13 +75,13 @@
     "slot": 16
   },
   {
-    "id": 28315,
-    "name": "Stormreaver Warblades",
+    "id": 28314,
+    "name": "Gladiator\u0027s Left Ripper",
     "slot": 16
   },
   {
-    "id": 28314,
-    "name": "Gladiator\u0027s Left Ripper",
+    "id": 28315,
+    "name": "Stormreaver Warblades",
     "slot": 16
   },
   {
@@ -115,15 +115,15 @@
     "slot": 16
   },
   {
+    "id": 33705,
+    "name": "Vengeful Gladiator\u0027s Left Ripper",
+    "slot": 16
+  },
+  {
     "id": 33640,
     "name": "Fury",
     "slot": 16,
     "sockets": 1
-  },
-  {
-    "id": 33705,
-    "name": "Vengeful Gladiator\u0027s Left Ripper",
-    "slot": 16
   },
   {
     "id": 34016,
@@ -159,6 +159,220 @@
   {
     "id": 35038,
     "name": "Brutal Gladiator\u0027s Left Ripper",
+    "slot": 16
+  },
+  {
+    "id": 35601,
+    "name": "Drakonid Arm Blade",
+    "slot": 16
+  },
+  {
+    "id": 35830,
+    "name": "Worn Vrykul Smasher",
+    "slot": 16
+  },
+  {
+    "id": 37077,
+    "name": "Smoldering Talon",
+    "slot": 16
+  },
+  {
+    "id": 37749,
+    "name": "Shocking Claws",
+    "slot": 16
+  },
+  {
+    "id": 38153,
+    "name": "Mana Infused Claw",
+    "slot": 16
+  },
+  {
+    "id": 38188,
+    "name": "Claw of the Undead Ravager",
+    "slot": 16
+  },
+  {
+    "id": 38180,
+    "name": "DB40 Slow Left Fist2",
+    "slot": 16
+  },
+  {
+    "id": 39113,
+    "name": "Jagged Troll Render",
+    "slot": 16
+  },
+  {
+    "id": 39468,
+    "name": "The Stray",
+    "slot": 16
+  },
+  {
+    "id": 39830,
+    "name": "Fist of Subtlety",
+    "slot": 16
+  },
+  {
+    "id": 40239,
+    "name": "The Hand of Nerub",
+    "slot": 16
+  },
+  {
+    "id": 40704,
+    "name": "Pride",
+    "slot": 16
+  },
+  {
+    "id": 42219,
+    "name": "Savage Gladiator\u0027s Left Render",
+    "slot": 16
+  },
+  {
+    "id": 42266,
+    "name": "Furious Gladiator\u0027s Left Render",
+    "slot": 16
+  },
+  {
+    "id": 42265,
+    "name": "Deadly Gladiator\u0027s Left Render",
+    "slot": 16
+  },
+  {
+    "id": 42264,
+    "name": "Hateful Gladiator\u0027s Left Render",
+    "slot": 16
+  },
+  {
+    "id": 42269,
+    "name": "Hateful Gladiator\u0027s Left Ripper",
+    "slot": 16
+  },
+  {
+    "id": 42267,
+    "name": "Relentless Gladiator\u0027s Left Render",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42272,
+    "name": "Relentless Gladiator\u0027s Left Ripper",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42271,
+    "name": "Furious Gladiator\u0027s Left Ripper",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42220,
+    "name": "Savage Gladiator\u0027s Left Ripper",
+    "slot": 16
+  },
+  {
+    "id": 42270,
+    "name": "Deadly Gladiator\u0027s Left Ripper",
+    "slot": 16
+  },
+  {
+    "id": 42862,
+    "name": "Hyldnir Painbringer",
+    "slot": 16
+  },
+  {
+    "id": 44241,
+    "name": "Unholy Persuader",
+    "slot": 16
+  },
+  {
+    "id": 45284,
+    "name": "Kinetic Ripper",
+    "slot": 16
+  },
+  {
+    "id": 45494,
+    "name": "Delirium\u0027s Touch",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45968,
+    "name": "Furious Gladiator\u0027s Left Claw",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45963,
+    "name": "Furious Gladiator\u0027s Left Razor",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48444,
+    "name": "Relentless Gladiator\u0027s Left Claw",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48432,
+    "name": "Relentless Gladiator\u0027s Left Razor",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 50184,
+    "name": "Keleseth\u0027s Seducer",
+    "slot": 16
+  },
+  {
+    "id": 50710,
+    "name": "Keleseth\u0027s Seducer",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51443,
+    "name": "Wrathful Gladiator\u0027s Left Ripper",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51444,
+    "name": "Wrathful Gladiator\u0027s Left Razor",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51529,
+    "name": "Wrathful Gladiator\u0027s Left Claw",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51530,
+    "name": "Wrathful Gladiator\u0027s Left Render",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51784,
+    "name": "Splintershard",
+    "slot": 16
+  },
+  {
+    "id": 51819,
+    "name": "Splintershard",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 186682,
+    "name": "Communal Left Claw",
+    "slot": 16
+  },
+  {
+    "id": 199725,
+    "name": "Collective Left Claw",
     "slot": 16
   }
 ]

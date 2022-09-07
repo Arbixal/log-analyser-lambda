@@ -10,24 +10,18 @@
     "slot": 7
   },
   {
-    "id": 8256,
-    "name": "Serpentskin Boots",
-    "slot": 7
-  },
-  {
     "id": 8294,
     "name": "Traveler\u0027s Boots",
     "slot": 7
   },
   {
-    "id": 10068,
-    "name": "Righteous Boots",
-    "slot": 7,
-    "randomEnchantment": true
+    "id": 8256,
+    "name": "Serpentskin Boots",
+    "slot": 7
   },
   {
-    "id": 10146,
-    "name": "Mighty Boots",
+    "id": 10068,
+    "name": "Righteous Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -40,6 +34,12 @@
   {
     "id": 10183,
     "name": "Swashbuckler\u0027s Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 10146,
+    "name": "Mighty Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -114,21 +114,21 @@
     "slot": 7
   },
   {
-    "id": 15073,
-    "name": "Chimeric Boots",
-    "slot": 7,
-    "resistances": {
-      "Arcane": 12,
-      "Nature": 12
-    }
-  },
-  {
     "id": 15071,
     "name": "Frostsaber Boots",
     "slot": 7,
     "resistances": {
       "Frost": 12,
       "Shadow": 12
+    }
+  },
+  {
+    "id": 15073,
+    "name": "Chimeric Boots",
+    "slot": 7,
+    "resistances": {
+      "Arcane": 12,
+      "Nature": 12
     }
   },
   {
@@ -177,11 +177,6 @@
     "slot": 7
   },
   {
-    "id": 16459,
-    "name": "Marshal\u0027s Dragonhide Boots",
-    "slot": 7
-  },
-  {
     "id": 16446,
     "name": "Marshal\u0027s Leather Footguards",
     "slot": 7
@@ -192,13 +187,13 @@
     "slot": 7
   },
   {
-    "id": 16498,
-    "name": "Blood Guard\u0027s Leather Treads",
+    "id": 16459,
+    "name": "Marshal\u0027s Dragonhide Boots",
     "slot": 7
   },
   {
-    "id": 16558,
-    "name": "General\u0027s Leather Treads",
+    "id": 16498,
+    "name": "Blood Guard\u0027s Leather Treads",
     "slot": 7
   },
   {
@@ -207,13 +202,18 @@
     "slot": 7
   },
   {
-    "id": 16711,
-    "name": "Shadowcraft Boots",
+    "id": 16558,
+    "name": "General\u0027s Leather Treads",
     "slot": 7
   },
   {
     "id": 16715,
     "name": "Wildheart Boots",
+    "slot": 7
+  },
+  {
+    "id": 16711,
+    "name": "Shadowcraft Boots",
     "slot": 7
   },
   {
@@ -311,18 +311,13 @@
     "slot": 7
   },
   {
-    "id": 19906,
-    "name": "Blooddrenched Footpads",
-    "slot": 7
-  },
-  {
     "id": 19892,
     "name": "Animist\u0027s Boots",
     "slot": 7
   },
   {
-    "id": 20053,
-    "name": "Highlander\u0027s Lizardhide Boots",
+    "id": 19906,
+    "name": "Blooddrenched Footpads",
     "slot": 7
   },
   {
@@ -331,7 +326,7 @@
     "slot": 7
   },
   {
-    "id": 20100,
+    "id": 20053,
     "name": "Highlander\u0027s Lizardhide Boots",
     "slot": 7
   },
@@ -341,8 +336,8 @@
     "slot": 7
   },
   {
-    "id": 20170,
-    "name": "Defiler\u0027s Lizardhide Boots",
+    "id": 20100,
+    "name": "Highlander\u0027s Lizardhide Boots",
     "slot": 7
   },
   {
@@ -351,12 +346,17 @@
     "slot": 7
   },
   {
-    "id": 20189,
-    "name": "Defiler\u0027s Leather Boots",
+    "id": 20170,
+    "name": "Defiler\u0027s Lizardhide Boots",
     "slot": 7
   },
   {
     "id": 20186,
+    "name": "Defiler\u0027s Leather Boots",
+    "slot": 7
+  },
+  {
+    "id": 20189,
     "name": "Defiler\u0027s Leather Boots",
     "slot": 7
   },
@@ -387,13 +387,18 @@
     "slot": 7
   },
   {
+    "id": 21359,
+    "name": "Deathdealer\u0027s Boots",
+    "slot": 7
+  },
+  {
     "id": 21355,
     "name": "Genesis Boots",
     "slot": 7
   },
   {
-    "id": 21359,
-    "name": "Deathdealer\u0027s Boots",
+    "id": 21493,
+    "name": "Boots of the Vanguard",
     "slot": 7
   },
   {
@@ -403,11 +408,6 @@
     "resistances": {
       "Nature": 20
     }
-  },
-  {
-    "id": 21493,
-    "name": "Boots of the Vanguard",
-    "slot": 7
   },
   {
     "id": 21645,
@@ -430,13 +430,13 @@
     "slot": 7
   },
   {
-    "id": 22480,
-    "name": "Bonescythe Sabatons",
+    "id": 22472,
+    "name": "Boots of Ferocity",
     "slot": 7
   },
   {
-    "id": 22472,
-    "name": "Boots of Ferocity",
+    "id": 22480,
+    "name": "Bonescythe Sabatons",
     "slot": 7
   },
   {
@@ -453,13 +453,13 @@
     }
   },
   {
-    "id": 22852,
-    "name": "Blood Guard\u0027s Dragonhide Treads",
+    "id": 22856,
+    "name": "Blood Guard\u0027s Leather Walkers",
     "slot": 7
   },
   {
-    "id": 22856,
-    "name": "Blood Guard\u0027s Leather Walkers",
+    "id": 22852,
+    "name": "Blood Guard\u0027s Dragonhide Treads",
     "slot": 7
   },
   {
@@ -483,20 +483,8 @@
     "slot": 7
   },
   {
-    "id": 24694,
-    "name": "Bonechewer Shredboots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24718,
-    "name": "Dreghood Boots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24710,
-    "name": "Vengeance Boots",
+    "id": 24774,
+    "name": "Boneshredder Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -507,26 +495,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24734,
-    "name": "Sunroc Boots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24750,
-    "name": "Daggerfen Boots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24742,
-    "name": "Ranger Boots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24758,
-    "name": "Umbrafen Boots",
+    "id": 24694,
+    "name": "Bonechewer Shredboots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -537,20 +507,44 @@
     "randomEnchantment": true
   },
   {
+    "id": 24718,
+    "name": "Dreghood Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24742,
+    "name": "Ranger Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24750,
+    "name": "Daggerfen Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
     "id": 24766,
     "name": "Clefthoof Wanderboots",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 24774,
-    "name": "Boneshredder Boots",
+    "id": 24710,
+    "name": "Vengeance Boots",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 24799,
-    "name": "Dragonhawk Boots",
+    "id": 24758,
+    "name": "Umbrafen Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24734,
+    "name": "Sunroc Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -567,13 +561,19 @@
     "randomEnchantment": true
   },
   {
-    "id": 25359,
-    "name": "Decaying Leather Boots",
-    "slot": 7
+    "id": 24799,
+    "name": "Dragonhawk Boots",
+    "slot": 7,
+    "randomEnchantment": true
   },
   {
     "id": 25351,
     "name": "Moldy Leather Boots",
+    "slot": 7
+  },
+  {
+    "id": 25359,
+    "name": "Decaying Leather Boots",
     "slot": 7
   },
   {
@@ -592,6 +592,11 @@
     "slot": 7
   },
   {
+    "id": 25673,
+    "name": "Wild Draenish Boots",
+    "slot": 7
+  },
+  {
     "id": 25686,
     "name": "Fel Leather Boots",
     "slot": 7,
@@ -606,11 +611,6 @@
   {
     "id": 25717,
     "name": "Sure-Step Boots",
-    "slot": 7
-  },
-  {
-    "id": 25673,
-    "name": "Wild Draenish Boots",
     "slot": 7
   },
   {
@@ -705,13 +705,13 @@
     "sockets": 2
   },
   {
-    "id": 28977,
-    "name": "Marshal\u0027s Dragonhide Boots",
+    "id": 28987,
+    "name": "Marshal\u0027s Leather Boots",
     "slot": 7
   },
   {
-    "id": 28987,
-    "name": "Marshal\u0027s Leather Boots",
+    "id": 28977,
+    "name": "Marshal\u0027s Dragonhide Boots",
     "slot": 7
   },
   {
@@ -736,15 +736,6 @@
     "sockets": 2
   },
   {
-    "id": 29497,
-    "name": "Enchanted Clefthoof Boots",
-    "slot": 7,
-    "sockets": 2,
-    "resistances": {
-      "Arcane": 30
-    }
-  },
-  {
     "id": 29499,
     "name": "Blastguard Boots",
     "slot": 7,
@@ -754,13 +745,17 @@
     }
   },
   {
-    "id": 29804,
-    "name": "Wrangler\u0027s Boots",
-    "slot": 7
+    "id": 29497,
+    "name": "Enchanted Clefthoof Boots",
+    "slot": 7,
+    "sockets": 2,
+    "resistances": {
+      "Arcane": 30
+    }
   },
   {
-    "id": 30041,
-    "name": "Boots of Natural Grace",
+    "id": 29804,
+    "name": "Wrangler\u0027s Boots",
     "slot": 7
   },
   {
@@ -769,15 +764,20 @@
     "slot": 7
   },
   {
+    "id": 30060,
+    "name": "Boots of Effortless Striking",
+    "slot": 7
+  },
+  {
+    "id": 30041,
+    "name": "Boots of Natural Grace",
+    "slot": 7
+  },
+  {
     "id": 30092,
     "name": "Orca-Hide Boots",
     "slot": 7,
     "sockets": 2
-  },
-  {
-    "id": 30060,
-    "name": "Boots of Effortless Striking",
-    "slot": 7
   },
   {
     "id": 30266,
@@ -795,15 +795,15 @@
     "slot": 7
   },
   {
+    "id": 30674,
+    "name": "Zierhut\u0027s Lost Treads",
+    "slot": 7
+  },
+  {
     "id": 30681,
     "name": "Glider\u0027s Boots",
     "slot": 7,
     "randomEnchantment": true
-  },
-  {
-    "id": 30674,
-    "name": "Zierhut\u0027s Lost Treads",
-    "slot": 7
   },
   {
     "id": 30707,
@@ -830,13 +830,13 @@
     "slot": 7
   },
   {
-    "id": 30939,
-    "name": "Felboar Hide Shoes",
+    "id": 30891,
+    "name": "Black Featherlight Boots",
     "slot": 7
   },
   {
-    "id": 30891,
-    "name": "Black Featherlight Boots",
+    "id": 30939,
+    "name": "Felboar Hide Shoes",
     "slot": 7
   },
   {
@@ -845,14 +845,14 @@
     "slot": 7
   },
   {
-    "id": 31215,
-    "name": "Abyssal Leather Treads",
+    "id": 31235,
+    "name": "Grim Boots",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 31235,
-    "name": "Grim Boots",
+    "id": 31215,
+    "name": "Abyssal Leather Treads",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -872,15 +872,20 @@
     "slot": 7
   },
   {
+    "id": 31565,
+    "name": "Skystalker\u0027s Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
     "id": 31532,
     "name": "Supple Leather Boots",
     "slot": 7
   },
   {
-    "id": 31565,
-    "name": "Skystalker\u0027s Boots",
-    "slot": 7,
-    "randomEnchantment": true
+    "id": 31597,
+    "name": "Marshal\u0027s Kodohide Boots",
+    "slot": 7
   },
   {
     "id": 31595,
@@ -888,9 +893,10 @@
     "slot": 7
   },
   {
-    "id": 31597,
-    "name": "Marshal\u0027s Kodohide Boots",
-    "slot": 7
+    "id": 32366,
+    "name": "Shadowmaster\u0027s Boots",
+    "slot": 7,
+    "sockets": 2
   },
   {
     "id": 32352,
@@ -907,12 +913,6 @@
     }
   },
   {
-    "id": 32366,
-    "name": "Shadowmaster\u0027s Boots",
-    "slot": 7,
-    "sockets": 2
-  },
-  {
     "id": 32593,
     "name": "Treads of the Den Mother",
     "slot": 7
@@ -923,8 +923,8 @@
     "slot": 7
   },
   {
-    "id": 32786,
-    "name": "Veteran\u0027s Dragonhide Boots",
+    "id": 32788,
+    "name": "Veteran\u0027s Kodohide Boots",
     "slot": 7
   },
   {
@@ -933,8 +933,8 @@
     "slot": 7
   },
   {
-    "id": 32788,
-    "name": "Veteran\u0027s Kodohide Boots",
+    "id": 32786,
+    "name": "Veteran\u0027s Dragonhide Boots",
     "slot": 7
   },
   {
@@ -942,6 +942,16 @@
     "name": "Nyn\u0027jah\u0027s Tabi Boots",
     "slot": 7,
     "sockets": 2
+  },
+  {
+    "id": 33374,
+    "name": "Fur-Lined Boots",
+    "slot": 7
+  },
+  {
+    "id": 33381,
+    "name": "Frozen Boots",
+    "slot": 7
   },
   {
     "id": 33577,
@@ -956,13 +966,13 @@
     "sockets": 2
   },
   {
-    "id": 33916,
-    "name": "Vindicator\u0027s Wyrmhide Boots",
+    "id": 33886,
+    "name": "Vindicator\u0027s Kodohide Boots",
     "slot": 7
   },
   {
-    "id": 33886,
-    "name": "Vindicator\u0027s Kodohide Boots",
+    "id": 33880,
+    "name": "Vindicator\u0027s Dragonhide Boots",
     "slot": 7
   },
   {
@@ -971,8 +981,8 @@
     "slot": 7
   },
   {
-    "id": 33880,
-    "name": "Vindicator\u0027s Dragonhide Boots",
+    "id": 33916,
+    "name": "Vindicator\u0027s Wyrmhide Boots",
     "slot": 7
   },
   {
@@ -982,14 +992,14 @@
     "sockets": 1
   },
   {
-    "id": 34572,
-    "name": "Thunderheart Footwraps",
+    "id": 34575,
+    "name": "Slayer\u0027s Boots",
     "slot": 7,
     "sockets": 1
   },
   {
-    "id": 34575,
-    "name": "Slayer\u0027s Boots",
+    "id": 34572,
+    "name": "Thunderheart Footwraps",
     "slot": 7,
     "sockets": 1
   },
@@ -1029,6 +1039,739 @@
   {
     "id": 35137,
     "name": "Guardian\u0027s Dragonhide Boots",
+    "slot": 7
+  },
+  {
+    "id": 35641,
+    "name": "Scytheclaw Boots",
+    "slot": 7
+  },
+  {
+    "id": 35659,
+    "name": "Treads of Aspiring Heights",
+    "slot": 7
+  },
+  {
+    "id": 35860,
+    "name": "Flexible Leather Footwraps",
+    "slot": 7
+  },
+  {
+    "id": 35930,
+    "name": "Inscribed Worghide Treads",
+    "slot": 7
+  },
+  {
+    "id": 36092,
+    "name": "Wildevar Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36164,
+    "name": "Webspinner Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36148,
+    "name": "Pygmy Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36124,
+    "name": "Muradin Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36068,
+    "name": "Daggercap Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36084,
+    "name": "Riplash Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36116,
+    "name": "Taunka Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36076,
+    "name": "Winterfin Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36140,
+    "name": "Ghrino Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36100,
+    "name": "Caribou Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36156,
+    "name": "Wendigo Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36132,
+    "name": "Wolverine Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36108,
+    "name": "Vileprey Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36172,
+    "name": "Geist Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37070,
+    "name": "Tundra Wolf Boots",
+    "slot": 7
+  },
+  {
+    "id": 37176,
+    "name": "Cavern Leather Treads",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 37317,
+    "name": "BT56 Leather Healer Boots2",
+    "slot": 7
+  },
+  {
+    "id": 37387,
+    "name": "Charred Treads",
+    "slot": 7
+  },
+  {
+    "id": 37315,
+    "name": "BT59 Leather Physical Boots4",
+    "slot": 7
+  },
+  {
+    "id": 37403,
+    "name": "Marshwalker Boots",
+    "slot": 7
+  },
+  {
+    "id": 37354,
+    "name": "Reinforced Caribou-Hide Boots",
+    "slot": 7
+  },
+  {
+    "id": 37666,
+    "name": "Boots of the Whirling Mist",
+    "slot": 7
+  },
+  {
+    "id": 37640,
+    "name": "Boots of Transformation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 37763,
+    "name": "Treads of the Purifier",
+    "slot": 7
+  },
+  {
+    "id": 37841,
+    "name": "Slag Footguards",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 37984,
+    "name": "Deathtouched Boots",
+    "slot": 7
+  },
+  {
+    "id": 37998,
+    "name": "Snowfall Reaver Boots",
+    "slot": 7
+  },
+  {
+    "id": 37993,
+    "name": "Glade Wanderer Boots",
+    "slot": 7
+  },
+  {
+    "id": 38018,
+    "name": "DB53 Leather Physical Feet3",
+    "slot": 7
+  },
+  {
+    "id": 38404,
+    "name": "Arctic Boots",
+    "slot": 7
+  },
+  {
+    "id": 38407,
+    "name": "Iceborne Boots",
+    "slot": 7
+  },
+  {
+    "id": 38543,
+    "name": "Reinforced Traveler\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 38590,
+    "name": "Black Chitinguard Boots",
+    "slot": 7
+  },
+  {
+    "id": 39018,
+    "name": "Boots of Safe Travel",
+    "slot": 7
+  },
+  {
+    "id": 39035,
+    "name": "Glacier-walker\u0027s Mukluks",
+    "slot": 7
+  },
+  {
+    "id": 39031,
+    "name": "Boots of Internal Strife",
+    "slot": 7
+  },
+  {
+    "id": 39196,
+    "name": "Boots of the Worshiper",
+    "slot": 7
+  },
+  {
+    "id": 39215,
+    "name": "Boots of the Follower",
+    "slot": 7
+  },
+  {
+    "id": 39374,
+    "name": "Crocscale Moccasins",
+    "slot": 7
+  },
+  {
+    "id": 39383,
+    "name": "Egg-Warming Boots",
+    "slot": 7
+  },
+  {
+    "id": 39412,
+    "name": "Scourgebane Treads",
+    "slot": 7
+  },
+  {
+    "id": 39701,
+    "name": "Dawnwalkers",
+    "slot": 7
+  },
+  {
+    "id": 39709,
+    "name": "Verdant Tundra Boots",
+    "slot": 7
+  },
+  {
+    "id": 39871,
+    "name": "Subtle Boots of the Infiltrator",
+    "slot": 7
+  },
+  {
+    "id": 39842,
+    "name": "Bloodletter\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 39833,
+    "name": "Supple Bloodbinder\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 40243,
+    "name": "Footwraps of Vile Deceit",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 40270,
+    "name": "Boots of Septic Wounds",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 40409,
+    "name": "Boots of the Escaped Captive",
+    "slot": 7
+  },
+  {
+    "id": 40519,
+    "name": "Footsteps of Malygos",
+    "slot": 7
+  },
+  {
+    "id": 40749,
+    "name": "Rainey\u0027s Chewed Boots",
+    "slot": 7
+  },
+  {
+    "id": 40748,
+    "name": "Boots of Captain Ellis",
+    "slot": 7
+  },
+  {
+    "id": 41331,
+    "name": "Hateful Gladiator\u0027s Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41621,
+    "name": "Furious Gladiator\u0027s Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41620,
+    "name": "Deadly Gladiator\u0027s Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41634,
+    "name": "Deadly Gladiator\u0027s Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41633,
+    "name": "Hateful Gladiator\u0027s Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41622,
+    "name": "Relentless Gladiator\u0027s Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41635,
+    "name": "Furious Gladiator\u0027s Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41636,
+    "name": "Relentless Gladiator\u0027s Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41837,
+    "name": "Relentless Gladiator\u0027s Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41828,
+    "name": "Hateful Gladiator\u0027s Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41836,
+    "name": "Furious Gladiator\u0027s Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41835,
+    "name": "Deadly Gladiator\u0027s Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 42088,
+    "name": "Snowhide Hoof-Warmers",
+    "slot": 7
+  },
+  {
+    "id": 42762,
+    "name": "Treads of Torn Future",
+    "slot": 7
+  },
+  {
+    "id": 42804,
+    "name": "Spiked Iceclimber\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 42798,
+    "name": "Mammoth Hide Galoshes",
+    "slot": 7
+  },
+  {
+    "id": 42874,
+    "name": "Wooly Stompers",
+    "slot": 7
+  },
+  {
+    "id": 43172,
+    "name": "Rhino Hide Kneeboots",
+    "slot": 7
+  },
+  {
+    "id": 43312,
+    "name": "Gorloc Muddy Footwraps",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 43273,
+    "name": "Overcast Boots",
+    "slot": 7
+  },
+  {
+    "id": 43256,
+    "name": "Jormscale Footpads",
+    "slot": 7
+  },
+  {
+    "id": 43439,
+    "name": "Eviscerator\u0027s Treads",
+    "slot": 7
+  },
+  {
+    "id": 43502,
+    "name": "Earthgiving Boots",
+    "slot": 7
+  },
+  {
+    "id": 43592,
+    "name": "Polar Boots",
+    "slot": 7,
+    "sockets": 2,
+    "resistances": {
+      "Frost": 86
+    }
+  },
+  {
+    "id": 43908,
+    "name": "Boots of the Fallen Thane",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 43894,
+    "name": "Gryphon Hide Moccasins",
+    "slot": 7
+  },
+  {
+    "id": 44024,
+    "name": "The Darkspeaker\u0027s Treads",
+    "slot": 7
+  },
+  {
+    "id": 44297,
+    "name": "Boots of the Neverending Path",
+    "slot": 7
+  },
+  {
+    "id": 44333,
+    "name": "Ghostcrawler\u0027s Greaves",
+    "slot": 7
+  },
+  {
+    "id": 44359,
+    "name": "Don Soto\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 44442,
+    "name": "Bugsquashers",
+    "slot": 7
+  },
+  {
+    "id": 44930,
+    "name": "Windripper Boots",
+    "slot": 7
+  },
+  {
+    "id": 44893,
+    "name": "Titan-Forged Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 44891,
+    "name": "Titan-Forged Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 44892,
+    "name": "Titan-Forged Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45159,
+    "name": "Treads of Nimble Evasion",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45162,
+    "name": "Flamestalker Boots",
+    "slot": 7
+  },
+  {
+    "id": 45220,
+    "name": "Treads of the Earnest Squire",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45232,
+    "name": "Runed Ironhide Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45260,
+    "name": "Boots of Hasty Revival",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45302,
+    "name": "Treads of the Invader",
+    "slot": 7
+  },
+  {
+    "id": 45378,
+    "name": "Boots of the Petrified Forest",
+    "slot": 7
+  },
+  {
+    "id": 45564,
+    "name": "Footpads of Silence",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 45565,
+    "name": "Boots of Wintry Endurance",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 46988,
+    "name": "Boots of the Unrelenting Storm",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 46989,
+    "name": "Boots of the Unrelenting Storm",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47071,
+    "name": "Treads of the Icewalker",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47077,
+    "name": "Treads of the Icewalker",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47262,
+    "name": "Boots of the Harsh Winter",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47284,
+    "name": "Icewalker Treads",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47248,
+    "name": "Treads of Dismal Fortune",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47423,
+    "name": "Boots of the Harsh Winter",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47445,
+    "name": "Icewalker Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47504,
+    "name": "Barkhide Treads",
+    "slot": 7
+  },
+  {
+    "id": 47608,
+    "name": "Acidmaw Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47853,
+    "name": "Acidmaw Treads",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47919,
+    "name": "Acidmaw Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47992,
+    "name": "Acidmaw Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49894,
+    "name": "Blessed Cenarion Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49950,
+    "name": "Frostbitten Fur Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49895,
+    "name": "Footpads of Impending Death",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50009,
+    "name": "Boots of Unnatural Growth",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50308,
+    "name": "Blighted Leather Footpads",
+    "slot": 7
+  },
+  {
+    "id": 50607,
+    "name": "Frostbitten Fur Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50665,
+    "name": "Boots of Unnatural Growth",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50783,
+    "name": "Boots of the Frozen Seed",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51023,
+    "name": "Taldaram\u0027s Soft Slippers",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51341,
+    "name": "Wrathful Gladiator\u0027s Boots of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51344,
+    "name": "Wrathful Gladiator\u0027s Boots of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51369,
+    "name": "Wrathful Gladiator\u0027s Boots of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51856,
+    "name": "Taldaram\u0027s Soft Slippers",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51920,
+    "name": "Boots of the Frozen Seed",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51963,
+    "name": "Vigorous Stompers",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 186031,
+    "name": "Communal Boots",
+    "slot": 7
+  },
+  {
+    "id": 199483,
+    "name": "Collective Boots",
+    "slot": 7
+  },
+  {
+    "id": 199468,
+    "name": "Collective Boots",
     "slot": 7
   }
 ]

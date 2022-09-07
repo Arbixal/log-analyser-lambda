@@ -1,13 +1,13 @@
 [
   {
-    "id": 25877,
-    "name": "Master\u0027s Throwing Dagger",
+    "id": 25871,
+    "name": "Standard Thrown Weapon",
     "slot": 16,
     "notEnchantable": true
   },
   {
-    "id": 25871,
-    "name": "Standard Thrown Weapon",
+    "id": 25877,
+    "name": "Master\u0027s Throwing Dagger",
     "slot": 16,
     "notEnchantable": true
   },
@@ -24,12 +24,6 @@
     "notEnchantable": true
   },
   {
-    "id": 27928,
-    "name": "Terminal Edge",
-    "slot": 16,
-    "notEnchantable": true
-  },
-  {
     "id": 27916,
     "name": "Sethekk Feather-Darts",
     "slot": 16,
@@ -37,6 +31,12 @@
   },
   {
     "id": 27929,
+    "name": "Terminal Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 27928,
     "name": "Terminal Edge",
     "slot": 16,
     "notEnchantable": true
@@ -54,43 +54,8 @@
     "notEnchantable": true
   },
   {
-    "id": 28532,
-    "name": "Silver Throwing Knifes",
-    "slot": 16,
-    "randomEnchantment": true,
-    "notEnchantable": true
-  },
-  {
     "id": 28531,
     "name": "Barbed Shrike",
-    "slot": 16,
-    "randomEnchantment": true,
-    "notEnchantable": true
-  },
-  {
-    "id": 28541,
-    "name": "Sawshrike",
-    "slot": 16,
-    "randomEnchantment": true,
-    "notEnchantable": true
-  },
-  {
-    "id": 28538,
-    "name": "Forked Shuriken",
-    "slot": 16,
-    "randomEnchantment": true,
-    "notEnchantable": true
-  },
-  {
-    "id": 28534,
-    "name": "Fel Tipped Dart",
-    "slot": 16,
-    "randomEnchantment": true,
-    "notEnchantable": true
-  },
-  {
-    "id": 28539,
-    "name": "Razor-Edged Boomerang",
     "slot": 16,
     "randomEnchantment": true,
     "notEnchantable": true
@@ -103,15 +68,22 @@
     "notEnchantable": true
   },
   {
-    "id": 28535,
-    "name": "Amani Throwing Axe",
+    "id": 28532,
+    "name": "Silver Throwing Knives",
     "slot": 16,
     "randomEnchantment": true,
     "notEnchantable": true
   },
   {
-    "id": 28537,
-    "name": "Wildhammer Throwing Axe",
+    "id": 28534,
+    "name": "Fel Tipped Dart",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 28538,
+    "name": "Forked Shuriken",
     "slot": 16,
     "randomEnchantment": true,
     "notEnchantable": true
@@ -124,6 +96,20 @@
     "notEnchantable": true
   },
   {
+    "id": 28543,
+    "name": "Dreghood Throwing Axe",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 28539,
+    "name": "Razor-Edged Boomerang",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
     "id": 28540,
     "name": "Arakkoa Talon-Axe",
     "slot": 16,
@@ -131,8 +117,22 @@
     "notEnchantable": true
   },
   {
-    "id": 28543,
-    "name": "Dreghood Throwing Axe",
+    "id": 28544,
+    "name": "Assassin\u0027s Shuriken",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 28541,
+    "name": "Sawshrike",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 28537,
+    "name": "Wildhammer Throwing Axe",
     "slot": 16,
     "randomEnchantment": true,
     "notEnchantable": true
@@ -145,8 +145,8 @@
     "notEnchantable": true
   },
   {
-    "id": 28544,
-    "name": "Assassin\u0027s Shuriken",
+    "id": 28535,
+    "name": "Amani Throwing Axe",
     "slot": 16,
     "randomEnchantment": true,
     "notEnchantable": true
@@ -170,20 +170,14 @@
     "notEnchantable": true
   },
   {
-    "id": 29013,
-    "name": "Jagged Throwing Axe",
-    "slot": 16,
-    "notEnchantable": true
-  },
-  {
     "id": 29014,
     "name": "Blacksteel Throwing Dagger",
     "slot": 16,
     "notEnchantable": true
   },
   {
-    "id": 29204,
-    "name": "Felsteel Whisper Knives",
+    "id": 29013,
+    "name": "Jagged Throwing Axe",
     "slot": 16,
     "notEnchantable": true
   },
@@ -194,8 +188,8 @@
     "notEnchantable": true
   },
   {
-    "id": 29212,
-    "name": "Balanced Stone Dirk",
+    "id": 29204,
+    "name": "Felsteel Whisper Knives",
     "slot": 16,
     "notEnchantable": true
   },
@@ -208,6 +202,12 @@
   {
     "id": 29210,
     "name": "Assassin\u0027s Throwing Axe",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 29212,
+    "name": "Balanced Stone Dirk",
     "slot": 16,
     "notEnchantable": true
   },
@@ -273,9 +273,10 @@
     "notEnchantable": true
   },
   {
-    "id": 34783,
-    "name": "Nightstrike",
+    "id": 34662,
+    "name": "zzOLDEnchanted Thorium Spikes",
     "slot": 16,
+    "randomEnchantment": true,
     "notEnchantable": true
   },
   {
@@ -285,8 +286,348 @@
     "notEnchantable": true
   },
   {
+    "id": 34783,
+    "name": "Nightstrike",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
     "id": 35108,
     "name": "Brutal Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 35845,
+    "name": "Crystalline Star",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 36717,
+    "name": "Venture Co. Throwing Axe",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36711,
+    "name": "Forsaken Edge",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36720,
+    "name": "Flying Knives",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36718,
+    "name": "Nexus Shrike",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36713,
+    "name": "Reaching Star",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36714,
+    "name": "Tuskarr\u0027s Piercers",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36716,
+    "name": "Threatening Darts",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36712,
+    "name": "Howling Throwing Knives",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36723,
+    "name": "Clawed Shuriken",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36722,
+    "name": "Pyramid Throwing Star",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36719,
+    "name": "Hunter\u0027s Scout",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36715,
+    "name": "Runed Shuriken",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36724,
+    "name": "Frozen Throwing Blades",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36721,
+    "name": "Dragon\u0027s Teeth",
+    "slot": 16,
+    "randomEnchantment": true,
+    "notEnchantable": true
+  },
+  {
+    "id": 36981,
+    "name": "Hardened Vrykul Throwing Axe",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 37028,
+    "name": "Condor-Bone Star",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 37410,
+    "name": "Tracker\u0027s Balanced Knives",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 37534,
+    "name": "BT56 Thrown2",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 38167,
+    "name": "DB21 Thrown",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 38192,
+    "name": "DB55 Thrown2",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 38357,
+    "name": "Sharpened Throwing Gizmo",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 39138,
+    "name": "Deadly Razordarts",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 39490,
+    "name": "Dorian\u0027s Prybar",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 40007,
+    "name": "Forsaken Throwing Knife",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 39995,
+    "name": "Tuskarr Javelin",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 40190,
+    "name": "Spinning Fate",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 40716,
+    "name": "Lillehoff\u0027s Winged Blades",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 41241,
+    "name": "Sure-fire Shuriken",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 41245,
+    "name": "Deadly Saronite Dirk",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42449,
+    "name": "Hateful Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42451,
+    "name": "Furious Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42444,
+    "name": "Savage Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42450,
+    "name": "Deadly Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42483,
+    "name": "Relentless Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 42863,
+    "name": "Sharpened Hyldnir Harpoon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 43187,
+    "name": "Weighted Throwing Axe",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 43188,
+    "name": "Razor-sharp Ice Shards",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 43612,
+    "name": "Spineslicer",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 43900,
+    "name": "Fleshwerk Throwing Glaive",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 44118,
+    "name": "Stolen Vrykul Harpoon",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 44644,
+    "name": "Dalaran Dart",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 45086,
+    "name": "Rising Sun",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 45296,
+    "name": "Twirling Blades",
+    "slot": 16,
+    "sockets": 1,
+    "notEnchantable": true
+  },
+  {
+    "id": 47660,
+    "name": "Blades of the Sable Cross",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 47659,
+    "name": "Crimson Star",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 50169,
+    "name": "Papa\u0027s Brand New Knife",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 50474,
+    "name": "Shrapnel Star",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 50999,
+    "name": "Gluth\u0027s Fetching Knife",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 51535,
+    "name": "Wrathful Gladiator\u0027s War Edge",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 51880,
+    "name": "Gluth\u0027s Fetching Knife",
+    "slot": 16,
+    "sockets": 1,
+    "notEnchantable": true
+  },
+  {
+    "id": 186069,
+    "name": "Communal Knives",
+    "slot": 16,
+    "notEnchantable": true
+  },
+  {
+    "id": 199722,
+    "name": "Collective Knives",
     "slot": 16,
     "notEnchantable": true
   }

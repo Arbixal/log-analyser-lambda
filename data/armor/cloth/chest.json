@@ -1,12 +1,12 @@
 [
   {
-    "id": 3959,
-    "name": "Mesh Armor",
+    "id": 3951,
+    "name": "Twill Vest",
     "slot": 4
   },
   {
-    "id": 3951,
-    "name": "Twill Vest",
+    "id": 3959,
+    "name": "Mesh Armor",
     "slot": 4
   },
   {
@@ -17,11 +17,6 @@
   {
     "id": 8113,
     "name": "Hibernal Robe",
-    "slot": 4
-  },
-  {
-    "id": 8245,
-    "name": "Imperial Red Tunic",
     "slot": 4
   },
   {
@@ -40,19 +35,24 @@
     "slot": 4
   },
   {
+    "id": 8245,
+    "name": "Imperial Red Tunic",
+    "slot": 4
+  },
+  {
     "id": 9649,
     "name": "Royal Highmark Vestments",
     "slot": 4
   },
   {
-    "id": 9946,
-    "name": "Abjurer\u0027s Tunic",
+    "id": 9943,
+    "name": "Abjurer\u0027s Robe",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 9943,
-    "name": "Abjurer\u0027s Robe",
+    "id": 9946,
+    "name": "Abjurer\u0027s Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -69,8 +69,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 10135,
-    "name": "High Councillor\u0027s Tunic",
+    "id": 10102,
+    "name": "Councillor\u0027s Robes",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -81,8 +81,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 10102,
-    "name": "Councillor\u0027s Robes",
+    "id": 10135,
+    "name": "High Councillor\u0027s Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -93,14 +93,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 10181,
-    "name": "Mystical Armor",
+    "id": 10178,
+    "name": "Mystical Robe",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 10178,
-    "name": "Mystical Robe",
+    "id": 10181,
+    "name": "Mystical Armor",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -117,14 +117,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 10254,
-    "name": "Master\u0027s Robe",
+    "id": 10246,
+    "name": "Master\u0027s Vest",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 10246,
-    "name": "Master\u0027s Vest",
+    "id": 10254,
+    "name": "Master\u0027s Robe",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -144,6 +144,14 @@
     "slot": 4
   },
   {
+    "id": 12542,
+    "name": "Funeral Pyre Vestment",
+    "slot": 4,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
     "id": 12609,
     "name": "Polychromatic Visionwrap",
     "slot": 4,
@@ -153,14 +161,6 @@
       "Nature": 20,
       "Frost": 20,
       "Shadow": 20
-    }
-  },
-  {
-    "id": 12542,
-    "name": "Funeral Pyre Vestment",
-    "slot": 4,
-    "resistances": {
-      "Fire": 10
     }
   },
   {
@@ -201,6 +201,11 @@
     "slot": 4
   },
   {
+    "id": 13857,
+    "name": "Runecloth Tunic",
+    "slot": 4
+  },
+  {
     "id": 13869,
     "name": "Frostweave Tunic",
     "slot": 4
@@ -208,11 +213,6 @@
   {
     "id": 13868,
     "name": "Frostweave Robe",
-    "slot": 4
-  },
-  {
-    "id": 13857,
-    "name": "Runecloth Tunic",
     "slot": 4
   },
   {
@@ -235,6 +235,16 @@
     "slot": 4
   },
   {
+    "id": 14138,
+    "name": "Mooncloth Vest",
+    "slot": 4
+  },
+  {
+    "id": 14136,
+    "name": "Robe of Winter Night",
+    "slot": 4
+  },
+  {
     "id": 14128,
     "name": "Wizardweave Robe",
     "slot": 4,
@@ -244,13 +254,8 @@
     }
   },
   {
-    "id": 14152,
-    "name": "Robe of the Archmage",
-    "slot": 4
-  },
-  {
-    "id": 14136,
-    "name": "Robe of Winter Night",
+    "id": 14153,
+    "name": "Robe of the Void",
     "slot": 4
   },
   {
@@ -259,25 +264,14 @@
     "slot": 4
   },
   {
-    "id": 14138,
-    "name": "Mooncloth Vest",
-    "slot": 4
-  },
-  {
-    "id": 14153,
-    "name": "Robe of the Void",
+    "id": 14152,
+    "name": "Robe of the Archmage",
     "slot": 4
   },
   {
     "id": 14154,
     "name": "Truefaith Vestments",
     "slot": 4
-  },
-  {
-    "id": 14265,
-    "name": "Bloodwoven Wraps",
-    "slot": 4,
-    "randomEnchantment": true
   },
   {
     "id": 14267,
@@ -292,8 +286,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 14277,
-    "name": "Gaea\u0027s Tunic",
+    "id": 14265,
+    "name": "Bloodwoven Wraps",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 14284,
+    "name": "Opulent Robes",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -310,8 +310,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 14284,
-    "name": "Opulent Robes",
+    "id": 14303,
+    "name": "Bonecaster\u0027s Shroud",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 14277,
+    "name": "Gaea\u0027s Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -322,14 +328,20 @@
     "randomEnchantment": true
   },
   {
+    "id": 14306,
+    "name": "Bonecaster\u0027s Vest",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
     "id": 14308,
     "name": "Celestial Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 14306,
-    "name": "Bonecaster\u0027s Vest",
+    "id": 14317,
+    "name": "Celestial Silk Robes",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -346,20 +358,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 14317,
-    "name": "Celestial Silk Robes",
-    "slot": 4,
-    "randomEnchantment": true
-  },
-  {
-    "id": 14303,
-    "name": "Bonecaster\u0027s Shroud",
-    "slot": 4,
-    "randomEnchantment": true
-  },
-  {
     "id": 14328,
     "name": "Eternal Chestguard",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 14336,
+    "name": "Eternal Wraps",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -369,18 +375,17 @@
     "slot": 4
   },
   {
-    "id": 14336,
-    "name": "Eternal Wraps",
-    "slot": 4,
-    "randomEnchantment": true
-  },
-  {
     "id": 14437,
     "name": "Venomshroud Vest",
     "slot": 4,
     "resistances": {
       "Nature": 4
     }
+  },
+  {
+    "id": 14456,
+    "name": "Elunarian Vest",
+    "slot": 4
   },
   {
     "id": 14445,
@@ -398,11 +403,6 @@
   {
     "id": 14455,
     "name": "Highborne Padded Armor",
-    "slot": 4
-  },
-  {
-    "id": 14456,
-    "name": "Elunarian Vest",
     "slot": 4
   },
   {
@@ -464,6 +464,14 @@
     }
   },
   {
+    "id": 16809,
+    "name": "Felheart Robes",
+    "slot": 4,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
     "id": 16815,
     "name": "Robes of Prophecy",
     "slot": 4,
@@ -472,11 +480,12 @@
     }
   },
   {
-    "id": 16809,
-    "name": "Felheart Robes",
+    "id": 16916,
+    "name": "Netherwind Robes",
     "slot": 4,
     "resistances": {
-      "Fire": 10
+      "Fire": 10,
+      "Nature": 10
     }
   },
   {
@@ -491,15 +500,6 @@
   {
     "id": 16931,
     "name": "Nemesis Robes",
-    "slot": 4,
-    "resistances": {
-      "Fire": 10,
-      "Nature": 10
-    }
-  },
-  {
-    "id": 16916,
-    "name": "Netherwind Robes",
     "slot": 4,
     "resistances": {
       "Fire": 10,
@@ -535,23 +535,23 @@
     "slot": 4
   },
   {
-    "id": 17605,
-    "name": "Field Marshal\u0027s Satin Vestments",
-    "slot": 4
-  },
-  {
     "id": 17600,
     "name": "Knight-Captain\u0027s Satin Robes",
     "slot": 4
   },
   {
-    "id": 17624,
-    "name": "Warlord\u0027s Satin Robes",
+    "id": 17605,
+    "name": "Field Marshal\u0027s Satin Vestments",
     "slot": 4
   },
   {
     "id": 17612,
     "name": "Legionnaire\u0027s Satin Vestments",
+    "slot": 4
+  },
+  {
+    "id": 17624,
+    "name": "Warlord\u0027s Satin Robes",
     "slot": 4
   },
   {
@@ -606,11 +606,6 @@
     "slot": 4
   },
   {
-    "id": 20033,
-    "name": "Zandalar Demoniac\u0027s Robe",
-    "slot": 4
-  },
-  {
     "id": 20034,
     "name": "Zandalar Illusionist\u0027s Robe",
     "slot": 4
@@ -618,6 +613,11 @@
   {
     "id": 20032,
     "name": "Flowing Ritual Robes",
+    "slot": 4
+  },
+  {
+    "id": 20033,
+    "name": "Zandalar Demoniac\u0027s Robe",
     "slot": 4
   },
   {
@@ -641,6 +641,11 @@
     "slot": 4
   },
   {
+    "id": 21334,
+    "name": "Doomcaller\u0027s Robes",
+    "slot": 4
+  },
+  {
     "id": 21343,
     "name": "Enigma Robes",
     "slot": 4
@@ -648,11 +653,6 @@
   {
     "id": 21351,
     "name": "Vestments of the Oracle",
-    "slot": 4
-  },
-  {
-    "id": 21334,
-    "name": "Doomcaller\u0027s Robes",
     "slot": 4
   },
   {
@@ -687,15 +687,17 @@
     }
   },
   {
-    "id": 21848,
-    "name": "Spellfire Robe",
-    "slot": 4,
-    "sockets": 2
-  },
-  {
     "id": 21862,
     "name": "Imbued Netherweave Tunic",
     "slot": 4
+  },
+  {
+    "id": 21868,
+    "name": "Arcanoweave Robe",
+    "slot": 4,
+    "resistances": {
+      "Arcane": 50
+    }
   },
   {
     "id": 21838,
@@ -715,29 +717,6 @@
     }
   },
   {
-    "id": 21855,
-    "name": "Netherweave Tunic",
-    "slot": 4
-  },
-  {
-    "id": 21854,
-    "name": "Netherweave Robe",
-    "slot": 4
-  },
-  {
-    "id": 21861,
-    "name": "Imbued Netherweave Robe",
-    "slot": 4
-  },
-  {
-    "id": 21868,
-    "name": "Arcanoweave Robe",
-    "slot": 4,
-    "resistances": {
-      "Arcane": 50
-    }
-  },
-  {
     "id": 21871,
     "name": "Frozen Shadoweave Robe",
     "slot": 4,
@@ -750,18 +729,39 @@
     "sockets": 2
   },
   {
+    "id": 21854,
+    "name": "Netherweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 21848,
+    "name": "Spellfire Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 21861,
+    "name": "Imbued Netherweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 21855,
+    "name": "Netherweave Tunic",
+    "slot": 4
+  },
+  {
     "id": 22069,
     "name": "Sorcerer\u0027s Robes",
     "slot": 4
   },
   {
-    "id": 22083,
-    "name": "Virtuous Robe",
+    "id": 22075,
+    "name": "Deathmist Robe",
     "slot": 4
   },
   {
-    "id": 22075,
-    "name": "Deathmist Robe",
+    "id": 22083,
+    "name": "Virtuous Robe",
     "slot": 4
   },
   {
@@ -806,18 +806,13 @@
     "slot": 4
   },
   {
-    "id": 22886,
-    "name": "Legionnaire\u0027s Silk Tunic",
-    "slot": 4
-  },
-  {
     "id": 22885,
     "name": "Legionnaire\u0027s Satin Tunic",
     "slot": 4
   },
   {
-    "id": 23069,
-    "name": "Necro-Knight\u0027s Garb",
+    "id": 22886,
+    "name": "Legionnaire\u0027s Silk Tunic",
     "slot": 4
   },
   {
@@ -826,8 +821,18 @@
     "slot": 4
   },
   {
+    "id": 23069,
+    "name": "Necro-Knight\u0027s Garb",
+    "slot": 4
+  },
+  {
     "id": 23220,
     "name": "Crystal Webbed Robe",
+    "slot": 4
+  },
+  {
+    "id": 23305,
+    "name": "Knight-Captain\u0027s Silk Tunic",
     "slot": 4
   },
   {
@@ -838,11 +843,6 @@
   {
     "id": 23297,
     "name": "Knight-Captain\u0027s Dreadweave Tunic",
-    "slot": 4
-  },
-  {
-    "id": 23305,
-    "name": "Knight-Captain\u0027s Silk Tunic",
     "slot": 4
   },
   {
@@ -876,14 +876,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 24615,
-    "name": "Vindicator Tunic",
+    "id": 24599,
+    "name": "Starfire Vest",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 24599,
-    "name": "Starfire Vest",
+    "id": 24615,
+    "name": "Vindicator Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -894,14 +894,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 24623,
-    "name": "Slavehandler Jerkin",
+    "id": 24631,
+    "name": "Feralfen Jerkin",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 24631,
-    "name": "Feralfen Jerkin",
+    "id": 24623,
+    "name": "Slavehandler Jerkin",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -912,26 +912,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 24655,
-    "name": "Consortium Robe",
-    "slot": 4,
-    "randomEnchantment": true
-  },
-  {
     "id": 24647,
     "name": "Astralaan Robe",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 24663,
-    "name": "Shadow Council Tunic",
+    "id": 24671,
+    "name": "Eldr\u0027naan Jerkin",
     "slot": 4,
     "randomEnchantment": true
   },
   {
-    "id": 24671,
-    "name": "Eldr\u0027naan Jerkin",
+    "id": 24655,
+    "name": "Consortium Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24663,
+    "name": "Shadow Council Tunic",
     "slot": 4,
     "randomEnchantment": true
   },
@@ -968,15 +968,15 @@
     "slot": 4
   },
   {
+    "id": 25822,
+    "name": "Watcher\u0027s Tunic",
+    "slot": 4
+  },
+  {
     "id": 25856,
     "name": "Gladiator\u0027s Silk Raiment",
     "slot": 4,
     "sockets": 3
-  },
-  {
-    "id": 25822,
-    "name": "Watcher\u0027s Tunic",
-    "slot": 4
   },
   {
     "id": 27506,
@@ -1023,6 +1023,12 @@
     "sockets": 3
   },
   {
+    "id": 28232,
+    "name": "Robe of Oblivion",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
     "id": 28230,
     "name": "Hallowed Garments",
     "slot": 4,
@@ -1032,12 +1038,6 @@
     "id": 28252,
     "name": "Bloodfyre Robes of Annihilation",
     "slot": 4
-  },
-  {
-    "id": 28232,
-    "name": "Robe of Oblivion",
-    "slot": 4,
-    "sockets": 3
   },
   {
     "id": 28342,
@@ -1051,19 +1051,13 @@
     "slot": 4
   },
   {
-    "id": 28628,
-    "name": "Grand Marshal\u0027s Dreadweave Robe",
-    "slot": 4,
-    "sockets": 3
-  },
-  {
     "id": 28602,
     "name": "Robe of the Elder Scribes",
     "slot": 4
   },
   {
-    "id": 28717,
-    "name": "Grand Marshal\u0027s Silk Raiment",
+    "id": 28628,
+    "name": "Grand Marshal\u0027s Dreadweave Robe",
     "slot": 4,
     "sockets": 3
   },
@@ -1074,14 +1068,20 @@
     "sockets": 3
   },
   {
-    "id": 28821,
-    "name": "High Warlord\u0027s Dreadweave Robe",
+    "id": 28717,
+    "name": "Grand Marshal\u0027s Silk Raiment",
     "slot": 4,
     "sockets": 3
   },
   {
     "id": 28860,
     "name": "High Warlord\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 28821,
+    "name": "High Warlord\u0027s Dreadweave Robe",
     "slot": 4,
     "sockets": 3
   },
@@ -1098,6 +1098,12 @@
     "sockets": 3
   },
   {
+    "id": 29050,
+    "name": "Robes of the Incarnate",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
     "id": 29056,
     "name": "Shroud of the Incarnate",
     "slot": 4,
@@ -1110,21 +1116,15 @@
     "sockets": 3
   },
   {
-    "id": 29050,
-    "name": "Robes of the Incarnate",
-    "slot": 4,
-    "sockets": 3
+    "id": 29117,
+    "name": "Stormspire Vest",
+    "slot": 4
   },
   {
     "id": 29129,
     "name": "Anchorite\u0027s Robes",
     "slot": 4,
     "sockets": 3
-  },
-  {
-    "id": 29117,
-    "name": "Stormspire Vest",
-    "slot": 4
   },
   {
     "id": 29341,
@@ -1166,26 +1166,26 @@
     "sockets": 3
   },
   {
-    "id": 30159,
-    "name": "Shroud of the Avatar",
-    "slot": 4,
-    "sockets": 3
-  },
-  {
     "id": 30196,
     "name": "Robes of Tirisfal",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 30214,
-    "name": "Robe of the Corruptor",
+    "id": 30159,
+    "name": "Shroud of the Avatar",
     "slot": 4,
     "sockets": 3
   },
   {
     "id": 30200,
     "name": "Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 30214,
+    "name": "Robe of the Corruptor",
     "slot": 4,
     "sockets": 3
   },
@@ -1200,17 +1200,17 @@
     "slot": 4
   },
   {
-    "id": 30760,
-    "name": "Formal Draenic Robe",
-    "slot": 4
-  },
-  {
     "id": 30762,
     "name": "Infernoweave Robe",
     "slot": 4,
     "resistances": {
       "Fire": 60
     }
+  },
+  {
+    "id": 30760,
+    "name": "Formal Draenic Robe",
+    "slot": 4
   },
   {
     "id": 30839,
@@ -1221,8 +1221,8 @@
     }
   },
   {
-    "id": 30928,
-    "name": "Sketh\u0027lon Survivor\u0027s Tunic",
+    "id": 30913,
+    "name": "Robes of Rhonin",
     "slot": 4
   },
   {
@@ -1231,19 +1231,19 @@
     "slot": 4
   },
   {
-    "id": 30913,
-    "name": "Robes of Rhonin",
+    "id": 30928,
+    "name": "Sketh\u0027lon Survivor\u0027s Tunic",
     "slot": 4
   },
   {
-    "id": 31057,
-    "name": "Robes of the Tempest",
+    "id": 31052,
+    "name": "Robe of the Malefic",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 31065,
-    "name": "Shroud of Absolution",
+    "id": 31057,
+    "name": "Robes of the Tempest",
     "slot": 4,
     "sockets": 3
   },
@@ -1254,8 +1254,8 @@
     "sockets": 3
   },
   {
-    "id": 31052,
-    "name": "Robe of the Malefic",
+    "id": 31065,
+    "name": "Shroud of Absolution",
     "slot": 4,
     "sockets": 3
   },
@@ -1315,14 +1315,14 @@
     "sockets": 3
   },
   {
-    "id": 31657,
-    "name": "Chemise of Rebirth",
+    "id": 31625,
+    "name": "Grand Marshal\u0027s Mooncloth Vestments",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 31625,
-    "name": "Grand Marshal\u0027s Mooncloth Vestments",
+    "id": 31657,
+    "name": "Chemise of Rebirth",
     "slot": 4,
     "sockets": 3
   },
@@ -1339,6 +1339,12 @@
   {
     "id": 31977,
     "name": "Merciless Gladiator\u0027s Dreadweave Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 32019,
+    "name": "Merciless Gladiator\u0027s Mooncloth Robe",
     "slot": 4,
     "sockets": 3
   },
@@ -1361,19 +1367,13 @@
     "sockets": 3
   },
   {
-    "id": 32019,
-    "name": "Merciless Gladiator\u0027s Mooncloth Robe",
-    "slot": 4,
-    "sockets": 3
+    "id": 32327,
+    "name": "Robe of the Shadow Council",
+    "slot": 4
   },
   {
     "id": 32340,
     "name": "Garments of Temperance",
-    "slot": 4
-  },
-  {
-    "id": 32327,
-    "name": "Robe of the Shadow Council",
     "slot": 4
   },
   {
@@ -1383,19 +1383,23 @@
     "sockets": 3
   },
   {
+    "id": 33364,
+    "name": "Thread-Bare Cloth Vest",
+    "slot": 4
+  },
+  {
     "id": 33317,
     "name": "Robe of Departed Spirits",
     "slot": 4
   },
   {
-    "id": 33685,
-    "name": "Vengeful Gladiator\u0027s Felweave Raiment",
-    "slot": 4,
-    "sockets": 3
+    "id": 33371,
+    "name": "Frost-Rimed Cloth Vest",
+    "slot": 4
   },
   {
-    "id": 33721,
-    "name": "Vengeful Gladiator\u0027s Mooncloth Robe",
+    "id": 33748,
+    "name": "Vengeful Gladiator\u0027s Satin Robe",
     "slot": 4,
     "sockets": 3
   },
@@ -1406,8 +1410,14 @@
     "sockets": 3
   },
   {
-    "id": 33748,
-    "name": "Vengeful Gladiator\u0027s Satin Robe",
+    "id": 33721,
+    "name": "Vengeful Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 33685,
+    "name": "Vengeful Gladiator\u0027s Felweave Raiment",
     "slot": 4,
     "sockets": 3
   },
@@ -1424,20 +1434,14 @@
     "sockets": 3
   },
   {
-    "id": 34233,
-    "name": "Robes of Faltered Light",
-    "slot": 4,
-    "sockets": 3
-  },
-  {
     "id": 34365,
     "name": "Robe of Eternal Light",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 34399,
-    "name": "Robes of Ghostly Hatred",
+    "id": 34233,
+    "name": "Robes of Faltered Light",
     "slot": 4,
     "sockets": 3
   },
@@ -1448,16 +1452,16 @@
     "sockets": 3
   },
   {
-    "id": 34610,
-    "name": "Scarlet Sin\u0027dorei Robes",
+    "id": 34399,
+    "name": "Robes of Ghostly Hatred",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 34924,
-    "name": "Gown of Spiritual Wonder",
+    "id": 34610,
+    "name": "Scarlet Sin\u0027dorei Robes",
     "slot": 4,
-    "sockets": 1
+    "sockets": 3
   },
   {
     "id": 34936,
@@ -1466,10 +1470,16 @@
     "sockets": 1
   },
   {
-    "id": 35012,
-    "name": "Brutal Gladiator\u0027s Felweave Raiment",
+    "id": 34917,
+    "name": "Shroud of the Lore\u0060nial",
     "slot": 4,
-    "sockets": 3
+    "sockets": 1
+  },
+  {
+    "id": 34924,
+    "name": "Gown of Spiritual Wonder",
+    "slot": 4,
+    "sockets": 1
   },
   {
     "id": 35007,
@@ -1478,14 +1488,8 @@
     "sockets": 3
   },
   {
-    "id": 34917,
-    "name": "Shroud of the Lore\u0060nial",
-    "slot": 4,
-    "sockets": 1
-  },
-  {
-    "id": 35057,
-    "name": "Brutal Gladiator\u0027s Mooncloth Robe",
+    "id": 35012,
+    "name": "Brutal Gladiator\u0027s Felweave Raiment",
     "slot": 4,
     "sockets": 3
   },
@@ -1496,14 +1500,14 @@
     "sockets": 3
   },
   {
-    "id": 35099,
-    "name": "Brutal Gladiator\u0027s Silk Raiment",
+    "id": 35057,
+    "name": "Brutal Gladiator\u0027s Mooncloth Robe",
     "slot": 4,
     "sockets": 3
   },
   {
-    "id": 35342,
-    "name": "Satin Robe",
+    "id": 35099,
+    "name": "Brutal Gladiator\u0027s Silk Raiment",
     "slot": 4,
     "sockets": 3
   },
@@ -1526,6 +1530,12 @@
     "sockets": 3
   },
   {
+    "id": 35342,
+    "name": "Satin Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
     "id": 35464,
     "name": "Dreadweave Robe",
     "slot": 4,
@@ -1536,5 +1546,1202 @@
     "name": "Mooncloth Vestments",
     "slot": 4,
     "sockets": 3
+  },
+  {
+    "id": 35584,
+    "name": "Embroidered Gown of Zul\u0027Drak",
+    "slot": 4
+  },
+  {
+    "id": 35632,
+    "name": "Robes of Novos",
+    "slot": 4
+  },
+  {
+    "id": 35859,
+    "name": "Fire-Purifying Tunic",
+    "slot": 4
+  },
+  {
+    "id": 35965,
+    "name": "Bloodspore Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35957,
+    "name": "Farshire Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35871,
+    "name": "Indigo Robe of Replenishment",
+    "slot": 4
+  },
+  {
+    "id": 36013,
+    "name": "Tethys Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35989,
+    "name": "Bristlepine Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35997,
+    "name": "Voldrune Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35981,
+    "name": "Foothold Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36029,
+    "name": "Oracle Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36005,
+    "name": "Icemist Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36045,
+    "name": "Crystalsong Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36053,
+    "name": "Vizier Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36037,
+    "name": "Condor Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36061,
+    "name": "Coldwraith Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35973,
+    "name": "Mur\u0027ghoul Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36021,
+    "name": "Aerie Robe",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36973,
+    "name": "Vestments of the Scholar",
+    "slot": 4
+  },
+  {
+    "id": 36991,
+    "name": "Raiments of the Titans",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 37005,
+    "name": "D.E.H.T.A. Overshirt",
+    "slot": 4
+  },
+  {
+    "id": 37203,
+    "name": "Regenerative Cloth",
+    "slot": 4
+  },
+  {
+    "id": 37222,
+    "name": "Egg Sac Robes",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 37226,
+    "name": "Sweltering Robes",
+    "slot": 4
+  },
+  {
+    "id": 37281,
+    "name": "BT52 Cloth Healer Chest2",
+    "slot": 4
+  },
+  {
+    "id": 37258,
+    "name": "Drakewing Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 37270,
+    "name": "Layered Frost Robes",
+    "slot": 4
+  },
+  {
+    "id": 37641,
+    "name": "Arcane Flame Altar-Garb",
+    "slot": 4
+  },
+  {
+    "id": 37753,
+    "name": "Mendicant\u0027s Robe of Mendacity",
+    "slot": 4
+  },
+  {
+    "id": 37851,
+    "name": "Ornate Woolen Stola",
+    "slot": 4
+  },
+  {
+    "id": 37938,
+    "name": "Visionary\u0027s Robes",
+    "slot": 4
+  },
+  {
+    "id": 37944,
+    "name": "High Priest Forith\u0027s Robes",
+    "slot": 4
+  },
+  {
+    "id": 37953,
+    "name": "Wastewind Garments",
+    "slot": 4
+  },
+  {
+    "id": 37968,
+    "name": "Robe of Calcified Tears",
+    "slot": 4
+  },
+  {
+    "id": 37978,
+    "name": "DB57 Cloth Spell Chest3",
+    "slot": 4
+  },
+  {
+    "id": 38529,
+    "name": "Robe of the Justicebringer",
+    "slot": 4
+  },
+  {
+    "id": 38740,
+    "name": "QR IC36 Cloth Spell Chest3 - PH",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 38735,
+    "name": "Specially Treated Robes",
+    "slot": 4
+  },
+  {
+    "id": 38719,
+    "name": "Robe of Expurgation",
+    "slot": 4
+  },
+  {
+    "id": 38733,
+    "name": "Raiment of the Caged Beast",
+    "slot": 4
+  },
+  {
+    "id": 39242,
+    "name": "Robes of Hoarse Breaths",
+    "slot": 4
+  },
+  {
+    "id": 39337,
+    "name": "Stained Coop Warmer",
+    "slot": 4
+  },
+  {
+    "id": 39365,
+    "name": "Lifewarden\u0027s Raiment",
+    "slot": 4
+  },
+  {
+    "id": 39396,
+    "name": "Gown of Blaumeux",
+    "slot": 4
+  },
+  {
+    "id": 39497,
+    "name": "Heroes\u0027 Plagueheart Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 39515,
+    "name": "Heroes\u0027 Robe of Faith",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 39492,
+    "name": "Heroes\u0027 Frostfire Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 39523,
+    "name": "Heroes\u0027 Raiments of Faith",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 39781,
+    "name": "Bloodbinder\u0027s Raiment",
+    "slot": 4
+  },
+  {
+    "id": 39785,
+    "name": "Soothsayer\u0027s Garb",
+    "slot": 4
+  },
+  {
+    "id": 40062,
+    "name": "Digested Silken Robes",
+    "slot": 4
+  },
+  {
+    "id": 40194,
+    "name": "Blanketing Robes of Snow",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 40234,
+    "name": "Heigan\u0027s Putrid Vestments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40381,
+    "name": "Sympathy",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40423,
+    "name": "Valorous Plagueheart Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40418,
+    "name": "Valorous Frostfire Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40449,
+    "name": "Valorous Robe of Faith",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40458,
+    "name": "Valorous Raiments of Faith",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 40526,
+    "name": "Gown of the Spell-Weaver",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 40602,
+    "name": "Robes of Mutation",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41515,
+    "name": "Frostwoven Robe",
+    "slot": 4
+  },
+  {
+    "id": 41554,
+    "name": "Black Duskweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 41525,
+    "name": "Mystic Frostwoven Robe",
+    "slot": 4
+  },
+  {
+    "id": 41549,
+    "name": "Duskweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 41760,
+    "name": "Emancipator\u0027s Robes",
+    "slot": 4
+  },
+  {
+    "id": 41920,
+    "name": "Deadly Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41918,
+    "name": "Savage Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41919,
+    "name": "Hateful Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41859,
+    "name": "Furious Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41851,
+    "name": "Savage Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41890,
+    "name": "Robe of the Conquered Prophet",
+    "slot": 4
+  },
+  {
+    "id": 41860,
+    "name": "Relentless Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41857,
+    "name": "Hateful Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41922,
+    "name": "Relentless Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41858,
+    "name": "Deadly Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41921,
+    "name": "Furious Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41951,
+    "name": "Deadly Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41950,
+    "name": "Hateful Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 42001,
+    "name": "Hateful Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41998,
+    "name": "Furious Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41954,
+    "name": "Relentless Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41999,
+    "name": "Relentless Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41997,
+    "name": "Deadly Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41953,
+    "name": "Furious Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41949,
+    "name": "Savage Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 41996,
+    "name": "Savage Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 42102,
+    "name": "Spellweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 42100,
+    "name": "Moonshroud Robe",
+    "slot": 4
+  },
+  {
+    "id": 42101,
+    "name": "Ebonweave Robe",
+    "slot": 4
+  },
+  {
+    "id": 42712,
+    "name": "Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 42721,
+    "name": "Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 42707,
+    "name": "Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 42716,
+    "name": "Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 42792,
+    "name": "Vestments of Dun Niffelem",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 42849,
+    "name": "Flowing Valkyrion Robes",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 42844,
+    "name": "Robes of Lightning",
+    "slot": 4
+  },
+  {
+    "id": 43072,
+    "name": "Blessed Robe of Undead Cleansing",
+    "slot": 4
+  },
+  {
+    "id": 43204,
+    "name": "Hyldnir Runeweaver\u0027s Garb",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 43401,
+    "name": "Water-Drenched Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 43583,
+    "name": "Glacial Robe",
+    "slot": 4,
+    "sockets": 3,
+    "resistances": {
+      "Frost": 115
+    }
+  },
+  {
+    "id": 43972,
+    "name": "Frostsavage Robe",
+    "slot": 4
+  },
+  {
+    "id": 43881,
+    "name": "Demolisher Driver\u0027s Dustcoat",
+    "slot": 4
+  },
+  {
+    "id": 44002,
+    "name": "The Sanctum\u0027s Flowing Vestments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 44061,
+    "name": "Pigment-Stained Robes",
+    "slot": 4
+  },
+  {
+    "id": 44062,
+    "name": "Turtle-Minders Robe",
+    "slot": 4
+  },
+  {
+    "id": 44180,
+    "name": "Robes of Crackling Flame",
+    "slot": 4
+  },
+  {
+    "id": 44355,
+    "name": "Incursion Vestments",
+    "slot": 4
+  },
+  {
+    "id": 44382,
+    "name": "Robes of Refrained Celebration",
+    "slot": 4
+  },
+  {
+    "id": 44404,
+    "name": "Bauble-Woven Gown",
+    "slot": 4
+  },
+  {
+    "id": 44668,
+    "name": "Egg-Warming Blanket",
+    "slot": 4,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45272,
+    "name": "Robes of the Umbral Brute",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 45240,
+    "name": "Raiments of the Iron Council",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 45368,
+    "name": "Valorous Kirin Tor Tunic",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 45389,
+    "name": "Valorous Robe of Sanctification",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 45395,
+    "name": "Valorous Raiments of Sanctification",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 45421,
+    "name": "Valorous Deathbringer Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 45865,
+    "name": "Raiments of the Corrupted",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 46066,
+    "name": "Titan-Forged Raiment of Salvation",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46012,
+    "name": "Vestments of the Piercing Light",
+    "slot": 4
+  },
+  {
+    "id": 46065,
+    "name": "Titan-Forged Raiment of Dominance",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46193,
+    "name": "Conqueror\u0027s Robe of Sanctification",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46137,
+    "name": "Conqueror\u0027s Deathbringer Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46130,
+    "name": "Conqueror\u0027s Kirin Tor Tunic",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46168,
+    "name": "Conqueror\u0027s Raiments of Sanctification",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46992,
+    "name": "Flowing Vestments of Ascent",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 46993,
+    "name": "Flowing Vestments of Ascent",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47129,
+    "name": "Skyweaver Robes",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47126,
+    "name": "Skyweaver Robes",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47264,
+    "name": "Flowing Robes of Ascent",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47301,
+    "name": "Skyweaver Vestments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47425,
+    "name": "Flowing Robes of Ascent",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47462,
+    "name": "Skyweaver Vestments",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47527,
+    "name": "Embrace of Madness",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47604,
+    "name": "Merlin\u0027s Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47603,
+    "name": "Merlin\u0027s Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47606,
+    "name": "Royal Moonshroud Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47605,
+    "name": "Royal Moonshroud Robe",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 47791,
+    "name": "Kel\u0027Thuzad\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47766,
+    "name": "Sunstrider\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47794,
+    "name": "Gul\u0027dan\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47786,
+    "name": "Kel\u0027Thuzad\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47759,
+    "name": "Khadgar\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47769,
+    "name": "Sunstrider\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47756,
+    "name": "Khadgar\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47779,
+    "name": "Kel\u0027Thuzad\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47776,
+    "name": "Sunstrider\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47749,
+    "name": "Khadgar\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47799,
+    "name": "Gul\u0027dan\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47906,
+    "name": "Robes of the Sleepless",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 47806,
+    "name": "Gul\u0027dan\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47838,
+    "name": "Vestments of the Sleepless",
+    "slot": 4,
+    "sockets": 1
+  },
+  {
+    "id": 47974,
+    "name": "Vestments of the Sleepless",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47986,
+    "name": "Velen\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 47936,
+    "name": "Velen\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48031,
+    "name": "Velen\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48063,
+    "name": "Zabra\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48075,
+    "name": "Velen\u0027s Raiments of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48083,
+    "name": "Velen\u0027s Raiments of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48070,
+    "name": "Zabra\u0027s Robe of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48051,
+    "name": "Robes of the Sleepless",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48060,
+    "name": "Zabra\u0027s Robe of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48080,
+    "name": "Velen\u0027s Raiments of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48100,
+    "name": "Zabra\u0027s Raiments of Conquest",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48090,
+    "name": "Zabra\u0027s Raiments of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48093,
+    "name": "Zabra\u0027s Raiments of Triumph",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48743,
+    "name": "Kel\u0027Thuzad\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48728,
+    "name": "Khadgar\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48764,
+    "name": "Zabra\u0027s Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48753,
+    "name": "Zabra\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48759,
+    "name": "Velen\u0027s Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48738,
+    "name": "Gul\u0027dan\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48733,
+    "name": "Sunstrider\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 48748,
+    "name": "Velen\u0027s Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 49825,
+    "name": "Palebone Robes",
+    "slot": 4
+  },
+  {
+    "id": 50243,
+    "name": "Dark Coven Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 50172,
+    "name": "Sanguine Silk Robes",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 50213,
+    "name": "Mord\u0027rethar Robes",
+    "slot": 4
+  },
+  {
+    "id": 50266,
+    "name": "Ancient Polar Bear Hide",
+    "slot": 4
+  },
+  {
+    "id": 50278,
+    "name": "Bloodmage Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 50418,
+    "name": "Robe of the Waking Nightmare",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 50394,
+    "name": "Crimson Acolyte Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 50629,
+    "name": "Robe of the Waking Nightmare",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 50768,
+    "name": "Crimson Acolyte Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 50717,
+    "name": "Sanguine Silk Robes",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 50974,
+    "name": "Meteor Chaser\u0027s Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 50975,
+    "name": "Ermine Coronation Robes",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 51176,
+    "name": "Sanctified Crimson Acolyte Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51180,
+    "name": "Sanctified Crimson Acolyte Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51156,
+    "name": "Sanctified Bloodmage Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51233,
+    "name": "Sanctified Dark Coven Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51206,
+    "name": "Sanctified Dark Coven Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51263,
+    "name": "Sanctified Crimson Acolyte Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51259,
+    "name": "Sanctified Crimson Acolyte Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51283,
+    "name": "Sanctified Bloodmage Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51379,
+    "name": "Bloodsoul Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 51487,
+    "name": "Wrathful Gladiator\u0027s Satin Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51482,
+    "name": "Wrathful Gladiator\u0027s Mooncloth Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51463,
+    "name": "Wrathful Gladiator\u0027s Silk Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51536,
+    "name": "Wrathful Gladiator\u0027s Felweave Raiment",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51740,
+    "name": "Crimson Acolyte Raiments",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51763,
+    "name": "Dark Coven Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51713,
+    "name": "Bloodmage Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51790,
+    "name": "Robes of Azure Downfall",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 51733,
+    "name": "Crimson Acolyte Robe",
+    "slot": 4,
+    "sockets": 2
+  },
+  {
+    "id": 51813,
+    "name": "Robes of Azure Downfall",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 51851,
+    "name": "Bloodsoul Raiment",
+    "slot": 4,
+    "sockets": 3
+  },
+  {
+    "id": 186020,
+    "name": "Communal Armor",
+    "slot": 4
+  },
+  {
+    "id": 199329,
+    "name": "Collective Armor",
+    "slot": 4
   }
 ]

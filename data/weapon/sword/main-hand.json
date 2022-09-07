@@ -10,11 +10,6 @@
     "slot": 15
   },
   {
-    "id": 12797,
-    "name": "Frostguard",
-    "slot": 15
-  },
-  {
     "id": 12940,
     "name": "Dal\u0027Rend\u0027s Sacred Charge",
     "slot": 15
@@ -31,14 +26,6 @@
     "randomEnchantment": true
   },
   {
-    "id": 17015,
-    "name": "Dark Iron Reaver",
-    "slot": 15,
-    "resistances": {
-      "Fire": 6
-    }
-  },
-  {
     "id": 17103,
     "name": "Azuresong Mageblade",
     "slot": 15
@@ -49,13 +36,13 @@
     "slot": 15
   },
   {
-    "id": 19864,
-    "name": "Bloodcaller",
+    "id": 19865,
+    "name": "Warblade of the Hakkari",
     "slot": 15
   },
   {
-    "id": 19865,
-    "name": "Warblade of the Hakkari",
+    "id": 19864,
+    "name": "Bloodcaller",
     "slot": 15
   },
   {
@@ -99,11 +86,6 @@
     "slot": 15
   },
   {
-    "id": 24020,
-    "name": "Shadowrend Longblade",
-    "slot": 15
-  },
-  {
     "id": 24361,
     "name": "Spellfire Longsword",
     "slot": 15
@@ -114,18 +96,13 @@
     "slot": 15
   },
   {
-    "id": 25920,
-    "name": "Sedai\u0027s Blade",
-    "slot": 15
-  },
-  {
     "id": 25915,
     "name": "Fallen Vindicator\u0027s Blade",
     "slot": 15
   },
   {
-    "id": 25964,
-    "name": "Shaarde the Lesser",
+    "id": 25920,
+    "name": "Sedai\u0027s Blade",
     "slot": 15
   },
   {
@@ -134,13 +111,13 @@
     "slot": 15
   },
   {
-    "id": 27905,
-    "name": "Greatsword of Horrid Dreams",
+    "id": 27899,
+    "name": "Mana Wrath",
     "slot": 15
   },
   {
-    "id": 27899,
-    "name": "Mana Wrath",
+    "id": 27905,
+    "name": "Greatsword of Horrid Dreams",
     "slot": 15
   },
   {
@@ -166,16 +143,6 @@
   {
     "id": 29380,
     "name": "Ethereum Phase Blade",
-    "slot": 15
-  },
-  {
-    "id": 29456,
-    "name": "Gift of the Ethereal",
-    "slot": 15
-  },
-  {
-    "id": 30071,
-    "name": "Light Earthforged Blade",
     "slot": 15
   },
   {
@@ -219,6 +186,11 @@
     "slot": 15
   },
   {
+    "id": 33425,
+    "name": "Ice-Pitted Blade",
+    "slot": 15
+  },
+  {
     "id": 33467,
     "name": "Blade of Twisted Visions",
     "slot": 15
@@ -229,8 +201,161 @@
     "slot": 15
   },
   {
+    "id": 37060,
+    "name": "Jeweled Coronation Sword",
+    "slot": 15
+  },
+  {
+    "id": 37721,
+    "name": "Cursed Lich Blade",
+    "slot": 15
+  },
+  {
     "id": 38175,
     "name": "The Horseman\u0027s Blade",
     "slot": 15
+  },
+  {
+    "id": 39132,
+    "name": "Sword of the Caged Mind",
+    "slot": 15
+  },
+  {
+    "id": 39200,
+    "name": "Grieving Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 40006,
+    "name": "Forsaken Sword",
+    "slot": 15
+  },
+  {
+    "id": 40336,
+    "name": "Life and Death",
+    "slot": 15
+  },
+  {
+    "id": 40396,
+    "name": "The Turning Tide",
+    "slot": 15
+  },
+  {
+    "id": 43871,
+    "name": "Saronite Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 45129,
+    "name": "Gnomeregan Bonechopper",
+    "slot": 15
+  },
+  {
+    "id": 45208,
+    "name": "Blade of the Keening Banshee",
+    "slot": 15
+  },
+  {
+    "id": 45287,
+    "name": "Firesoul",
+    "slot": 15
+  },
+  {
+    "id": 45437,
+    "name": "Runescribed Blade",
+    "slot": 15
+  },
+  {
+    "id": 45990,
+    "name": "Fusion Blade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47518,
+    "name": "Mortalis",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47517,
+    "name": "Blade of the Unbroken Covenant",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48708,
+    "name": "Spellstorm Blade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48701,
+    "name": "Spellharvest",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49128,
+    "name": "The Horseman\u0027s Baleful Blade",
+    "slot": 15
+  },
+  {
+    "id": 49298,
+    "name": "Glinting Azuresong Mageblade",
+    "slot": 15
+  },
+  {
+    "id": 49499,
+    "name": "Polished Azuresong Mageblade",
+    "slot": 15
+  },
+  {
+    "id": 49833,
+    "name": "Splintered Icecrown Parapet",
+    "slot": 15
+  },
+  {
+    "id": 50068,
+    "name": "Rigormortis",
+    "slot": 15
+  },
+  {
+    "id": 50047,
+    "name": "Quel\u0027Delar, Lens of the Mind",
+    "slot": 15
+  },
+  {
+    "id": 50210,
+    "name": "Seethe",
+    "slot": 15
+  },
+  {
+    "id": 50427,
+    "name": "Bloodsurge, Kel\u0027Thuzad\u0027s Blade of Agony",
+    "slot": 15
+  },
+  {
+    "id": 50771,
+    "name": "Frost Needle",
+    "slot": 15
+  },
+  {
+    "id": 50704,
+    "name": "Rigormortis",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 50732,
+    "name": "Bloodsurge, Kel\u0027Thuzad\u0027s Blade of Agony",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51932,
+    "name": "Frost Needle",
+    "slot": 15,
+    "sockets": 1
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "id": 4010,
-    "name": "Sterling Chain Bracers",
+    "id": 3994,
+    "name": "Laminated Scale Bracers",
     "slot": 8
   },
   {
-    "id": 3994,
-    "name": "Laminated Scale Bracers",
+    "id": 4010,
+    "name": "Sterling Chain Bracers",
     "slot": 8
   },
   {
@@ -112,8 +112,8 @@
     "slot": 8
   },
   {
-    "id": 15668,
-    "name": "Magnificent Bracers",
+    "id": 15659,
+    "name": "Impenetrable Bindings",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -124,14 +124,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 15659,
-    "name": "Impenetrable Bindings",
+    "id": 15679,
+    "name": "Triumphant Bracers",
     "slot": 8,
     "randomEnchantment": true
   },
   {
-    "id": 15679,
-    "name": "Triumphant Bracers",
+    "id": 15668,
+    "name": "Magnificent Bracers",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -156,23 +156,23 @@
     "slot": 8
   },
   {
-    "id": 16840,
-    "name": "Earthfury Bracers",
-    "slot": 8
-  },
-  {
     "id": 16850,
     "name": "Giantstalker\u0027s Bracers",
     "slot": 8
   },
   {
-    "id": 16943,
-    "name": "Bracers of Ten Storms",
+    "id": 16840,
+    "name": "Earthfury Bracers",
     "slot": 8
   },
   {
     "id": 16935,
     "name": "Dragonstalker\u0027s Bracers",
+    "slot": 8
+  },
+  {
+    "id": 16943,
+    "name": "Bracers of Ten Storms",
     "slot": 8
   },
   {
@@ -191,13 +191,13 @@
     "slot": 8
   },
   {
-    "id": 18448,
-    "name": "Sergeant Major\u0027s Chain Armguards",
+    "id": 18458,
+    "name": "Modest Armguards",
     "slot": 8
   },
   {
-    "id": 18458,
-    "name": "Modest Armguards",
+    "id": 18448,
+    "name": "Sergeant Major\u0027s Chain Armguards",
     "slot": 8
   },
   {
@@ -211,12 +211,12 @@
     "slot": 8
   },
   {
-    "id": 19582,
+    "id": 19583,
     "name": "Windtalker\u0027s Wristguards",
     "slot": 8
   },
   {
-    "id": 19583,
+    "id": 19582,
     "name": "Windtalker\u0027s Wristguards",
     "slot": 8
   },
@@ -231,17 +231,17 @@
     "slot": 8
   },
   {
-    "id": 20481,
-    "name": "Spitfire Bracers",
-    "slot": 8
-  },
-  {
     "id": 20476,
     "name": "Sandstalker Bracers",
     "slot": 8,
     "resistances": {
       "Nature": 15
     }
+  },
+  {
+    "id": 20481,
+    "name": "Spitfire Bracers",
+    "slot": 8
   },
   {
     "id": 20684,
@@ -298,8 +298,8 @@
     "slot": 8
   },
   {
-    "id": 24829,
-    "name": "Netherstalker Bracer",
+    "id": 24813,
+    "name": "Unyielding Bindings",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -310,14 +310,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24837,
-    "name": "Nexus-Strider Bracer",
-    "slot": 8,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24813,
-    "name": "Unyielding Bindings",
+    "id": 24829,
+    "name": "Netherstalker Bracer",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -330,6 +324,12 @@
   {
     "id": 24853,
     "name": "Fenclaw Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24837,
+    "name": "Nexus-Strider Bracer",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -364,8 +364,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24901,
-    "name": "Tortured Bracer",
+    "id": 24909,
+    "name": "Talhide Lined-Bracers",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -376,8 +376,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24909,
-    "name": "Talhide Lined-Bracers",
+    "id": 24901,
+    "name": "Tortured Bracer",
     "slot": 8,
     "randomEnchantment": true
   },
@@ -392,11 +392,6 @@
     "slot": 8
   },
   {
-    "id": 25601,
-    "name": "Murk-Darkened Bracers",
-    "slot": 8
-  },
-  {
     "id": 25592,
     "name": "Clefthoof Wristguards",
     "slot": 8
@@ -404,6 +399,11 @@
   {
     "id": 25598,
     "name": "Fen Strider\u0027s Bracer",
+    "slot": 8
+  },
+  {
+    "id": 25601,
+    "name": "Murk-Darkened Bracers",
     "slot": 8
   },
   {
@@ -433,26 +433,26 @@
     "slot": 8
   },
   {
-    "id": 28194,
-    "name": "Primal Surge Bracers",
-    "slot": 8
-  },
-  {
     "id": 28170,
     "name": "Auchenai Bracers",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 28451,
-    "name": "General\u0027s Chain Bracers",
-    "slot": 8,
-    "sockets": 1
+    "id": 28194,
+    "name": "Primal Surge Bracers",
+    "slot": 8
   },
   {
     "id": 28454,
     "name": "Stalker\u0027s War Bands",
     "slot": 8
+  },
+  {
+    "id": 28451,
+    "name": "General\u0027s Chain Bracers",
+    "slot": 8,
+    "sockets": 1
   },
   {
     "id": 28503,
@@ -472,14 +472,14 @@
     "sockets": 1
   },
   {
-    "id": 28973,
-    "name": "Marshal\u0027s Chain Bracers",
+    "id": 28989,
+    "name": "Marshal\u0027s Linked Bracers",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 28989,
-    "name": "Marshal\u0027s Linked Bracers",
+    "id": 28973,
+    "name": "Marshal\u0027s Chain Bracers",
     "slot": 8,
     "sockets": 1
   },
@@ -490,13 +490,13 @@
     "sockets": 1
   },
   {
-    "id": 29259,
-    "name": "Bracers of the Hunt",
+    "id": 29243,
+    "name": "Wave-Fury Vambraces",
     "slot": 8
   },
   {
-    "id": 29243,
-    "name": "Wave-Fury Vambraces",
+    "id": 29259,
+    "name": "Bracers of the Hunt",
     "slot": 8
   },
   {
@@ -594,15 +594,15 @@
     "slot": 8
   },
   {
-    "id": 31516,
-    "name": "Bracers of the Weald",
-    "slot": 8
-  },
-  {
     "id": 31574,
     "name": "Mistshroud Bracers",
     "slot": 8,
     "randomEnchantment": true
+  },
+  {
+    "id": 31516,
+    "name": "Bracers of the Weald",
+    "slot": 8
   },
   {
     "id": 32251,
@@ -633,6 +633,12 @@
     "slot": 8
   },
   {
+    "id": 32817,
+    "name": "Veteran\u0027s Mail Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
     "id": 32809,
     "name": "Veteran\u0027s Chain Bracers",
     "slot": 8,
@@ -641,18 +647,6 @@
   {
     "id": 32816,
     "name": "Veteran\u0027s Linked Bracers",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
-    "id": 32817,
-    "name": "Veteran\u0027s Mail Bracers",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
-    "id": 32994,
-    "name": "Marshal\u0027s Ringmail Bracers",
     "slot": 8,
     "sockets": 1
   },
@@ -669,13 +663,19 @@
     "sockets": 1
   },
   {
-    "id": 33532,
-    "name": "Gleaming Earthen Bracers",
+    "id": 32994,
+    "name": "Marshal\u0027s Ringmail Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 33393,
+    "name": "Icy Mail Bracers",
     "slot": 8
   },
   {
-    "id": 33529,
-    "name": "Steadying Bracers",
+    "id": 33400,
+    "name": "Frigid Mail Bracers",
     "slot": 8
   },
   {
@@ -683,6 +683,16 @@
     "name": "Earthquake Bracers",
     "slot": 8,
     "sockets": 1
+  },
+  {
+    "id": 33529,
+    "name": "Steadying Bracers",
+    "slot": 8
+  },
+  {
+    "id": 33532,
+    "name": "Gleaming Earthen Bracers",
+    "slot": 8
   },
   {
     "id": 33876,
@@ -709,18 +719,6 @@
     "sockets": 1
   },
   {
-    "id": 34439,
-    "name": "Skyshatter Wristguards",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
-    "id": 34437,
-    "name": "Skyshatter Bands",
-    "slot": 8,
-    "sockets": 1
-  },
-  {
     "id": 34443,
     "name": "Gronnstalker\u0027s Bracers",
     "slot": 8,
@@ -733,14 +731,20 @@
     "sockets": 1
   },
   {
-    "id": 34698,
-    "name": "Bracers of the Forest Stalker",
+    "id": 34437,
+    "name": "Skyshatter Bands",
     "slot": 8,
     "sockets": 1
   },
   {
-    "id": 35172,
-    "name": "Guardian\u0027s Linked Bracers",
+    "id": 34439,
+    "name": "Skyshatter Wristguards",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 34698,
+    "name": "Bracers of the Forest Stalker",
     "slot": 8,
     "sockets": 1
   },
@@ -751,8 +755,8 @@
     "sockets": 1
   },
   {
-    "id": 35166,
-    "name": "Guardian\u0027s Chain Bracers",
+    "id": 35172,
+    "name": "Guardian\u0027s Linked Bracers",
     "slot": 8,
     "sockets": 1
   },
@@ -761,5 +765,685 @@
     "name": "Guardian\u0027s Ringmail Bracers",
     "slot": 8,
     "sockets": 1
+  },
+  {
+    "id": 35166,
+    "name": "Guardian\u0027s Chain Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 35615,
+    "name": "Glowworm Cavern Bindings",
+    "slot": 8
+  },
+  {
+    "id": 35640,
+    "name": "Darkweb Bindings",
+    "slot": 8
+  },
+  {
+    "id": 35894,
+    "name": "Purestrike Bracers",
+    "slot": 8
+  },
+  {
+    "id": 35923,
+    "name": "Cold-Iron Armbands",
+    "slot": 8
+  },
+  {
+    "id": 36234,
+    "name": "Trapper Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36218,
+    "name": "Orca Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36258,
+    "name": "Wolvar Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36250,
+    "name": "Mammoth Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36210,
+    "name": "Nifflevar Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36202,
+    "name": "Skom Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36242,
+    "name": "Shoveltusk Bindings",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36194,
+    "name": "Njord Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36226,
+    "name": "Amberpine Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36186,
+    "name": "Garmaul Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36282,
+    "name": "Spiderlord Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36274,
+    "name": "Ulduar Bracers",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36266,
+    "name": "Cormorant Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36290,
+    "name": "Spectral Bracelets",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37069,
+    "name": "Dragonflayer Seer\u0027s Bindings",
+    "slot": 8
+  },
+  {
+    "id": 37170,
+    "name": "Interwoven Scale Bracers",
+    "slot": 8
+  },
+  {
+    "id": 37138,
+    "name": "Bands of Channeled Energy",
+    "slot": 8
+  },
+  {
+    "id": 37365,
+    "name": "Bands of the Sky Ring",
+    "slot": 8
+  },
+  {
+    "id": 37422,
+    "name": "Westrift Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 37428,
+    "name": "Ring-Ridden Wrist Protectors",
+    "slot": 8
+  },
+  {
+    "id": 37435,
+    "name": "Flame Infused Bindings",
+    "slot": 8
+  },
+  {
+    "id": 37458,
+    "name": "Wristguards of Rocky Horror",
+    "slot": 8
+  },
+  {
+    "id": 37656,
+    "name": "Raging Construct Bands",
+    "slot": 8
+  },
+  {
+    "id": 37776,
+    "name": "Bracers of Accurate Fire",
+    "slot": 8
+  },
+  {
+    "id": 37777,
+    "name": "Bracers of Sizzling Heat",
+    "slot": 8
+  },
+  {
+    "id": 37788,
+    "name": "Limb Regeneration Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38040,
+    "name": "Iceshear Bindings",
+    "slot": 8
+  },
+  {
+    "id": 38026,
+    "name": "Sharkdiver\u0027s Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38064,
+    "name": "DB56 Mail Healer Bracer2",
+    "slot": 8
+  },
+  {
+    "id": 38063,
+    "name": "DB61Mail Physical Bracer3",
+    "slot": 8
+  },
+  {
+    "id": 38054,
+    "name": "Paingiver Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 38435,
+    "name": "Nerubian Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38436,
+    "name": "Frostscale Bracers",
+    "slot": 8
+  },
+  {
+    "id": 38444,
+    "name": "Mail Melee Leatherworking Bracer",
+    "slot": 8
+  },
+  {
+    "id": 38535,
+    "name": "Wristguards of the Remorseful",
+    "slot": 8
+  },
+  {
+    "id": 39059,
+    "name": "Wristguard of the Tormented Soul",
+    "slot": 8
+  },
+  {
+    "id": 39068,
+    "name": "Flesh-scaled Bracers",
+    "slot": 8
+  },
+  {
+    "id": 39056,
+    "name": "Whip-Stitched Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 39307,
+    "name": "Iron Rings of Endurance",
+    "slot": 8
+  },
+  {
+    "id": 39278,
+    "name": "Bands of Anxiety",
+    "slot": 8
+  },
+  {
+    "id": 39445,
+    "name": "Roc Hunter\u0027s Bracer",
+    "slot": 8
+  },
+  {
+    "id": 39430,
+    "name": "Spitelinked Bracers",
+    "slot": 8
+  },
+  {
+    "id": 39657,
+    "name": "Tornado Cuffs",
+    "slot": 8
+  },
+  {
+    "id": 39679,
+    "name": "Runecaster\u0027s Bracers",
+    "slot": 8
+  },
+  {
+    "id": 39702,
+    "name": "Arachnoid Gold Band",
+    "slot": 8
+  },
+  {
+    "id": 39880,
+    "name": "Redigested Mail Scraps",
+    "slot": 8
+  },
+  {
+    "id": 39850,
+    "name": "Wristguards of Service",
+    "slot": 8
+  },
+  {
+    "id": 40209,
+    "name": "Bindings of the Decrepit",
+    "slot": 8
+  },
+  {
+    "id": 40282,
+    "name": "Slime Stream Bands",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 40324,
+    "name": "Bands of Mutual Respect",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 40490,
+    "name": "Necromantic Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 40737,
+    "name": "Pigmented Clan Bindings",
+    "slot": 8
+  },
+  {
+    "id": 40736,
+    "name": "Armguard of the Tower Archer",
+    "slot": 8
+  },
+  {
+    "id": 41061,
+    "name": "Relentless Gladiator\u0027s Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41063,
+    "name": "Hateful Gladiator\u0027s Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41059,
+    "name": "Deadly Gladiator\u0027s Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41047,
+    "name": "Hateful Gladiator\u0027s Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41066,
+    "name": "Relentless Gladiator\u0027s Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41064,
+    "name": "Deadly Gladiator\u0027s Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41065,
+    "name": "Furious Gladiator\u0027s Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 41060,
+    "name": "Furious Gladiator\u0027s Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 41226,
+    "name": "Relentless Gladiator\u0027s Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 41223,
+    "name": "Hateful Gladiator\u0027s Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 41224,
+    "name": "Deadly Gladiator\u0027s Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 41225,
+    "name": "Furious Gladiator\u0027s Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 41844,
+    "name": "Bracers of Vengeful Flight",
+    "slot": 8
+  },
+  {
+    "id": 42816,
+    "name": "Cuffs of Invention",
+    "slot": 8
+  },
+  {
+    "id": 42888,
+    "name": "Summit Bracers",
+    "slot": 8
+  },
+  {
+    "id": 42892,
+    "name": "Scaled Proto-Wristguard",
+    "slot": 8
+  },
+  {
+    "id": 43131,
+    "name": "Eaglebane Bracers",
+    "slot": 8
+  },
+  {
+    "id": 43444,
+    "name": "Swiftarrow Bracers",
+    "slot": 8
+  },
+  {
+    "id": 43452,
+    "name": "Stormhide Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 43459,
+    "name": "Giantmaim Bracers",
+    "slot": 8
+  },
+  {
+    "id": 43934,
+    "name": "Enchanted Bracelets of the Scout",
+    "slot": 8
+  },
+  {
+    "id": 43980,
+    "name": "Thane\u0027s Restraints",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 44037,
+    "name": "Iskalder\u0027s Fate",
+    "slot": 8
+  },
+  {
+    "id": 44368,
+    "name": "Accused Wristguards",
+    "slot": 8
+  },
+  {
+    "id": 44340,
+    "name": "Bindings of Raelorasz",
+    "slot": 8
+  },
+  {
+    "id": 44669,
+    "name": "Worgen-Scored Shackles",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45187,
+    "name": "Wristguards of the Firetender",
+    "slot": 8
+  },
+  {
+    "id": 45301,
+    "name": "Bracers of the Smothering Inferno",
+    "slot": 8
+  },
+  {
+    "id": 45316,
+    "name": "Armbraces of the Vibrant Flame",
+    "slot": 8
+  },
+  {
+    "id": 45454,
+    "name": "Frost-bound Chain Bracers",
+    "slot": 8
+  },
+  {
+    "id": 45460,
+    "name": "Bindings of Winter Gale",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47068,
+    "name": "Bracers of Cloudy Omen",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47056,
+    "name": "Bracers of Cloudy Omen",
+    "slot": 8
+  },
+  {
+    "id": 47073,
+    "name": "Bracers of the Untold Massacre",
+    "slot": 8
+  },
+  {
+    "id": 47074,
+    "name": "Bracers of the Untold Massacre",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47211,
+    "name": "Wristguards of Ceaseless Regret",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47281,
+    "name": "Bracers of the Silent Massacre",
+    "slot": 8
+  },
+  {
+    "id": 47280,
+    "name": "Wristwraps of Cloudy Omen",
+    "slot": 8
+  },
+  {
+    "id": 47441,
+    "name": "Wristwraps of Cloudy Omen",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47442,
+    "name": "Bracers of the Silent Massacre",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47580,
+    "name": "Black Chitin Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47577,
+    "name": "Crusader\u0027s Dragonscale Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47579,
+    "name": "Black Chitin Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47576,
+    "name": "Crusader\u0027s Dragonscale Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47610,
+    "name": "Armbands of the Northern Stalker",
+    "slot": 8
+  },
+  {
+    "id": 47916,
+    "name": "Armbands of the Northern Stalker",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 47850,
+    "name": "Bracers of the Northern Stalker",
+    "slot": 8
+  },
+  {
+    "id": 47989,
+    "name": "Bracers of the Northern Stalker",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 48981,
+    "name": "Titan-Forged Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 48982,
+    "name": "Titan-Forged Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 48980,
+    "name": "Titan-Forged Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 49820,
+    "name": "Gondria\u0027s Spectral Bracer",
+    "slot": 8
+  },
+  {
+    "id": 49787,
+    "name": "Seven Stormy Mornings",
+    "slot": 8
+  },
+  {
+    "id": 50000,
+    "name": "Scourge Hunter\u0027s Vambraces",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50030,
+    "name": "Bloodsunder\u0027s Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50209,
+    "name": "Essence of Suffering",
+    "slot": 8
+  },
+  {
+    "id": 50655,
+    "name": "Scourge Hunter\u0027s Vambraces",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50774,
+    "name": "Coldwraith Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50687,
+    "name": "Bloodsunder\u0027s Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 50789,
+    "name": "Icecrown Rampart Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 51373,
+    "name": "Wrathful Gladiator\u0027s Wristguards of Salvation",
+    "slot": 8
+  },
+  {
+    "id": 51352,
+    "name": "Wrathful Gladiator\u0027s Wristguards of Triumph",
+    "slot": 8
+  },
+  {
+    "id": 51376,
+    "name": "Wrathful Gladiator\u0027s Wristguards of Dominance",
+    "slot": 8
+  },
+  {
+    "id": 51929,
+    "name": "Coldwraith Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 51981,
+    "name": "Earthbound Wristguards",
+    "slot": 8,
+    "randomEnchantment": true
+  },
+  {
+    "id": 51914,
+    "name": "Icecrown Rampart Bracers",
+    "slot": 8,
+    "sockets": 1
+  },
+  {
+    "id": 186040,
+    "name": "Communal Armguards",
+    "slot": 8
+  },
+  {
+    "id": 186084,
+    "name": "Communal Armguards",
+    "slot": 8
+  },
+  {
+    "id": 199500,
+    "name": "Collective Armguards",
+    "slot": 8
+  },
+  {
+    "id": 199492,
+    "name": "Collective Armguards",
+    "slot": 8
   }
 ]

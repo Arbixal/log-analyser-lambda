@@ -7,12 +7,12 @@
     }
   },
   {
-    "id": 8254,
-    "name": "Imperial Red Circlet"
-  },
-  {
     "id": 8292,
     "name": "Arcane Cover"
+  },
+  {
+    "id": 8254,
+    "name": "Imperial Red Circlet"
   },
   {
     "id": 8754,
@@ -21,6 +21,11 @@
   {
     "id": 10061,
     "name": "Duskwoven Turban",
+    "randomEnchantment": true
+  },
+  {
+    "id": 10097,
+    "name": "Councillor\u0027s Circlet",
     "randomEnchantment": true
   },
   {
@@ -34,18 +39,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 10097,
-    "name": "Councillor\u0027s Circlet",
+    "id": 10250,
+    "name": "Master\u0027s Hat",
     "randomEnchantment": true
   },
   {
     "id": 10219,
     "name": "Elegant Circlet",
-    "randomEnchantment": true
-  },
-  {
-    "id": 10250,
-    "name": "Master\u0027s Hat",
     "randomEnchantment": true
   },
   {
@@ -120,23 +120,13 @@
     "name": "Mooncloth Circlet"
   },
   {
-    "id": 14281,
-    "name": "Opulent Crown",
-    "randomEnchantment": true
-  },
-  {
     "id": 14293,
     "name": "Arachnidian Circlet",
     "randomEnchantment": true
   },
   {
-    "id": 14312,
-    "name": "Celestial Crown",
-    "randomEnchantment": true
-  },
-  {
-    "id": 14322,
-    "name": "Resplendent Circlet",
+    "id": 14281,
+    "name": "Opulent Crown",
     "randomEnchantment": true
   },
   {
@@ -145,8 +135,18 @@
     "randomEnchantment": true
   },
   {
+    "id": 14322,
+    "name": "Resplendent Circlet",
+    "randomEnchantment": true
+  },
+  {
     "id": 14332,
     "name": "Eternal Crown",
+    "randomEnchantment": true
+  },
+  {
+    "id": 14312,
+    "name": "Celestial Crown",
     "randomEnchantment": true
   },
   {
@@ -158,12 +158,12 @@
     "name": "Elunarian Diadem"
   },
   {
-    "id": 15999,
-    "name": "Spellpower Goggles Xtreme Plus"
-  },
-  {
     "id": 16008,
     "name": "Master Engineer\u0027s Goggles"
+  },
+  {
+    "id": 15999,
+    "name": "Spellpower Goggles Xtreme Plus"
   },
   {
     "id": 16416,
@@ -182,27 +182,20 @@
     "name": "Warlord\u0027s Silk Cowl"
   },
   {
-    "id": 16698,
-    "name": "Dreadmist Mask"
+    "id": 16693,
+    "name": "Devout Crown"
   },
   {
     "id": 16686,
     "name": "Magister\u0027s Crown"
   },
   {
-    "id": 16693,
-    "name": "Devout Crown"
+    "id": 16698,
+    "name": "Dreadmist Mask"
   },
   {
     "id": 16795,
     "name": "Arcanist Crown",
-    "resistances": {
-      "Fire": 10
-    }
-  },
-  {
-    "id": 16813,
-    "name": "Circlet of Prophecy",
     "resistances": {
       "Fire": 10
     }
@@ -215,16 +208,15 @@
     }
   },
   {
-    "id": 16914,
-    "name": "Netherwind Crown",
+    "id": 16813,
+    "name": "Circlet of Prophecy",
     "resistances": {
-      "Frost": 10,
-      "Shadow": 10
+      "Fire": 10
     }
   },
   {
-    "id": 16929,
-    "name": "Nemesis Skullcap",
+    "id": 16914,
+    "name": "Netherwind Crown",
     "resistances": {
       "Frost": 10,
       "Shadow": 10
@@ -239,20 +231,40 @@
     }
   },
   {
-    "id": 17570,
-    "name": "Champion\u0027s Dreadweave Hood"
+    "id": 16929,
+    "name": "Nemesis Skullcap",
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
   },
   {
-    "id": 17578,
-    "name": "Field Marshal\u0027s Coronal"
+    "id": 17591,
+    "name": "Warlord\u0027s Dreadweave Hood"
+  },
+  {
+    "id": 17570,
+    "name": "Champion\u0027s Dreadweave Hood"
   },
   {
     "id": 17566,
     "name": "Lieutenant Commander\u0027s Headguard"
   },
   {
+    "id": 17578,
+    "name": "Field Marshal\u0027s Coronal"
+  },
+  {
+    "id": 17598,
+    "name": "Lieutenant Commander\u0027s Diadem"
+  },
+  {
     "id": 17602,
     "name": "Field Marshal\u0027s Headdress"
+  },
+  {
+    "id": 17610,
+    "name": "Champion\u0027s Satin Cowl"
   },
   {
     "id": 17623,
@@ -261,18 +273,6 @@
   {
     "id": 17715,
     "name": "Eye of Theradras"
-  },
-  {
-    "id": 17610,
-    "name": "Champion\u0027s Satin Cowl"
-  },
-  {
-    "id": 17591,
-    "name": "Warlord\u0027s Dreadweave Hood"
-  },
-  {
-    "id": 17598,
-    "name": "Lieutenant Commander\u0027s Diadem"
   },
   {
     "id": 18526,
@@ -307,12 +307,12 @@
     "name": "Twilight Cultist Cowl"
   },
   {
-    "id": 21347,
-    "name": "Enigma Circlet"
-  },
-  {
     "id": 21337,
     "name": "Doomcaller\u0027s Circlet"
+  },
+  {
+    "id": 21347,
+    "name": "Enigma Circlet"
   },
   {
     "id": 21348,
@@ -331,16 +331,12 @@
     "name": "Don Rigoberto\u0027s Lost Hat"
   },
   {
-    "id": 21774,
-    "name": "Emerald Crown of Destruction"
-  },
-  {
     "id": 21780,
     "name": "Blood Crown"
   },
   {
-    "id": 22080,
-    "name": "Virtuous Crown"
+    "id": 21774,
+    "name": "Emerald Crown of Destruction"
   },
   {
     "id": 22065,
@@ -349,6 +345,10 @@
   {
     "id": 22074,
     "name": "Deathmist Mask"
+  },
+  {
+    "id": 22080,
+    "name": "Virtuous Crown"
   },
   {
     "id": 22225,
@@ -364,12 +364,12 @@
     "name": "Ironweave Cowl"
   },
   {
-    "id": 22506,
-    "name": "Plagueheart Circlet"
-  },
-  {
     "id": 22498,
     "name": "Frostfire Circlet"
+  },
+  {
+    "id": 22506,
+    "name": "Plagueheart Circlet"
   },
   {
     "id": 22514,
@@ -398,24 +398,24 @@
     "name": "Preceptor\u0027s Hat"
   },
   {
-    "id": 23255,
-    "name": "Champion\u0027s Dreadweave Cowl"
+    "id": 23261,
+    "name": "Champion\u0027s Satin Hood"
   },
   {
     "id": 23263,
     "name": "Champion\u0027s Silk Cowl"
   },
   {
-    "id": 23261,
-    "name": "Champion\u0027s Satin Hood"
-  },
-  {
-    "id": 23318,
-    "name": "Lieutenant Commander\u0027s Silk Cowl"
+    "id": 23255,
+    "name": "Champion\u0027s Dreadweave Cowl"
   },
   {
     "id": 23310,
     "name": "Lieutenant Commander\u0027s Dreadweave Cowl"
+  },
+  {
+    "id": 23318,
+    "name": "Lieutenant Commander\u0027s Silk Cowl"
   },
   {
     "id": 23316,
@@ -426,20 +426,20 @@
     "name": "Mirren\u0027s Drinking Hat"
   },
   {
-    "id": 23761,
-    "name": "Power Amplification Goggles"
-  },
-  {
     "id": 23762,
     "name": "Ultra-Spectropic Detection Goggles"
   },
   {
-    "id": 23838,
-    "name": "Foreman\u0027s Enchanted Helmet"
+    "id": 23761,
+    "name": "Power Amplification Goggles"
   },
   {
     "id": 23828,
     "name": "Gnomish Power Goggles"
+  },
+  {
+    "id": 23838,
+    "name": "Foreman\u0027s Enchanted Helmet"
   },
   {
     "id": 24123,
@@ -455,14 +455,14 @@
     "sockets": 3
   },
   {
-    "id": 24266,
-    "name": "Spellstrike Hood",
-    "sockets": 3
-  },
-  {
     "id": 24267,
     "name": "Battlecast Hood",
     "sockets": 2
+  },
+  {
+    "id": 24266,
+    "name": "Spellstrike Hood",
+    "sockets": 3
   },
   {
     "id": 24553,
@@ -476,6 +476,11 @@
   {
     "id": 24585,
     "name": "Outlander\u0027s Facewrap",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24593,
+    "name": "Fireheart Skullcap",
     "randomEnchantment": true
   },
   {
@@ -494,11 +499,6 @@
     "randomEnchantment": true
   },
   {
-    "id": 24625,
-    "name": "Slavehandler Cap",
-    "randomEnchantment": true
-  },
-  {
     "id": 24633,
     "name": "Feralfen Hood",
     "randomEnchantment": true
@@ -509,8 +509,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24657,
-    "name": "Consortium Hood",
+    "id": 24625,
+    "name": "Slavehandler Cap",
     "randomEnchantment": true
   },
   {
@@ -519,13 +519,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 24593,
-    "name": "Fireheart Skullcap",
+    "id": 24665,
+    "name": "Shadow Council Cowl",
     "randomEnchantment": true
   },
   {
-    "id": 24665,
-    "name": "Shadow Council Cowl",
+    "id": 24657,
+    "name": "Consortium Hood",
     "randomEnchantment": true
   },
   {
@@ -534,13 +534,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 24689,
-    "name": "Elementalist Skullcap",
+    "id": 24681,
+    "name": "Archmage Headpiece",
     "randomEnchantment": true
   },
   {
-    "id": 24681,
-    "name": "Archmage Headpiece",
+    "id": 24689,
+    "name": "Elementalist Skullcap",
     "randomEnchantment": true
   },
   {
@@ -574,12 +574,12 @@
     "name": "Collar of Command"
   },
   {
-    "id": 27488,
-    "name": "Mage-Collar of the Firestorm"
-  },
-  {
     "id": 27466,
     "name": "Headdress of Alacrity"
+  },
+  {
+    "id": 27488,
+    "name": "Mage-Collar of the Firestorm"
   },
   {
     "id": 27708,
@@ -595,9 +595,8 @@
     "name": "Scintillating Headdress of Second Sight"
   },
   {
-    "id": 28183,
-    "name": "Hydromancer\u0027s Headwrap",
-    "sockets": 2
+    "id": 28169,
+    "name": "Mag\u0027hari Ritualist\u0027s Horns"
   },
   {
     "id": 28193,
@@ -605,8 +604,9 @@
     "sockets": 2
   },
   {
-    "id": 28169,
-    "name": "Mag\u0027hari Ritualist\u0027s Horns"
+    "id": 28183,
+    "name": "Hydromancer\u0027s Headwrap",
+    "sockets": 2
   },
   {
     "id": 28278,
@@ -647,9 +647,8 @@
     "name": "Uni-Mind Headdress"
   },
   {
-    "id": 28759,
-    "name": "Exorcist\u0027s Dreadweave Hood",
-    "sockets": 1
+    "id": 28756,
+    "name": "Headdress of the High Potentate"
   },
   {
     "id": 28760,
@@ -657,8 +656,9 @@
     "sockets": 1
   },
   {
-    "id": 28756,
-    "name": "Headdress of the High Potentate"
+    "id": 28759,
+    "name": "Exorcist\u0027s Dreadweave Hood",
+    "sockets": 1
   },
   {
     "id": 28804,
@@ -690,23 +690,23 @@
     "sockets": 2
   },
   {
-    "id": 29076,
-    "name": "Collar of the Aldor",
-    "sockets": 2
-  },
-  {
     "id": 29058,
     "name": "Soul-Collar of the Incarnate",
     "sockets": 2
   },
   {
-    "id": 29122,
-    "name": "Nether Runner\u0027s Cowl",
+    "id": 29076,
+    "name": "Collar of the Aldor",
     "sockets": 2
   },
   {
     "id": 29174,
     "name": "Watcher\u0027s Cowl"
+  },
+  {
+    "id": 29122,
+    "name": "Nether Runner\u0027s Cowl",
+    "sockets": 2
   },
   {
     "id": 29927,
@@ -763,16 +763,26 @@
     "name": "X-52 Rocket Helmet"
   },
   {
-    "id": 30922,
-    "name": "Ata\u0027mal Crown"
-  },
-  {
     "id": 30931,
     "name": "Ghostly Headwrap"
   },
   {
+    "id": 30922,
+    "name": "Ata\u0027mal Crown"
+  },
+  {
+    "id": 31056,
+    "name": "Cowl of the Tempest",
+    "sockets": 2
+  },
+  {
     "id": 31051,
     "name": "Hood of the Malefic",
+    "sockets": 2
+  },
+  {
+    "id": 31064,
+    "name": "Hood of Absolution",
     "sockets": 2
   },
   {
@@ -781,24 +791,9 @@
     "sockets": 2
   },
   {
-    "id": 31056,
-    "name": "Cowl of the Tempest",
-    "sockets": 2
-  },
-  {
     "id": 31104,
     "name": "Evoker\u0027s Helmet of Second Sight",
     "sockets": 3
-  },
-  {
-    "id": 31064,
-    "name": "Hood of Absolution",
-    "sockets": 2
-  },
-  {
-    "id": 31220,
-    "name": "Amethyst Beholder Eye",
-    "randomEnchantment": true
   },
   {
     "id": 31185,
@@ -810,13 +805,14 @@
     "name": "Crown of Endless Knowledge"
   },
   {
+    "id": 31220,
+    "name": "Amethyst Beholder Eye",
+    "randomEnchantment": true
+  },
+  {
     "id": 31410,
     "name": "Gladiator\u0027s Mooncloth Hood",
     "sockets": 2
-  },
-  {
-    "id": 31509,
-    "name": "Wyrmcultist\u0027s Hood"
   },
   {
     "id": 31546,
@@ -828,13 +824,17 @@
     "randomEnchantment": true
   },
   {
-    "id": 31626,
-    "name": "High Warlord\u0027s Mooncloth Cowl",
-    "sockets": 2
+    "id": 31509,
+    "name": "Wyrmcultist\u0027s Hood"
   },
   {
     "id": 31622,
     "name": "Grand Marshal\u0027s Mooncloth Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 31626,
+    "name": "High Warlord\u0027s Mooncloth Cowl",
     "sockets": 2
   },
   {
@@ -847,23 +847,13 @@
     "sockets": 2
   },
   {
-    "id": 31980,
-    "name": "Merciless Gladiator\u0027s Felweave Cowl",
-    "sockets": 2
-  },
-  {
     "id": 32016,
     "name": "Merciless Gladiator\u0027s Mooncloth Hood",
     "sockets": 2
   },
   {
-    "id": 32090,
-    "name": "Cowl of Naaru Blessings",
-    "sockets": 2
-  },
-  {
-    "id": 32048,
-    "name": "Merciless Gladiator\u0027s Silk Cowl",
+    "id": 31980,
+    "name": "Merciless Gladiator\u0027s Felweave Cowl",
     "sockets": 2
   },
   {
@@ -874,6 +864,16 @@
   {
     "id": 32089,
     "name": "Mana-Binders Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 32090,
+    "name": "Cowl of Naaru Blessings",
+    "sockets": 2
+  },
+  {
+    "id": 32048,
+    "name": "Merciless Gladiator\u0027s Silk Cowl",
     "sockets": 2
   },
   {
@@ -902,6 +902,14 @@
     "sockets": 3
   },
   {
+    "id": 33436,
+    "name": "Frost-Rimed Cloth Hat"
+  },
+  {
+    "id": 33438,
+    "name": "Thread-Bare Hat"
+  },
+  {
     "id": 33463,
     "name": "Hood of the Third Eye",
     "sockets": 3
@@ -912,18 +920,13 @@
     "sockets": 3
   },
   {
-    "id": 33677,
-    "name": "Vengeful Gladiator\u0027s Dreadweave Hood",
-    "sockets": 2
-  },
-  {
-    "id": 33718,
-    "name": "Vengeful Gladiator\u0027s Mooncloth Hood",
-    "sockets": 2
-  },
-  {
     "id": 33683,
     "name": "Vengeful Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 33677,
+    "name": "Vengeful Gladiator\u0027s Dreadweave Hood",
     "sockets": 2
   },
   {
@@ -937,17 +940,22 @@
     "sockets": 2
   },
   {
+    "id": 33718,
+    "name": "Vengeful Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
     "id": 33820,
     "name": "Weather-Beaten Fishing Hat"
   },
   {
-    "id": 34340,
-    "name": "Dark Conjuror\u0027s Collar",
+    "id": 34339,
+    "name": "Cowl of Light\u0027s Purity",
     "sockets": 2
   },
   {
-    "id": 34339,
-    "name": "Cowl of Light\u0027s Purity",
+    "id": 34340,
+    "name": "Dark Conjuror\u0027s Collar",
     "sockets": 2
   },
   {
@@ -966,13 +974,13 @@
     "sockets": 2
   },
   {
-    "id": 35010,
-    "name": "Brutal Gladiator\u0027s Felweave Cowl",
+    "id": 35054,
+    "name": "Brutal Gladiator\u0027s Mooncloth Hood",
     "sockets": 2
   },
   {
-    "id": 35054,
-    "name": "Brutal Gladiator\u0027s Mooncloth Hood",
+    "id": 35097,
+    "name": "Brutal Gladiator\u0027s Silk Cowl",
     "sockets": 2
   },
   {
@@ -981,8 +989,8 @@
     "sockets": 2
   },
   {
-    "id": 35097,
-    "name": "Brutal Gladiator\u0027s Silk Cowl",
+    "id": 35010,
+    "name": "Brutal Gladiator\u0027s Felweave Cowl",
     "sockets": 2
   },
   {
@@ -996,11 +1004,6 @@
     "sockets": 2
   },
   {
-    "id": 35333,
-    "name": "Mooncloth Cowl",
-    "sockets": 2
-  },
-  {
     "id": 35344,
     "name": "Evoker\u0027s Silk Cowl",
     "sockets": 2
@@ -1011,16 +1014,978 @@
     "sockets": 2
   },
   {
+    "id": 35333,
+    "name": "Mooncloth Cowl",
+    "sockets": 2
+  },
+  {
     "id": 35466,
     "name": "Satin Hood",
     "sockets": 2
+  },
+  {
+    "id": 35572,
+    "name": "Reinforced Velvet Helm"
+  },
+  {
+    "id": 35679,
+    "name": "Static Cowl"
+  },
+  {
+    "id": 35844,
+    "name": "Shock-Resistant Hood"
+  },
+  {
+    "id": 35814,
+    "name": "Benevolent Hood"
+  },
+  {
+    "id": 35959,
+    "name": "Farshire Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 35983,
+    "name": "Foothold Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36015,
+    "name": "Tethys Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 35975,
+    "name": "Mur\u0027ghoul Cap",
+    "randomEnchantment": true
+  },
+  {
+    "id": 35967,
+    "name": "Bloodspore Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 35999,
+    "name": "Voldrune Crown",
+    "randomEnchantment": true
+  },
+  {
+    "id": 35991,
+    "name": "Bristlepine Headpiece",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36007,
+    "name": "Icemist Circlet",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36023,
+    "name": "Aerie Headpiece",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36031,
+    "name": "Oracle Circlet",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36063,
+    "name": "Coldwraith Cowl",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36047,
+    "name": "Crystalsong Crown",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36039,
+    "name": "Condor Headpiece",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36055,
+    "name": "Vizier Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36884,
+    "name": "Transborean Cover"
+  },
+  {
+    "id": 36985,
+    "name": "Volkhan\u0027s Hood"
+  },
+  {
+    "id": 37234,
+    "name": "Layered Frost Hood"
+  },
+  {
+    "id": 37215,
+    "name": "Lost Sea Oculus"
+  },
+  {
+    "id": 37209,
+    "name": "Wharfmaster\u0027s Hat"
+  },
+  {
+    "id": 37294,
+    "name": "Crown of Unbridled Magic",
+    "sockets": 2
+  },
+  {
+    "id": 37274,
+    "name": "Mender\u0027s Cover"
+  },
+  {
+    "id": 37295,
+    "name": "HF28 Cloth Spell Head4"
+  },
+  {
+    "id": 37462,
+    "name": "Sea King\u0027s Crown",
+    "sockets": 1
+  },
+  {
+    "id": 37594,
+    "name": "Elder Headpiece"
+  },
+  {
+    "id": 37684,
+    "name": "Forgotten Shadow Hood",
+    "sockets": 2
+  },
+  {
+    "id": 37715,
+    "name": "Cowl of the Dire Troll"
+  },
+  {
+    "id": 37754,
+    "name": "Shimmersteel Hood"
+  },
+  {
+    "id": 37746,
+    "name": "Helm of the Burning Soul"
+  },
+  {
+    "id": 37936,
+    "name": "Fisherman\u0027s Earwarmer"
+  },
+  {
+    "id": 37943,
+    "name": "Kirin Tor Initiate\u0027s Cowl"
+  },
+  {
+    "id": 37970,
+    "name": "Feathers of the Dragon Wastes"
+  },
+  {
+    "id": 37958,
+    "name": "Wastewind Headcover"
+  },
+  {
+    "id": 37965,
+    "name": "Wyrmward Cover"
+  },
+  {
+    "id": 38276,
+    "name": "Haliscan Brimmed Hat"
   },
   {
     "id": 38506,
     "name": "Don Carlos\u0027 Famous Hat"
   },
   {
-    "id": 38276,
-    "name": "Haliscan Brimmed Hat"
+    "id": 38712,
+    "name": "Headbinder\u0027s Crown"
+  },
+  {
+    "id": 38734,
+    "name": "Abandoned Hood"
+  },
+  {
+    "id": 38737,
+    "name": "Shock-Proof Head Protector"
+  },
+  {
+    "id": 38716,
+    "name": "Ethereal Hood"
+  },
+  {
+    "id": 39367,
+    "name": "Cowl of the Purifier"
+  },
+  {
+    "id": 39295,
+    "name": "Cowl of Sheet Lightning",
+    "sockets": 2
+  },
+  {
+    "id": 39346,
+    "name": "Chitin-Reinforced Hood"
+  },
+  {
+    "id": 39364,
+    "name": "Hood of the Titan Defender"
+  },
+  {
+    "id": 39409,
+    "name": "Cowl of Winged Fear",
+    "sockets": 2
+  },
+  {
+    "id": 39491,
+    "name": "Heroes\u0027 Frostfire Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 39496,
+    "name": "Heroes\u0027 Plagueheart Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 39521,
+    "name": "Heroes\u0027 Circlet of Faith",
+    "sockets": 2
+  },
+  {
+    "id": 39514,
+    "name": "Heroes\u0027 Crown of Faith",
+    "sockets": 2
+  },
+  {
+    "id": 39732,
+    "name": "Faerlina\u0027s Madness"
+  },
+  {
+    "id": 39797,
+    "name": "Bloodbinder\u0027s Hood"
+  },
+  {
+    "id": 39770,
+    "name": "Soothsayer\u0027s Hood"
+  },
+  {
+    "id": 39816,
+    "name": "Medic\u0027s Hood"
+  },
+  {
+    "id": 40287,
+    "name": "Cowl of Vanity",
+    "sockets": 2
+  },
+  {
+    "id": 40247,
+    "name": "Cowl of Innocent Delight"
+  },
+  {
+    "id": 40290,
+    "name": "Gaze of the Punishing Construct"
+  },
+  {
+    "id": 40339,
+    "name": "Gothik\u0027s Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 40421,
+    "name": "Valorous Plagueheart Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 40416,
+    "name": "Valorous Frostfire Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 40456,
+    "name": "Valorous Circlet of Faith",
+    "sockets": 2
+  },
+  {
+    "id": 40447,
+    "name": "Valorous Crown of Faith",
+    "sockets": 2
+  },
+  {
+    "id": 40562,
+    "name": "Hood of Rationality",
+    "sockets": 2
+  },
+  {
+    "id": 40758,
+    "name": "Shroud of Temptation"
+  },
+  {
+    "id": 41112,
+    "name": "Mechanized Snow Goggles",
+    "randomEnchantment": true
+  },
+  {
+    "id": 41546,
+    "name": "Duskweave Cowl"
+  },
+  {
+    "id": 41521,
+    "name": "Frostwoven Cowl"
+  },
+  {
+    "id": 41855,
+    "name": "Relentless Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41852,
+    "name": "Hateful Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41854,
+    "name": "Furious Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41853,
+    "name": "Deadly Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41848,
+    "name": "Savage Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41916,
+    "name": "Relentless Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41914,
+    "name": "Deadly Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41943,
+    "name": "Savage Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41913,
+    "name": "Hateful Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41915,
+    "name": "Furious Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41912,
+    "name": "Savage Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 41984,
+    "name": "Hat of Wintry Doom",
+    "sockets": 2
+  },
+  {
+    "id": 41944,
+    "name": "Hateful Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41993,
+    "name": "Furious Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41946,
+    "name": "Furious Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41992,
+    "name": "Deadly Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41994,
+    "name": "Relentless Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41945,
+    "name": "Deadly Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41947,
+    "name": "Relentless Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41990,
+    "name": "Savage Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 41991,
+    "name": "Hateful Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 42553,
+    "name": "Visage Liquification Goggles",
+    "sockets": 2
+  },
+  {
+    "id": 42714,
+    "name": "Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 42719,
+    "name": "Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 42704,
+    "name": "Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 42709,
+    "name": "Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 42850,
+    "name": "Flamebringer\u0027s Crown",
+    "sockets": 1
+  },
+  {
+    "id": 42843,
+    "name": "Mildred\u0027s Cowl",
+    "sockets": 1
+  },
+  {
+    "id": 43859,
+    "name": "Shadow Vault Cowl"
+  },
+  {
+    "id": 43882,
+    "name": "Cultist\u0027s Cowl"
+  },
+  {
+    "id": 43971,
+    "name": "Frostsavage Cowl"
+  },
+  {
+    "id": 43995,
+    "name": "Enamored Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 44019,
+    "name": "The Argent Skullcap"
+  },
+  {
+    "id": 44408,
+    "name": "Cowl of the Vindictive Captain"
+  },
+  {
+    "id": 44667,
+    "name": "Mammoth-Hair Crown",
+    "randomEnchantment": true
+  },
+  {
+    "id": 44909,
+    "name": "Titan-Forged Hood of Salvation",
+    "sockets": 2
+  },
+  {
+    "id": 44910,
+    "name": "Titan-Forged Hood of Dominance",
+    "sockets": 2
+  },
+  {
+    "id": 45150,
+    "name": "Collar of the Wyrmhunter",
+    "sockets": 2
+  },
+  {
+    "id": 45289,
+    "name": "Lifespark Visage",
+    "sockets": 2
+  },
+  {
+    "id": 45386,
+    "name": "Valorous Cowl of Sanctification",
+    "sockets": 2
+  },
+  {
+    "id": 45417,
+    "name": "Valorous Deathbringer Hood",
+    "sockets": 2
+  },
+  {
+    "id": 45391,
+    "name": "Valorous Circlet of Sanctification",
+    "sockets": 2
+  },
+  {
+    "id": 45365,
+    "name": "Valorous Kirin Tor Hood",
+    "sockets": 2
+  },
+  {
+    "id": 45435,
+    "name": "Cowl of the Absolute"
+  },
+  {
+    "id": 45532,
+    "name": "Cowl of Dark Whispers",
+    "sockets": 2
+  },
+  {
+    "id": 45497,
+    "name": "Crown of Luminescence",
+    "sockets": 2
+  },
+  {
+    "id": 45464,
+    "name": "Cowl of Icy Breaths",
+    "sockets": 2
+  },
+  {
+    "id": 46129,
+    "name": "Conqueror\u0027s Kirin Tor Hood",
+    "sockets": 2
+  },
+  {
+    "id": 46197,
+    "name": "Conqueror\u0027s Cowl of Sanctification",
+    "sockets": 2
+  },
+  {
+    "id": 46172,
+    "name": "Conqueror\u0027s Circlet of Sanctification",
+    "sockets": 2
+  },
+  {
+    "id": 46140,
+    "name": "Conqueror\u0027s Deathbringer Hood",
+    "sockets": 2
+  },
+  {
+    "id": 47564,
+    "name": "Gaze of the Unknown",
+    "sockets": 2
+  },
+  {
+    "id": 47692,
+    "name": "Hood of Smoldering Aftermath",
+    "sockets": 2
+  },
+  {
+    "id": 47693,
+    "name": "Hood of Fiery Aftermath",
+    "sockets": 2
+  },
+  {
+    "id": 47694,
+    "name": "Helm of Clouded Sight",
+    "sockets": 2
+  },
+  {
+    "id": 47754,
+    "name": "Khadgar\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47789,
+    "name": "Kel\u0027Thuzad\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47695,
+    "name": "Hood of Clouded Sight",
+    "sockets": 2
+  },
+  {
+    "id": 47748,
+    "name": "Khadgar\u0027s Hood of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 47796,
+    "name": "Gul\u0027dan\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47761,
+    "name": "Khadgar\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47778,
+    "name": "Kel\u0027Thuzad\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47784,
+    "name": "Kel\u0027Thuzad\u0027s Hood of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 47771,
+    "name": "Sunstrider\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47774,
+    "name": "Sunstrider\u0027s Hood of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 47764,
+    "name": "Sunstrider\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47804,
+    "name": "Gul\u0027dan\u0027s Hood of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 47801,
+    "name": "Gul\u0027dan\u0027s Hood of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 47914,
+    "name": "Velen\u0027s Cowl of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 47984,
+    "name": "Velen\u0027s Cowl of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48035,
+    "name": "Velen\u0027s Cowl of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48065,
+    "name": "Zabra\u0027s Cowl of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48095,
+    "name": "Zabra\u0027s Circlet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48073,
+    "name": "Velen\u0027s Circlet of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48068,
+    "name": "Zabra\u0027s Cowl of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48098,
+    "name": "Zabra\u0027s Circlet of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48078,
+    "name": "Velen\u0027s Circlet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48058,
+    "name": "Zabra\u0027s Cowl of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48088,
+    "name": "Zabra\u0027s Circlet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48085,
+    "name": "Velen\u0027s Circlet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48736,
+    "name": "Gul\u0027dan\u0027s Hood",
+    "sockets": 2
+  },
+  {
+    "id": 48726,
+    "name": "Khadgar\u0027s Hood",
+    "sockets": 2
+  },
+  {
+    "id": 48760,
+    "name": "Zabra\u0027s Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 48750,
+    "name": "Zabra\u0027s Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 48755,
+    "name": "Velen\u0027s Circlet",
+    "sockets": 2
+  },
+  {
+    "id": 48745,
+    "name": "Velen\u0027s Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 48741,
+    "name": "Kel\u0027Thuzad\u0027s Hood",
+    "sockets": 2
+  },
+  {
+    "id": 48731,
+    "name": "Sunstrider\u0027s Hood",
+    "sockets": 2
+  },
+  {
+    "id": 49317,
+    "name": "Coronet of Transcendence",
+    "sockets": 2,
+    "resistances": {
+      "Fire": 10,
+      "Frost": 10
+    }
+  },
+  {
+    "id": 49484,
+    "name": "Nemesis Skullcap",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49318,
+    "name": "Netherwind Hood",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49315,
+    "name": "Nemesis Skullcover",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49482,
+    "name": "Aurora of Transcendence",
+    "sockets": 2,
+    "resistances": {
+      "Fire": 10,
+      "Frost": 10
+    }
+  },
+  {
+    "id": 49316,
+    "name": "Circlet of Transcendence",
+    "sockets": 2,
+    "resistances": {
+      "Fire": 10,
+      "Frost": 10
+    }
+  },
+  {
+    "id": 49483,
+    "name": "Halo of Transcendence",
+    "sockets": 2,
+    "resistances": {
+      "Fire": 10,
+      "Frost": 10
+    }
+  },
+  {
+    "id": 49481,
+    "name": "Netherwind Crown",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49849,
+    "name": "Tattered Glacial-Woven Hood",
+    "sockets": 2
+  },
+  {
+    "id": 50006,
+    "name": "Corp\u0027rethar Ceremonial Crown",
+    "sockets": 2
+  },
+  {
+    "id": 50241,
+    "name": "Dark Coven Hood",
+    "sockets": 2
+  },
+  {
+    "id": 50276,
+    "name": "Bloodmage Hood",
+    "sockets": 2
+  },
+  {
+    "id": 50298,
+    "name": "Sightless Crown of Ulmaas",
+    "sockets": 2
+  },
+  {
+    "id": 50392,
+    "name": "Crimson Acolyte Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 50661,
+    "name": "Corp\u0027rethar Ceremonial Crown",
+    "sockets": 2
+  },
+  {
+    "id": 50741,
+    "name": "Vile Fumigator\u0027s Mask"
+  },
+  {
+    "id": 50765,
+    "name": "Crimson Acolyte Hood",
+    "sockets": 2
+  },
+  {
+    "id": 50807,
+    "name": "Thaumaturge\u0027s Crackling Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51158,
+    "name": "Sanctified Bloodmage Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51184,
+    "name": "Sanctified Crimson Acolyte Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51178,
+    "name": "Sanctified Crimson Acolyte Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51261,
+    "name": "Sanctified Crimson Acolyte Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51231,
+    "name": "Sanctified Dark Coven Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51281,
+    "name": "Sanctified Bloodmage Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51255,
+    "name": "Sanctified Crimson Acolyte Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51208,
+    "name": "Sanctified Dark Coven Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51465,
+    "name": "Wrathful Gladiator\u0027s Silk Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51489,
+    "name": "Wrathful Gladiator\u0027s Satin Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51484,
+    "name": "Wrathful Gladiator\u0027s Mooncloth Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51538,
+    "name": "Wrathful Gladiator\u0027s Felweave Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51554,
+    "name": "Cowl of Malefic Repose",
+    "sockets": 2
+  },
+  {
+    "id": 51737,
+    "name": "Crimson Acolyte Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 51765,
+    "name": "Dark Coven Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51715,
+    "name": "Bloodmage Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51736,
+    "name": "Crimson Acolyte Hood",
+    "sockets": 2
+  },
+  {
+    "id": 51837,
+    "name": "Cowl of Malefic Repose",
+    "sockets": 2
+  },
+  {
+    "id": 51896,
+    "name": "Thaumaturge\u0027s Crackling Cowl",
+    "sockets": 2
+  },
+  {
+    "id": 186018,
+    "name": "Communal Cowl"
+  },
+  {
+    "id": 199327,
+    "name": "Collective Cowl"
   }
 ]

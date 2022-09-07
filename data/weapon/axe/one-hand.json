@@ -15,13 +15,13 @@
     "slot": 16
   },
   {
-    "id": 10837,
-    "name": "Tooth of Eranikus",
+    "id": 10805,
+    "name": "Eater of the Dead",
     "slot": 16
   },
   {
-    "id": 10805,
-    "name": "Eater of the Dead",
+    "id": 10837,
+    "name": "Tooth of Eranikus",
     "slot": 16
   },
   {
@@ -46,8 +46,23 @@
     "slot": 16
   },
   {
+    "id": 12773,
+    "name": "Ornate Thorium Handaxe",
+    "slot": 16
+  },
+  {
+    "id": 12779,
+    "name": "Rune Edge",
+    "slot": 16
+  },
+  {
     "id": 12774,
     "name": "Dawn\u0027s Edge",
+    "slot": 16
+  },
+  {
+    "id": 12798,
+    "name": "Annihilator",
     "slot": 16
   },
   {
@@ -76,8 +91,14 @@
     "slot": 16
   },
   {
-    "id": 15236,
-    "name": "Moon Cleaver",
+    "id": 15240,
+    "name": "Demon\u0027s Claw",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15237,
+    "name": "Corpse Harvester",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -88,14 +109,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 15240,
-    "name": "Demon\u0027s Claw",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15237,
-    "name": "Corpse Harvester",
+    "id": 15236,
+    "name": "Moon Cleaver",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -119,6 +134,14 @@
     "id": 17002,
     "name": "Ichor Spitter",
     "slot": 16
+  },
+  {
+    "id": 17016,
+    "name": "Dark Iron Destroyer",
+    "slot": 16,
+    "resistances": {
+      "Fire": 6
+    }
   },
   {
     "id": 17068,
@@ -218,14 +241,14 @@
     "sockets": 1
   },
   {
-    "id": 25199,
-    "name": "Knight\u0027s War Axe",
+    "id": 25198,
+    "name": "Karaborian Battle Axe",
     "slot": 16,
     "randomEnchantment": true
   },
   {
-    "id": 25200,
-    "name": "Jagged Broadaxe",
+    "id": 25199,
+    "name": "Knight\u0027s War Axe",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -236,56 +259,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25211,
-    "name": "Rockbiter Cutter",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25201,
-    "name": "Reaver\u0027s Sickle",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
     "id": 25203,
     "name": "Chipped Woodchopper",
     "slot": 16,
     "randomEnchantment": true
   },
   {
-    "id": 25204,
-    "name": "Colossal War Axe",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25208,
-    "name": "Bladespire Broadaxe",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25210,
-    "name": "Double-Bladed Axe",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25198,
-    "name": "Karaborian Battle Axe",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25205,
-    "name": "Silvermoon Crescent Axe",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25209,
-    "name": "Amani Tomahawk",
+    "id": 25206,
+    "name": "Berserker Axe",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -296,8 +277,50 @@
     "randomEnchantment": true
   },
   {
-    "id": 25206,
-    "name": "Berserker Axe",
+    "id": 25208,
+    "name": "Bladespire Broadaxe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25209,
+    "name": "Amani Tomahawk",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25205,
+    "name": "Silvermoon Crescent Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25211,
+    "name": "Rockbiter Cutter",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25210,
+    "name": "Double-Bladed Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25200,
+    "name": "Jagged Broadaxe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25201,
+    "name": "Reaver\u0027s Sickle",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25204,
+    "name": "Colossal War Axe",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -347,8 +370,23 @@
     "slot": 16
   },
   {
-    "id": 28921,
-    "name": "High Warlord\u0027s Hacker",
+    "id": 28431,
+    "name": "The Planar Edge",
+    "slot": 16
+  },
+  {
+    "id": 28432,
+    "name": "Black Planar Edge",
+    "slot": 16
+  },
+  {
+    "id": 28433,
+    "name": "Wicked Edge of the Planes",
+    "slot": 16
+  },
+  {
+    "id": 28767,
+    "name": "The Decapitator",
     "slot": 16
   },
   {
@@ -359,6 +397,11 @@
   {
     "id": 28944,
     "name": "Grand Marshal\u0027s Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 28921,
+    "name": "High Warlord\u0027s Hacker",
     "slot": 16
   },
   {
@@ -374,6 +417,16 @@
   {
     "id": 29924,
     "name": "Netherbane",
+    "slot": 16
+  },
+  {
+    "id": 30072,
+    "name": "Light Skyforged Axe",
+    "slot": 16
+  },
+  {
+    "id": 30087,
+    "name": "Stormforged Axe",
     "slot": 16
   },
   {
@@ -407,13 +460,13 @@
     "slot": 16
   },
   {
-    "id": 32254,
-    "name": "The Brutalizer",
+    "id": 32236,
+    "name": "Rising Tide",
     "slot": 16
   },
   {
-    "id": 32236,
-    "name": "Rising Tide",
+    "id": 32254,
+    "name": "The Brutalizer",
     "slot": 16
   },
   {
@@ -428,19 +481,414 @@
     "slot": 16
   },
   {
-    "id": 34699,
-    "name": "Sun-forged Cleaver",
-    "slot": 16
-  },
-  {
     "id": 34616,
     "name": "Breeching Comet",
     "slot": 16,
     "sockets": 1
   },
   {
+    "id": 34699,
+    "name": "Sun-forged Cleaver",
+    "slot": 16
+  },
+  {
     "id": 34996,
     "name": "Brutal Gladiator\u0027s Cleaver",
     "slot": 16
+  },
+  {
+    "id": 36572,
+    "name": "Dinged Cleaver",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36577,
+    "name": "Disk Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36582,
+    "name": "Ice Pick",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36576,
+    "name": "Beaked Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36573,
+    "name": "Primeval Adze",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36574,
+    "name": "Bone Cleaver",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36575,
+    "name": "Dragonflayer Hatchet",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36579,
+    "name": "Boreal Woodchopper",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36581,
+    "name": "Wolvar Handaxe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36580,
+    "name": "Dire Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36583,
+    "name": "Skeletal Hacker",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36578,
+    "name": "Troll Chopper",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36584,
+    "name": "Snowy Edge",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36571,
+    "name": "Splicing Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37032,
+    "name": "Edge of the Tuskarr",
+    "slot": 16
+  },
+  {
+    "id": 37260,
+    "name": "Cloudstrider\u0027s Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 37871,
+    "name": "The Key",
+    "slot": 16
+  },
+  {
+    "id": 38187,
+    "name": "Reactive Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 38196,
+    "name": "Bloodsmeared Brutalizer",
+    "slot": 16
+  },
+  {
+    "id": 39136,
+    "name": "Reanimator\u0027s Hacker",
+    "slot": 16
+  },
+  {
+    "id": 39137,
+    "name": "QR IC35 Healer Axe - PH",
+    "slot": 16
+  },
+  {
+    "id": 40402,
+    "name": "Last Laugh",
+    "slot": 16
+  },
+  {
+    "id": 41243,
+    "name": "Notched Cobalt War Axe",
+    "slot": 16
+  },
+  {
+    "id": 41752,
+    "name": "Brunnhildar Axe",
+    "slot": 16
+  },
+  {
+    "id": 42209,
+    "name": "Furious Gladiator\u0027s Cleaver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42214,
+    "name": "Savage Gladiator\u0027s Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 42210,
+    "name": "Relentless Gladiator\u0027s Cleaver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42237,
+    "name": "Deadly Gladiator\u0027s Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 42208,
+    "name": "Deadly Gladiator\u0027s Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 42238,
+    "name": "Furious Gladiator\u0027s Waraxe",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42206,
+    "name": "Savage Gladiator\u0027s Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 42207,
+    "name": "Hateful Gladiator\u0027s Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 42236,
+    "name": "Hateful Gladiator\u0027s Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 43898,
+    "name": "Icy Quick Edge",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 43875,
+    "name": "Axe of the Cunning",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 44192,
+    "name": "Stalactite Chopper",
+    "slot": 16
+  },
+  {
+    "id": 44735,
+    "name": "Crescent of Brooding Fury",
+    "slot": 16
+  },
+  {
+    "id": 45076,
+    "name": "Teldrassil Protector",
+    "slot": 16
+  },
+  {
+    "id": 45204,
+    "name": "Axe of the Sen\u0027jin Protector",
+    "slot": 16
+  },
+  {
+    "id": 45630,
+    "name": "Invisible Axe",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45957,
+    "name": "Furious Gladiator\u0027s Handaxe",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 46031,
+    "name": "Touch of Madness",
+    "slot": 16
+  },
+  {
+    "id": 46996,
+    "name": "Lionhead Slasher",
+    "slot": 16
+  },
+  {
+    "id": 47001,
+    "name": "Lionhead Slasher",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47156,
+    "name": "Stormpike Cleaver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47148,
+    "name": "Stormpike Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 47266,
+    "name": "Blood Fury",
+    "slot": 16
+  },
+  {
+    "id": 47314,
+    "name": "Hellscream Slicer",
+    "slot": 16
+  },
+  {
+    "id": 47475,
+    "name": "Hellscream Slicer",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47427,
+    "name": "Blood Fury",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47808,
+    "name": "The Lion\u0027s Maw",
+    "slot": 16
+  },
+  {
+    "id": 47898,
+    "name": "Frostblade Hatchet",
+    "slot": 16
+  },
+  {
+    "id": 47966,
+    "name": "The Lion\u0027s Maw",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48043,
+    "name": "Frostblade Hatchet",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48507,
+    "name": "Relentless Gladiator\u0027s Handaxe",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 49297,
+    "name": "Empowered Deathbringer",
+    "slot": 16
+  },
+  {
+    "id": 49500,
+    "name": "Raging Deathbringer",
+    "slot": 16
+  },
+  {
+    "id": 49840,
+    "name": "Hate-Forged Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 50012,
+    "name": "Havoc\u0027s Call, Blade of Lordaeron Kings",
+    "slot": 16
+  },
+  {
+    "id": 50191,
+    "name": "Nighttime",
+    "slot": 16
+  },
+  {
+    "id": 50290,
+    "name": "Falric\u0027s Wrist-Chopper",
+    "slot": 16
+  },
+  {
+    "id": 50411,
+    "name": "Scourgeborne Waraxe",
+    "slot": 16
+  },
+  {
+    "id": 50654,
+    "name": "Scourgeborne Waraxe",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 50787,
+    "name": "Frost Giant\u0027s Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 50759,
+    "name": "Bone Warden\u0027s Splitter",
+    "slot": 16
+  },
+  {
+    "id": 50737,
+    "name": "Havoc\u0027s Call, Blade of Lordaeron Kings",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51515,
+    "name": "Wrathful Gladiator\u0027s Cleaver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51516,
+    "name": "Wrathful Gladiator\u0027s Handaxe",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51795,
+    "name": "Troggbane, Axe of the Frostborne King",
+    "slot": 16
+  },
+  {
+    "id": 51916,
+    "name": "Frost Giant\u0027s Cleaver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51947,
+    "name": "Troggbane, Axe of the Frostborne King",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51938,
+    "name": "Bone Warden\u0027s Splitter",
+    "slot": 16,
+    "sockets": 1
   }
 ]

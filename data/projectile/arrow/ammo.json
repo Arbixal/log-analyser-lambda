@@ -63,5 +63,25 @@
     "id": 34581,
     "name": "Mysterious Arrow",
     "slot": -1
+  },
+  {
+    "id": 41165,
+    "name": "Saronite Razorheads",
+    "slot": -1
+  },
+  {
+    "id": 41586,
+    "name": "Terrorshaft Arrow",
+    "slot": -1
+  },
+  {
+    "id": 46854,
+    "name": "Saronite Decimators",
+    "slot": -1
+  },
+  {
+    "id": 52021,
+    "name": "Iceblade Arrow",
+    "slot": -1
   }
 ]

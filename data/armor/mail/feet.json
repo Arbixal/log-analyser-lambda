@@ -26,8 +26,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 10119,
-    "name": "Ornate Greaves",
+    "id": 10192,
+    "name": "Crusader\u0027s Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -38,20 +38,20 @@
     "randomEnchantment": true
   },
   {
-    "id": 10192,
-    "name": "Crusader\u0027s Boots",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 10270,
-    "name": "Masterwork Boots",
+    "id": 10119,
+    "name": "Ornate Greaves",
     "slot": 7,
     "randomEnchantment": true
   },
   {
     "id": 10234,
     "name": "Engraved Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 10270,
+    "name": "Masterwork Boots",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -79,11 +79,7 @@
   {
     "id": 12419,
     "name": "Radiant Boots",
-    "slot": 7,
-    "resistances": {
-      "Frost": 15,
-      "Shadow": 15
-    }
+    "slot": 7
   },
   {
     "id": 12616,
@@ -144,14 +140,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 15678,
-    "name": "Triumphant Sabatons",
+    "id": 15694,
+    "name": "Merciless Greaves",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 15694,
-    "name": "Merciless Greaves",
+    "id": 15678,
+    "name": "Triumphant Sabatons",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -166,13 +162,13 @@
     "slot": 7
   },
   {
-    "id": 16518,
-    "name": "Blood Guard\u0027s Mail Walkers",
+    "id": 16531,
+    "name": "Blood Guard\u0027s Chain Boots",
     "slot": 7
   },
   {
-    "id": 16531,
-    "name": "Blood Guard\u0027s Chain Boots",
+    "id": 16518,
+    "name": "Blood Guard\u0027s Mail Walkers",
     "slot": 7
   },
   {
@@ -212,14 +208,6 @@
     }
   },
   {
-    "id": 16984,
-    "name": "Black Dragonscale Boots",
-    "slot": 7,
-    "resistances": {
-      "Fire": 24
-    }
-  },
-  {
     "id": 16941,
     "name": "Dragonstalker\u0027s Greaves",
     "slot": 7,
@@ -233,6 +221,14 @@
     "slot": 7,
     "resistances": {
       "Fire": 10
+    }
+  },
+  {
+    "id": 16984,
+    "name": "Black Dragonscale Boots",
+    "slot": 7,
+    "resistances": {
+      "Fire": 24
     }
   },
   {
@@ -294,12 +290,12 @@
     "slot": 7
   },
   {
-    "id": 20155,
+    "id": 20154,
     "name": "Defiler\u0027s Chain Greaves",
     "slot": 7
   },
   {
-    "id": 20154,
+    "id": 20155,
     "name": "Defiler\u0027s Chain Greaves",
     "slot": 7
   },
@@ -319,12 +315,9 @@
     "slot": 7
   },
   {
-    "id": 20621,
-    "name": "Boots of the Endless Moor",
-    "slot": 7,
-    "resistances": {
-      "Nature": 25
-    }
+    "id": 20629,
+    "name": "Malignant Footguards",
+    "slot": 7
   },
   {
     "id": 20656,
@@ -333,9 +326,12 @@
     "randomEnchantment": true
   },
   {
-    "id": 20629,
-    "name": "Malignant Footguards",
-    "slot": 7
+    "id": 20621,
+    "name": "Boots of the Endless Moor",
+    "slot": 7,
+    "resistances": {
+      "Nature": 25
+    }
   },
   {
     "id": 21373,
@@ -378,13 +374,13 @@
     "slot": 7
   },
   {
-    "id": 22468,
-    "name": "Earthshatter Boots",
+    "id": 22440,
+    "name": "Cryptstalker Boots",
     "slot": 7
   },
   {
-    "id": 22440,
-    "name": "Cryptstalker Boots",
+    "id": 22468,
+    "name": "Earthshatter Boots",
     "slot": 7
   },
   {
@@ -403,26 +399,8 @@
     "slot": 7
   },
   {
-    "id": 24823,
-    "name": "Netherstalker Greaves",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
     "id": 24807,
     "name": "Unyielding Footwraps",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24839,
-    "name": "Wrathfin Greaves",
-    "slot": 7,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24831,
-    "name": "Nexus-Strider Greaves",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -433,20 +411,38 @@
     "randomEnchantment": true
   },
   {
+    "id": 24823,
+    "name": "Netherstalker Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24831,
+    "name": "Nexus-Strider Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24839,
+    "name": "Wrathfin Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
     "id": 24855,
     "name": "Marshcreeper Sludgeboots",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 24847,
-    "name": "Fenclaw Footwraps",
+    "id": 24863,
+    "name": "Blood Knight Boots",
     "slot": 7,
     "randomEnchantment": true
   },
   {
-    "id": 24863,
-    "name": "Blood Knight Boots",
+    "id": 24847,
+    "name": "Fenclaw Footwraps",
     "slot": 7,
     "randomEnchantment": true
   },
@@ -497,13 +493,13 @@
     "slot": 7
   },
   {
-    "id": 25479,
-    "name": "Boots of the Earthcaller",
+    "id": 25482,
+    "name": "Venn\u0027ren\u0027s Boots",
     "slot": 7
   },
   {
-    "id": 25482,
-    "name": "Venn\u0027ren\u0027s Boots",
+    "id": 25479,
+    "name": "Boots of the Earthcaller",
     "slot": 7
   },
   {
@@ -512,13 +508,13 @@
     "slot": 7
   },
   {
-    "id": 25659,
-    "name": "Scaled Draenic Boots",
+    "id": 25655,
+    "name": "Felscale Boots",
     "slot": 7
   },
   {
-    "id": 25655,
-    "name": "Felscale Boots",
+    "id": 25659,
+    "name": "Scaled Draenic Boots",
     "slot": 7
   },
   {
@@ -564,13 +560,13 @@
     "sockets": 2
   },
   {
-    "id": 28384,
-    "name": "Outland Striders",
+    "id": 28449,
+    "name": "General\u0027s Chain Sabatons",
     "slot": 7
   },
   {
-    "id": 28449,
-    "name": "General\u0027s Chain Sabatons",
+    "id": 28384,
+    "name": "Outland Striders",
     "slot": 7
   },
   {
@@ -607,8 +603,8 @@
     "slot": 7
   },
   {
-    "id": 28975,
-    "name": "Marshal\u0027s Chain Sabatons",
+    "id": 28994,
+    "name": "Marshal\u0027s Mail Sabatons",
     "slot": 7
   },
   {
@@ -617,18 +613,18 @@
     "slot": 7
   },
   {
-    "id": 28994,
-    "name": "Marshal\u0027s Mail Sabatons",
-    "slot": 7
-  },
-  {
-    "id": 29245,
-    "name": "Wave-Crest Striders",
+    "id": 28975,
+    "name": "Marshal\u0027s Chain Sabatons",
     "slot": 7
   },
   {
     "id": 29262,
     "name": "Boots of the Endless Hunt",
+    "slot": 7
+  },
+  {
+    "id": 29245,
+    "name": "Wave-Crest Striders",
     "slot": 7
   },
   {
@@ -646,11 +642,6 @@
     }
   },
   {
-    "id": 29512,
-    "name": "Earthen Netherscale Boots",
-    "slot": 7
-  },
-  {
     "id": 29491,
     "name": "Enchanted Felscale Boots",
     "slot": 7,
@@ -658,6 +649,11 @@
     "resistances": {
       "Arcane": 30
     }
+  },
+  {
+    "id": 29512,
+    "name": "Earthen Netherscale Boots",
+    "slot": 7
   },
   {
     "id": 29594,
@@ -681,13 +677,13 @@
     "slot": 7
   },
   {
-    "id": 30043,
-    "name": "Hurricane Boots",
+    "id": 30045,
+    "name": "Boots of the Crimson Hawk",
     "slot": 7
   },
   {
-    "id": 30045,
-    "name": "Boots of the Crimson Hawk",
+    "id": 30043,
+    "name": "Hurricane Boots",
     "slot": 7
   },
   {
@@ -702,13 +698,13 @@
     "sockets": 2
   },
   {
-    "id": 30273,
-    "name": "Duro Footgear",
+    "id": 30263,
+    "name": "Heavy-Duty Engineering Boots",
     "slot": 7
   },
   {
-    "id": 30263,
-    "name": "Heavy-Duty Engineering Boots",
+    "id": 30273,
+    "name": "Duro Footgear",
     "slot": 7
   },
   {
@@ -731,14 +727,19 @@
     }
   },
   {
+    "id": 30873,
+    "name": "Stillwater Boots",
+    "slot": 7
+  },
+  {
     "id": 30880,
     "name": "Quickstrider Moccasins",
     "slot": 7,
     "sockets": 2
   },
   {
-    "id": 30873,
-    "name": "Stillwater Boots",
+    "id": 30958,
+    "name": "Blackened Chain Greaves",
     "slot": 7
   },
   {
@@ -747,19 +748,15 @@
     "slot": 7
   },
   {
-    "id": 30958,
-    "name": "Blackened Chain Greaves",
-    "slot": 7
-  },
-  {
     "id": 31173,
     "name": "Boots of Savagery",
     "slot": 7
   },
   {
-    "id": 31187,
-    "name": "Boots of the Pathfinder",
-    "slot": 7
+    "id": 31233,
+    "name": "Grim Greaves",
+    "slot": 7,
+    "randomEnchantment": true
   },
   {
     "id": 31214,
@@ -768,10 +765,9 @@
     "randomEnchantment": true
   },
   {
-    "id": 31233,
-    "name": "Grim Greaves",
-    "slot": 7,
-    "randomEnchantment": true
+    "id": 31187,
+    "name": "Boots of the Pathfinder",
+    "slot": 7
   },
   {
     "id": 31420,
@@ -803,13 +799,13 @@
     "slot": 7
   },
   {
-    "id": 32785,
-    "name": "Veteran\u0027s Chain Sabatons",
+    "id": 32792,
+    "name": "Veteran\u0027s Mail Sabatons",
     "slot": 7
   },
   {
-    "id": 32792,
-    "name": "Veteran\u0027s Mail Sabatons",
+    "id": 32785,
+    "name": "Veteran\u0027s Chain Sabatons",
     "slot": 7
   },
   {
@@ -839,6 +835,16 @@
     "sockets": 2
   },
   {
+    "id": 33392,
+    "name": "Icy Mail Boots",
+    "slot": 7
+  },
+  {
+    "id": 33399,
+    "name": "Frigid Mail Boots",
+    "slot": 7
+  },
+  {
     "id": 33482,
     "name": "Cobra-Lash Boots",
     "slot": 7
@@ -850,18 +856,13 @@
     "sockets": 2
   },
   {
-    "id": 33805,
-    "name": "Shadowhunter\u0027s Treads",
-    "slot": 7
-  },
-  {
     "id": 33878,
     "name": "Vindicator\u0027s Chain Sabatons",
     "slot": 7
   },
   {
-    "id": 33899,
-    "name": "Vindicator\u0027s Mail Sabatons",
+    "id": 33805,
+    "name": "Shadowhunter\u0027s Treads",
     "slot": 7
   },
   {
@@ -875,10 +876,9 @@
     "slot": 7
   },
   {
-    "id": 34570,
-    "name": "Gronnstalker\u0027s Boots",
-    "slot": 7,
-    "sockets": 1
+    "id": 33899,
+    "name": "Vindicator\u0027s Mail Sabatons",
+    "slot": 7
   },
   {
     "id": 34566,
@@ -899,6 +899,22 @@
     "sockets": 1
   },
   {
+    "id": 34570,
+    "name": "Gronnstalker\u0027s Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 35143,
+    "name": "Guardian\u0027s Mail Sabatons",
+    "slot": 7
+  },
+  {
+    "id": 35147,
+    "name": "Guardian\u0027s Ringmail Sabatons",
+    "slot": 7
+  },
+  {
     "id": 35142,
     "name": "Guardian\u0027s Linked Sabatons",
     "slot": 7
@@ -909,13 +925,802 @@
     "slot": 7
   },
   {
-    "id": 35143,
-    "name": "Guardian\u0027s Mail Sabatons",
+    "id": 35600,
+    "name": "Cleated Ice Boots",
     "slot": 7
   },
   {
-    "id": 35147,
-    "name": "Guardian\u0027s Ringmail Sabatons",
+    "id": 35650,
+    "name": "Boots of the Portal Guardian",
+    "slot": 7
+  },
+  {
+    "id": 35821,
+    "name": "Streamlined Stompers",
+    "slot": 7
+  },
+  {
+    "id": 35909,
+    "name": "Sun-fired Striders",
+    "slot": 7
+  },
+  {
+    "id": 35915,
+    "name": "Darksteel Ringmail Greaves",
+    "slot": 7
+  },
+  {
+    "id": 36244,
+    "name": "Mammoth Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36228,
+    "name": "Trapper Footwraps",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36220,
+    "name": "Amberpine Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36196,
+    "name": "Skom Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36204,
+    "name": "Nifflevar Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36236,
+    "name": "Shoveltusk Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36180,
+    "name": "Garmaul Footwraps",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36212,
+    "name": "Orca Footwraps",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36188,
+    "name": "Njord Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36252,
+    "name": "Wolvar Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36260,
+    "name": "Cormorant Footwraps",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36268,
+    "name": "Ulduar Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36284,
+    "name": "Spectral Greaves",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36276,
+    "name": "Spiderlord Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36999,
+    "name": "Boots of the Terrestrial Guardian",
+    "slot": 7
+  },
+  {
+    "id": 37167,
+    "name": "Dragon Slayer\u0027s Sabatons",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 37105,
+    "name": "Treads of Altered History",
+    "slot": 7
+  },
+  {
+    "id": 37244,
+    "name": "Fungi-Coated Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 37446,
+    "name": "Tank Commander\u0027s Treads",
+    "slot": 7
+  },
+  {
+    "id": 37433,
+    "name": "Layered Scale Boots",
+    "slot": 7
+  },
+  {
+    "id": 37425,
+    "name": "Tundrastrider Boots",
+    "slot": 7
+  },
+  {
+    "id": 37420,
+    "name": "Sharkproof Boots",
+    "slot": 7
+  },
+  {
+    "id": 37442,
+    "name": "Chilled Mail Boots",
+    "slot": 7
+  },
+  {
+    "id": 37654,
+    "name": "Sabatons of the Ages",
+    "slot": 7
+  },
+  {
+    "id": 37744,
+    "name": "Horrorblood Treads",
+    "slot": 7
+  },
+  {
+    "id": 37870,
+    "name": "Twin-Headed Boots",
+    "slot": 7
+  },
+  {
+    "id": 38024,
+    "name": "Verdant Linked Boots",
+    "slot": 7
+  },
+  {
+    "id": 38035,
+    "name": "Tightened Chainmesh Boots",
+    "slot": 7
+  },
+  {
+    "id": 38062,
+    "name": "DB54 Mail Physical Feet3",
+    "slot": 7
+  },
+  {
+    "id": 38066,
+    "name": "DB58 Mail Healer Feet2",
+    "slot": 7
+  },
+  {
+    "id": 38051,
+    "name": "Star\u0027s Rest Treads",
+    "slot": 7
+  },
+  {
+    "id": 38413,
+    "name": "Frostscale Boots",
+    "slot": 7
+  },
+  {
+    "id": 38419,
+    "name": "Nerubian Boots",
+    "slot": 7
+  },
+  {
+    "id": 38542,
+    "name": "Treads of the Valiant Struggle",
+    "slot": 7
+  },
+  {
+    "id": 39044,
+    "name": "Short-Circuiting Boots",
+    "slot": 7
+  },
+  {
+    "id": 39051,
+    "name": "Plane-shifted Boots",
+    "slot": 7
+  },
+  {
+    "id": 39067,
+    "name": "QR IC32 Mail Physical Feet2 - PH",
+    "slot": 7
+  },
+  {
+    "id": 39236,
+    "name": "Trespasser\u0027s Boots",
+    "slot": 7
+  },
+  {
+    "id": 39189,
+    "name": "Boots of Persistence",
+    "slot": 7
+  },
+  {
+    "id": 39441,
+    "name": "Treads of Bound Life",
+    "slot": 7
+  },
+  {
+    "id": 39439,
+    "name": "Skeleton Smashers",
+    "slot": 7
+  },
+  {
+    "id": 39734,
+    "name": "Atonement Greaves",
+    "slot": 7
+  },
+  {
+    "id": 39796,
+    "name": "Boots of the Great Sacrifice",
+    "slot": 7
+  },
+  {
+    "id": 39884,
+    "name": "QR ZD25 Mail Physical Feet2 - PH",
+    "slot": 7
+  },
+  {
+    "id": 40184,
+    "name": "Crippled Treads",
+    "slot": 7
+  },
+  {
+    "id": 40237,
+    "name": "Eruption-Scarred Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 40367,
+    "name": "Boots of the Great Construct",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 40549,
+    "name": "Boots of the Renewed Flight",
+    "slot": 7
+  },
+  {
+    "id": 40746,
+    "name": "Pack-Ice Striders",
+    "slot": 7
+  },
+  {
+    "id": 40747,
+    "name": "Treads of Coastal Wandering",
+    "slot": 7
+  },
+  {
+    "id": 41055,
+    "name": "Furious Gladiator\u0027s Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41054,
+    "name": "Deadly Gladiator\u0027s Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41056,
+    "name": "Relentless Gladiator\u0027s Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41076,
+    "name": "Relentless Gladiator\u0027s Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41049,
+    "name": "Hateful Gladiator\u0027s Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41074,
+    "name": "Deadly Gladiator\u0027s Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41075,
+    "name": "Furious Gladiator\u0027s Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41073,
+    "name": "Hateful Gladiator\u0027s Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41231,
+    "name": "Relentless Gladiator\u0027s Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41230,
+    "name": "Furious Gladiator\u0027s Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41229,
+    "name": "Deadly Gladiator\u0027s Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41228,
+    "name": "Hateful Gladiator\u0027s Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 41762,
+    "name": "Freedom-Path Treads",
+    "slot": 7
+  },
+  {
+    "id": 42766,
+    "name": "Spiked Treads of Mutation",
+    "slot": 7
+  },
+  {
+    "id": 42815,
+    "name": "Mammoth Mukluks",
+    "slot": 7
+  },
+  {
+    "id": 42891,
+    "name": "Brunnhildar Snowkickers",
+    "slot": 7
+  },
+  {
+    "id": 43173,
+    "name": "Scaled Boots of Fallen Hope",
+    "slot": 7
+  },
+  {
+    "id": 43443,
+    "name": "Swiftarrow Boots",
+    "slot": 7
+  },
+  {
+    "id": 43469,
+    "name": "Revenant\u0027s Treads",
+    "slot": 7
+  },
+  {
+    "id": 43451,
+    "name": "Stormhide Stompers",
+    "slot": 7
+  },
+  {
+    "id": 43595,
+    "name": "Icy Scale Boots",
+    "slot": 7,
+    "sockets": 2,
+    "resistances": {
+      "Frost": 86
+    }
+  },
+  {
+    "id": 43931,
+    "name": "Savryn\u0027s Muddy Boots",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 43901,
+    "name": "QR IC34 Mail Physical Feet3 - PH",
+    "slot": 7
+  },
+  {
+    "id": 43948,
+    "name": "Blood-encrusted Boots",
+    "slot": 7
+  },
+  {
+    "id": 43996,
+    "name": "Sabatons of Firmament",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 44030,
+    "name": "The Darkspeaker\u0027s Sabatons",
+    "slot": 7
+  },
+  {
+    "id": 44182,
+    "name": "Boots of Twinkling Stars",
+    "slot": 7
+  },
+  {
+    "id": 44360,
+    "name": "Husk Shard Sabatons",
+    "slot": 7
+  },
+  {
+    "id": 44438,
+    "name": "Dragonstompers",
+    "slot": 7
+  },
+  {
+    "id": 44445,
+    "name": "Scaled Icewalkers",
+    "slot": 7
+  },
+  {
+    "id": 44897,
+    "name": "Titan-Forged Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 44896,
+    "name": "Titan-Forged Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 44898,
+    "name": "Titan-Forged Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45183,
+    "name": "Treads of the Glorious Spirit",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45221,
+    "name": "Treads of Whispering Dreams",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45244,
+    "name": "Greaves of Swift Vengeance",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 45249,
+    "name": "Brass-lined Boots",
+    "slot": 7
+  },
+  {
+    "id": 45513,
+    "name": "Boots of the Forgotten Depths",
+    "slot": 7
+  },
+  {
+    "id": 45562,
+    "name": "Boots of Living Scale",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 45615,
+    "name": "Planewalker Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 45563,
+    "name": "Lightning Grounded Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 45701,
+    "name": "Greaves of the Earthbinder",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 45989,
+    "name": "Tempered Mercury Greaves",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 46346,
+    "name": "Boots of Unsettled Prey",
+    "slot": 7
+  },
+  {
+    "id": 47109,
+    "name": "Sabatons of Ruthless Judgment",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47106,
+    "name": "Sabatons of Ruthless Judgment",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47175,
+    "name": "Scale Boots of the Outlander",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47099,
+    "name": "Boots of Tremoring Earth",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47090,
+    "name": "Boots of Tremoring Earth",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47296,
+    "name": "Greaves of Ruthless Judgment",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47295,
+    "name": "Sabatons of Tremoring Earth",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47457,
+    "name": "Greaves of Ruthless Judgment",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47456,
+    "name": "Sabatons of Tremoring Earth",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47683,
+    "name": "Sentinel Scouting Greaves",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 47867,
+    "name": "Warsong Poacher\u0027s Greaves",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 48006,
+    "name": "Warsong Poacher\u0027s Greaves",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 47933,
+    "name": "Sentinel Scouting Greaves",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49236,
+    "name": "Sabatons of Tortured Space",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 49235,
+    "name": "Boots of Tortured Space",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 49238,
+    "name": "Boots of Tortured Space",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49237,
+    "name": "Sabatons of Tortured Space",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49831,
+    "name": "Muddied Boots of Brill",
+    "slot": 7
+  },
+  {
+    "id": 49798,
+    "name": "Soul Screaming Boots",
+    "slot": 7
+  },
+  {
+    "id": 49897,
+    "name": "Rock-Steady Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49896,
+    "name": "Earthsoul Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 49993,
+    "name": "Necrophotic Greaves",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50071,
+    "name": "Treads of the Wasteland",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50295,
+    "name": "Spiked Toestompers",
+    "slot": 7
+  },
+  {
+    "id": 50283,
+    "name": "Mudslide Boots",
+    "slot": 7
+  },
+  {
+    "id": 50652,
+    "name": "Necrophotic Greaves",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50711,
+    "name": "Treads of the Wasteland",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 50812,
+    "name": "Taldron\u0027s Long Neglected Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51006,
+    "name": "Shuffling Shoes",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51375,
+    "name": "Wrathful Gladiator\u0027s Sabatons of Dominance",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51351,
+    "name": "Wrathful Gladiator\u0027s Sabatons of Triumph",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51372,
+    "name": "Wrathful Gladiator\u0027s Sabatons of Salvation",
+    "slot": 7,
+    "sockets": 1
+  },
+  {
+    "id": 51785,
+    "name": "Wyrmwing Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51873,
+    "name": "Shuffling Shoes",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51891,
+    "name": "Taldron\u0027s Long Neglected Boots",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51818,
+    "name": "Wyrmwing Treads",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 51982,
+    "name": "Earthbound Boots",
+    "slot": 7,
+    "randomEnchantment": true
+  },
+  {
+    "id": 53119,
+    "name": "Boots of Divided Being",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 53127,
+    "name": "Returning Footfalls",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 54558,
+    "name": "Boots of Divided Being",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 54577,
+    "name": "Returning Footfalls",
+    "slot": 7,
+    "sockets": 2
+  },
+  {
+    "id": 186039,
+    "name": "Communal Boots",
+    "slot": 7
+  },
+  {
+    "id": 199491,
+    "name": "Collective Boots",
+    "slot": 7
+  },
+  {
+    "id": 199499,
+    "name": "Collective Boots",
     "slot": 7
   }
 ]

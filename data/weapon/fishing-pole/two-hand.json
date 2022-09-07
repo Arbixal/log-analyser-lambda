@@ -3,5 +3,23 @@
     "id": 25978,
     "name": "Seth\u0027s Graphite Fishing Pole",
     "slot": 15
+  },
+  {
+    "id": 44050,
+    "name": "Mastercraft Kalu\u0027ak Fishing Pole",
+    "slot": 15
+  },
+  {
+    "id": 45992,
+    "name": "Jeweled Fishing Pole",
+    "slot": 15
+  },
+  {
+    "id": 45991,
+    "name": "Bone Fishing Pole",
+    "slot": 15,
+    "resistances": {
+      "Shadow": 40
+    }
   }
 ]

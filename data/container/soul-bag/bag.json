@@ -1,12 +1,12 @@
 [
   {
-    "id": 21194,
-    "name": "D\u0027Sak\u0027s Big Sack",
+    "id": 21193,
+    "name": "D\u0027Sak\u0027s Sack",
     "slot": -1
   },
   {
-    "id": 21193,
-    "name": "D\u0027Sak\u0027s Sack",
+    "id": 21194,
+    "name": "D\u0027Sak\u0027s Big Sack",
     "slot": -1
   },
   {
@@ -15,13 +15,13 @@
     "slot": -1
   },
   {
-    "id": 21341,
-    "name": "Felcloth Bag",
+    "id": 21313,
+    "name": "D\u0027Sak\u0027s Small bag",
     "slot": -1
   },
   {
-    "id": 21313,
-    "name": "D\u0027Sak\u0027s Small bag",
+    "id": 21341,
+    "name": "Felcloth Bag",
     "slot": -1
   },
   {
@@ -37,6 +37,11 @@
   {
     "id": 21872,
     "name": "Ebon Shadowbag",
+    "slot": -1
+  },
+  {
+    "id": 41597,
+    "name": "Abyssal Bag",
     "slot": -1
   }
 ]

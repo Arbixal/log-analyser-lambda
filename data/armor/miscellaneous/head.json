@@ -1,10 +1,19 @@
 [
   {
+    "id": 30719,
+    "name": "Spectrecles"
+  },
+  {
     "id": 30721,
     "name": "Spectrecles"
   },
   {
-    "id": 30719,
-    "name": "Spectrecles"
+    "id": 40895,
+    "name": "Gnomish X-Ray Specs"
+  },
+  {
+    "id": 48945,
+    "name": "Gnomish Thinking Cap",
+    "sockets": 3
   }
 ]

@@ -25,11 +25,6 @@
     "slot": 15
   },
   {
-    "id": 12796,
-    "name": "Hammer of the Titans",
-    "slot": 15
-  },
-  {
     "id": 12772,
     "name": "Inlaid Thorium Hammer",
     "slot": 15
@@ -37,6 +32,11 @@
   {
     "id": 12776,
     "name": "Enchanted Battlehammer",
+    "slot": 15
+  },
+  {
+    "id": 12796,
+    "name": "Hammer of the Titans",
     "slot": 15
   },
   {
@@ -82,14 +82,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 15265,
-    "name": "Painbringer",
+    "id": 15267,
+    "name": "Brutehammer",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 15267,
-    "name": "Brutehammer",
+    "id": 15265,
+    "name": "Painbringer",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -150,13 +150,13 @@
     }
   },
   {
-    "id": 18868,
-    "name": "High Warlord\u0027s Pulverizer",
+    "id": 18867,
+    "name": "Grand Marshal\u0027s Battle Hammer",
     "slot": 15
   },
   {
-    "id": 18867,
-    "name": "Grand Marshal\u0027s Battle Hammer",
+    "id": 18868,
+    "name": "High Warlord\u0027s Pulverizer",
     "slot": 15
   },
   {
@@ -165,13 +165,13 @@
     "slot": 15
   },
   {
-    "id": 19357,
-    "name": "Herald of Woe",
+    "id": 19358,
+    "name": "Draconic Maul",
     "slot": 15
   },
   {
-    "id": 19358,
-    "name": "Draconic Maul",
+    "id": 19357,
+    "name": "Herald of Woe",
     "slot": 15
   },
   {
@@ -187,6 +187,11 @@
   {
     "id": 21188,
     "name": "Fist of Cenarius",
+    "slot": 15
+  },
+  {
+    "id": 21407,
+    "name": "Mace of Unending Life",
     "slot": 15
   },
   {
@@ -215,23 +220,23 @@
     "slot": 15
   },
   {
-    "id": 22809,
-    "name": "Maul of the Redeemed Crusader",
-    "slot": 15
-  },
-  {
     "id": 22798,
     "name": "Might of Menethil",
     "slot": 15
   },
   {
-    "id": 23457,
-    "name": "High Warlord\u0027s Destroyer",
+    "id": 22809,
+    "name": "Maul of the Redeemed Crusader",
     "slot": 15
   },
   {
     "id": 23455,
     "name": "Grand Marshal\u0027s Demolisher",
+    "slot": 15
+  },
+  {
+    "id": 23457,
+    "name": "High Warlord\u0027s Destroyer",
     "slot": 15
   },
   {
@@ -261,12 +266,6 @@
     "sockets": 3
   },
   {
-    "id": 25141,
-    "name": "Halaani Hammer",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
     "id": 25137,
     "name": "Draenethyst Mallet",
     "slot": 15,
@@ -279,8 +278,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25128,
-    "name": "Shining Mace",
+    "id": 25133,
+    "name": "Stormwind Maul",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -297,20 +296,20 @@
     "randomEnchantment": true
   },
   {
-    "id": 25133,
-    "name": "Stormwind Maul",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
     "id": 25138,
     "name": "Blood Knight Maul",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 25136,
-    "name": "Blood Stained Hammer",
+    "id": 25128,
+    "name": "Shining Mace",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25130,
+    "name": "Gronn-Bone Club",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -327,8 +326,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25130,
-    "name": "Gronn-Bone Club",
+    "id": 25141,
+    "name": "Halaani Hammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25136,
+    "name": "Blood Stained Hammer",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -386,11 +391,6 @@
     "sockets": 3
   },
   {
-    "id": 28441,
-    "name": "Deep Thunder",
-    "slot": 15
-  },
-  {
     "id": 28440,
     "name": "Thunder",
     "slot": 15
@@ -398,6 +398,11 @@
   {
     "id": 28442,
     "name": "Stormherald",
+    "slot": 15
+  },
+  {
+    "id": 28441,
+    "name": "Deep Thunder",
     "slot": 15
   },
   {
@@ -412,6 +417,11 @@
     "sockets": 3
   },
   {
+    "id": 28917,
+    "name": "High Warlord\u0027s Bonegrinder",
+    "slot": 15
+  },
+  {
     "id": 28919,
     "name": "High Warlord\u0027s Maul",
     "slot": 15
@@ -424,11 +434,6 @@
   {
     "id": 28948,
     "name": "Grand Marshal\u0027s Maul",
-    "slot": 15
-  },
-  {
-    "id": 28917,
-    "name": "High Warlord\u0027s Bonegrinder",
     "slot": 15
   },
   {
@@ -487,6 +492,11 @@
     "slot": 15
   },
   {
+    "id": 33431,
+    "name": "Icesmashing Mace",
+    "slot": 15
+  },
+  {
     "id": 33663,
     "name": "Vengeful Gladiator\u0027s Bonegrinder",
     "slot": 15
@@ -494,6 +504,331 @@
   {
     "id": 34989,
     "name": "Brutal Gladiator\u0027s Bonegrinder",
+    "slot": 15
+  },
+  {
+    "id": 35812,
+    "name": "Cragthumper",
+    "slot": 15
+  },
+  {
+    "id": 36501,
+    "name": "Granite Maul",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36505,
+    "name": "Frosted Steel Mallet",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36507,
+    "name": "Iron-Molded Fist",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36511,
+    "name": "Arctic War Hammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36504,
+    "name": "Cleft-Edged Hammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36509,
+    "name": "Femur-Shafted Mace",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36508,
+    "name": "Cumbersome Sledgehammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36506,
+    "name": "Vaulted Mace",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36502,
+    "name": "Ungainly Mace",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36513,
+    "name": "Lode-Headed Hammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36512,
+    "name": "Onerous Mallet",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36514,
+    "name": "Kingly Battlehammer",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36503,
+    "name": "Toothless Bludgeon",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36510,
+    "name": "Lumbering Bludgeon",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37030,
+    "name": "Blubber Grinder",
+    "slot": 15
+  },
+  {
+    "id": 37046,
+    "name": "Shell Smasher",
+    "slot": 15
+  },
+  {
+    "id": 37812,
+    "name": "Petrified Ironwood Smasher",
+    "slot": 15
+  },
+  {
+    "id": 37733,
+    "name": "Mojo Masked Crusher",
+    "slot": 15
+  },
+  {
+    "id": 38171,
+    "name": "Battleworn Magnataur Crusher",
+    "slot": 15
+  },
+  {
+    "id": 38193,
+    "name": "DB50 2H Mace3",
+    "slot": 15
+  },
+  {
+    "id": 38148,
+    "name": "Chilled Headsmasher",
+    "slot": 15
+  },
+  {
+    "id": 38618,
+    "name": "Hammer of Grief",
+    "slot": 15
+  },
+  {
+    "id": 39116,
+    "name": "Grinder of Reverse Emancipation",
+    "slot": 15
+  },
+  {
+    "id": 39245,
+    "name": "Demise",
+    "slot": 15
+  },
+  {
+    "id": 39758,
+    "name": "The Jawbone",
+    "slot": 15
+  },
+  {
+    "id": 40406,
+    "name": "Inevitable Defeat",
+    "slot": 15
+  },
+  {
+    "id": 41257,
+    "name": "Titansteel Destroyer",
+    "slot": 15
+  },
+  {
+    "id": 41188,
+    "name": "Saronite Mindcrusher",
+    "slot": 15
+  },
+  {
+    "id": 42295,
+    "name": "Savage Gladiator\u0027s Bonegrinder",
+    "slot": 15
+  },
+  {
+    "id": 42322,
+    "name": "Deadly Gladiator\u0027s Bonegrinder",
+    "slot": 15
+  },
+  {
+    "id": 42323,
+    "name": "Furious Gladiator\u0027s Bonegrinder",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42321,
+    "name": "Hateful Gladiator\u0027s Bonegrinder",
+    "slot": 15
+  },
+  {
+    "id": 42324,
+    "name": "Relentless Gladiator\u0027s Bonegrinder",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 42859,
+    "name": "Thorim\u0027s Crusher",
+    "slot": 15
+  },
+  {
+    "id": 43929,
+    "name": "Vile\u0027s Uglystick",
+    "slot": 15
+  },
+  {
+    "id": 43885,
+    "name": "Scourgehammer",
+    "slot": 15
+  },
+  {
+    "id": 44244,
+    "name": "Argent Skeleton Crusher",
+    "slot": 15
+  },
+  {
+    "id": 44708,
+    "name": "Dirkee\u0027s Superstructure",
+    "slot": 15
+  },
+  {
+    "id": 44645,
+    "name": "Dalaran Hammer",
+    "slot": 15
+  },
+  {
+    "id": 45282,
+    "name": "Ironsoul",
+    "slot": 15
+  },
+  {
+    "id": 45521,
+    "name": "Earthshaper",
+    "slot": 15
+  },
+  {
+    "id": 45949,
+    "name": "Furious Gladiator\u0027s Crusher",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 46067,
+    "name": "Hammer of Crushing Whispers",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47520,
+    "name": "Grievance",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 47519,
+    "name": "Catastrophe",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 48404,
+    "name": "Relentless Gladiator\u0027s Crusher",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 49802,
+    "name": "Garfrost\u0027s Two-Ton Hammer",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49919,
+    "name": "Cryptmaker",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 50052,
+    "name": "Lightborn Spire",
+    "slot": 15
+  },
+  {
+    "id": 50603,
+    "name": "Cryptmaker",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 51390,
+    "name": "Wrathful Gladiator\u0027s Bonegrinder",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51391,
+    "name": "Wrathful Gladiator\u0027s Crusher",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51562,
+    "name": "Oxheart",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51833,
+    "name": "Oxheart",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 51796,
+    "name": "Warmace of Menethil",
+    "slot": 15,
+    "sockets": 2
+  },
+  {
+    "id": 51946,
+    "name": "Warmace of Menethil",
+    "slot": 15,
+    "sockets": 3
+  },
+  {
+    "id": 186057,
+    "name": "Communal Warmaul",
+    "slot": 15
+  },
+  {
+    "id": 199715,
+    "name": "Collective Warmaul",
     "slot": 15
   }
 ]

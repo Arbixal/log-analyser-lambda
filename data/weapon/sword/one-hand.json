@@ -25,8 +25,8 @@
     "slot": 16
   },
   {
-    "id": 10847,
-    "name": "Dragon\u0027s Call",
+    "id": 10797,
+    "name": "Firebreather",
     "slot": 16
   },
   {
@@ -35,8 +35,8 @@
     "slot": 16
   },
   {
-    "id": 10797,
-    "name": "Firebreather",
+    "id": 10847,
+    "name": "Dragon\u0027s Call",
     "slot": 16
   },
   {
@@ -62,6 +62,11 @@
   {
     "id": 12777,
     "name": "Blazing Rapier",
+    "slot": 16
+  },
+  {
+    "id": 12797,
+    "name": "Frostguard",
     "slot": 16
   },
   {
@@ -95,20 +100,8 @@
     "slot": 16
   },
   {
-    "id": 15221,
-    "name": "Holy War Sword",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15219,
-    "name": "Dimensional Blade",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15216,
-    "name": "Rune Sword",
+    "id": 15217,
+    "name": "Widow Blade",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -119,19 +112,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 15217,
-    "name": "Widow Blade",
+    "id": 15216,
+    "name": "Rune Sword",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15219,
+    "name": "Dimensional Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15221,
+    "name": "Holy War Sword",
     "slot": 16,
     "randomEnchantment": true
   },
   {
     "id": 15705,
     "name": "Tidecrest Blade",
-    "slot": 16
-  },
-  {
-    "id": 15782,
-    "name": "Beaststalker Blade",
     "slot": 16
   },
   {
@@ -150,6 +150,11 @@
     "slot": 16
   },
   {
+    "id": 15782,
+    "name": "Beaststalker Blade",
+    "slot": 16
+  },
+  {
     "id": 15814,
     "name": "Hameya\u0027s Slayer",
     "slot": 16
@@ -158,6 +163,14 @@
     "id": 16345,
     "name": "High Warlord\u0027s Blade",
     "slot": 16
+  },
+  {
+    "id": 17015,
+    "name": "Dark Iron Reaver",
+    "slot": 16,
+    "resistances": {
+      "Fire": 6
+    }
   },
   {
     "id": 17075,
@@ -219,13 +232,13 @@
     "slot": 16
   },
   {
-    "id": 19351,
-    "name": "Maladath, Runed Blade of the Black Flight",
+    "id": 19352,
+    "name": "Chromatically Tempered Sword",
     "slot": 16
   },
   {
-    "id": 19352,
-    "name": "Chromatically Tempered Sword",
+    "id": 19351,
+    "name": "Maladath, Runed Blade of the Black Flight",
     "slot": 16
   },
   {
@@ -249,13 +262,13 @@
     "slot": 16
   },
   {
-    "id": 19867,
-    "name": "Bloodlord\u0027s Defender",
+    "id": 19901,
+    "name": "Zulian Slicer",
     "slot": 16
   },
   {
-    "id": 19901,
-    "name": "Zulian Slicer",
+    "id": 19867,
+    "name": "Bloodlord\u0027s Defender",
     "slot": 16
   },
   {
@@ -314,6 +327,11 @@
     "slot": 16
   },
   {
+    "id": 23456,
+    "name": "Grand Marshal\u0027s Swiftblade",
+    "slot": 16
+  },
+  {
     "id": 23461,
     "name": "High Warlord\u0027s Quickblade",
     "slot": 16
@@ -329,11 +347,6 @@
     "slot": 16
   },
   {
-    "id": 23456,
-    "name": "Grand Marshal\u0027s Swiftblade",
-    "slot": 16
-  },
-  {
     "id": 23505,
     "name": "Adamantite Rapier",
     "slot": 16
@@ -344,14 +357,13 @@
     "slot": 16
   },
   {
-    "id": 25142,
-    "name": "Telaari Longblade",
-    "slot": 16,
-    "randomEnchantment": true
+    "id": 24020,
+    "name": "Shadowrend Longblade",
+    "slot": 16
   },
   {
-    "id": 25153,
-    "name": "Gladiator Greatblade",
+    "id": 25147,
+    "name": "Skystrider Katana",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -362,50 +374,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25152,
-    "name": "Howling Sword",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25144,
-    "name": "Skettis Curved Blade",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25147,
-    "name": "Skystrider Katana",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
     "id": 25149,
     "name": "Baron\u0027s Broadsword",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25143,
-    "name": "Silver Hand Blade",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25151,
-    "name": "Assassins\u0027 Short Blade",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25145,
-    "name": "Wisdom Blade",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25154,
-    "name": "Blood Groove Blade",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -416,14 +386,62 @@
     "randomEnchantment": true
   },
   {
+    "id": 25152,
+    "name": "Howling Sword",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
     "id": 25148,
     "name": "Bone Collector Sword",
     "slot": 16,
     "randomEnchantment": true
   },
   {
+    "id": 25144,
+    "name": "Skettis Curved Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25145,
+    "name": "Wisdom Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
     "id": 25150,
     "name": "Honor Hold Saber",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25151,
+    "name": "Assassins\u0027 Short Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25142,
+    "name": "Telaari Longblade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25143,
+    "name": "Silver Hand Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25153,
+    "name": "Gladiator Greatblade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25154,
+    "name": "Blood Groove Blade",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -448,6 +466,11 @@
     "slot": 16
   },
   {
+    "id": 25964,
+    "name": "Shaarde the Lesser",
+    "slot": 16
+  },
+  {
     "id": 27673,
     "name": "Phosphorescent Blade",
     "slot": 16
@@ -458,13 +481,13 @@
     "slot": 16
   },
   {
-    "id": 28184,
-    "name": "Millennium Blade",
+    "id": 28189,
+    "name": "Latro\u0027s Shifting Sword",
     "slot": 16
   },
   {
-    "id": 28189,
-    "name": "Latro\u0027s Shifting Sword",
+    "id": 28184,
+    "name": "Millennium Blade",
     "slot": 16
   },
   {
@@ -483,6 +506,11 @@
     "slot": 16
   },
   {
+    "id": 28425,
+    "name": "Fireguard",
+    "slot": 16
+  },
+  {
     "id": 28400,
     "name": "Warp-Storm Warblade",
     "slot": 16
@@ -498,8 +526,8 @@
     "slot": 16
   },
   {
-    "id": 28425,
-    "name": "Fireguard",
+    "id": 28729,
+    "name": "Spiteblade",
     "slot": 16
   },
   {
@@ -508,18 +536,8 @@
     "slot": 16
   },
   {
-    "id": 28729,
-    "name": "Spiteblade",
-    "slot": 16
-  },
-  {
-    "id": 28956,
-    "name": "Grand Marshal\u0027s Slicer",
-    "slot": 16
-  },
-  {
-    "id": 28952,
-    "name": "Grand Marshal\u0027s Quickblade",
+    "id": 28937,
+    "name": "High Warlord\u0027s Slicer",
     "slot": 16
   },
   {
@@ -528,8 +546,13 @@
     "slot": 16
   },
   {
-    "id": 28937,
-    "name": "High Warlord\u0027s Slicer",
+    "id": 28952,
+    "name": "Grand Marshal\u0027s Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 28956,
+    "name": "Grand Marshal\u0027s Slicer",
     "slot": 16
   },
   {
@@ -553,8 +576,18 @@
     "slot": 16
   },
   {
+    "id": 29456,
+    "name": "Gift of the Ethereal",
+    "slot": 16
+  },
+  {
     "id": 29913,
     "name": "Foe Reaver",
+    "slot": 16
+  },
+  {
+    "id": 30071,
+    "name": "Light Earthforged Blade",
     "slot": 16
   },
   {
@@ -588,23 +621,23 @@
     "slot": 16
   },
   {
-    "id": 30788,
-    "name": "Illidari-Bane Broadsword",
-    "slot": 16
-  },
-  {
     "id": 30749,
     "name": "Draenic Sparring Blade",
     "slot": 16
   },
   {
-    "id": 30881,
-    "name": "Blade of Infamy",
+    "id": 30788,
+    "name": "Illidari-Bane Broadsword",
     "slot": 16
   },
   {
     "id": 30874,
     "name": "The Unbreakable Will",
+    "slot": 16
+  },
+  {
+    "id": 30881,
+    "name": "Blade of Infamy",
     "slot": 16
   },
   {
@@ -678,18 +711,620 @@
     "slot": 16
   },
   {
-    "id": 34703,
-    "name": "Latro\u0027s Dancing Blade",
-    "slot": 16
-  },
-  {
     "id": 34672,
     "name": "Inuuro\u0027s Blade",
     "slot": 16
   },
   {
+    "id": 34703,
+    "name": "Latro\u0027s Dancing Blade",
+    "slot": 16
+  },
+  {
     "id": 35101,
     "name": "Brutal Gladiator\u0027s Slicer",
+    "slot": 16
+  },
+  {
+    "id": 35808,
+    "name": "Coldstone Cutlass",
+    "slot": 16
+  },
+  {
+    "id": 35824,
+    "name": "Stoneblade Slicer",
+    "slot": 16
+  },
+  {
+    "id": 36526,
+    "name": "Sleeted Longsword",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36518,
+    "name": "Tundra\u0027s Edge",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36522,
+    "name": "Scored Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36528,
+    "name": "Skeleton\u0027s Sword",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36520,
+    "name": "Chopping Wideblade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36527,
+    "name": "Blackened Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36516,
+    "name": "Tribal Blade",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36525,
+    "name": "Craggy Machete",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36524,
+    "name": "Primitive Scimitar",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36515,
+    "name": "Raider\u0027s Cutlass",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36523,
+    "name": "Trollish Slicer",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36517,
+    "name": "Iron-Grip Shortsword",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36519,
+    "name": "Moonlit Katana",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36521,
+    "name": "Shimmering Sabre",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 37039,
+    "name": "Mrgl Blade",
+    "slot": 16
+  },
+  {
+    "id": 36984,
+    "name": "Eternally Folded Blade",
+    "slot": 16
+  },
+  {
+    "id": 37081,
+    "name": "Meathook\u0027s Slicer",
+    "slot": 16
+  },
+  {
+    "id": 37065,
+    "name": "Ymiron\u0027s Blade",
+    "slot": 16
+  },
+  {
+    "id": 37076,
+    "name": "Fiery Prod",
+    "slot": 16
+  },
+  {
+    "id": 37034,
+    "name": "Lobstrock Slicer",
+    "slot": 16
+  },
+  {
+    "id": 37179,
+    "name": "Infantry Assault Blade",
+    "slot": 16
+  },
+  {
+    "id": 37255,
+    "name": "The Interrogator",
+    "slot": 16
+  },
+  {
+    "id": 37235,
+    "name": "Crypt Lord\u0027s Deft Blade",
+    "slot": 16
+  },
+  {
+    "id": 37401,
+    "name": "Red Sword of Courage",
+    "slot": 16
+  },
+  {
+    "id": 37807,
+    "name": "Lydia\u0027s Sharpened Swordbreaker",
+    "slot": 16
+  },
+  {
+    "id": 38146,
+    "name": "Gleaming Iceblade",
+    "slot": 16
+  },
+  {
+    "id": 38158,
+    "name": "DB20 Fast Sword",
+    "slot": 16
+  },
+  {
+    "id": 38183,
+    "name": "DB40 Fast Sword2",
+    "slot": 16
+  },
+  {
+    "id": 38199,
+    "name": "DB50 Slow Sword3",
+    "slot": 16
+  },
+  {
+    "id": 38198,
+    "name": "Joint-Severing Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 38154,
+    "name": "Taigasha",
+    "slot": 16
+  },
+  {
+    "id": 39128,
+    "name": "Yoke Slasher",
+    "slot": 16
+  },
+  {
+    "id": 39127,
+    "name": "Serrated Cold-Iron Slicer",
+    "slot": 16
+  },
+  {
+    "id": 39344,
+    "name": "Slayer of the Lifeless",
+    "slot": 16
+  },
+  {
+    "id": 39270,
+    "name": "Hatestrike",
+    "slot": 16
+  },
+  {
+    "id": 39291,
+    "name": "Torment of the Banished",
+    "slot": 16
+  },
+  {
+    "id": 39371,
+    "name": "Keleseth\u0027s Persuader",
+    "slot": 16
+  },
+  {
+    "id": 39730,
+    "name": "Widow\u0027s Fury",
+    "slot": 16
+  },
+  {
+    "id": 39826,
+    "name": "Bloodletter\u0027s Blade",
+    "slot": 16
+  },
+  {
+    "id": 39806,
+    "name": "Blade of Diligence",
+    "slot": 16
+  },
+  {
+    "id": 40345,
+    "name": "Broken Promise",
+    "slot": 16
+  },
+  {
+    "id": 40407,
+    "name": "Silent Crusader",
+    "slot": 16
+  },
+  {
+    "id": 40491,
+    "name": "Hailstorm",
+    "slot": 16
+  },
+  {
+    "id": 40553,
+    "name": "Electrified Blade",
+    "slot": 16
+  },
+  {
+    "id": 41182,
+    "name": "Savage Cobalt Slicer",
+    "slot": 16
+  },
+  {
+    "id": 41187,
+    "name": "Corroded Saronite Woundbringer",
+    "slot": 16
+  },
+  {
+    "id": 41186,
+    "name": "Corroded Saronite Edge",
+    "slot": 16
+  },
+  {
+    "id": 41239,
+    "name": "Sturdy Cobalt Quickblade",
+    "slot": 16
+  },
+  {
+    "id": 42284,
+    "name": "Hateful Gladiator\u0027s Slicer",
+    "slot": 16
+  },
+  {
+    "id": 42286,
+    "name": "Furious Gladiator\u0027s Slicer",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42285,
+    "name": "Deadly Gladiator\u0027s Slicer",
+    "slot": 16
+  },
+  {
+    "id": 42287,
+    "name": "Relentless Gladiator\u0027s Slicer",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42224,
+    "name": "Savage Gladiator\u0027s Slicer",
+    "slot": 16
+  },
+  {
+    "id": 42807,
+    "name": "Blade of the Inception",
+    "slot": 16
+  },
+  {
+    "id": 42786,
+    "name": "Daschal\u0027s Serrated Blade",
+    "slot": 16
+  },
+  {
+    "id": 43611,
+    "name": "Krol Cleaver",
+    "slot": 16
+  },
+  {
+    "id": 43833,
+    "name": "Blade of Echoes",
+    "slot": 16
+  },
+  {
+    "id": 43922,
+    "name": "Honed Lightblade",
+    "slot": 16
+  },
+  {
+    "id": 43923,
+    "name": "Bloodblade",
+    "slot": 16
+  },
+  {
+    "id": 44029,
+    "name": "Quickblade of Cold Return",
+    "slot": 16
+  },
+  {
+    "id": 44187,
+    "name": "Fang of Truth",
+    "slot": 16
+  },
+  {
+    "id": 44250,
+    "name": "Reaper of Dark Souls",
+    "slot": 16
+  },
+  {
+    "id": 44311,
+    "name": "Avool\u0027s Sword of Jin",
+    "slot": 16
+  },
+  {
+    "id": 44638,
+    "name": "Dalaran Sword",
+    "slot": 16
+  },
+  {
+    "id": 44745,
+    "name": "Blade of the Empty Void",
+    "slot": 16
+  },
+  {
+    "id": 44736,
+    "name": "Sword of Heartwrenching Slaughter",
+    "slot": 16
+  },
+  {
+    "id": 45110,
+    "name": "Titanguard",
+    "slot": 16
+  },
+  {
+    "id": 45142,
+    "name": "Remorse",
+    "slot": 16
+  },
+  {
+    "id": 45266,
+    "name": "Malice",
+    "slot": 16
+  },
+  {
+    "id": 45298,
+    "name": "Razorscale Talon",
+    "slot": 16
+  },
+  {
+    "id": 45331,
+    "name": "Rune-Etched Nightblade",
+    "slot": 16
+  },
+  {
+    "id": 45700,
+    "name": "Stoneguard",
+    "slot": 16
+  },
+  {
+    "id": 45960,
+    "name": "Furious Gladiator\u0027s Longblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45947,
+    "name": "Serilas, Blood Blade of Invar One-Arm",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 46036,
+    "name": "Void Sabre",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47513,
+    "name": "Orgrim\u0027s Deflector",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47506,
+    "name": "Silverwing Defender",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47500,
+    "name": "Peacekeeper Blade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47814,
+    "name": "Westfall Saber",
+    "slot": 16
+  },
+  {
+    "id": 47810,
+    "name": "Crusader\u0027s Glory",
+    "slot": 16
+  },
+  {
+    "id": 47899,
+    "name": "Ardent Guard",
+    "slot": 16
+  },
+  {
+    "id": 47903,
+    "name": "Forsaken Bonecarver",
+    "slot": 16
+  },
+  {
+    "id": 47967,
+    "name": "Crusader\u0027s Glory",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47971,
+    "name": "Westfall Saber",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48044,
+    "name": "Ardent Guard",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48048,
+    "name": "Forsaken Bonecarver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48513,
+    "name": "Relentless Gladiator\u0027s Longblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 49303,
+    "name": "Gleaming Quel\u0027Serrar",
+    "slot": 16
+  },
+  {
+    "id": 49296,
+    "name": "Singed Vis\u0027kag the Bloodletter",
+    "slot": 16
+  },
+  {
+    "id": 49501,
+    "name": "Tempered Vis\u0027kag the Bloodletter",
+    "slot": 16
+  },
+  {
+    "id": 49495,
+    "name": "Burnished Quel\u0027Serrar",
+    "slot": 16
+  },
+  {
+    "id": 49827,
+    "name": "Ghoulslicer",
+    "slot": 16
+  },
+  {
+    "id": 50046,
+    "name": "Quel\u0027Delar, Cunning of the Shadows",
+    "slot": 16
+  },
+  {
+    "id": 50257,
+    "name": "Shadow\u0027s Edge Monster Offhand",
+    "slot": 16
+  },
+  {
+    "id": 50268,
+    "name": "Rimefang\u0027s Claw",
+    "slot": 16
+  },
+  {
+    "id": 50302,
+    "name": "Liar\u0027s Tongue",
+    "slot": 16
+  },
+  {
+    "id": 50412,
+    "name": "Bloodvenom Blade",
+    "slot": 16
+  },
+  {
+    "id": 50672,
+    "name": "Bloodvenom Blade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 50815,
+    "name": "Shadowmourne Monster Offhand",
+    "slot": 16
+  },
+  {
+    "id": 51021,
+    "name": "Soulbreaker",
+    "slot": 16
+  },
+  {
+    "id": 51010,
+    "name": "The Facelifter",
+    "slot": 16
+  },
+  {
+    "id": 51522,
+    "name": "Wrathful Gladiator\u0027s Longblade",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51521,
+    "name": "Wrathful Gladiator\u0027s Slicer",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51869,
+    "name": "The Facelifter",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51858,
+    "name": "Soulbreaker",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 186058,
+    "name": "Communal Sword",
+    "slot": 16
+  },
+  {
+    "id": 186163,
+    "name": "Communal Guardian",
+    "slot": 16
+  },
+  {
+    "id": 186061,
+    "name": "Communal Blade",
+    "slot": 16
+  },
+  {
+    "id": 186060,
+    "name": "Communal Guardian",
+    "slot": 16
+  },
+  {
+    "id": 199717,
+    "name": "Collective Blade",
+    "slot": 16
+  },
+  {
+    "id": 199716,
+    "name": "Collective Sword",
+    "slot": 16
+  },
+  {
+    "id": 199724,
+    "name": "Collective Guardian",
     "slot": 16
   }
 ]

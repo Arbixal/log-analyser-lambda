@@ -41,20 +41,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 15288,
-    "name": "Blasthorn Bow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15291,
-    "name": "Harpy Needler",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15295,
-    "name": "Quillfire Bow",
+    "id": 15294,
+    "name": "Siege Bow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -65,8 +53,20 @@
     "randomEnchantment": true
   },
   {
-    "id": 15294,
-    "name": "Siege Bow",
+    "id": 15288,
+    "name": "Blasthorn Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15295,
+    "name": "Quillfire Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15291,
+    "name": "Harpy Needler",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -101,13 +101,13 @@
     "slot": 17
   },
   {
-    "id": 18680,
-    "name": "Ancient Bone Bow",
+    "id": 18713,
+    "name": "Rhok\u0027delar, Longbow of the Ancient Keepers",
     "slot": 17
   },
   {
-    "id": 18713,
-    "name": "Rhok\u0027delar, Longbow of the Ancient Keepers",
+    "id": 18680,
+    "name": "Ancient Bone Bow",
     "slot": 17
   },
   {
@@ -139,7 +139,7 @@
     "slot": 17
   },
   {
-    "id": 19559,
+    "id": 19558,
     "name": "Outrider\u0027s Bow",
     "slot": 17
   },
@@ -149,18 +149,13 @@
     "slot": 17
   },
   {
-    "id": 19558,
-    "name": "Outrider\u0027s Bow",
-    "slot": 17
-  },
-  {
     "id": 19563,
     "name": "Outrunner\u0027s Bow",
     "slot": 17
   },
   {
-    "id": 20038,
-    "name": "Mandokir\u0027s Sting",
+    "id": 19559,
+    "name": "Outrider\u0027s Bow",
     "slot": 17
   },
   {
@@ -169,13 +164,18 @@
     "slot": 17
   },
   {
-    "id": 20663,
-    "name": "Deep Strike Bow",
+    "id": 20038,
+    "name": "Mandokir\u0027s Sting",
     "slot": 17
   },
   {
     "id": 20646,
     "name": "Sandstrider\u0027s Mark",
+    "slot": 17
+  },
+  {
+    "id": 20663,
+    "name": "Deep Strike Bow",
     "slot": 17
   },
   {
@@ -202,20 +202,14 @@
     "slot": 17
   },
   {
-    "id": 25244,
-    "name": "Viper Bow",
+    "id": 25248,
+    "name": "Talbuk Hunting Bow",
     "slot": 17,
     "randomEnchantment": true
   },
   {
     "id": 25240,
     "name": "Azerothian Longbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25248,
-    "name": "Talbuk Hunting Bow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -232,26 +226,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25246,
-    "name": "Thalassian Compound Bow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25253,
-    "name": "Windspear Longbow",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
     "id": 25245,
     "name": "Razorsong Bow",
     "slot": 17,
     "randomEnchantment": true
   },
   {
-    "id": 25252,
-    "name": "Dream Catcher Bow",
+    "id": 25246,
+    "name": "Thalassian Compound Bow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -262,8 +244,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25247,
-    "name": "Expert\u0027s Bow",
+    "id": 25244,
+    "name": "Viper Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25252,
+    "name": "Dream Catcher Bow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -274,14 +262,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 25249,
-    "name": "Ranger\u0027s Recurved Bow",
+    "id": 25250,
+    "name": "Rocslayer Longbow",
     "slot": 17,
     "randomEnchantment": true
   },
   {
-    "id": 25250,
-    "name": "Rocslayer Longbow",
+    "id": 25253,
+    "name": "Windspear Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25247,
+    "name": "Expert\u0027s Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25249,
+    "name": "Ranger\u0027s Recurved Bow",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -316,12 +316,12 @@
     "slot": 17
   },
   {
-    "id": 27931,
+    "id": 27930,
     "name": "Splintermark",
     "slot": 17
   },
   {
-    "id": 27930,
+    "id": 27931,
     "name": "Splintermark",
     "slot": 17
   },
@@ -396,6 +396,11 @@
     "slot": 17
   },
   {
+    "id": 33422,
+    "name": "Shattered Bow",
+    "slot": 17
+  },
+  {
     "id": 33474,
     "name": "Ancient Amani Longbow",
     "slot": 17
@@ -418,6 +423,309 @@
   {
     "id": 35047,
     "name": "Brutal Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 35590,
+    "name": "Drakkari Hunting Bow",
+    "slot": 17
+  },
+  {
+    "id": 35829,
+    "name": "Coldspike Longbow",
+    "slot": 17
+  },
+  {
+    "id": 36626,
+    "name": "Military Compound Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36620,
+    "name": "Tracking Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36616,
+    "name": "Dutiful Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36622,
+    "name": "Acute Shortbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36618,
+    "name": "Twisted Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36614,
+    "name": "Yew Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36624,
+    "name": "Shrieking Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36619,
+    "name": "Astral Light Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36625,
+    "name": "Massive Recurved Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36613,
+    "name": "Honorable Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36621,
+    "name": "Advanced Flatbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36617,
+    "name": "Yielding Bow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36615,
+    "name": "Expert\u0027s Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36623,
+    "name": "Harnessed Longbow",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36882,
+    "name": "Warsong Longbow",
+    "slot": 17
+  },
+  {
+    "id": 37050,
+    "name": "Trophy Gatherer",
+    "slot": 17
+  },
+  {
+    "id": 37122,
+    "name": "Taut Driftwood Bow",
+    "slot": 17
+  },
+  {
+    "id": 37615,
+    "name": "Titanium Compound Bow",
+    "slot": 17
+  },
+  {
+    "id": 37809,
+    "name": "Roc-Feather Longbow",
+    "slot": 17
+  },
+  {
+    "id": 38157,
+    "name": "Longbow of the Ruby Rider",
+    "slot": 17
+  },
+  {
+    "id": 38168,
+    "name": "DB22 Hunter Bow2",
+    "slot": 17
+  },
+  {
+    "id": 38185,
+    "name": "DB40 Bow3",
+    "slot": 17
+  },
+  {
+    "id": 38208,
+    "name": "Valiance Longbow",
+    "slot": 17
+  },
+  {
+    "id": 38456,
+    "name": "Sin\u0027dorei Recurve Bow",
+    "slot": 17
+  },
+  {
+    "id": 39135,
+    "name": "Wyrmstalker\u0027s Bow",
+    "slot": 17
+  },
+  {
+    "id": 39134,
+    "name": "Bow of Regression",
+    "slot": 17
+  },
+  {
+    "id": 39296,
+    "name": "Accursed Bow of the Elite",
+    "slot": 17
+  },
+  {
+    "id": 39487,
+    "name": "Dragon Slayer\u0027s Shortbow",
+    "slot": 17
+  },
+  {
+    "id": 39522,
+    "name": "Wolvar Shortbow",
+    "slot": 17
+  },
+  {
+    "id": 39829,
+    "name": "High-Strung Bow",
+    "slot": 17
+  },
+  {
+    "id": 40265,
+    "name": "Arrowsong",
+    "slot": 17
+  },
+  {
+    "id": 41746,
+    "name": "Brunnhildar Bow",
+    "slot": 17
+  },
+  {
+    "id": 42489,
+    "name": "Hateful Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 42491,
+    "name": "Furious Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 42445,
+    "name": "Savage Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 42492,
+    "name": "Relentless Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 42490,
+    "name": "Deadly Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 43928,
+    "name": "Bow of Bone and Sinew",
+    "slot": 17
+  },
+  {
+    "id": 44643,
+    "name": "Dalaran Bow",
+    "slot": 17
+  },
+  {
+    "id": 45327,
+    "name": "Siren\u0027s Cry",
+    "slot": 17
+  },
+  {
+    "id": 45872,
+    "name": "Avalanche",
+    "slot": 17
+  },
+  {
+    "id": 45938,
+    "name": "Furious Gladiator\u0027s Recurve",
+    "slot": 17
+  },
+  {
+    "id": 46342,
+    "name": "Golemheart Longbow",
+    "slot": 17
+  },
+  {
+    "id": 48420,
+    "name": "Relentless Gladiator\u0027s Recurve",
+    "slot": 17
+  },
+  {
+    "id": 48697,
+    "name": "Frenzystrike Longbow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 48711,
+    "name": "Rhok\u0027shalla, the Shadow\u0027s Bane",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 49844,
+    "name": "Crypt Fiend Slayer",
+    "slot": 17
+  },
+  {
+    "id": 50034,
+    "name": "Zod\u0027s Repeating Longbow",
+    "slot": 17
+  },
+  {
+    "id": 50638,
+    "name": "Zod\u0027s Repeating Longbow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 50776,
+    "name": "Njorndar Bone Bow",
+    "slot": 17
+  },
+  {
+    "id": 51395,
+    "name": "Wrathful Gladiator\u0027s Recurve",
+    "slot": 17
+  },
+  {
+    "id": 51394,
+    "name": "Wrathful Gladiator\u0027s Longbow",
+    "slot": 17
+  },
+  {
+    "id": 51927,
+    "name": "Njorndar Bone Bow",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 186056,
+    "name": "Communal Bow",
+    "slot": 17
+  },
+  {
+    "id": 199714,
+    "name": "Collective Bow",
     "slot": 17
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
-    "id": 3958,
-    "name": "Mesh Mantle",
-    "slot": 2
-  },
-  {
     "id": 3950,
     "name": "Twill Shoulderpads",
     "slot": 2
   },
   {
-    "id": 8250,
-    "name": "Imperial Red Mantle",
+    "id": 3958,
+    "name": "Mesh Mantle",
     "slot": 2
   },
   {
     "id": 8288,
     "name": "Arcane Pads",
+    "slot": 2
+  },
+  {
+    "id": 8250,
+    "name": "Imperial Red Mantle",
     "slot": 2
   },
   {
@@ -119,14 +119,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 14335,
-    "name": "Eternal Spaulders",
+    "id": 14325,
+    "name": "Resplendent Epaulets",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 14325,
-    "name": "Resplendent Epaulets",
+    "id": 14335,
+    "name": "Eternal Spaulders",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -181,11 +181,6 @@
     "slot": 2
   },
   {
-    "id": 16701,
-    "name": "Dreadmist Mantle",
-    "slot": 2
-  },
-  {
     "id": 16689,
     "name": "Magister\u0027s Mantle",
     "slot": 2
@@ -194,6 +189,19 @@
     "id": 16695,
     "name": "Devout Mantle",
     "slot": 2
+  },
+  {
+    "id": 16701,
+    "name": "Dreadmist Mantle",
+    "slot": 2
+  },
+  {
+    "id": 16797,
+    "name": "Arcanist Mantle",
+    "slot": 2,
+    "resistances": {
+      "Shadow": 7
+    }
   },
   {
     "id": 16807,
@@ -212,32 +220,8 @@
     }
   },
   {
-    "id": 16797,
-    "name": "Arcanist Mantle",
-    "slot": 2,
-    "resistances": {
-      "Shadow": 7
-    }
-  },
-  {
     "id": 16917,
     "name": "Netherwind Mantle",
-    "slot": 2,
-    "resistances": {
-      "Fire": 10
-    }
-  },
-  {
-    "id": 16980,
-    "name": "Flarecore Mantle",
-    "slot": 2,
-    "resistances": {
-      "Fire": 24
-    }
-  },
-  {
-    "id": 16932,
-    "name": "Nemesis Spaulders",
     "slot": 2,
     "resistances": {
       "Fire": 10
@@ -252,13 +236,29 @@
     }
   },
   {
-    "id": 17573,
-    "name": "Champion\u0027s Dreadweave Shoulders",
-    "slot": 2
+    "id": 16932,
+    "name": "Nemesis Spaulders",
+    "slot": 2,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 16980,
+    "name": "Flarecore Mantle",
+    "slot": 2,
+    "resistances": {
+      "Fire": 24
+    }
   },
   {
     "id": 17569,
     "name": "Lieutenant Commander\u0027s Dreadweave Mantle",
+    "slot": 2
+  },
+  {
+    "id": 17573,
+    "name": "Champion\u0027s Dreadweave Shoulders",
     "slot": 2
   },
   {
@@ -267,18 +267,8 @@
     "slot": 2
   },
   {
-    "id": 17604,
-    "name": "Field Marshal\u0027s Satin Mantle",
-    "slot": 2
-  },
-  {
     "id": 17590,
     "name": "Warlord\u0027s Dreadweave Mantle",
-    "slot": 2
-  },
-  {
-    "id": 17622,
-    "name": "Warlord\u0027s Satin Mantle",
     "slot": 2
   },
   {
@@ -287,8 +277,18 @@
     "slot": 2
   },
   {
+    "id": 17604,
+    "name": "Field Marshal\u0027s Satin Mantle",
+    "slot": 2
+  },
+  {
     "id": 17613,
     "name": "Champion\u0027s Satin Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 17622,
+    "name": "Warlord\u0027s Satin Mantle",
     "slot": 2
   },
   {
@@ -330,6 +330,11 @@
     "slot": 2
   },
   {
+    "id": 19845,
+    "name": "Zandalar Illusionist\u0027s Mantle",
+    "slot": 2
+  },
+  {
     "id": 19841,
     "name": "Zandalar Confessor\u0027s Mantle",
     "slot": 2
@@ -337,11 +342,6 @@
   {
     "id": 19849,
     "name": "Zandalar Demoniac\u0027s Mantle",
-    "slot": 2
-  },
-  {
-    "id": 19845,
-    "name": "Zandalar Illusionist\u0027s Mantle",
     "slot": 2
   },
   {
@@ -366,6 +366,11 @@
     "randomEnchantment": true
   },
   {
+    "id": 21335,
+    "name": "Doomcaller\u0027s Mantle",
+    "slot": 2
+  },
+  {
     "id": 21345,
     "name": "Enigma Shoulderpads",
     "slot": 2
@@ -373,11 +378,6 @@
   {
     "id": 21350,
     "name": "Mantle of the Oracle",
-    "slot": 2
-  },
-  {
-    "id": 21335,
-    "name": "Doomcaller\u0027s Mantle",
     "slot": 2
   },
   {
@@ -405,15 +405,15 @@
     }
   },
   {
+    "id": 21874,
+    "name": "Primal Mooncloth Shoulders",
+    "slot": 2
+  },
+  {
     "id": 21869,
     "name": "Frozen Shadoweave Shoulders",
     "slot": 2,
     "sockets": 2
-  },
-  {
-    "id": 21874,
-    "name": "Primal Mooncloth Shoulders",
-    "slot": 2
   },
   {
     "id": 22068,
@@ -441,23 +441,23 @@
     "slot": 2
   },
   {
-    "id": 22412,
-    "name": "Thuzadin Mantle",
-    "slot": 2
-  },
-  {
     "id": 22405,
     "name": "Mantle of the Scarlet Crusade",
     "slot": 2
   },
   {
-    "id": 22507,
-    "name": "Plagueheart Shoulderpads",
+    "id": 22412,
+    "name": "Thuzadin Mantle",
     "slot": 2
   },
   {
     "id": 22499,
     "name": "Frostfire Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 22507,
+    "name": "Plagueheart Shoulderpads",
     "slot": 2
   },
   {
@@ -492,13 +492,13 @@
     "slot": 2
   },
   {
-    "id": 23262,
-    "name": "Champion\u0027s Satin Mantle",
+    "id": 23264,
+    "name": "Champion\u0027s Silk Mantle",
     "slot": 2
   },
   {
-    "id": 23264,
-    "name": "Champion\u0027s Silk Mantle",
+    "id": 23262,
+    "name": "Champion\u0027s Satin Mantle",
     "slot": 2
   },
   {
@@ -540,14 +540,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 24603,
-    "name": "Starfire Mantle",
+    "id": 24611,
+    "name": "Laughing Skull Shoulderpads",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 24611,
-    "name": "Laughing Skull Shoulderpads",
+    "id": 24603,
+    "name": "Starfire Mantle",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -558,8 +558,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24627,
-    "name": "Slavehandler Amice",
+    "id": 24651,
+    "name": "Astralaan Shoulderpads",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -570,14 +570,20 @@
     "randomEnchantment": true
   },
   {
+    "id": 24627,
+    "name": "Slavehandler Amice",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
     "id": 24643,
     "name": "Mistyreed Shoulderpads",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 24651,
-    "name": "Astralaan Shoulderpads",
+    "id": 24675,
+    "name": "Eldr\u0027naan Shoulderpads",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -588,20 +594,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 24667,
-    "name": "Shadow Council Mantle",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
     "id": 24683,
     "name": "Archmage Mantle",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 24675,
-    "name": "Eldr\u0027naan Shoulderpads",
+    "id": 24667,
+    "name": "Shadow Council Mantle",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -662,14 +662,20 @@
     "sockets": 2
   },
   {
+    "id": 27778,
+    "name": "Spaulders of Oblivion",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
     "id": 27775,
     "name": "Hallowed Pauldrons",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 27778,
-    "name": "Spaulders of Oblivion",
+    "id": 27796,
+    "name": "Mana-Etched Spaulders",
     "slot": 2,
     "sockets": 2
   },
@@ -677,12 +683,6 @@
     "id": 27816,
     "name": "Mindrage Pauldrons",
     "slot": 2
-  },
-  {
-    "id": 27796,
-    "name": "Mana-Etched Spaulders",
-    "slot": 2,
-    "sockets": 2
   },
   {
     "id": 27994,
@@ -705,19 +705,19 @@
     "slot": 2
   },
   {
+    "id": 28612,
+    "name": "Pauldrons of the Solace-Giver",
+    "slot": 2
+  },
+  {
     "id": 28627,
     "name": "Grand Marshal\u0027s Dreadweave Mantle",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 28612,
-    "name": "Pauldrons of the Solace-Giver",
-    "slot": 2
-  },
-  {
-    "id": 28714,
-    "name": "Grand Marshal\u0027s Silk Amice",
+    "id": 28707,
+    "name": "Grand Marshal\u0027s Satin Mantle",
     "slot": 2,
     "sockets": 2
   },
@@ -727,8 +727,8 @@
     "slot": 2
   },
   {
-    "id": 28707,
-    "name": "Grand Marshal\u0027s Satin Mantle",
+    "id": 28714,
+    "name": "Grand Marshal\u0027s Silk Amice",
     "slot": 2,
     "sockets": 2
   },
@@ -763,14 +763,14 @@
     "sockets": 2
   },
   {
-    "id": 29060,
-    "name": "Soul-Mantle of the Incarnate",
+    "id": 29079,
+    "name": "Pauldrons of the Aldor",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 29079,
-    "name": "Pauldrons of the Aldor",
+    "id": 29060,
+    "name": "Soul-Mantle of the Incarnate",
     "slot": 2,
     "sockets": 2
   },
@@ -797,14 +797,14 @@
     "sockets": 2
   },
   {
-    "id": 30163,
-    "name": "Wings of the Avatar",
+    "id": 30186,
+    "name": "Gladiator\u0027s Felweave Amice",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 30186,
-    "name": "Gladiator\u0027s Felweave Amice",
+    "id": 30163,
+    "name": "Wings of the Avatar",
     "slot": 2,
     "sockets": 2
   },
@@ -842,14 +842,8 @@
     "slot": 2
   },
   {
-    "id": 31070,
-    "name": "Shoulderpads of Absolution",
-    "slot": 2,
-    "sockets": 2
-  },
-  {
-    "id": 31054,
-    "name": "Mantle of the Malefic",
+    "id": 31069,
+    "name": "Mantle of Absolution",
     "slot": 2,
     "sockets": 2
   },
@@ -860,8 +854,14 @@
     "sockets": 2
   },
   {
-    "id": 31069,
-    "name": "Mantle of Absolution",
+    "id": 31054,
+    "name": "Mantle of the Malefic",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 31070,
+    "name": "Shoulderpads of Absolution",
     "slot": 2,
     "sockets": 2
   },
@@ -884,13 +884,13 @@
     "sockets": 2
   },
   {
-    "id": 31438,
-    "name": "Fizit\u0027s Mantle of Drake Hunting",
+    "id": 31429,
+    "name": "Spelunker\u0027s Mantle",
     "slot": 2
   },
   {
-    "id": 31429,
-    "name": "Spelunker\u0027s Mantle",
+    "id": 31438,
+    "name": "Fizit\u0027s Mantle of Drake Hunting",
     "slot": 2
   },
   {
@@ -905,12 +905,6 @@
     "slot": 2
   },
   {
-    "id": 31628,
-    "name": "High Warlord\u0027s Mooncloth Shoulderpads",
-    "slot": 2,
-    "sockets": 2
-  },
-  {
     "id": 31687,
     "name": "Mok\u0027Nathal Mantle",
     "slot": 2
@@ -918,6 +912,18 @@
   {
     "id": 31624,
     "name": "Grand Marshal\u0027s Mooncloth Shoulderpads",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 31628,
+    "name": "High Warlord\u0027s Mooncloth Shoulderpads",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 32018,
+    "name": "Merciless Gladiator\u0027s Mooncloth Mantle",
     "slot": 2,
     "sockets": 2
   },
@@ -930,12 +936,6 @@
   {
     "id": 31976,
     "name": "Merciless Gladiator\u0027s Dreadweave Mantle",
-    "slot": 2,
-    "sockets": 2
-  },
-  {
-    "id": 32018,
-    "name": "Merciless Gladiator\u0027s Mooncloth Mantle",
     "slot": 2,
     "sockets": 2
   },
@@ -972,13 +972,29 @@
     "slot": 2
   },
   {
+    "id": 33363,
+    "name": "Thread-Bare Cloth Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 33370,
+    "name": "Frost-Rimed Cloth Shoulderpads",
+    "slot": 2
+  },
+  {
     "id": 33489,
     "name": "Mantle of Ill Intent",
     "slot": 2
   },
   {
-    "id": 33720,
-    "name": "Vengeful Gladiator\u0027s Mooncloth Mantle",
+    "id": 33747,
+    "name": "Vengeful Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 33757,
+    "name": "Vengeful Gladiator\u0027s Silk Amice",
     "slot": 2,
     "sockets": 2
   },
@@ -995,14 +1011,8 @@
     "sockets": 2
   },
   {
-    "id": 33747,
-    "name": "Vengeful Gladiator\u0027s Satin Mantle",
-    "slot": 2,
-    "sockets": 2
-  },
-  {
-    "id": 33757,
-    "name": "Vengeful Gladiator\u0027s Silk Amice",
+    "id": 33720,
+    "name": "Vengeful Gladiator\u0027s Mooncloth Mantle",
     "slot": 2,
     "sockets": 2
   },
@@ -1037,14 +1047,14 @@
     "sockets": 2
   },
   {
-    "id": 35009,
-    "name": "Brutal Gladiator\u0027s Felweave Amice",
+    "id": 35006,
+    "name": "Brutal Gladiator\u0027s Dreadweave Mantle",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 35006,
-    "name": "Brutal Gladiator\u0027s Dreadweave Mantle",
+    "id": 35096,
+    "name": "Brutal Gladiator\u0027s Silk Amice",
     "slot": 2,
     "sockets": 2
   },
@@ -1055,14 +1065,14 @@
     "sockets": 2
   },
   {
-    "id": 35086,
-    "name": "Brutal Gladiator\u0027s Satin Mantle",
+    "id": 35009,
+    "name": "Brutal Gladiator\u0027s Felweave Amice",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 35096,
-    "name": "Brutal Gladiator\u0027s Silk Amice",
+    "id": 35086,
+    "name": "Brutal Gladiator\u0027s Satin Mantle",
     "slot": 2,
     "sockets": 2
   },
@@ -1095,5 +1105,1060 @@
     "name": "Evoker\u0027s Silk Amice",
     "slot": 2,
     "sockets": 2
+  },
+  {
+    "id": 35580,
+    "name": "Skein Woven Mantle",
+    "slot": 2
+  },
+  {
+    "id": 35612,
+    "name": "Mantle of Echoing Bats",
+    "slot": 2
+  },
+  {
+    "id": 35818,
+    "name": "Stretch-Hide Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 35961,
+    "name": "Farshire Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35921,
+    "name": "Flint-Reinforced Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 35917,
+    "name": "Wrathwrought Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 35977,
+    "name": "Mur\u0027ghoul Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36017,
+    "name": "Tethys Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35993,
+    "name": "Bristlepine Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35969,
+    "name": "Bloodspore Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 35985,
+    "name": "Foothold Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36057,
+    "name": "Vizier Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36033,
+    "name": "Oracle Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36065,
+    "name": "Coldwraith Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36049,
+    "name": "Crystalsong Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36009,
+    "name": "Icemist Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36025,
+    "name": "Aerie Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36001,
+    "name": "Voldrune Mantle",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36041,
+    "name": "Condor Shoulderpads",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36982,
+    "name": "Mantle of Electrical Charges",
+    "slot": 2
+  },
+  {
+    "id": 37055,
+    "name": "Silken Amice of the Ymirjar",
+    "slot": 2
+  },
+  {
+    "id": 37196,
+    "name": "Runecaster\u0027s Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 37272,
+    "name": "Wizzlenob Shoulder Covers",
+    "slot": 2
+  },
+  {
+    "id": 37227,
+    "name": "Seafarer Mantle",
+    "slot": 2
+  },
+  {
+    "id": 37205,
+    "name": "Transborean Mantle",
+    "slot": 2
+  },
+  {
+    "id": 37275,
+    "name": "Mantle of Congealed Anger",
+    "slot": 2
+  },
+  {
+    "id": 37655,
+    "name": "Mantle of the Tribunal",
+    "slot": 2
+  },
+  {
+    "id": 37691,
+    "name": "Mantle of Deceit",
+    "slot": 2
+  },
+  {
+    "id": 37673,
+    "name": "Dark Runic Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 37757,
+    "name": "Charlotte\u0027s Chastizing Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37940,
+    "name": "Mantle of Itharius",
+    "slot": 2
+  },
+  {
+    "id": 37959,
+    "name": "Wastewind Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37975,
+    "name": "DB53 Cloth Spell Shoulder3",
+    "slot": 2
+  },
+  {
+    "id": 37948,
+    "name": "Refractive Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 37977,
+    "name": "DB56 Cloth Healer Shoulder2",
+    "slot": 2
+  },
+  {
+    "id": 38718,
+    "name": "Wispy Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 38730,
+    "name": "Bell-Ringer\u0027s Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 38742,
+    "name": "QR IC39 Cloth Spell Shoulder3 - PH",
+    "slot": 2
+  },
+  {
+    "id": 38713,
+    "name": "Spaulders of Foresight",
+    "slot": 2
+  },
+  {
+    "id": 39170,
+    "name": "Furred Worgslayer Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 39310,
+    "name": "Mantle of the Extensive Mind",
+    "slot": 2
+  },
+  {
+    "id": 39366,
+    "name": "Spaulders of the Runeseeker",
+    "slot": 2
+  },
+  {
+    "id": 39323,
+    "name": "Scrap-Hide Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 39284,
+    "name": "Miasma Mantle",
+    "slot": 2
+  },
+  {
+    "id": 39372,
+    "name": "Mantle of the Dark Messenger",
+    "slot": 2
+  },
+  {
+    "id": 39499,
+    "name": "Heroes\u0027 Plagueheart Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39518,
+    "name": "Heroes\u0027 Shoulderpads of Faith",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39494,
+    "name": "Heroes\u0027 Frostfire Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39529,
+    "name": "Heroes\u0027 Mantle of Faith",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39773,
+    "name": "Soothsayer\u0027s Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 39719,
+    "name": "Mantle of the Locusts",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39789,
+    "name": "Bloodbinder\u0027s Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 40289,
+    "name": "Sympathetic Amice",
+    "slot": 2
+  },
+  {
+    "id": 40286,
+    "name": "Mantle of the Corrupted",
+    "slot": 2
+  },
+  {
+    "id": 40351,
+    "name": "Mantle of the Fatigued Sage",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40424,
+    "name": "Valorous Plagueheart Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40419,
+    "name": "Valorous Frostfire Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40450,
+    "name": "Valorous Shoulderpads of Faith",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40459,
+    "name": "Valorous Mantle of Faith",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40555,
+    "name": "Mantle of Dissemination",
+    "slot": 2
+  },
+  {
+    "id": 41513,
+    "name": "Frostwoven Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 41523,
+    "name": "Mystic Frostwoven Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 41550,
+    "name": "Duskweave Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 41869,
+    "name": "Furious Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41870,
+    "name": "Relentless Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41850,
+    "name": "Savage Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41867,
+    "name": "Hateful Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41868,
+    "name": "Deadly Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41934,
+    "name": "Furious Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41935,
+    "name": "Relentless Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41933,
+    "name": "Deadly Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41931,
+    "name": "Hateful Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41930,
+    "name": "Savage Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41963,
+    "name": "Hateful Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41962,
+    "name": "Savage Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42009,
+    "name": "Hateful Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41966,
+    "name": "Relentless Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42008,
+    "name": "Savage Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42010,
+    "name": "Deadly Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42012,
+    "name": "Relentless Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41964,
+    "name": "Deadly Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42011,
+    "name": "Furious Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 41965,
+    "name": "Furious Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 42711,
+    "name": "Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42706,
+    "name": "Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42713,
+    "name": "Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42718,
+    "name": "Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42842,
+    "name": "Fur-Lined Shoulder Warmers",
+    "slot": 2
+  },
+  {
+    "id": 43074,
+    "name": "Blessed Mantle of Undead Cleansing",
+    "slot": 2
+  },
+  {
+    "id": 43193,
+    "name": "Lightning Infused Mantle",
+    "slot": 2
+  },
+  {
+    "id": 43181,
+    "name": "Shoulders of the Northern Lights",
+    "slot": 2
+  },
+  {
+    "id": 43872,
+    "name": "Weeping Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 43862,
+    "name": "Mantle of the Underhalls",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 43973,
+    "name": "Frostsavage Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 43878,
+    "name": "Mantle of Unholy Power",
+    "slot": 2
+  },
+  {
+    "id": 44378,
+    "name": "Mantle of the Flesh Giant",
+    "slot": 2
+  },
+  {
+    "id": 44370,
+    "name": "Mantle of the Intrepid Explorer",
+    "slot": 2
+  },
+  {
+    "id": 44350,
+    "name": "Mantle of Thwarted Evil",
+    "slot": 2
+  },
+  {
+    "id": 45186,
+    "name": "Soot-Covered Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45253,
+    "name": "Mantle of Wavering Calm",
+    "slot": 2
+  },
+  {
+    "id": 45369,
+    "name": "Valorous Kirin Tor Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45393,
+    "name": "Valorous Mantle of Sanctification",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45390,
+    "name": "Valorous Shoulderpads of Sanctification",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45422,
+    "name": "Valorous Deathbringer Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45514,
+    "name": "Mantle of the Unknowing",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45832,
+    "name": "Mantle of the Preserver",
+    "slot": 2
+  },
+  {
+    "id": 46013,
+    "name": "Underworld Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46068,
+    "name": "Amice of Inconceivable Horror",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 46190,
+    "name": "Conqueror\u0027s Shoulderpads of Sanctification",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46136,
+    "name": "Conqueror\u0027s Deathbringer Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46165,
+    "name": "Conqueror\u0027s Mantle of Sanctification",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46134,
+    "name": "Conqueror\u0027s Kirin Tor Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46344,
+    "name": "Iceshear Mantle",
+    "slot": 2
+  },
+  {
+    "id": 47226,
+    "name": "Mantle of Inconsolable Fear",
+    "slot": 2
+  },
+  {
+    "id": 47751,
+    "name": "Khadgar\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47792,
+    "name": "Kel\u0027Thuzad\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47715,
+    "name": "Pauldrons of Revered Mortality",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47781,
+    "name": "Kel\u0027Thuzad\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47787,
+    "name": "Kel\u0027Thuzad\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47793,
+    "name": "Gul\u0027dan\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47714,
+    "name": "Pauldrons of Catastrophic Emanation",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47713,
+    "name": "Mantle of Catastrophic Emanation",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47757,
+    "name": "Khadgar\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47716,
+    "name": "Mantle of Revered Mortality",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47767,
+    "name": "Sunstrider\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47758,
+    "name": "Khadgar\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47768,
+    "name": "Sunstrider\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47777,
+    "name": "Sunstrider\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47807,
+    "name": "Gul\u0027dan\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47798,
+    "name": "Gul\u0027dan\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47987,
+    "name": "Velen\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47981,
+    "name": "Velen\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48071,
+    "name": "Zabra\u0027s Shoulderpads of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48082,
+    "name": "Velen\u0027s Mantle of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48092,
+    "name": "Zabra\u0027s Mantle of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48091,
+    "name": "Zabra\u0027s Mantle of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48062,
+    "name": "Zabra\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48061,
+    "name": "Zabra\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48076,
+    "name": "Velen\u0027s Mantle of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48101,
+    "name": "Zabra\u0027s Mantle of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48029,
+    "name": "Velen\u0027s Shoulderpads of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48081,
+    "name": "Velen\u0027s Mantle of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48744,
+    "name": "Kel\u0027Thuzad\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48749,
+    "name": "Velen\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48739,
+    "name": "Gul\u0027dan\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48729,
+    "name": "Khadgar\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48754,
+    "name": "Zabra\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48734,
+    "name": "Sunstrider\u0027s Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48762,
+    "name": "Zabra\u0027s Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48757,
+    "name": "Velen\u0027s Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 49854,
+    "name": "Mantle of Tattered Feathers",
+    "slot": 2
+  },
+  {
+    "id": 49834,
+    "name": "Frayed Abomination Stitching Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 49991,
+    "name": "Shoulders of Mercy Killing",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50244,
+    "name": "Dark Coven Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50279,
+    "name": "Bloodmage Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50193,
+    "name": "Very Fashionable Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 50396,
+    "name": "Crimson Acolyte Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50449,
+    "name": "Stiffened Corpse Shoulderpads",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50643,
+    "name": "Shoulders of Mercy Killing",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50767,
+    "name": "Crimson Acolyte Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50988,
+    "name": "Bloodstained Surgeon\u0027s Shoulderguards",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51182,
+    "name": "Sanctified Crimson Acolyte Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51155,
+    "name": "Sanctified Bloodmage Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51020,
+    "name": "Shoulders of Ruinous Senility",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51175,
+    "name": "Sanctified Crimson Acolyte Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51284,
+    "name": "Sanctified Bloodmage Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51234,
+    "name": "Sanctified Dark Coven Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51257,
+    "name": "Sanctified Crimson Acolyte Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51205,
+    "name": "Sanctified Dark Coven Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51264,
+    "name": "Sanctified Crimson Acolyte Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51467,
+    "name": "Wrathful Gladiator\u0027s Silk Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51486,
+    "name": "Wrathful Gladiator\u0027s Mooncloth Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51540,
+    "name": "Wrathful Gladiator\u0027s Felweave Amice",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51491,
+    "name": "Wrathful Gladiator\u0027s Satin Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51573,
+    "name": "Titan-Forged Shoulderpads of Domination",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51572,
+    "name": "Titan-Forged Shoulderpads of Salvation",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51739,
+    "name": "Crimson Acolyte Mantle",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51762,
+    "name": "Dark Coven Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51712,
+    "name": "Bloodmage Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51734,
+    "name": "Crimson Acolyte Shoulderpads",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51883,
+    "name": "Bloodstained Surgeon\u0027s Shoulderguards",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51859,
+    "name": "Shoulders of Ruinous Senility",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51969,
+    "name": "Enumerated Shoulders",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 186019,
+    "name": "Communal Mantle",
+    "slot": 2
+  },
+  {
+    "id": 199328,
+    "name": "Collective Mantle",
+    "slot": 2
   }
 ]

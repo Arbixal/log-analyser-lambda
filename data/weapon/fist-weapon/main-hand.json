@@ -57,6 +57,12 @@
     "randomEnchantment": true
   },
   {
+    "id": 25188,
+    "name": "Spleenripper Claws",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
     "id": 25190,
     "name": "Wight\u0027s Claws",
     "slot": 15,
@@ -65,12 +71,6 @@
   {
     "id": 25196,
     "name": "Boneshredder Claws",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25188,
-    "name": "Spleenripper Claws",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -106,23 +106,23 @@
     "slot": 15
   },
   {
-    "id": 28928,
-    "name": "High Warlord\u0027s Right Ripper",
-    "slot": 15
-  },
-  {
     "id": 28953,
     "name": "Grand Marshal\u0027s Right Ripper",
     "slot": 15
   },
   {
-    "id": 29371,
-    "name": "Nexus-Claw",
+    "id": 28928,
+    "name": "High Warlord\u0027s Right Ripper",
     "slot": 15
   },
   {
     "id": 29348,
     "name": "The Bladefist",
+    "slot": 15
+  },
+  {
+    "id": 29371,
+    "name": "Nexus-Claw",
     "slot": 15
   },
   {
@@ -175,6 +175,224 @@
   {
     "id": 35076,
     "name": "Brutal Gladiator\u0027s Right Ripper",
+    "slot": 15
+  },
+  {
+    "id": 35573,
+    "name": "Arm Blade of Augelmir",
+    "slot": 15
+  },
+  {
+    "id": 35851,
+    "name": "Acid-Etched Knuckles",
+    "slot": 15
+  },
+  {
+    "id": 37021,
+    "name": "Claw of the Tuskarr",
+    "slot": 15
+  },
+  {
+    "id": 37072,
+    "name": "Jagged Icefist",
+    "slot": 15
+  },
+  {
+    "id": 37631,
+    "name": "Fist of the Deity",
+    "slot": 15
+  },
+  {
+    "id": 37693,
+    "name": "Greed",
+    "slot": 15
+  },
+  {
+    "id": 38159,
+    "name": "DB20 Slow Right Fist",
+    "slot": 15
+  },
+  {
+    "id": 38238,
+    "name": "Borean Smasher",
+    "slot": 15
+  },
+  {
+    "id": 38179,
+    "name": "DB38 Slow Right Fist2",
+    "slot": 15
+  },
+  {
+    "id": 38243,
+    "name": "Ravaging Steelfist",
+    "slot": 15
+  },
+  {
+    "id": 39112,
+    "name": "Talon of Freedom",
+    "slot": 15
+  },
+  {
+    "id": 39416,
+    "name": "Kel\u0027Thuzad\u0027s Reach",
+    "slot": 15
+  },
+  {
+    "id": 39763,
+    "name": "Wraith Strike",
+    "slot": 15
+  },
+  {
+    "id": 39865,
+    "name": "Knuckle of Victory",
+    "slot": 15
+  },
+  {
+    "id": 40383,
+    "name": "Calamity\u0027s Grasp",
+    "slot": 15
+  },
+  {
+    "id": 40429,
+    "name": "Crimson Steel",
+    "slot": 15
+  },
+  {
+    "id": 42261,
+    "name": "Furious Gladiator\u0027s Right Ripper",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 42218,
+    "name": "Savage Gladiator\u0027s Right Ripper",
+    "slot": 15
+  },
+  {
+    "id": 42260,
+    "name": "Deadly Gladiator\u0027s Right Ripper",
+    "slot": 15
+  },
+  {
+    "id": 42259,
+    "name": "Hateful Gladiator\u0027s Right Ripper",
+    "slot": 15
+  },
+  {
+    "id": 42262,
+    "name": "Relentless Gladiator\u0027s Right Ripper",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 43890,
+    "name": "Interrogator\u0027s Flaming Knuckles",
+    "slot": 15
+  },
+  {
+    "id": 44641,
+    "name": "Dalaran Knuckles",
+    "slot": 15
+  },
+  {
+    "id": 45132,
+    "name": "Golden Saronite Dragon",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 45489,
+    "name": "Insanity\u0027s Grip",
+    "slot": 15
+  },
+  {
+    "id": 45449,
+    "name": "The Masticator",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 45969,
+    "name": "Furious Gladiator\u0027s Grasp",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48515,
+    "name": "Relentless Gladiator\u0027s Grasp",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48703,
+    "name": "The Facebreaker",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48712,
+    "name": "The Spinebreaker",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 50035,
+    "name": "Black Bruise",
+    "slot": 15
+  },
+  {
+    "id": 50315,
+    "name": "Seven-Fingered Claws",
+    "slot": 15
+  },
+  {
+    "id": 50692,
+    "name": "Black Bruise",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51003,
+    "name": "Abomination Knuckles",
+    "slot": 15
+  },
+  {
+    "id": 51524,
+    "name": "Wrathful Gladiator\u0027s Grasp",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51523,
+    "name": "Wrathful Gladiator\u0027s Right Ripper",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51801,
+    "name": "Pugius, Fist of Defiance",
+    "slot": 15
+  },
+  {
+    "id": 51876,
+    "name": "Abomination Knuckles",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51941,
+    "name": "Pugius, Fist of Defiance",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 186070,
+    "name": "Communal Right Claw",
+    "slot": 15
+  },
+  {
+    "id": 199723,
+    "name": "Collective Right Claw",
     "slot": 15
   }
 ]

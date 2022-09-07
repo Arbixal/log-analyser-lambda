@@ -52,13 +52,13 @@
     "slot": 17
   },
   {
-    "id": 16007,
-    "name": "Flawless Arcanite Rifle",
+    "id": 15995,
+    "name": "Thorium Rifle",
     "slot": 17
   },
   {
-    "id": 15995,
-    "name": "Thorium Rifle",
+    "id": 16007,
+    "name": "Flawless Arcanite Rifle",
     "slot": 17
   },
   {
@@ -95,13 +95,13 @@
     }
   },
   {
-    "id": 18855,
-    "name": "Grand Marshal\u0027s Hand Cannon",
+    "id": 18860,
+    "name": "High Warlord\u0027s Street Sweeper",
     "slot": 17
   },
   {
-    "id": 18860,
-    "name": "High Warlord\u0027s Street Sweeper",
+    "id": 18855,
+    "name": "Grand Marshal\u0027s Hand Cannon",
     "slot": 17
   },
   {
@@ -150,13 +150,13 @@
     "slot": 17
   },
   {
-    "id": 23748,
-    "name": "Ornate Khorium Rifle",
+    "id": 23746,
+    "name": "Adamantite Rifle",
     "slot": 17
   },
   {
-    "id": 23746,
-    "name": "Adamantite Rifle",
+    "id": 23748,
+    "name": "Ornate Khorium Rifle",
     "slot": 17
   },
   {
@@ -168,12 +168,6 @@
     "id": 24389,
     "name": "Legion Blunderbuss",
     "slot": 17
-  },
-  {
-    "id": 25268,
-    "name": "Lead-Slug Shotgun",
-    "slot": 17,
-    "randomEnchantment": true
   },
   {
     "id": 25269,
@@ -188,38 +182,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25271,
-    "name": "Croc-Hunter\u0027s Rifle",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25272,
-    "name": "PC-54 Shotgun",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25276,
-    "name": "Tauren Runed Musket",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25281,
-    "name": "Big-Boar Battle Rifle",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25278,
-    "name": "Nessingwary Longrifle",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25277,
-    "name": "Sporting Rifle",
+    "id": 25280,
+    "name": "Game Hunter Musket",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -230,26 +194,62 @@
     "randomEnchantment": true
   },
   {
-    "id": 25275,
-    "name": "Dragonbreath Musket",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25273,
-    "name": "Sawed-Off Shotgun",
-    "slot": 17,
-    "randomEnchantment": true
-  },
-  {
     "id": 25279,
     "name": "Sen\u0027jin Longrifle",
     "slot": 17,
     "randomEnchantment": true
   },
   {
-    "id": 25280,
-    "name": "Game Hunter Musket",
+    "id": 25276,
+    "name": "Tauren Runed Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25268,
+    "name": "Lead-Slug Shotgun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25271,
+    "name": "Croc-Hunter\u0027s Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25278,
+    "name": "Nesingwary Longrifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25275,
+    "name": "Dragonbreath Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25281,
+    "name": "Big-Boar Battle Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25277,
+    "name": "Sporting Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25272,
+    "name": "PC-54 Shotgun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25273,
+    "name": "Sawed-Off Shotgun",
     "slot": 17,
     "randomEnchantment": true
   },
@@ -345,14 +345,19 @@
     "slot": 17
   },
   {
+    "id": 32780,
+    "name": "The Boomstick",
+    "slot": 17
+  },
+  {
     "id": 32756,
     "name": "Gyro-Balanced Khorium Destroyer",
     "slot": 17,
     "sockets": 1
   },
   {
-    "id": 32780,
-    "name": "The Boomstick",
+    "id": 33427,
+    "name": "Frost-Encrusted Rifle",
     "slot": 17
   },
   {
@@ -369,5 +374,365 @@
     "id": 35075,
     "name": "Brutal Gladiator\u0027s Rifle",
     "slot": 17
+  },
+  {
+    "id": 35645,
+    "name": "Prison Warden\u0027s Shotgun",
+    "slot": 17
+  },
+  {
+    "id": 35856,
+    "name": "Hair-Trigger Blunderbuss",
+    "slot": 17
+  },
+  {
+    "id": 36642,
+    "name": "Flintlock Gun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36654,
+    "name": "Harsh-Winter Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36641,
+    "name": "Bound Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36645,
+    "name": "Tuskarr Boomstick",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36647,
+    "name": "Noisy Blaster",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36652,
+    "name": "Stocky Shotgun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36644,
+    "name": "Inelegant Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36653,
+    "name": "Precipice Longrifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36646,
+    "name": "Haggard Gun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36648,
+    "name": "Trapper\u0027s Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36649,
+    "name": "Tundra Rifle",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36643,
+    "name": "Tracker\u0027s Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36651,
+    "name": "Muzzled Musket",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36650,
+    "name": "Mammoth Gun",
+    "slot": 17,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36994,
+    "name": "Projectile Activator",
+    "slot": 17
+  },
+  {
+    "id": 37018,
+    "name": "G.E.H.T.A.",
+    "slot": 17
+  },
+  {
+    "id": 37049,
+    "name": "Lost Marksman\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 37692,
+    "name": "Pierce\u0027s Pistol",
+    "slot": 17
+  },
+  {
+    "id": 38166,
+    "name": "DB20 Gun",
+    "slot": 17
+  },
+  {
+    "id": 38194,
+    "name": "Mageslayer Rifle",
+    "slot": 17
+  },
+  {
+    "id": 38246,
+    "name": "Skull-forged Blunderbuss",
+    "slot": 17
+  },
+  {
+    "id": 38177,
+    "name": "Siege Captain\u0027s Gun",
+    "slot": 17
+  },
+  {
+    "id": 38241,
+    "name": "Fury of the Raging Dragon",
+    "slot": 17
+  },
+  {
+    "id": 38457,
+    "name": "Sawed-off Hand Cannon",
+    "slot": 17
+  },
+  {
+    "id": 39119,
+    "name": "Bondsniper",
+    "slot": 17
+  },
+  {
+    "id": 39419,
+    "name": "Nerubian Conquerer",
+    "slot": 17
+  },
+  {
+    "id": 39486,
+    "name": "Hemet\u0027s Trophy Gun",
+    "slot": 17
+  },
+  {
+    "id": 39688,
+    "name": "Mark \u0022S\u0022 Boomstick",
+    "slot": 17
+  },
+  {
+    "id": 40385,
+    "name": "Envoy of Mortality",
+    "slot": 17
+  },
+  {
+    "id": 41168,
+    "name": "Armor Plated Combat Shotgun",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 42485,
+    "name": "Deadly Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 42484,
+    "name": "Hateful Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 42447,
+    "name": "Savage Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 42487,
+    "name": "Relentless Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 42486,
+    "name": "Furious Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 42822,
+    "name": "K3 Pachyderm Prevention Device",
+    "slot": 17
+  },
+  {
+    "id": 44245,
+    "name": "Zombie Sweeper Shotgun",
+    "slot": 17
+  },
+  {
+    "id": 44504,
+    "name": "Nesingwary 4000",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 44635,
+    "name": "Dalaran Rifle",
+    "slot": 17
+  },
+  {
+    "id": 45137,
+    "name": "Veranus\u0027 Bane",
+    "slot": 17
+  },
+  {
+    "id": 45130,
+    "name": "Blunderbuss of Khaz Modan",
+    "slot": 17
+  },
+  {
+    "id": 45210,
+    "name": "Sen\u0027jin Beakblade Longrifle",
+    "slot": 17
+  },
+  {
+    "id": 45261,
+    "name": "Giant\u0027s Bane",
+    "slot": 17
+  },
+  {
+    "id": 45309,
+    "name": "Rifle of the Platinum Guard",
+    "slot": 17
+  },
+  {
+    "id": 45870,
+    "name": "Magnetized Projectile Emitter",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 45937,
+    "name": "Furious Gladiator\u0027s Shotgun",
+    "slot": 17
+  },
+  {
+    "id": 46339,
+    "name": "Mimiron\u0027s Repeater",
+    "slot": 17
+  },
+  {
+    "id": 47523,
+    "name": "Fezzik\u0027s Autocannon",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47521,
+    "name": "BRK-1000",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47568,
+    "name": "True-aim Long Rifle",
+    "slot": 17
+  },
+  {
+    "id": 47740,
+    "name": "The Diplomat",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47883,
+    "name": "Widebarrel Flintlock",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 47950,
+    "name": "The Diplomat",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 48022,
+    "name": "Widebarrel Flintlock",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 48424,
+    "name": "Relentless Gladiator\u0027s Shotgun",
+    "slot": 17
+  },
+  {
+    "id": 49305,
+    "name": "Snub-Nose Blastershot Launcher",
+    "slot": 17
+  },
+  {
+    "id": 49493,
+    "name": "Rifled Blastershot Launcher",
+    "slot": 17
+  },
+  {
+    "id": 49813,
+    "name": "Rimebane Rifle",
+    "slot": 17
+  },
+  {
+    "id": 50444,
+    "name": "Rowan\u0027s Rifle of Silver Bullets",
+    "slot": 17
+  },
+  {
+    "id": 51385,
+    "name": "Stakethrower",
+    "slot": 17
+  },
+  {
+    "id": 51449,
+    "name": "Wrathful Gladiator\u0027s Rifle",
+    "slot": 17
+  },
+  {
+    "id": 51450,
+    "name": "Wrathful Gladiator\u0027s Shotgun",
+    "slot": 17
+  },
+  {
+    "id": 51561,
+    "name": "Dreamhunter\u0027s Carbine",
+    "slot": 17
+  },
+  {
+    "id": 51845,
+    "name": "Stakethrower",
+    "slot": 17,
+    "sockets": 1
+  },
+  {
+    "id": 51834,
+    "name": "Dreamhunter\u0027s Carbine",
+    "slot": 17,
+    "sockets": 1
   }
 ]

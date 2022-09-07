@@ -15,13 +15,13 @@
     "slot": 16
   },
   {
-    "id": 9686,
-    "name": "Spirit of the Faerie Dragon",
+    "id": 9651,
+    "name": "Gryphon Rider\u0027s Stormhammer",
     "slot": 16
   },
   {
-    "id": 9651,
-    "name": "Gryphon Rider\u0027s Stormhammer",
+    "id": 9686,
+    "name": "Spirit of the Faerie Dragon",
     "slot": 16
   },
   {
@@ -60,6 +60,21 @@
     "slot": 16
   },
   {
+    "id": 12781,
+    "name": "Serenity",
+    "slot": 16
+  },
+  {
+    "id": 12792,
+    "name": "Volcanic Hammer",
+    "slot": 16
+  },
+  {
+    "id": 12794,
+    "name": "Masterwork Stormhammer",
+    "slot": 16
+  },
+  {
     "id": 13006,
     "name": "Mass of McGowan",
     "slot": 16
@@ -75,13 +90,13 @@
     "slot": 16
   },
   {
-    "id": 13204,
-    "name": "Bashguuder",
+    "id": 13183,
+    "name": "Venomspitter",
     "slot": 16
   },
   {
-    "id": 13183,
-    "name": "Venomspitter",
+    "id": 13204,
+    "name": "Bashguuder",
     "slot": 16
   },
   {
@@ -132,13 +147,13 @@
     "slot": 16
   },
   {
-    "id": 18044,
-    "name": "Hurley\u0027s Tankard",
+    "id": 17943,
+    "name": "Fist of Stone",
     "slot": 16
   },
   {
-    "id": 17943,
-    "name": "Fist of Stone",
+    "id": 18044,
+    "name": "Hurley\u0027s Tankard",
     "slot": 16
   },
   {
@@ -157,13 +172,13 @@
     "slot": 16
   },
   {
-    "id": 18865,
-    "name": "Grand Marshal\u0027s Punisher",
+    "id": 18866,
+    "name": "High Warlord\u0027s Bludgeon",
     "slot": 16
   },
   {
-    "id": 18866,
-    "name": "High Warlord\u0027s Bludgeon",
+    "id": 18865,
+    "name": "Grand Marshal\u0027s Punisher",
     "slot": 16
   },
   {
@@ -230,6 +245,11 @@
     "slot": 16
   },
   {
+    "id": 22384,
+    "name": "Persuader",
+    "slot": 16
+  },
+  {
     "id": 22808,
     "name": "The Castigator",
     "slot": 16
@@ -250,68 +270,8 @@
     "slot": 16
   },
   {
-    "id": 25123,
-    "name": "Boneshredder Mace",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25126,
-    "name": "Anvilmar Hammer",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25114,
-    "name": "Doomsayer\u0027s Mace",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
     "id": 25117,
     "name": "Flanged Battle Mace",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25119,
-    "name": "Silvermoon War-Mace",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25118,
-    "name": "Battle Star",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25116,
-    "name": "Pneumatic War Hammer",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25115,
-    "name": "Riversong Mace",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25127,
-    "name": "Knight\u0027s War Hammer",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25122,
-    "name": "Khorium Plated Bludgeon",
-    "slot": 16,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25120,
-    "name": "Rockshard Club",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -322,14 +282,74 @@
     "randomEnchantment": true
   },
   {
-    "id": 25125,
-    "name": "Retro-Spike Club",
+    "id": 25122,
+    "name": "Khorium Plated Bludgeon",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25123,
+    "name": "Boneshredder Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25114,
+    "name": "Doomsayer\u0027s Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25115,
+    "name": "Riversong Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25116,
+    "name": "Pneumatic War Hammer",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25119,
+    "name": "Silvermoon War-Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25120,
+    "name": "Rockshard Club",
     "slot": 16,
     "randomEnchantment": true
   },
   {
     "id": 25124,
     "name": "Footman Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25126,
+    "name": "Anvilmar Hammer",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25127,
+    "name": "Knight\u0027s War Hammer",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25118,
+    "name": "Battle Star",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25125,
+    "name": "Retro-Spike Club",
     "slot": 16,
     "randomEnchantment": true
   },
@@ -370,13 +390,29 @@
     "slot": 16
   },
   {
-    "id": 28925,
-    "name": "High Warlord\u0027s Pummeler",
+    "id": 28439,
+    "name": "Dragonstrike",
     "slot": 16
   },
   {
-    "id": 28951,
-    "name": "Grand Marshal\u0027s Pummeler",
+    "id": 28438,
+    "name": "Dragonmaw",
+    "slot": 16
+  },
+  {
+    "id": 28437,
+    "name": "Drakefist Hammer",
+    "slot": 16
+  },
+  {
+    "id": 28657,
+    "name": "Fool\u0027s Bane",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 28925,
+    "name": "High Warlord\u0027s Pummeler",
     "slot": 16
   },
   {
@@ -390,6 +426,11 @@
     "slot": 16
   },
   {
+    "id": 28951,
+    "name": "Grand Marshal\u0027s Pummeler",
+    "slot": 16
+  },
+  {
     "id": 29787,
     "name": "Master Smith\u0027s Hammer",
     "slot": 16
@@ -397,6 +438,21 @@
   {
     "id": 29996,
     "name": "Rod of the Sun King",
+    "slot": 16
+  },
+  {
+    "id": 30058,
+    "name": "Mallet of the Tides",
+    "slot": 16
+  },
+  {
+    "id": 30073,
+    "name": "Light Emberforged Hammer",
+    "slot": 16
+  },
+  {
+    "id": 30089,
+    "name": "Lavaforged Warhammer",
     "slot": 16
   },
   {
@@ -448,6 +504,448 @@
   {
     "id": 35071,
     "name": "Brutal Gladiator\u0027s Pummeler",
+    "slot": 16
+  },
+  {
+    "id": 35630,
+    "name": "Summoner\u0027s Stone Gavel",
+    "slot": 16
+  },
+  {
+    "id": 35664,
+    "name": "Unknown Archaeologist\u0027s Hammer",
+    "slot": 16
+  },
+  {
+    "id": 36493,
+    "name": "Furbolg Truncheon",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36497,
+    "name": "Adamant Mallet",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36492,
+    "name": "Peaked Club",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36489,
+    "name": "Iron Flanged Scepter",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36488,
+    "name": "Conifer Club",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36499,
+    "name": "Frigid War-Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36494,
+    "name": "Barbed Star",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36491,
+    "name": "Serrated Maul",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36496,
+    "name": "Brass-Bound Cudgel",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36495,
+    "name": "Ferrous Hammer",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36498,
+    "name": "Nerubian Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36490,
+    "name": "Tuskarr Cudgel",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36500,
+    "name": "Gargoyle\u0027s Mace",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36487,
+    "name": "Stone-Headed Gavel",
+    "slot": 16,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36879,
+    "name": "Soldier\u0027s Spiked Mace",
+    "slot": 16
+  },
+  {
+    "id": 37014,
+    "name": "Rod of Poacher Punishment",
+    "slot": 16
+  },
+  {
+    "id": 37547,
+    "name": "Fireborn Warhammer",
+    "slot": 16
+  },
+  {
+    "id": 37536,
+    "name": "BT57 Fast Mace2",
+    "slot": 16
+  },
+  {
+    "id": 37808,
+    "name": "Dragonjaw Mauler",
+    "slot": 16
+  },
+  {
+    "id": 38152,
+    "name": "Mace of the Violet Guardian",
+    "slot": 16
+  },
+  {
+    "id": 38170,
+    "name": "Spiked Coldwind Club",
+    "slot": 16
+  },
+  {
+    "id": 38174,
+    "name": "Time-Bending Smasher",
+    "slot": 16
+  },
+  {
+    "id": 38176,
+    "name": "Stronghold Battlemace",
+    "slot": 16
+  },
+  {
+    "id": 38454,
+    "name": "Warsong Punisher",
+    "slot": 16
+  },
+  {
+    "id": 38455,
+    "name": "Hammer of the Alliance Vanguard",
+    "slot": 16
+  },
+  {
+    "id": 38468,
+    "name": "Kalu\u0027ak Peacebringer",
+    "slot": 16
+  },
+  {
+    "id": 39144,
+    "name": "Twisted Hooligan Whacker",
+    "slot": 16
+  },
+  {
+    "id": 39145,
+    "name": "QR IC35 Fast Mace - PH",
+    "slot": 16
+  },
+  {
+    "id": 39226,
+    "name": "Maexxna\u0027s Femur",
+    "slot": 16
+  },
+  {
+    "id": 40189,
+    "name": "Angry Dread",
+    "slot": 16
+  },
+  {
+    "id": 40264,
+    "name": "Split Greathammer",
+    "slot": 16
+  },
+  {
+    "id": 41240,
+    "name": "Cobalt Tenderizer",
+    "slot": 16
+  },
+  {
+    "id": 41185,
+    "name": "Furious Saronite Beatstick",
+    "slot": 16
+  },
+  {
+    "id": 41824,
+    "name": "Crimson Cranium Crusher",
+    "slot": 16
+  },
+  {
+    "id": 42222,
+    "name": "Savage Gladiator\u0027s Pummeler",
+    "slot": 16
+  },
+  {
+    "id": 42275,
+    "name": "Deadly Gladiator\u0027s Pummeler",
+    "slot": 16
+  },
+  {
+    "id": 42274,
+    "name": "Hateful Gladiator\u0027s Pummeler",
+    "slot": 16
+  },
+  {
+    "id": 42276,
+    "name": "Furious Gladiator\u0027s Pummeler",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42277,
+    "name": "Relentless Gladiator\u0027s Pummeler",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 42823,
+    "name": "Ricket\u0027s Beatstick",
+    "slot": 16
+  },
+  {
+    "id": 42868,
+    "name": "Hyldnir Headcracker",
+    "slot": 16
+  },
+  {
+    "id": 43407,
+    "name": "Stormstrike Mace",
+    "slot": 16
+  },
+  {
+    "id": 43888,
+    "name": "Blunt Brainwasher",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 44636,
+    "name": "Dalaran Cudgel",
+    "slot": 16
+  },
+  {
+    "id": 45075,
+    "name": "Ironforge Smasher",
+    "slot": 16
+  },
+  {
+    "id": 45203,
+    "name": "Grimhorn Crusher",
+    "slot": 16
+  },
+  {
+    "id": 45315,
+    "name": "Stonerender",
+    "slot": 16
+  },
+  {
+    "id": 45463,
+    "name": "Vulmir, the Northern Tempest",
+    "slot": 16
+  },
+  {
+    "id": 45442,
+    "name": "Sorthalis, Hammer of the Watchers",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45876,
+    "name": "Shiver",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45959,
+    "name": "Furious Gladiator\u0027s Truncheon",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 45892,
+    "name": "Legacy of Thunder",
+    "slot": 16
+  },
+  {
+    "id": 46097,
+    "name": "Caress of Insanity",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 46351,
+    "name": "Bloodcrush Cudgel",
+    "slot": 16
+  },
+  {
+    "id": 47528,
+    "name": "Cudgel of the Damned",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47526,
+    "name": "Remorseless",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47508,
+    "name": "Aledar\u0027s Battlestar",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47816,
+    "name": "The Grinder",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47905,
+    "name": "Blackhorn Bludgeon",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 47973,
+    "name": "The Grinder",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48050,
+    "name": "Blackhorn Bludgeon",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48511,
+    "name": "Relentless Gladiator\u0027s Truncheon",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48699,
+    "name": "Blood and Glory",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 48663,
+    "name": "Tankard O\u0027 Terror",
+    "slot": 16
+  },
+  {
+    "id": 48714,
+    "name": "Honor of the Fallen",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 49783,
+    "name": "Lucky Old Sun",
+    "slot": 16
+  },
+  {
+    "id": 49997,
+    "name": "Mithrios, Bronzebeard\u0027s Legacy",
+    "slot": 16
+  },
+  {
+    "id": 50050,
+    "name": "Cudgel of Furious Justice",
+    "slot": 16
+  },
+  {
+    "id": 50179,
+    "name": "Last Word",
+    "slot": 16
+  },
+  {
+    "id": 50303,
+    "name": "Black Icicle",
+    "slot": 16
+  },
+  {
+    "id": 50760,
+    "name": "Bonebreaker Scepter",
+    "slot": 16
+  },
+  {
+    "id": 50738,
+    "name": "Mithrios, Bronzebeard\u0027s Legacy",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 50708,
+    "name": "Last Word",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 50810,
+    "name": "Gutbuster",
+    "slot": 16
+  },
+  {
+    "id": 51519,
+    "name": "Wrathful Gladiator\u0027s Pummeler",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51520,
+    "name": "Wrathful Gladiator\u0027s Truncheon",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51893,
+    "name": "Gutbuster",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 51937,
+    "name": "Bonebreaker Scepter",
+    "slot": 16,
+    "sockets": 1
+  },
+  {
+    "id": 186062,
+    "name": "Communal Smasher",
     "slot": 16
   }
 ]

@@ -8,18 +8,13 @@
     }
   },
   {
-    "id": 3947,
-    "name": "Twill Cloak",
-    "slot": 14
-  },
-  {
     "id": 3955,
     "name": "Mesh Cloak",
     "slot": 14
   },
   {
-    "id": 3980,
-    "name": "Strapped Cloak",
+    "id": 3947,
+    "name": "Twill Cloak",
     "slot": 14
   },
   {
@@ -28,8 +23,8 @@
     "slot": 14
   },
   {
-    "id": 4011,
-    "name": "Sterling Chain Cloak",
+    "id": 3980,
+    "name": "Strapped Cloak",
     "slot": 14
   },
   {
@@ -38,8 +33,18 @@
     "slot": 14
   },
   {
+    "id": 4011,
+    "name": "Sterling Chain Cloak",
+    "slot": 14
+  },
+  {
     "id": 8266,
     "name": "Ebonhold Cloak",
+    "slot": 14
+  },
+  {
+    "id": 8297,
+    "name": "Traveler\u0027s Cloak",
     "slot": 14
   },
   {
@@ -50,11 +55,6 @@
   {
     "id": 8304,
     "name": "Hero\u0027s Cape",
-    "slot": 14
-  },
-  {
-    "id": 8297,
-    "name": "Traveler\u0027s Cloak",
     "slot": 14
   },
   {
@@ -76,14 +76,20 @@
     "randomEnchantment": true
   },
   {
+    "id": 10138,
+    "name": "High Councillor\u0027s Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
     "id": 10148,
     "name": "Mighty Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
   {
-    "id": 10138,
-    "name": "High Councillor\u0027s Cloak",
+    "id": 10174,
+    "name": "Mystical Cape",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -100,8 +106,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 10174,
-    "name": "Mystical Cape",
+    "id": 10212,
+    "name": "Elegant Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -112,8 +118,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 10212,
-    "name": "Elegant Cloak",
+    "id": 10249,
+    "name": "Master\u0027s Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -124,20 +130,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 10249,
-    "name": "Master\u0027s Cloak",
+    "id": 10267,
+    "name": "Masterwork Cape",
     "slot": 14,
     "randomEnchantment": true
   },
   {
     "id": 10258,
     "name": "Adventurer\u0027s Cape",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 10267,
-    "name": "Masterwork Cape",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -152,13 +152,13 @@
     "slot": 14
   },
   {
-    "id": 11623,
-    "name": "Spritecaster Cape",
+    "id": 11626,
+    "name": "Blackveil Cape",
     "slot": 14
   },
   {
-    "id": 11626,
-    "name": "Blackveil Cape",
+    "id": 11623,
+    "name": "Spritecaster Cape",
     "slot": 14
   },
   {
@@ -205,11 +205,6 @@
     "slot": 14
   },
   {
-    "id": 12608,
-    "name": "Butcher\u0027s Apron",
-    "slot": 14
-  },
-  {
     "id": 12551,
     "name": "Stoneshield Cloak",
     "slot": 14
@@ -223,6 +218,11 @@
     }
   },
   {
+    "id": 12608,
+    "name": "Butcher\u0027s Apron",
+    "slot": 14
+  },
+  {
     "id": 12905,
     "name": "Wildfire Cape",
     "slot": 14,
@@ -231,13 +231,13 @@
     }
   },
   {
-    "id": 12967,
-    "name": "Bloodmoon Cloak",
+    "id": 12968,
+    "name": "Frostweaver Cape",
     "slot": 14
   },
   {
-    "id": 12968,
-    "name": "Frostweaver Cape",
+    "id": 12967,
+    "name": "Bloodmoon Cloak",
     "slot": 14
   },
   {
@@ -392,18 +392,6 @@
     "randomEnchantment": true
   },
   {
-    "id": 15652,
-    "name": "Merciless Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 15661,
-    "name": "Impenetrable Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
     "id": 15671,
     "name": "Magnificent Cloak",
     "slot": 14,
@@ -416,18 +404,30 @@
     "randomEnchantment": true
   },
   {
+    "id": 15661,
+    "name": "Impenetrable Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 15652,
+    "name": "Merciless Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
     "id": 15703,
     "name": "Chemist\u0027s Smock",
     "slot": 14
   },
   {
-    "id": 15804,
-    "name": "Cerise Drape",
+    "id": 15789,
+    "name": "Deep River Cloak",
     "slot": 14
   },
   {
-    "id": 15789,
-    "name": "Deep River Cloak",
+    "id": 15804,
+    "name": "Cerise Drape",
     "slot": 14
   },
   {
@@ -461,15 +461,6 @@
     }
   },
   {
-    "id": 17078,
-    "name": "Sapphiron Drape",
-    "slot": 14,
-    "resistances": {
-      "Arcane": 6,
-      "Frost": 6
-    }
-  },
-  {
     "id": 17107,
     "name": "Dragon\u0027s Blood Cape",
     "slot": 14,
@@ -477,6 +468,15 @@
       "Arcane": 5,
       "Fire": 5,
       "Shadow": 5
+    }
+  },
+  {
+    "id": 17078,
+    "name": "Sapphiron Drape",
+    "slot": 14,
+    "resistances": {
+      "Arcane": 6,
+      "Frost": 6
     }
   },
   {
@@ -503,14 +503,6 @@
     "slot": 14
   },
   {
-    "id": 18339,
-    "name": "Eidolon Cloak",
-    "slot": 14,
-    "resistances": {
-      "Shadow": 12
-    }
-  },
-  {
     "id": 18328,
     "name": "Shadewood Cloak",
     "slot": 14,
@@ -524,15 +516,23 @@
     "slot": 14
   },
   {
-    "id": 18389,
-    "name": "Cloak of the Cosmos",
-    "slot": 14
+    "id": 18339,
+    "name": "Eidolon Cloak",
+    "slot": 14,
+    "resistances": {
+      "Shadow": 12
+    }
   },
   {
     "id": 18382,
     "name": "Fluctuating Cloak",
     "slot": 14,
     "randomEnchantment": true
+  },
+  {
+    "id": 18389,
+    "name": "Cloak of the Cosmos",
+    "slot": 14
   },
   {
     "id": 18413,
@@ -545,8 +545,8 @@
     "slot": 14
   },
   {
-    "id": 18495,
-    "name": "Redoubt Cloak",
+    "id": 18496,
+    "name": "Heliotrope Cloak",
     "slot": 14
   },
   {
@@ -555,18 +555,8 @@
     "slot": 14
   },
   {
-    "id": 18541,
-    "name": "Puissant Cape",
-    "slot": 14
-  },
-  {
     "id": 18511,
     "name": "Shifting Cloak",
-    "slot": 14
-  },
-  {
-    "id": 18496,
-    "name": "Heliotrope Cloak",
     "slot": 14
   },
   {
@@ -577,6 +567,16 @@
       "Fire": 9,
       "Shadow": 9
     }
+  },
+  {
+    "id": 18541,
+    "name": "Puissant Cape",
+    "slot": 14
+  },
+  {
+    "id": 18495,
+    "name": "Redoubt Cloak",
+    "slot": 14
   },
   {
     "id": 18677,
@@ -613,16 +613,16 @@
     }
   },
   {
-    "id": 19083,
-    "name": "Frostwolf Legionnaire\u0027s Cloak",
+    "id": 19084,
+    "name": "Stormpike Soldier\u0027s Cloak",
     "slot": 14,
     "resistances": {
       "Frost": 5
     }
   },
   {
-    "id": 19086,
-    "name": "Stormpike Sage\u0027s Cloak",
+    "id": 19083,
+    "name": "Frostwolf Legionnaire\u0027s Cloak",
     "slot": 14,
     "resistances": {
       "Frost": 5
@@ -637,8 +637,8 @@
     }
   },
   {
-    "id": 19084,
-    "name": "Stormpike Soldier\u0027s Cloak",
+    "id": 19086,
+    "name": "Stormpike Sage\u0027s Cloak",
     "slot": 14,
     "resistances": {
       "Frost": 5
@@ -660,28 +660,18 @@
     "slot": 14
   },
   {
-    "id": 19398,
-    "name": "Cloak of Firemaw",
-    "slot": 14
-  },
-  {
     "id": 19430,
     "name": "Shroud of Pure Thought",
     "slot": 14
   },
   {
+    "id": 19398,
+    "name": "Cloak of Firemaw",
+    "slot": 14
+  },
+  {
     "id": 19436,
     "name": "Cloak of Draconic Might",
-    "slot": 14
-  },
-  {
-    "id": 19530,
-    "name": "Caretaker\u0027s Cape",
-    "slot": 14
-  },
-  {
-    "id": 19531,
-    "name": "Caretaker\u0027s Cape",
     "slot": 14
   },
   {
@@ -695,6 +685,16 @@
     "slot": 14
   },
   {
+    "id": 19531,
+    "name": "Caretaker\u0027s Cape",
+    "slot": 14
+  },
+  {
+    "id": 19530,
+    "name": "Caretaker\u0027s Cape",
+    "slot": 14
+  },
+  {
     "id": 19857,
     "name": "Cloak of Consumption",
     "slot": 14
@@ -705,13 +705,13 @@
     "slot": 14
   },
   {
-    "id": 19907,
-    "name": "Zulian Tigerhide Cloak",
+    "id": 19888,
+    "name": "Overlord\u0027s Embrace",
     "slot": 14
   },
   {
-    "id": 19888,
-    "name": "Overlord\u0027s Embrace",
+    "id": 19907,
+    "name": "Zulian Tigerhide Cloak",
     "slot": 14
   },
   {
@@ -773,18 +773,8 @@
     "slot": 14
   },
   {
-    "id": 21406,
-    "name": "Cloak of Veiled Shadows",
-    "slot": 14
-  },
-  {
-    "id": 21394,
-    "name": "Drape of Unyielding Strength",
-    "slot": 14
-  },
-  {
-    "id": 21403,
-    "name": "Cloak of the Unseen Path",
+    "id": 21397,
+    "name": "Cape of Eternal Justice",
     "slot": 14
   },
   {
@@ -793,8 +783,8 @@
     "slot": 14
   },
   {
-    "id": 21397,
-    "name": "Cape of Eternal Justice",
+    "id": 21418,
+    "name": "Shroud of Unspoken Names",
     "slot": 14
   },
   {
@@ -803,18 +793,28 @@
     "slot": 14
   },
   {
+    "id": 21406,
+    "name": "Cloak of Veiled Shadows",
+    "slot": 14
+  },
+  {
     "id": 21415,
     "name": "Drape of Vaulted Secrets",
     "slot": 14
   },
   {
-    "id": 21456,
-    "name": "Sandstorm Cloak",
+    "id": 21403,
+    "name": "Cloak of the Unseen Path",
     "slot": 14
   },
   {
-    "id": 21418,
-    "name": "Shroud of Unspoken Names",
+    "id": 21394,
+    "name": "Drape of Unyielding Strength",
+    "slot": 14
+  },
+  {
+    "id": 21456,
+    "name": "Sandstorm Cloak",
     "slot": 14
   },
   {
@@ -828,17 +828,17 @@
     "slot": 14
   },
   {
+    "id": 21621,
+    "name": "Cloak of the Golden Hive",
+    "slot": 14
+  },
+  {
     "id": 21627,
     "name": "Cloak of Untold Secrets",
     "slot": 14,
     "resistances": {
       "Shadow": 20
     }
-  },
-  {
-    "id": 21621,
-    "name": "Cloak of the Golden Hive",
-    "slot": 14
   },
   {
     "id": 21697,
@@ -887,8 +887,8 @@
     }
   },
   {
-    "id": 22731,
-    "name": "Cloak of the Devoured",
+    "id": 22711,
+    "name": "Cloak of the Hakkari Worshippers",
     "slot": 14
   },
   {
@@ -897,13 +897,8 @@
     "slot": 14
   },
   {
-    "id": 22711,
-    "name": "Cloak of the Hakkari Worshippers",
-    "slot": 14
-  },
-  {
-    "id": 22938,
-    "name": "Cryptfiend Silk Cloak",
+    "id": 22731,
+    "name": "Cloak of the Devoured",
     "slot": 14
   },
   {
@@ -912,13 +907,18 @@
     "slot": 14
   },
   {
-    "id": 23030,
-    "name": "Cloak of the Scourge",
+    "id": 22938,
+    "name": "Cryptfiend Silk Cloak",
     "slot": 14
   },
   {
     "id": 23017,
     "name": "Veil of Eclipse",
+    "slot": 14
+  },
+  {
+    "id": 23030,
+    "name": "Cloak of the Scourge",
     "slot": 14
   },
   {
@@ -942,13 +942,8 @@
     "slot": 14
   },
   {
-    "id": 24260,
-    "name": "Manaweave Cloak",
-    "slot": 14
-  },
-  {
-    "id": 24252,
-    "name": "Cloak of the Black Void",
+    "id": 24254,
+    "name": "White Remedy Cape",
     "slot": 14
   },
   {
@@ -968,13 +963,13 @@
     "sockets": 1
   },
   {
-    "id": 24254,
-    "name": "White Remedy Cape",
+    "id": 24252,
+    "name": "Cloak of the Black Void",
     "slot": 14
   },
   {
-    "id": 24379,
-    "name": "Bogstrok Scale Cloak",
+    "id": 24260,
+    "name": "Manaweave Cloak",
     "slot": 14
   },
   {
@@ -983,8 +978,8 @@
     "slot": 14
   },
   {
-    "id": 24459,
-    "name": "Cloak of Healing Rays",
+    "id": 24379,
+    "name": "Bogstrok Scale Cloak",
     "slot": 14
   },
   {
@@ -993,8 +988,13 @@
     "slot": 14
   },
   {
-    "id": 25030,
-    "name": "Silky Velvet Cloak",
+    "id": 24459,
+    "name": "Cloak of Healing Rays",
+    "slot": 14
+  },
+  {
+    "id": 25031,
+    "name": "Silvermoon Royal Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -1005,32 +1005,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25031,
-    "name": "Silvermoon Royal Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25036,
-    "name": "Boulderfist Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25034,
-    "name": "Elementalist Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25037,
-    "name": "Patched Cape",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25035,
-    "name": "Silver-Lined Cloak",
+    "id": 25042,
+    "name": "Nether Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -1041,26 +1017,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25043,
-    "name": "Amber Cape",
+    "id": 25040,
+    "name": "Murkblood Cape",
     "slot": 14,
     "randomEnchantment": true
   },
   {
-    "id": 25042,
-    "name": "Nether Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25039,
-    "name": "Farseer Cloak",
-    "slot": 14,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25041,
-    "name": "Ambusher\u0027s Cloak",
+    "id": 25030,
+    "name": "Silky Velvet Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
@@ -1071,19 +1035,55 @@
     "randomEnchantment": true
   },
   {
-    "id": 25040,
-    "name": "Murkblood Cape",
+    "id": 25034,
+    "name": "Elementalist Cloak",
     "slot": 14,
     "randomEnchantment": true
   },
   {
-    "id": 25489,
-    "name": "Windtalker\u0027s Cloak",
-    "slot": 14
+    "id": 25035,
+    "name": "Silver-Lined Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25036,
+    "name": "Boulderfist Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25039,
+    "name": "Farseer Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25043,
+    "name": "Amber Cape",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25041,
+    "name": "Ambusher\u0027s Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25037,
+    "name": "Patched Cape",
+    "slot": 14,
+    "randomEnchantment": true
   },
   {
     "id": 25501,
     "name": "Lost Anchorite\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 25489,
+    "name": "Windtalker\u0027s Cloak",
     "slot": 14
   },
   {
@@ -1092,13 +1092,13 @@
     "slot": 14
   },
   {
-    "id": 25618,
-    "name": "Telaar Courier\u0027s Cloak",
+    "id": 25621,
+    "name": "Serpent Spirit\u0027s Drape",
     "slot": 14
   },
   {
-    "id": 25621,
-    "name": "Serpent Spirit\u0027s Drape",
+    "id": 25618,
+    "name": "Telaar Courier\u0027s Cloak",
     "slot": 14
   },
   {
@@ -1109,6 +1109,11 @@
   {
     "id": 25712,
     "name": "Perfectly Balanced Cape",
+    "slot": 14
+  },
+  {
+    "id": 25810,
+    "name": "Vicar\u0027s Cloak",
     "slot": 14
   },
   {
@@ -1127,11 +1132,6 @@
     "slot": 14
   },
   {
-    "id": 25810,
-    "name": "Vicar\u0027s Cloak",
-    "slot": 14
-  },
-  {
     "id": 25827,
     "name": "Muck-Covered Drape",
     "slot": 14
@@ -1139,11 +1139,6 @@
   {
     "id": 25927,
     "name": "Consortium Cloak of the Quick",
-    "slot": 14
-  },
-  {
-    "id": 25965,
-    "name": "Cloak of Grasping Talons",
     "slot": 14
   },
   {
@@ -1157,6 +1152,11 @@
     "slot": 14
   },
   {
+    "id": 25965,
+    "name": "Cloak of Grasping Talons",
+    "slot": 14
+  },
+  {
     "id": 27423,
     "name": "Cloak of Impulsiveness",
     "slot": 14
@@ -1167,23 +1167,18 @@
     "slot": 14
   },
   {
-    "id": 27519,
-    "name": "Cloak of Malice",
-    "slot": 14
-  },
-  {
     "id": 27485,
     "name": "Embroidered Cape of Mysteries",
     "slot": 14
   },
   {
-    "id": 27550,
-    "name": "Ironscale War Cloak",
+    "id": 27519,
+    "name": "Cloak of Malice",
     "slot": 14
   },
   {
-    "id": 27731,
-    "name": "Vindicator\u0027s Cloak",
+    "id": 27550,
+    "name": "Ironscale War Cloak",
     "slot": 14
   },
   {
@@ -1197,6 +1192,11 @@
     "slot": 14
   },
   {
+    "id": 27731,
+    "name": "Vindicator\u0027s Cloak",
+    "slot": 14
+  },
+  {
     "id": 27789,
     "name": "Cloak of Whispering Shells",
     "slot": 14
@@ -1207,13 +1207,13 @@
     "slot": 14
   },
   {
-    "id": 27878,
-    "name": "Auchenai Death Shroud",
+    "id": 27892,
+    "name": "Cloak of the Inciter",
     "slot": 14
   },
   {
-    "id": 27892,
-    "name": "Cloak of the Inciter",
+    "id": 27878,
+    "name": "Auchenai Death Shroud",
     "slot": 14
   },
   {
@@ -1227,13 +1227,8 @@
     "slot": 14
   },
   {
-    "id": 28045,
-    "name": "Cloak of the Demon Stalker",
-    "slot": 14
-  },
-  {
-    "id": 28030,
-    "name": "Spell-slinger\u0027s Protector",
+    "id": 27988,
+    "name": "Burnoose of Shifting Ages",
     "slot": 14
   },
   {
@@ -1242,8 +1237,13 @@
     "slot": 14
   },
   {
-    "id": 27988,
-    "name": "Burnoose of Shifting Ages",
+    "id": 28030,
+    "name": "Spell-slinger\u0027s Protector",
+    "slot": 14
+  },
+  {
+    "id": 28031,
+    "name": "Nomad\u0027s Woven Cloak",
     "slot": 14
   },
   {
@@ -1252,8 +1252,8 @@
     "slot": 14
   },
   {
-    "id": 28031,
-    "name": "Nomad\u0027s Woven Cloak",
+    "id": 28045,
+    "name": "Cloak of the Demon Stalker",
     "slot": 14
   },
   {
@@ -1272,11 +1272,6 @@
     "slot": 14
   },
   {
-    "id": 28328,
-    "name": "Mithril-Bark Cloak",
-    "slot": 14
-  },
-  {
     "id": 28301,
     "name": "Syrannis\u0027 Mystic Sheen",
     "slot": 14,
@@ -1289,23 +1284,8 @@
     }
   },
   {
-    "id": 28371,
-    "name": "Netherfury Cape",
-    "slot": 14
-  },
-  {
-    "id": 28373,
-    "name": "Cloak of Scintillating Auras",
-    "slot": 14
-  },
-  {
-    "id": 28377,
-    "name": "Sergeant\u0027s Heavy Cloak",
-    "slot": 14
-  },
-  {
-    "id": 28378,
-    "name": "Sergeant\u0027s Heavy Cape",
+    "id": 28328,
+    "name": "Mithril-Bark Cloak",
     "slot": 14
   },
   {
@@ -1316,6 +1296,26 @@
   {
     "id": 28380,
     "name": "Sergeant\u0027s Heavy Cloak",
+    "slot": 14
+  },
+  {
+    "id": 28377,
+    "name": "Sergeant\u0027s Heavy Cloak",
+    "slot": 14
+  },
+  {
+    "id": 28373,
+    "name": "Cloak of Scintillating Auras",
+    "slot": 14
+  },
+  {
+    "id": 28378,
+    "name": "Sergeant\u0027s Heavy Cape",
+    "slot": 14
+  },
+  {
+    "id": 28371,
+    "name": "Netherfury Cape",
     "slot": 14
   },
   {
@@ -1359,8 +1359,8 @@
     "slot": 14
   },
   {
-    "id": 28797,
-    "name": "Brute Cloak of the Ogre-Magi",
+    "id": 28766,
+    "name": "Ruby Drape of the Mysticant",
     "slot": 14
   },
   {
@@ -1369,13 +1369,8 @@
     "slot": 14
   },
   {
-    "id": 28766,
-    "name": "Ruby Drape of the Mysticant",
-    "slot": 14
-  },
-  {
-    "id": 29139,
-    "name": "Ceremonial Cover",
+    "id": 28797,
+    "name": "Brute Cloak of the Ogre-Magi",
     "slot": 14
   },
   {
@@ -1384,8 +1379,8 @@
     "slot": 14
   },
   {
-    "id": 29369,
-    "name": "Shawl of Shifting Probabilities",
+    "id": 29139,
+    "name": "Ceremonial Cover",
     "slot": 14
   },
   {
@@ -1394,8 +1389,8 @@
     "slot": 14
   },
   {
-    "id": 29375,
-    "name": "Bishop\u0027s Cloak",
+    "id": 29369,
+    "name": "Shawl of Shifting Probabilities",
     "slot": 14
   },
   {
@@ -1404,8 +1399,8 @@
     "slot": 14
   },
   {
-    "id": 29385,
-    "name": "Farstrider Defender\u0027s Cloak",
+    "id": 29375,
+    "name": "Bishop\u0027s Cloak",
     "slot": 14
   },
   {
@@ -1417,8 +1412,8 @@
     }
   },
   {
-    "id": 29777,
-    "name": "Cloak of the Valiant Defender",
+    "id": 29385,
+    "name": "Farstrider Defender\u0027s Cloak",
     "slot": 14
   },
   {
@@ -1429,6 +1424,11 @@
   {
     "id": 29813,
     "name": "Cloak of Woven Energy",
+    "slot": 14
+  },
+  {
+    "id": 29777,
+    "name": "Cloak of the Valiant Defender",
     "slot": 14
   },
   {
@@ -1490,20 +1490,14 @@
     "slot": 14
   },
   {
-    "id": 31143,
-    "name": "Shroud of Frenzy",
-    "slot": 14
-  },
-  {
     "id": 31140,
     "name": "Cloak of Entropy",
     "slot": 14
   },
   {
-    "id": 31201,
-    "name": "Illidari Cloak",
-    "slot": 14,
-    "randomEnchantment": true
+    "id": 31143,
+    "name": "Shroud of Frenzy",
+    "slot": 14
   },
   {
     "id": 31255,
@@ -1517,9 +1511,10 @@
     "randomEnchantment": true
   },
   {
-    "id": 31329,
-    "name": "Lifegiving Cloak",
-    "slot": 14
+    "id": 31201,
+    "name": "Illidari Cloak",
+    "slot": 14,
+    "randomEnchantment": true
   },
   {
     "id": 31341,
@@ -1528,6 +1523,11 @@
     "resistances": {
       "Fire": 24
     }
+  },
+  {
+    "id": 31329,
+    "name": "Lifegiving Cloak",
+    "slot": 14
   },
   {
     "id": 31465,
@@ -1545,20 +1545,11 @@
     "slot": 14
   },
   {
-    "id": 31935,
-    "name": "Frigid Cloak",
+    "id": 31937,
+    "name": "Living Cloak",
     "slot": 14,
     "resistances": {
-      "Frost": 18
-    },
-    "randomEnchantment": true
-  },
-  {
-    "id": 31938,
-    "name": "Enigmatic Cloak",
-    "slot": 14,
-    "resistances": {
-      "Arcane": 18
+      "Nature": 18
     },
     "randomEnchantment": true
   },
@@ -1572,11 +1563,29 @@
     "randomEnchantment": true
   },
   {
-    "id": 31937,
-    "name": "Living Cloak",
+    "id": 31936,
+    "name": "Fiery Cloak",
     "slot": 14,
     "resistances": {
-      "Nature": 18
+      "Fire": 18
+    },
+    "randomEnchantment": true
+  },
+  {
+    "id": 31938,
+    "name": "Enigmatic Cloak",
+    "slot": 14,
+    "resistances": {
+      "Arcane": 18
+    },
+    "randomEnchantment": true
+  },
+  {
+    "id": 31935,
+    "name": "Frigid Cloak",
+    "slot": 14,
+    "resistances": {
+      "Frost": 18
     },
     "randomEnchantment": true
   },
@@ -1587,27 +1596,18 @@
     "randomEnchantment": true
   },
   {
-    "id": 31936,
-    "name": "Fiery Cloak",
-    "slot": 14,
-    "resistances": {
-      "Fire": 18
-    },
-    "randomEnchantment": true
-  },
-  {
     "id": 32337,
     "name": "Shroud of Forgiveness",
     "slot": 14
   },
   {
-    "id": 32331,
-    "name": "Cloak of the Illidari Council",
+    "id": 32323,
+    "name": "Shadowmoon Destroyer\u0027s Drape",
     "slot": 14
   },
   {
-    "id": 32323,
-    "name": "Shadowmoon Destroyer\u0027s Drape",
+    "id": 32331,
+    "name": "Cloak of the Illidari Council",
     "slot": 14
   },
   {
@@ -1617,26 +1617,6 @@
     "resistances": {
       "Shadow": 40
     }
-  },
-  {
-    "id": 32540,
-    "name": "Terokk\u0027s Might",
-    "slot": 14
-  },
-  {
-    "id": 32590,
-    "name": "Nethervoid Cloak",
-    "slot": 14
-  },
-  {
-    "id": 32653,
-    "name": "Apexis Cloak",
-    "slot": 14
-  },
-  {
-    "id": 32541,
-    "name": "Terokk\u0027s Wisdom",
-    "slot": 14
   },
   {
     "id": 32538,
@@ -1654,8 +1634,28 @@
     "slot": 14
   },
   {
+    "id": 32541,
+    "name": "Terokk\u0027s Wisdom",
+    "slot": 14
+  },
+  {
+    "id": 32540,
+    "name": "Terokk\u0027s Might",
+    "slot": 14
+  },
+  {
+    "id": 32590,
+    "name": "Nethervoid Cloak",
+    "slot": 14
+  },
+  {
     "id": 32665,
     "name": "Crystalweave Cape",
+    "slot": 14
+  },
+  {
+    "id": 32653,
+    "name": "Apexis Cloak",
     "slot": 14
   },
   {
@@ -1670,13 +1670,13 @@
     "slot": 14
   },
   {
-    "id": 33484,
-    "name": "Dory\u0027s Embrace",
+    "id": 33333,
+    "name": "Kharmaa\u0027s Shroud of Hope",
     "slot": 14
   },
   {
-    "id": 33333,
-    "name": "Kharmaa\u0027s Shroud of Hope",
+    "id": 33484,
+    "name": "Dory\u0027s Embrace",
     "slot": 14
   },
   {
@@ -1685,13 +1685,13 @@
     "slot": 14
   },
   {
-    "id": 33591,
-    "name": "Shadowcaster\u0027s Drape",
+    "id": 33590,
+    "name": "Cloak of Fiends",
     "slot": 14
   },
   {
-    "id": 33590,
-    "name": "Cloak of Fiends",
+    "id": 33591,
+    "name": "Shadowcaster\u0027s Drape",
     "slot": 14
   },
   {
@@ -1710,14 +1710,20 @@
     "slot": 14
   },
   {
+    "id": 34205,
+    "name": "Shroud of Redeemed Souls",
+    "slot": 14
+  },
+  {
     "id": 34190,
     "name": "Crimson Paragon\u0027s Cover",
     "slot": 14
   },
   {
-    "id": 34205,
-    "name": "Shroud of Redeemed Souls",
-    "slot": 14
+    "id": 34241,
+    "name": "Cloak of Unforgivable Sin",
+    "slot": 14,
+    "sockets": 1
   },
   {
     "id": 34242,
@@ -1726,10 +1732,19 @@
     "sockets": 1
   },
   {
-    "id": 34241,
-    "name": "Cloak of Unforgivable Sin",
-    "slot": 14,
-    "sockets": 1
+    "id": 34659,
+    "name": "Acherus Knight\u0027s Shroud",
+    "slot": 14
+  },
+  {
+    "id": 34708,
+    "name": "Cloak of the Coming Night",
+    "slot": 14
+  },
+  {
+    "id": 34702,
+    "name": "Cloak of Swift Mending",
+    "slot": 14
   },
   {
     "id": 34810,
@@ -1741,16 +1756,6 @@
     "name": "Cloak of the Betrayed",
     "slot": 14,
     "sockets": 1
-  },
-  {
-    "id": 34702,
-    "name": "Cloak of Swift Mending",
-    "slot": 14
-  },
-  {
-    "id": 34708,
-    "name": "Cloak of the Coming Night",
-    "slot": 14
   },
   {
     "id": 35321,
@@ -1768,8 +1773,8 @@
     "slot": 14
   },
   {
-    "id": 35494,
-    "name": "Shroud of Winter\u0027s Chill",
+    "id": 35495,
+    "name": "The Frost Lord\u0027s War Cloak",
     "slot": 14
   },
   {
@@ -1778,8 +1783,1553 @@
     "slot": 14
   },
   {
-    "id": 35495,
+    "id": 35494,
+    "name": "Shroud of Winter\u0027s Chill",
+    "slot": 14
+  },
+  {
+    "id": 35912,
+    "name": "Crackling Cloak",
+    "slot": 14
+  },
+  {
+    "id": 35897,
+    "name": "Ice-Crusted Cape",
+    "slot": 14
+  },
+  {
+    "id": 35938,
+    "name": "Drape of Munificence",
+    "slot": 14
+  },
+  {
+    "id": 35876,
+    "name": "Talbuk Cape",
+    "slot": 14
+  },
+  {
+    "id": 36407,
+    "name": "Lace-Trimmed Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36409,
+    "name": "Crushed Velvet Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36403,
+    "name": "Riding Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36412,
+    "name": "Fleece Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36408,
+    "name": "Reversible Wool Cape",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36415,
+    "name": "Vintage Satin Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36416,
+    "name": "Regal Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36410,
+    "name": "Caribou Skin Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36411,
+    "name": "Brawler\u0027s Cape",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36406,
+    "name": "Wayfarer\u0027s Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36414,
+    "name": "Mammoth Fur Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36404,
+    "name": "Suede Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36405,
+    "name": "Double Cape",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36413,
+    "name": "Dyed Taffeta Cape",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36947,
+    "name": "Centrifuge Core Cloak",
+    "slot": 14
+  },
+  {
+    "id": 36983,
+    "name": "Cape of Seething Steam",
+    "slot": 14
+  },
+  {
+    "id": 36998,
+    "name": "Assailant Shroud",
+    "slot": 14
+  },
+  {
+    "id": 37084,
+    "name": "Flowing Cloak of Command",
+    "slot": 14
+  },
+  {
+    "id": 37048,
+    "name": "Shroud of Resurrection",
+    "slot": 14
+  },
+  {
+    "id": 37174,
+    "name": "Rippling Azure Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37197,
+    "name": "Tattered Castle Drape",
+    "slot": 14
+  },
+  {
+    "id": 37206,
+    "name": "Weathered Worker Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37291,
+    "name": "Ancient Dragon Spirit Cape",
+    "slot": 14
+  },
+  {
+    "id": 37277,
+    "name": "Ermine Ruff Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37357,
+    "name": "Shivering Healer\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37383,
+    "name": "Seared Scale Cape",
+    "slot": 14
+  },
+  {
+    "id": 37564,
+    "name": "Scaled Flame Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37566,
+    "name": "Durable Worghide Cape",
+    "slot": 14
+  },
+  {
+    "id": 37647,
+    "name": "Cloak of Bloodied Waters",
+    "slot": 14
+  },
+  {
+    "id": 37630,
+    "name": "Shroud of Moorabi",
+    "slot": 14
+  },
+  {
+    "id": 37728,
+    "name": "Cloak of the Enemy",
+    "slot": 14
+  },
+  {
+    "id": 37796,
+    "name": "Earthbound Cape",
+    "slot": 14
+  },
+  {
+    "id": 37756,
+    "name": "Zoe\u0027s Comforting Cape",
+    "slot": 14
+  },
+  {
+    "id": 37799,
+    "name": "Reanimator\u0027s Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 37797,
+    "name": "Cloak of the Agile Mind",
+    "slot": 14
+  },
+  {
+    "id": 37840,
+    "name": "Shroud of Reverberation",
+    "slot": 14
+  },
+  {
+    "id": 37988,
+    "name": "Lord Prestor\u0027s Drape",
+    "slot": 14
+  },
+  {
+    "id": 38002,
+    "name": "Honorborn Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37949,
+    "name": "Saboteur\u0027s Wrap",
+    "slot": 14
+  },
+  {
+    "id": 37974,
+    "name": "DB52 Spell Cloak2",
+    "slot": 14
+  },
+  {
+    "id": 37955,
+    "name": "DB26 Healer Cloak",
+    "slot": 14
+  },
+  {
+    "id": 37969,
+    "name": "Chaos Mender Cloak",
+    "slot": 14
+  },
+  {
+    "id": 38254,
+    "name": "BTBlue Spell Cloak1",
+    "slot": 14
+  },
+  {
+    "id": 38223,
+    "name": "Cloak of Azure Lights",
+    "slot": 14
+  },
+  {
+    "id": 38256,
+    "name": "BTBlue Healer Cloak1",
+    "slot": 14
+  },
+  {
+    "id": 38221,
+    "name": "Shroud of Fluid Strikes",
+    "slot": 14
+  },
+  {
+    "id": 38222,
+    "name": "Mantle of Keristrasza",
+    "slot": 14
+  },
+  {
+    "id": 38255,
+    "name": "BTBlue Physical Cloak1",
+    "slot": 14
+  },
+  {
+    "id": 38355,
+    "name": "Thick Goblin Back Protector",
+    "slot": 14
+  },
+  {
+    "id": 38354,
+    "name": "Oil-Stained Tarp",
+    "slot": 14
+  },
+  {
+    "id": 38353,
+    "name": "Venture Bay Buccaneer\u0027s Cape",
+    "slot": 14
+  },
+  {
+    "id": 38441,
+    "name": "Cloak of Harsh Winds",
+    "slot": 14
+  },
+  {
+    "id": 38614,
+    "name": "Embrace of Sorrow",
+    "slot": 14
+  },
+  {
+    "id": 38664,
+    "name": "Sky Darkener\u0027s Shroud of the Unholy",
+    "slot": 14,
+    "resistances": {
+      "Nature": 5
+    }
+  },
+  {
+    "id": 38759,
+    "name": "Injured Trapper\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 38756,
+    "name": "Drape of Horticultural Sanitization",
+    "slot": 14
+  },
+  {
+    "id": 38757,
+    "name": "Drape of the Possessive Soul",
+    "slot": 14
+  },
+  {
+    "id": 38758,
+    "name": "Therapeutic Cloak",
+    "slot": 14
+  },
+  {
+    "id": 39074,
+    "name": "Drape of Distilled Hatred",
+    "slot": 14
+  },
+  {
+    "id": 39241,
+    "name": "Dark Shroud of the Scourge",
+    "slot": 14
+  },
+  {
+    "id": 39225,
+    "name": "Cloak of Armed Strife",
+    "slot": 14
+  },
+  {
+    "id": 39272,
+    "name": "Drape of Surgery",
+    "slot": 14
+  },
+  {
+    "id": 39320,
+    "name": "Sky Darkener\u0027s Shroud of Blood",
+    "slot": 14,
+    "resistances": {
+      "Shadow": 5
+    }
+  },
+  {
+    "id": 39322,
+    "name": "Shroud of the North Wind",
+    "slot": 14,
+    "resistances": {
+      "Frost": 5
+    }
+  },
+  {
+    "id": 39297,
+    "name": "Cloak of Darkening",
+    "slot": 14
+  },
+  {
+    "id": 39404,
+    "name": "Cloak of Mastery",
+    "slot": 14
+  },
+  {
+    "id": 39415,
+    "name": "Shroud of the Citadel",
+    "slot": 14
+  },
+  {
+    "id": 39425,
+    "name": "Cloak of the Dying",
+    "slot": 14
+  },
+  {
+    "id": 39479,
+    "name": "Cloak of Renewed Hope",
+    "slot": 14
+  },
+  {
+    "id": 39478,
+    "name": "Cloak of the Deadliest Game",
+    "slot": 14
+  },
+  {
+    "id": 39672,
+    "name": "Drape of the Offered Branch",
+    "slot": 14
+  },
+  {
+    "id": 39675,
+    "name": "Cloak of the Hardened Tortoise",
+    "slot": 14
+  },
+  {
+    "id": 39673,
+    "name": "Lightning Beetle\u0027s Cape",
+    "slot": 14
+  },
+  {
+    "id": 39674,
+    "name": "Cloak of the Buzzing Swarm",
+    "slot": 14
+  },
+  {
+    "id": 39807,
+    "name": "Rescuer\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 39828,
+    "name": "Punisher\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 39858,
+    "name": "Drape of the Bloodletter",
+    "slot": 14
+  },
+  {
+    "id": 39870,
+    "name": "Drape of Duplicity",
+    "slot": 14
+  },
+  {
+    "id": 40253,
+    "name": "Shawl of the Old Maid",
+    "slot": 14
+  },
+  {
+    "id": 40254,
+    "name": "Cloak of Averted Crisis",
+    "slot": 14
+  },
+  {
+    "id": 40252,
+    "name": "Cloak of the Shadowed Sun",
+    "slot": 14
+  },
+  {
+    "id": 40251,
+    "name": "Shroud of Luminosity",
+    "slot": 14
+  },
+  {
+    "id": 40250,
+    "name": "Aged Winter Cloak",
+    "slot": 14
+  },
+  {
+    "id": 40353,
+    "name": "Polished Protodrake Cloak",
+    "slot": 14
+  },
+  {
+    "id": 40403,
+    "name": "Drape of the Deadly Foe",
+    "slot": 14
+  },
+  {
+    "id": 40410,
+    "name": "Shadow of the Ghoul",
+    "slot": 14
+  },
+  {
+    "id": 40405,
+    "name": "Cape of the Unworthy Wizard",
+    "slot": 14
+  },
+  {
+    "id": 40722,
+    "name": "Platinum Mesh Cloak",
+    "slot": 14
+  },
+  {
+    "id": 40723,
+    "name": "Disguise of the Kumiho",
+    "slot": 14
+  },
+  {
+    "id": 40724,
+    "name": "Cloak of Kea Feathers",
+    "slot": 14
+  },
+  {
+    "id": 40721,
+    "name": "Hammerhead Sharkskin Cloak",
+    "slot": 14
+  },
+  {
+    "id": 41238,
+    "name": "Cloak of Tormented Skies",
+    "slot": 14
+  },
+  {
+    "id": 41592,
+    "name": "The Gladiator\u0027s Resolution",
+    "slot": 14
+  },
+  {
+    "id": 41591,
+    "name": "Sergeant\u0027s Reinforced Cape",
+    "slot": 14
+  },
+  {
+    "id": 41607,
+    "name": "Cloak of the Moon",
+    "slot": 14
+  },
+  {
+    "id": 41609,
+    "name": "Wispcloak",
+    "slot": 14
+  },
+  {
+    "id": 41610,
+    "name": "Deathchill Cloak",
+    "slot": 14
+  },
+  {
+    "id": 41608,
+    "name": "Cloak of Frozen Spirits",
+    "slot": 14
+  },
+  {
+    "id": 42067,
+    "name": "Deadly Gladiator\u0027s Cloak of Triumph",
+    "slot": 14
+  },
+  {
+    "id": 42056,
+    "name": "Hateful Gladiator\u0027s Cloak of Subjugation",
+    "slot": 14
+  },
+  {
+    "id": 42058,
+    "name": "Hateful Gladiator\u0027s Cloak of Salvation",
+    "slot": 14
+  },
+  {
+    "id": 42068,
+    "name": "Deadly Gladiator\u0027s Cloak of Victory",
+    "slot": 14
+  },
+  {
+    "id": 42060,
+    "name": "Hateful Gladiator\u0027s Cloak of Triumph",
+    "slot": 14
+  },
+  {
+    "id": 42059,
+    "name": "Hateful Gladiator\u0027s Cloak of Deliverance",
+    "slot": 14
+  },
+  {
+    "id": 42065,
+    "name": "Deadly Gladiator\u0027s Cloak of Salvation",
+    "slot": 14
+  },
+  {
+    "id": 42064,
+    "name": "Deadly Gladiator\u0027s Cloak of Ascendancy",
+    "slot": 14
+  },
+  {
+    "id": 42061,
+    "name": "Hateful Gladiator\u0027s Cloak of Victory",
+    "slot": 14
+  },
+  {
+    "id": 42066,
+    "name": "Deadly Gladiator\u0027s Cloak of Deliverance",
+    "slot": 14
+  },
+  {
+    "id": 42055,
+    "name": "Hateful Gladiator\u0027s Cloak of Dominance",
+    "slot": 14
+  },
+  {
+    "id": 42063,
+    "name": "Deadly Gladiator\u0027s Cloak of Subjugation",
+    "slot": 14
+  },
+  {
+    "id": 42057,
+    "name": "Hateful Gladiator\u0027s Cloak of Ascendancy",
+    "slot": 14
+  },
+  {
+    "id": 42062,
+    "name": "Deadly Gladiator\u0027s Cloak of Dominance",
+    "slot": 14
+  },
+  {
+    "id": 42071,
+    "name": "Furious Gladiator\u0027s Cloak of Ascendancy",
+    "slot": 14
+  },
+  {
+    "id": 42079,
+    "name": "Relentless Gladiator\u0027s Cloak of Salvation",
+    "slot": 14
+  },
+  {
+    "id": 42076,
+    "name": "Relentless Gladiator\u0027s Cloak of Dominance",
+    "slot": 14
+  },
+  {
+    "id": 42081,
+    "name": "Relentless Gladiator\u0027s Cloak of Triumph",
+    "slot": 14
+  },
+  {
+    "id": 42070,
+    "name": "Furious Gladiator\u0027s Cloak of Subjugation",
+    "slot": 14
+  },
+  {
+    "id": 42082,
+    "name": "Relentless Gladiator\u0027s Cloak of Victory",
+    "slot": 14
+  },
+  {
+    "id": 42074,
+    "name": "Furious Gladiator\u0027s Cloak of Triumph",
+    "slot": 14
+  },
+  {
+    "id": 42072,
+    "name": "Furious Gladiator\u0027s Cloak of Salvation",
+    "slot": 14
+  },
+  {
+    "id": 42073,
+    "name": "Furious Gladiator\u0027s Cloak of Deliverance",
+    "slot": 14
+  },
+  {
+    "id": 42075,
+    "name": "Furious Gladiator\u0027s Cloak of Victory",
+    "slot": 14
+  },
+  {
+    "id": 42080,
+    "name": "Relentless Gladiator\u0027s Cloak of Deliverance",
+    "slot": 14
+  },
+  {
+    "id": 42077,
+    "name": "Relentless Gladiator\u0027s Cloak of Subjugation",
+    "slot": 14
+  },
+  {
+    "id": 42069,
+    "name": "Furious Gladiator\u0027s Cloak of Dominance",
+    "slot": 14
+  },
+  {
+    "id": 42078,
+    "name": "Relentless Gladiator\u0027s Cloak of Ascendancy",
+    "slot": 14
+  },
+  {
+    "id": 43278,
+    "name": "Cloak of the Darkcaster",
+    "slot": 14
+  },
+  {
+    "id": 43305,
+    "name": "Shroud of Akali",
+    "slot": 14
+  },
+  {
+    "id": 43283,
+    "name": "Subterranean Waterfall Shroud",
+    "slot": 14
+  },
+  {
+    "id": 43363,
+    "name": "Screeching Cape",
+    "slot": 14
+  },
+  {
+    "id": 43406,
+    "name": "Cloak of the Gushing Wound",
+    "slot": 14
+  },
+  {
+    "id": 43565,
+    "name": "Durable Nerubhide Cape",
+    "slot": 14
+  },
+  {
+    "id": 43566,
+    "name": "Ice Striker\u0027s Cloak",
+    "slot": 14
+  },
+  {
+    "id": 43861,
+    "name": "Bone Witch\u0027s Drape",
+    "slot": 14
+  },
+  {
+    "id": 43889,
+    "name": "Hulking Abomination Hide Cloak",
+    "slot": 14
+  },
+  {
+    "id": 43925,
+    "name": "Shadow Vault Shawl",
+    "slot": 14
+  },
+  {
+    "id": 43924,
+    "name": "Illskar\u0027s Greatcloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 44027,
+    "name": "Bloodbane Shroud",
+    "slot": 14
+  },
+  {
+    "id": 43988,
+    "name": "Gale-Proof Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 44020,
+    "name": "Bloodbane\u0027s Fall",
+    "slot": 14
+  },
+  {
+    "id": 44005,
+    "name": "Pennant Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 44025,
+    "name": "Bloodbane Cloak",
+    "slot": 14
+  },
+  {
+    "id": 44026,
+    "name": "Bloodbane\u0027s Resolve",
+    "slot": 14
+  },
+  {
+    "id": 44167,
+    "name": "Shroud of Dedicated Research",
+    "slot": 14
+  },
+  {
+    "id": 44188,
+    "name": "Cloak of Peaceful Resolutions",
+    "slot": 14
+  },
+  {
+    "id": 44216,
+    "name": "Cloak of Holy Extermination",
+    "slot": 14
+  },
+  {
+    "id": 44242,
+    "name": "Dark Soldier Cape",
+    "slot": 14
+  },
+  {
+    "id": 44429,
+    "name": "Volanthius Shroud",
+    "slot": 14
+  },
+  {
+    "id": 44431,
+    "name": "Cloak of Certain Reprieve",
+    "slot": 14
+  },
+  {
+    "id": 44687,
+    "name": "Loque\u0027Nahak\u0027s Pelt",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45224,
+    "name": "Drape of the Lithe",
+    "slot": 14
+  },
+  {
+    "id": 45138,
+    "name": "Drape of the Drakerider",
+    "slot": 14
+  },
+  {
+    "id": 45242,
+    "name": "Drape of Mortal Downfall",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45319,
+    "name": "Cloak of the Makers",
+    "slot": 14
+  },
+  {
+    "id": 45318,
+    "name": "Drape of Fuming Anger",
+    "slot": 14
+  },
+  {
+    "id": 45322,
+    "name": "Cloak of the Iron Council",
+    "slot": 14
+  },
+  {
+    "id": 45317,
+    "name": "Shawl of the Caretaker",
+    "slot": 14
+  },
+  {
+    "id": 45486,
+    "name": "Drape of the Sullen Goddess",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45529,
+    "name": "Shawl of Haunted Memories",
+    "slot": 14
+  },
+  {
+    "id": 45496,
+    "name": "Titanskin Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45461,
+    "name": "Drape of Icy Intent",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45493,
+    "name": "Asimov\u0027s Drape",
+    "slot": 14
+  },
+  {
+    "id": 45588,
+    "name": "Drape of the Skyborn",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45541,
+    "name": "Shroud of Alteration",
+    "slot": 14
+  },
+  {
+    "id": 45618,
+    "name": "Sunglimmer Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 45704,
+    "name": "Shawl of the Shattered Giant",
+    "slot": 14
+  },
+  {
+    "id": 45811,
+    "name": "Frostguard Drape",
+    "slot": 14
+  },
+  {
+    "id": 45873,
+    "name": "Winter\u0027s Frigid Embrace",
+    "slot": 14
+  },
+  {
+    "id": 45810,
+    "name": "Cloak of Crimson Snow",
+    "slot": 14
+  },
+  {
+    "id": 45973,
+    "name": "Stylish Power Cape",
+    "slot": 14
+  },
+  {
+    "id": 46032,
+    "name": "Drape of the Faceless General",
+    "slot": 14,
+    "sockets": 2
+  },
+  {
+    "id": 46042,
+    "name": "Drape of the Messenger",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 46014,
+    "name": "Saronite Animus Cloak",
+    "slot": 14
+  },
+  {
+    "id": 46320,
+    "name": "Drape of the Skyherald",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 46321,
+    "name": "Sunglimmer Drape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 46341,
+    "name": "Drape of the Spellweaver",
+    "slot": 14
+  },
+  {
+    "id": 46347,
+    "name": "Cloak of the Dormant Blaze",
+    "slot": 14
+  },
+  {
+    "id": 46977,
+    "name": "Shawl of the Refreshing Winds",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 46976,
+    "name": "Shawl of the Refreshing Winds",
+    "slot": 14
+  },
+  {
+    "id": 46970,
+    "name": "Drape of the Untamed Predator",
+    "slot": 14
+  },
+  {
+    "id": 47042,
+    "name": "Pride of the Eredar",
+    "slot": 14
+  },
+  {
+    "id": 46971,
+    "name": "Drape of the Untamed Predator",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47063,
+    "name": "Pride of the Eredar",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47183,
+    "name": "Strength of the Nerub",
+    "slot": 14
+  },
+  {
+    "id": 47095,
+    "name": "Cloak of Displacement",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47192,
+    "name": "Strength of the Nerub",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47089,
+    "name": "Cloak of Displacement",
+    "slot": 14
+  },
+  {
+    "id": 47256,
+    "name": "Drape of the Refreshing Winds",
+    "slot": 14
+  },
+  {
+    "id": 47225,
+    "name": "Maiden\u0027s Favor",
+    "slot": 14
+  },
+  {
+    "id": 47257,
+    "name": "Cloak of the Untamed Predator",
+    "slot": 14
+  },
+  {
+    "id": 47232,
+    "name": "Drape of the Undefeated",
+    "slot": 14
+  },
+  {
+    "id": 47291,
+    "name": "Shroud of Displacement",
+    "slot": 14
+  },
+  {
+    "id": 47238,
+    "name": "Maiden\u0027s Favor",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47275,
+    "name": "Pride of the Demon Lord",
+    "slot": 14
+  },
+  {
+    "id": 47436,
+    "name": "Pride of the Demon Lord",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47328,
+    "name": "Maiden\u0027s Adoration",
+    "slot": 14
+  },
+  {
+    "id": 47320,
+    "name": "Might of the Nerub",
+    "slot": 14
+  },
+  {
+    "id": 47417,
+    "name": "Drape of the Refreshing Winds",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47418,
+    "name": "Cloak of the Untamed Predator",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47452,
+    "name": "Shroud of Displacement",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47547,
+    "name": "Varian\u0027s Furor",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47552,
+    "name": "Jaina\u0027s Radiance",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47548,
+    "name": "Garrosh\u0027s Rage",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47481,
+    "name": "Might of the Nerub",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47553,
+    "name": "Bolvar\u0027s Devotion",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47550,
+    "name": "Cairne\u0027s Endurance",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47551,
+    "name": "Aethas\u0027 Intensity",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47490,
+    "name": "Maiden\u0027s Adoration",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47545,
+    "name": "Vereesa\u0027s Dexterity",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47501,
+    "name": "Kurisu\u0027s Indecision",
+    "slot": 14
+  },
+  {
+    "id": 47546,
+    "name": "Sylvanas\u0027 Cunning",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47549,
+    "name": "Magni\u0027s Resolution",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 47554,
+    "name": "Lady Liadrin\u0027s Conviction",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48672,
+    "name": "Shawl of Fervent Crusader",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48667,
+    "name": "Shawl of the Devout Crusader",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48666,
+    "name": "Drape of the Sunreavers",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48670,
+    "name": "Cloak of the Unflinching Guardian",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48675,
+    "name": "Cloak of the Unmoving Guardian",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48673,
+    "name": "Cloak of the Silver Covenant",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48674,
+    "name": "Cloak of the Victorious Combatant",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48671,
+    "name": "Drape of Bitter Incantation",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48669,
+    "name": "Cloak of the Triumphant Combatant",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 48668,
+    "name": "Cloak of Serrated Blades",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 49307,
+    "name": "Fluttering Sapphiron Drape",
+    "slot": 14,
+    "resistances": {
+      "Arcane": 6,
+      "Frost": 6
+    }
+  },
+  {
+    "id": 49491,
+    "name": "Flowing Sapphiron Drape",
+    "slot": 14,
+    "resistances": {
+      "Arcane": 6,
+      "Frost": 6
+    }
+  },
+  {
+    "id": 49832,
+    "name": "Eerie Runeblade Polisher",
+    "slot": 14
+  },
+  {
+    "id": 49842,
+    "name": "Tapestry of the Frozen Throne",
+    "slot": 14
+  },
+  {
+    "id": 49823,
+    "name": "Cloak of the Fallen Cardinal",
+    "slot": 14
+  },
+  {
+    "id": 49792,
+    "name": "Accursed Crawling Cape",
+    "slot": 14
+  },
+  {
+    "id": 49998,
+    "name": "Shadowvault Slayer\u0027s Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50014,
+    "name": "Greatcloak of the Turned Champion",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50074,
+    "name": "Royal Crimson Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50019,
+    "name": "Winding Sheet",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50205,
+    "name": "Frostbinder\u0027s Shredded Cape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50468,
+    "name": "Drape of the Violet Tower",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50628,
+    "name": "Frostbinder\u0027s Shredded Cape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50470,
+    "name": "Recovered Scarlet Onslaught Cape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50469,
+    "name": "Volde\u0027s Cloak of the Night Sky",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50467,
+    "name": "Might of the Ocean Serpent",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50466,
+    "name": "Sentinel\u0027s Winter Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50668,
+    "name": "Greatcloak of the Turned Champion",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50653,
+    "name": "Shadowvault Slayer\u0027s Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50677,
+    "name": "Winding Sheet",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50791,
+    "name": "Saronite Gargoyle Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50718,
+    "name": "Royal Crimson Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50764,
+    "name": "Shawl of Nerubian Silk",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 50859,
+    "name": "Cloak of Many Skins",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51330,
+    "name": "Wrathful Gladiator\u0027s Cloak of Dominance",
+    "slot": 14
+  },
+  {
+    "id": 51346,
+    "name": "Wrathful Gladiator\u0027s Cloak of Salvation",
+    "slot": 14
+  },
+  {
+    "id": 51348,
+    "name": "Wrathful Gladiator\u0027s Cloak of Deliverance",
+    "slot": 14
+  },
+  {
+    "id": 51354,
+    "name": "Wrathful Gladiator\u0027s Cloak of Triumph",
+    "slot": 14
+  },
+  {
+    "id": 51382,
+    "name": "Heartsick Mender\u0027s Cape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51334,
+    "name": "Wrathful Gladiator\u0027s Cloak of Ascendancy",
+    "slot": 14
+  },
+  {
+    "id": 51332,
+    "name": "Wrathful Gladiator\u0027s Cloak of Subjugation",
+    "slot": 14
+  },
+  {
+    "id": 51356,
+    "name": "Wrathful Gladiator\u0027s Cloak of Victory",
+    "slot": 14
+  },
+  {
+    "id": 51570,
+    "name": "Titan-Forged Cloak of Ascendancy",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51584,
+    "name": "Lich Wrappings",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51571,
+    "name": "Titan-Forged Cloak of Victory",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51848,
+    "name": "Heartsick Mender\u0027s Cape",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51888,
+    "name": "Cloak of Many Skins",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51826,
+    "name": "Lich Wrappings",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51912,
+    "name": "Saronite Gargoyle Cloak",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 51993,
+    "name": "Turbulent Cloak",
+    "slot": 14,
+    "randomEnchantment": true
+  },
+  {
+    "id": 51933,
+    "name": "Shawl of Nerubian Silk",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 53489,
+    "name": "Cloak of Burning Dusk",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 53097,
+    "name": "Gnomeregan Drape",
+    "slot": 14
+  },
+  {
+    "id": 54556,
+    "name": "Abduction\u0027s Cover",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 53115,
+    "name": "Abduction\u0027s Cover",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 54802,
     "name": "The Frost Lord\u0027s War Cloak",
+    "slot": 14
+  },
+  {
+    "id": 54804,
+    "name": "Shroud of Winter\u0027s Chill",
+    "slot": 14
+  },
+  {
+    "id": 54617,
+    "name": "Darkspear Shroud",
+    "slot": 14
+  },
+  {
+    "id": 54805,
+    "name": "Cloak of the Frigid Winds",
+    "slot": 14
+  },
+  {
+    "id": 54801,
+    "name": "Icebound Cloak",
+    "slot": 14
+  },
+  {
+    "id": 54803,
+    "name": "The Frost Lord\u0027s Battle Shroud",
+    "slot": 14
+  },
+  {
+    "id": 54583,
+    "name": "Cloak of Burning Dusk",
+    "slot": 14,
+    "sockets": 1
+  },
+  {
+    "id": 186045,
+    "name": "Communal Cloak",
+    "slot": 14
+  },
+  {
+    "id": 186075,
+    "name": "Communal Cloak",
+    "slot": 14
+  },
+  {
+    "id": 186047,
+    "name": "Communal Cape",
+    "slot": 14
+  },
+  {
+    "id": 186046,
+    "name": "Communal Cloak",
+    "slot": 14
+  },
+  {
+    "id": 186044,
+    "name": "Communal Cloak",
+    "slot": 14
+  },
+  {
+    "id": 199470,
+    "name": "Collective Cloak",
+    "slot": 14
+  },
+  {
+    "id": 199526,
+    "name": "Collective Cloak",
+    "slot": 14
+  },
+  {
+    "id": 199525,
+    "name": "Collective Cloak",
     "slot": 14
   }
 ]

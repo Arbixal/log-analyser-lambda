@@ -1,11 +1,5 @@
 [
   {
-    "id": 22402,
-    "name": "Libram of Grace",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
     "id": 22400,
     "name": "Libram of Truth",
     "slot": 17,
@@ -14,6 +8,12 @@
   {
     "id": 22401,
     "name": "Libram of Hope",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 22402,
+    "name": "Libram of Grace",
     "slot": 17,
     "notEnchantable": true
   },
@@ -54,13 +54,19 @@
     "notEnchantable": true
   },
   {
+    "id": 27949,
+    "name": "Libram of Zeal",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
     "id": 27917,
     "name": "Libram of the Eternal Rest",
     "slot": 17,
     "notEnchantable": true
   },
   {
-    "id": 27949,
+    "id": 27983,
     "name": "Libram of Zeal",
     "slot": 17,
     "notEnchantable": true
@@ -68,12 +74,6 @@
   {
     "id": 28065,
     "name": "Libram of Wracking",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 27983,
-    "name": "Libram of Zeal",
     "slot": 17,
     "notEnchantable": true
   },
@@ -126,8 +126,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33502,
-    "name": "Libram of Mending",
+    "id": 33504,
+    "name": "Libram of Divine Purpose",
     "slot": 17,
     "notEnchantable": true
   },
@@ -138,8 +138,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33504,
-    "name": "Libram of Divine Purpose",
+    "id": 33502,
+    "name": "Libram of Mending",
     "slot": 17,
     "notEnchantable": true
   },
@@ -150,14 +150,26 @@
     "notEnchantable": true
   },
   {
-    "id": 33937,
-    "name": "Merciless Gladiator\u0027s Libram of Fortitude",
+    "id": 33948,
+    "name": "Gladiator\u0027s Libram of Vengeance",
     "slot": 17,
     "notEnchantable": true
   },
   {
     "id": 33936,
     "name": "Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 33938,
+    "name": "Vengeful Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 33937,
+    "name": "Merciless Gladiator\u0027s Libram of Fortitude",
     "slot": 17,
     "notEnchantable": true
   },
@@ -174,14 +186,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33938,
-    "name": "Vengeful Gladiator\u0027s Libram of Fortitude",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 33948,
-    "name": "Gladiator\u0027s Libram of Vengeance",
+    "id": 35041,
+    "name": "Brutal Gladiator\u0027s Libram of Vengeance",
     "slot": 17,
     "notEnchantable": true
   },
@@ -198,8 +204,230 @@
     "notEnchantable": true
   },
   {
-    "id": 35041,
-    "name": "Brutal Gladiator\u0027s Libram of Vengeance",
+    "id": 37574,
+    "name": "Libram of Furious Blows",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38362,
+    "name": "Venture Co. Libram of Retribution",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38364,
+    "name": "Venture Co. Libram of Mostly Holy Deeds",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38363,
+    "name": "Venture Co. Libram of Protection",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38683,
+    "name": "Sigil of the Dark Rider (OLD)",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40191,
+    "name": "Libram of Radiance",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40268,
+    "name": "Libram of Tolerance",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40337,
+    "name": "Libram of Resurgence",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40706,
+    "name": "Libram of Reciprocation",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40707,
+    "name": "Libram of Obstruction",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40705,
+    "name": "Libram of Renewal",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42612,
+    "name": "Savage Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42614,
+    "name": "Deadly Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42615,
+    "name": "Furious Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42611,
+    "name": "Savage Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42616,
+    "name": "Relentless Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42613,
+    "name": "Hateful Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42852,
+    "name": "Deadly Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42851,
+    "name": "Hateful Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42853,
+    "name": "Furious Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42854,
+    "name": "Relentless Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45145,
+    "name": "Libram of the Sacred Shield",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45436,
+    "name": "Libram of the Resolute",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45510,
+    "name": "Libram of Discord",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47664,
+    "name": "Libram of Defiance",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47661,
+    "name": "Libram of Valiance",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47662,
+    "name": "Libram of Veracity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50455,
+    "name": "Libram of Three Truths",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50460,
+    "name": "Libram of Blinding Light",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50461,
+    "name": "Libram of the Eternal Tower",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51472,
+    "name": "Wrathful Gladiator\u0027s Libram of Justice",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51478,
+    "name": "Wrathful Gladiator\u0027s Libram of Fortitude",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186067,
+    "name": "Communal Book of Righteousness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186065,
+    "name": "Communal Book of Healing",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186066,
+    "name": "Communal Book of Protection",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199636,
+    "name": "Collective Book of Protection",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199637,
+    "name": "Collective Book of Righteousness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199635,
+    "name": "Collective Book of Healing",
     "slot": 17,
     "notEnchantable": true
   }

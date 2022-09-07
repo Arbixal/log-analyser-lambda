@@ -10,11 +10,6 @@
     "slot": 1
   },
   {
-    "id": 10829,
-    "name": "Dragon\u0027s Eye",
-    "slot": 1
-  },
-  {
     "id": 10778,
     "name": "Necklace of Sanctuary",
     "slot": 1,
@@ -22,6 +17,11 @@
       "Fire": 10,
       "Shadow": 10
     }
+  },
+  {
+    "id": 10829,
+    "name": "The Dragon\u0027s Eye",
+    "slot": 1
   },
   {
     "id": 11196,
@@ -45,49 +45,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 12034,
-    "name": "Marble Necklace",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 12044,
-    "name": "Arctic Pendant",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
     "id": 12036,
     "name": "Granite Necklace",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 12035,
-    "name": "Obsidian Pendant",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 12059,
-    "name": "Conqueror\u0027s Medallion",
-    "slot": 1
-  },
-  {
-    "id": 12048,
-    "name": "Prismatic Pendant",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 12045,
-    "name": "Swamp Pendant",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 12027,
-    "name": "Vermilion Necklace",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -98,8 +57,26 @@
     "randomEnchantment": true
   },
   {
+    "id": 12045,
+    "name": "Swamp Pendant",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
     "id": 12025,
     "name": "Selenium Chain",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 12048,
+    "name": "Prismatic Pendant",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 12034,
+    "name": "Marble Necklace",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -110,9 +87,32 @@
     "randomEnchantment": true
   },
   {
+    "id": 12044,
+    "name": "Arctic Pendant",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 12027,
+    "name": "Vermilion Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
     "id": 12103,
     "name": "Star of Mystaria",
     "slot": 1
+  },
+  {
+    "id": 12059,
+    "name": "Conqueror\u0027s Medallion",
+    "slot": 1
+  },
+  {
+    "id": 12035,
+    "name": "Obsidian Pendant",
+    "slot": 1,
+    "randomEnchantment": true
   },
   {
     "id": 12929,
@@ -135,13 +135,13 @@
     "slot": 1
   },
   {
-    "id": 13141,
-    "name": "Tooth of Gnarr",
+    "id": 13177,
+    "name": "Talisman of Evasion",
     "slot": 1
   },
   {
-    "id": 13177,
-    "name": "Talisman of Evasion",
+    "id": 13141,
+    "name": "Tooth of Gnarr",
     "slot": 1
   },
   {
@@ -216,13 +216,13 @@
     "slot": 1
   },
   {
-    "id": 17065,
-    "name": "Medallion of Steadfast Might",
+    "id": 17044,
+    "name": "Will of the Martyr",
     "slot": 1
   },
   {
-    "id": 17044,
-    "name": "Will of the Martyr",
+    "id": 17065,
+    "name": "Medallion of Steadfast Might",
     "slot": 1
   },
   {
@@ -267,6 +267,19 @@
     }
   },
   {
+    "id": 18404,
+    "name": "Onyxia Tooth Pendant",
+    "slot": 1,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 18381,
+    "name": "Evil Eye Pendant",
+    "slot": 1
+  },
+  {
     "id": 18397,
     "name": "Elder Magus Pendant",
     "slot": 1,
@@ -280,17 +293,9 @@
     "slot": 1
   },
   {
-    "id": 18381,
-    "name": "Evil Eye Pendant",
+    "id": 18691,
+    "name": "Dark Advisor\u0027s Pendant",
     "slot": 1
-  },
-  {
-    "id": 18404,
-    "name": "Onyxia Tooth Pendant",
-    "slot": 1,
-    "resistances": {
-      "Fire": 10
-    }
   },
   {
     "id": 18678,
@@ -299,11 +304,6 @@
     "resistances": {
       "Frost": 15
     }
-  },
-  {
-    "id": 18691,
-    "name": "Dark Advisor\u0027s Pendant",
-    "slot": 1
   },
   {
     "id": 18723,
@@ -321,13 +321,8 @@
     "slot": 1
   },
   {
-    "id": 19098,
-    "name": "Stormpike Sage\u0027s Pendant",
-    "slot": 1
-  },
-  {
-    "id": 19095,
-    "name": "Frostwolf Legionnaire\u0027s Pendant",
+    "id": 19097,
+    "name": "Stormpike Soldier\u0027s Pendant",
     "slot": 1
   },
   {
@@ -336,8 +331,13 @@
     "slot": 1
   },
   {
-    "id": 19097,
-    "name": "Stormpike Soldier\u0027s Pendant",
+    "id": 19095,
+    "name": "Frostwolf Legionnaire\u0027s Pendant",
+    "slot": 1
+  },
+  {
+    "id": 19098,
+    "name": "Stormpike Sage\u0027s Pendant",
     "slot": 1
   },
   {
@@ -366,38 +366,18 @@
     "slot": 1
   },
   {
-    "id": 19491,
-    "name": "Amulet of the Darkmoon",
-    "slot": 1
-  },
-  {
     "id": 19426,
     "name": "Orb of the Darkmoon",
     "slot": 1
   },
   {
+    "id": 19491,
+    "name": "Amulet of the Darkmoon",
+    "slot": 1
+  },
+  {
     "id": 19535,
     "name": "Scout\u0027s Medallion",
-    "slot": 1
-  },
-  {
-    "id": 19579,
-    "name": "Heathen\u0027s Brand",
-    "slot": 1
-  },
-  {
-    "id": 19539,
-    "name": "Sentinel\u0027s Medallion",
-    "slot": 1
-  },
-  {
-    "id": 19576,
-    "name": "Strength of Mugamba",
-    "slot": 1
-  },
-  {
-    "id": 19574,
-    "name": "Strength of Mugamba",
     "slot": 1
   },
   {
@@ -411,7 +391,12 @@
     "slot": 1
   },
   {
-    "id": 19585,
+    "id": 19575,
+    "name": "Strength of Mugamba",
+    "slot": 1
+  },
+  {
+    "id": 19579,
     "name": "Heathen\u0027s Brand",
     "slot": 1
   },
@@ -421,18 +406,33 @@
     "slot": 1
   },
   {
-    "id": 19591,
+    "id": 19593,
     "name": "The Eye of Zuldazar",
     "slot": 1
   },
   {
-    "id": 19588,
-    "name": "Hero\u0027s Brand",
+    "id": 19585,
+    "name": "Heathen\u0027s Brand",
     "slot": 1
   },
   {
-    "id": 19575,
+    "id": 19600,
+    "name": "Pebble of Kajaro",
+    "slot": 1
+  },
+  {
+    "id": 19594,
+    "name": "The All-Seeing Eye of Zuldazar",
+    "slot": 1
+  },
+  {
+    "id": 19574,
     "name": "Strength of Mugamba",
+    "slot": 1
+  },
+  {
+    "id": 19601,
+    "name": "Jewel of Kajaro",
     "slot": 1
   },
   {
@@ -441,13 +441,43 @@
     "slot": 1
   },
   {
-    "id": 19599,
+    "id": 19588,
+    "name": "Hero\u0027s Brand",
+    "slot": 1
+  },
+  {
+    "id": 19602,
+    "name": "Kezan\u0027s Taint",
+    "slot": 1
+  },
+  {
+    "id": 19591,
+    "name": "The Eye of Zuldazar",
+    "slot": 1
+  },
+  {
+    "id": 19598,
     "name": "Pebble of Kajaro",
+    "slot": 1
+  },
+  {
+    "id": 19603,
+    "name": "Kezan\u0027s Taint",
+    "slot": 1
+  },
+  {
+    "id": 19604,
+    "name": "Kezan\u0027s Taint",
     "slot": 1
   },
   {
     "id": 19592,
     "name": "The Eye of Zuldazar",
+    "slot": 1
+  },
+  {
+    "id": 19606,
+    "name": "Vision of Voodress",
     "slot": 1
   },
   {
@@ -461,113 +491,8 @@
     "slot": 1
   },
   {
-    "id": 19593,
-    "name": "The Eye of Zuldazar",
-    "slot": 1
-  },
-  {
-    "id": 19616,
-    "name": "Zandalarian Shadow Talisman",
-    "slot": 1
-  },
-  {
     "id": 19610,
     "name": "Enchanted South Seas Kelp",
-    "slot": 1
-  },
-  {
-    "id": 19594,
-    "name": "The All-Seeing Eye of Zuldazar",
-    "slot": 1
-  },
-  {
-    "id": 19618,
-    "name": "Maelstrom\u0027s Tendril",
-    "slot": 1
-  },
-  {
-    "id": 19620,
-    "name": "Maelstrom\u0027s Tendril",
-    "slot": 1
-  },
-  {
-    "id": 19598,
-    "name": "Pebble of Kajaro",
-    "slot": 1
-  },
-  {
-    "id": 19617,
-    "name": "Zandalarian Shadow Mastery Talisman",
-    "slot": 1
-  },
-  {
-    "id": 19602,
-    "name": "Kezan\u0027s Taint",
-    "slot": 1
-  },
-  {
-    "id": 19606,
-    "name": "Vision of Voodress",
-    "slot": 1
-  },
-  {
-    "id": 19604,
-    "name": "Kezan\u0027s Taint",
-    "slot": 1
-  },
-  {
-    "id": 19603,
-    "name": "Kezan\u0027s Taint",
-    "slot": 1
-  },
-  {
-    "id": 19621,
-    "name": "Maelstrom\u0027s Wrath",
-    "slot": 1
-  },
-  {
-    "id": 19601,
-    "name": "Jewel of Kajaro",
-    "slot": 1
-  },
-  {
-    "id": 19600,
-    "name": "Pebble of Kajaro",
-    "slot": 1
-  },
-  {
-    "id": 19614,
-    "name": "Zandalarian Shadow Talisman",
-    "slot": 1
-  },
-  {
-    "id": 19611,
-    "name": "Enchanted South Seas Kelp",
-    "slot": 1
-  },
-  {
-    "id": 19612,
-    "name": "Enchanted South Seas Kelp",
-    "slot": 1
-  },
-  {
-    "id": 19615,
-    "name": "Zandalarian Shadow Talisman",
-    "slot": 1
-  },
-  {
-    "id": 19619,
-    "name": "Maelstrom\u0027s Tendril",
-    "slot": 1
-  },
-  {
-    "id": 19609,
-    "name": "Unmarred Vision of Voodress",
-    "slot": 1
-  },
-  {
-    "id": 19605,
-    "name": "Kezan\u0027s Unstoppable Taint",
     "slot": 1
   },
   {
@@ -576,18 +501,93 @@
     "slot": 1
   },
   {
+    "id": 19617,
+    "name": "Zandalarian Shadow Mastery Talisman",
+    "slot": 1
+  },
+  {
+    "id": 19609,
+    "name": "Unmarred Vision of Voodress",
+    "slot": 1
+  },
+  {
+    "id": 19616,
+    "name": "Zandalarian Shadow Talisman",
+    "slot": 1
+  },
+  {
+    "id": 19618,
+    "name": "Maelstrom\u0027s Tendril",
+    "slot": 1
+  },
+  {
+    "id": 19614,
+    "name": "Zandalarian Shadow Talisman",
+    "slot": 1
+  },
+  {
+    "id": 19620,
+    "name": "Maelstrom\u0027s Tendril",
+    "slot": 1
+  },
+  {
+    "id": 19619,
+    "name": "Maelstrom\u0027s Tendril",
+    "slot": 1
+  },
+  {
+    "id": 19615,
+    "name": "Zandalarian Shadow Talisman",
+    "slot": 1
+  },
+  {
+    "id": 19621,
+    "name": "Maelstrom\u0027s Wrath",
+    "slot": 1
+  },
+  {
+    "id": 19612,
+    "name": "Enchanted South Seas Kelp",
+    "slot": 1
+  },
+  {
+    "id": 19539,
+    "name": "Sentinel\u0027s Medallion",
+    "slot": 1
+  },
+  {
+    "id": 19605,
+    "name": "Kezan\u0027s Unstoppable Taint",
+    "slot": 1
+  },
+  {
+    "id": 19576,
+    "name": "Strength of Mugamba",
+    "slot": 1
+  },
+  {
+    "id": 19599,
+    "name": "Pebble of Kajaro",
+    "slot": 1
+  },
+  {
+    "id": 19611,
+    "name": "Enchanted South Seas Kelp",
+    "slot": 1
+  },
+  {
     "id": 19856,
     "name": "The Eye of Hakkar",
     "slot": 1
   },
   {
-    "id": 19876,
-    "name": "Soul Corrupter\u0027s Necklace",
+    "id": 19871,
+    "name": "Talisman of Protection",
     "slot": 1
   },
   {
-    "id": 19871,
-    "name": "Talisman of Protection",
+    "id": 19876,
+    "name": "Soul Corrupter\u0027s Necklace",
     "slot": 1
   },
   {
@@ -624,18 +624,13 @@
     "slot": 1
   },
   {
-    "id": 20695,
-    "name": "Abyssal War Beads",
-    "slot": 1
-  },
-  {
     "id": 20685,
     "name": "Wavefront Necklace",
     "slot": 1
   },
   {
-    "id": 21505,
-    "name": "Choker of the Shifting Sands",
+    "id": 20695,
+    "name": "Abyssal War Beads",
     "slot": 1
   },
   {
@@ -649,17 +644,14 @@
     "slot": 1
   },
   {
-    "id": 21504,
-    "name": "Charm of the Shifting Sands",
+    "id": 21505,
+    "name": "Choker of the Shifting Sands",
     "slot": 1
   },
   {
-    "id": 21529,
-    "name": "Amulet of Shadow Shielding",
-    "slot": 1,
-    "resistances": {
-      "Shadow": 20
-    }
+    "id": 21504,
+    "name": "Charm of the Shifting Sands",
+    "slot": 1
   },
   {
     "id": 21531,
@@ -667,6 +659,14 @@
     "slot": 1,
     "resistances": {
       "Nature": 20
+    }
+  },
+  {
+    "id": 21529,
+    "name": "Amulet of Shadow Shielding",
+    "slot": 1,
+    "resistances": {
+      "Shadow": 20
     }
   },
   {
@@ -680,29 +680,6 @@
     "slot": 1
   },
   {
-    "id": 21678,
-    "name": "Necklace of Purity",
-    "slot": 1,
-    "resistances": {
-      "Nature": 20
-    }
-  },
-  {
-    "id": 21712,
-    "name": "Amulet of the Fallen God",
-    "slot": 1
-  },
-  {
-    "id": 21690,
-    "name": "Angelista\u0027s Charm",
-    "slot": 1
-  },
-  {
-    "id": 21700,
-    "name": "Pendant of the Qiraji Guardian",
-    "slot": 1
-  },
-  {
     "id": 21702,
     "name": "Amulet of Foul Warding",
     "slot": 1,
@@ -711,8 +688,26 @@
     }
   },
   {
-    "id": 21791,
-    "name": "Living Emerald Pendant",
+    "id": 21690,
+    "name": "Angelista\u0027s Charm",
+    "slot": 1
+  },
+  {
+    "id": 21678,
+    "name": "Necklace of Purity",
+    "slot": 1,
+    "resistances": {
+      "Nature": 20
+    }
+  },
+  {
+    "id": 21700,
+    "name": "Pendant of the Qiraji Guardian",
+    "slot": 1
+  },
+  {
+    "id": 21712,
+    "name": "Amulet of the Fallen God",
     "slot": 1
   },
   {
@@ -731,6 +726,11 @@
       "Frost": 3,
       "Shadow": 3
     }
+  },
+  {
+    "id": 21791,
+    "name": "Living Emerald Pendant",
+    "slot": 1
   },
   {
     "id": 21793,
@@ -768,18 +768,23 @@
     "slot": 1
   },
   {
-    "id": 22657,
-    "name": "Amulet of the Dawn",
-    "slot": 1
-  },
-  {
     "id": 22659,
     "name": "Medallion of the Dawn",
     "slot": 1
   },
   {
+    "id": 22657,
+    "name": "Amulet of the Dawn",
+    "slot": 1
+  },
+  {
     "id": 22732,
     "name": "Mark of C\u0027Thun",
+    "slot": 1
+  },
+  {
+    "id": 22943,
+    "name": "Malice Stone Pendant",
     "slot": 1
   },
   {
@@ -791,18 +796,13 @@
     }
   },
   {
-    "id": 22943,
-    "name": "Malice Stone Pendant",
+    "id": 22981,
+    "name": "Gluth\u0027s Missing Collar",
     "slot": 1
   },
   {
     "id": 22947,
     "name": "Pendant of Forgotten Names",
-    "slot": 1
-  },
-  {
-    "id": 22981,
-    "name": "Gluth\u0027s Missing Collar",
     "slot": 1
   },
   {
@@ -831,9 +831,17 @@
     "slot": 1
   },
   {
-    "id": 24073,
-    "name": "Garrote-String Necklace",
+    "id": 24077,
+    "name": "Thick Adamantite Necklace",
     "slot": 1
+  },
+  {
+    "id": 24092,
+    "name": "Pendant of Frozen Flame",
+    "slot": 1,
+    "resistances": {
+      "Fire": 30
+    }
   },
   {
     "id": 24096,
@@ -841,16 +849,8 @@
     "slot": 1
   },
   {
-    "id": 24093,
-    "name": "Pendant of Thawing",
-    "slot": 1,
-    "resistances": {
-      "Frost": 30
-    }
-  },
-  {
-    "id": 24077,
-    "name": "Thick Adamantite Necklace",
+    "id": 24073,
+    "name": "Garrote-String Necklace",
     "slot": 1
   },
   {
@@ -862,19 +862,49 @@
     }
   },
   {
+    "id": 24106,
+    "name": "Thick Felsteel Necklace",
+    "slot": 1
+  },
+  {
+    "id": 24093,
+    "name": "Pendant of Thawing",
+    "slot": 1,
+    "resistances": {
+      "Frost": 30
+    }
+  },
+  {
+    "id": 24110,
+    "name": "Living Ruby Pendant",
+    "slot": 1
+  },
+  {
+    "id": 24116,
+    "name": "Eye of the Night",
+    "slot": 1
+  },
+  {
+    "id": 24117,
+    "name": "Embrace of the Dawn",
+    "slot": 1
+  },
+  {
+    "id": 24114,
+    "name": "Braided Eternium Chain",
+    "slot": 1
+  },
+  {
+    "id": 24121,
+    "name": "Chain of the Twilight Owl",
+    "slot": 1
+  },
+  {
     "id": 24097,
     "name": "Pendant of Shadow\u0027s End",
     "slot": 1,
     "resistances": {
       "Shadow": 30
-    }
-  },
-  {
-    "id": 24092,
-    "name": "Pendant of Frozen Flame",
-    "slot": 1,
-    "resistances": {
-      "Fire": 30
     }
   },
   {
@@ -886,43 +916,8 @@
     }
   },
   {
-    "id": 24106,
-    "name": "Thick Felsteel Necklace",
-    "slot": 1
-  },
-  {
-    "id": 24116,
-    "name": "Eye of the Night",
-    "slot": 1
-  },
-  {
-    "id": 24114,
-    "name": "Braided Eternium Chain",
-    "slot": 1
-  },
-  {
-    "id": 24117,
-    "name": "Embrace of the Dawn",
-    "slot": 1
-  },
-  {
-    "id": 24110,
-    "name": "Living Ruby Pendant",
-    "slot": 1
-  },
-  {
-    "id": 24121,
-    "name": "Chain of the Twilight Owl",
-    "slot": 1
-  },
-  {
     "id": 24385,
     "name": "Pendant of Battle-Lust",
-    "slot": 1
-  },
-  {
-    "id": 24462,
-    "name": "Luminous Pearls of Insight",
     "slot": 1
   },
   {
@@ -931,32 +926,13 @@
     "slot": 1
   },
   {
-    "id": 25058,
-    "name": "Anglesite Choker",
-    "slot": 1,
-    "randomEnchantment": true
+    "id": 24462,
+    "name": "Luminous Pearls of Insight",
+    "slot": 1
   },
   {
-    "id": 25061,
-    "name": "Hiddenite Necklace",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25060,
-    "name": "Sunstone Necklace",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25059,
-    "name": "Fire Opal Collar",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25063,
-    "name": "Multi-Colored Beads",
+    "id": 25062,
+    "name": "Zircon Amulet",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -967,14 +943,32 @@
     "randomEnchantment": true
   },
   {
-    "id": 25062,
-    "name": "Zircon Amulet",
+    "id": 25059,
+    "name": "Fire Opal Collar",
     "slot": 1,
     "randomEnchantment": true
   },
   {
-    "id": 25069,
-    "name": "Epidote Stone Necklace",
+    "id": 25071,
+    "name": "Tanzanite Pendant",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25058,
+    "name": "Anglesite Choker",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25060,
+    "name": "Sunstone Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25061,
+    "name": "Hiddenite Necklace",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -985,20 +979,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 25068,
-    "name": "Kunzite Necklace",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25070,
-    "name": "Coral Beads",
-    "slot": 1,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25067,
-    "name": "Diopside Beads",
+    "id": 25063,
+    "name": "Multi-Colored Beads",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -1009,8 +991,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 25071,
-    "name": "Tanzanite Pendant",
+    "id": 25069,
+    "name": "Epidote Stone Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25068,
+    "name": "Kunzite Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25067,
+    "name": "Diopside Beads",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25070,
+    "name": "Coral Beads",
     "slot": 1,
     "randomEnchantment": true
   },
@@ -1025,23 +1025,23 @@
     "slot": 1
   },
   {
-    "id": 25500,
-    "name": "Felforce Medallion",
-    "slot": 1
-  },
-  {
     "id": 25517,
     "name": "Preserver\u0027s Medallion",
     "slot": 1
   },
   {
-    "id": 25563,
-    "name": "Earthen Mark of Power",
+    "id": 25500,
+    "name": "Felforce Medallion",
     "slot": 1
   },
   {
     "id": 25564,
     "name": "Earthen Mark of Health",
+    "slot": 1
+  },
+  {
+    "id": 25563,
+    "name": "Earthen Mark of Power",
     "slot": 1
   },
   {
@@ -1065,23 +1065,13 @@
     "slot": 1
   },
   {
-    "id": 25803,
-    "name": "Medallion of the Valiant Guardian",
-    "slot": 1
-  },
-  {
     "id": 25809,
     "name": "Maimfist\u0027s Choker",
     "slot": 1
   },
   {
-    "id": 25914,
-    "name": "Broken Choker",
-    "slot": 1
-  },
-  {
-    "id": 25954,
-    "name": "Sigil of Shaffar",
+    "id": 25803,
+    "name": "Medallion of the Valiant Guardian",
     "slot": 1
   },
   {
@@ -1090,13 +1080,8 @@
     "slot": 1
   },
   {
-    "id": 25993,
-    "name": "Finely Wrought Chain",
-    "slot": 1
-  },
-  {
-    "id": 25989,
-    "name": "Draenethyst Chaplet",
+    "id": 25914,
+    "name": "Broken Choker",
     "slot": 1
   },
   {
@@ -1105,8 +1090,23 @@
     "slot": 1
   },
   {
+    "id": 25954,
+    "name": "Sigil of Shaffar",
+    "slot": 1
+  },
+  {
+    "id": 25989,
+    "name": "Draenethyst Chaplet",
+    "slot": 1
+  },
+  {
     "id": 25992,
     "name": "Enforcer\u0027s Chain",
+    "slot": 1
+  },
+  {
+    "id": 25993,
+    "name": "Finely Wrought Chain",
     "slot": 1
   },
   {
@@ -1145,13 +1145,13 @@
     "slot": 1
   },
   {
-    "id": 27766,
-    "name": "Swampstone Necklace",
+    "id": 27779,
+    "name": "Bone Chain Necklace",
     "slot": 1
   },
   {
-    "id": 27779,
-    "name": "Bone Chain Necklace",
+    "id": 27766,
+    "name": "Swampstone Necklace",
     "slot": 1
   },
   {
@@ -1175,13 +1175,13 @@
     "slot": 1
   },
   {
-    "id": 28043,
-    "name": "Demon Stalker Pendant",
+    "id": 28027,
+    "name": "Lunatic\u0027s Choker",
     "slot": 1
   },
   {
-    "id": 28027,
-    "name": "Lunatic\u0027s Choker",
+    "id": 28043,
+    "name": "Demon Stalker Pendant",
     "slot": 1
   },
   {
@@ -1195,20 +1195,14 @@
     "slot": 1
   },
   {
-    "id": 28217,
-    "name": "Tarren Mill Vitality Locket",
-    "slot": 1
-  },
-  {
     "id": 28233,
     "name": "Necklace of Resplendent Hope",
     "slot": 1
   },
   {
-    "id": 28245,
-    "name": "Pendant of Dominance",
-    "slot": 1,
-    "sockets": 1
+    "id": 28217,
+    "name": "Tarren Mill Vitality Locket",
+    "slot": 1
   },
   {
     "id": 28254,
@@ -1218,6 +1212,12 @@
   {
     "id": 28244,
     "name": "Pendant of Triumph",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 28245,
+    "name": "Pendant of Dominance",
     "slot": 1,
     "sockets": 1
   },
@@ -1237,13 +1237,13 @@
     "slot": 1
   },
   {
-    "id": 28509,
-    "name": "Worgen Claw Necklace",
+    "id": 28516,
+    "name": "Barbed Choker of Discipline",
     "slot": 1
   },
   {
-    "id": 28516,
-    "name": "Barbed Choker of Discipline",
+    "id": 28509,
+    "name": "Worgen Claw Necklace",
     "slot": 1
   },
   {
@@ -1297,21 +1297,6 @@
     "slot": 1
   },
   {
-    "id": 29336,
-    "name": "Mark of the Ravenguard",
-    "slot": 1
-  },
-  {
-    "id": 29349,
-    "name": "Adamantine Chain of the Unbroken",
-    "slot": 1
-  },
-  {
-    "id": 29333,
-    "name": "Torc of the Sethekk Prophet",
-    "slot": 1
-  },
-  {
     "id": 29335,
     "name": "Talon Lord\u0027s Collar",
     "slot": 1
@@ -1327,13 +1312,18 @@
     "slot": 1
   },
   {
-    "id": 29368,
-    "name": "Manasurge Pendant",
+    "id": 29333,
+    "name": "Torc of the Sethekk Prophet",
     "slot": 1
   },
   {
-    "id": 29386,
-    "name": "Necklace of the Juggernaut",
+    "id": 29336,
+    "name": "Mark of the Ravenguard",
+    "slot": 1
+  },
+  {
+    "id": 29349,
+    "name": "Adamantine Chain of the Unbroken",
     "slot": 1
   },
   {
@@ -1342,13 +1332,18 @@
     "slot": 1
   },
   {
+    "id": 29368,
+    "name": "Manasurge Pendant",
+    "slot": 1
+  },
+  {
     "id": 29381,
     "name": "Choker of Vile Intent",
     "slot": 1
   },
   {
-    "id": 29775,
-    "name": "Pendant of the Battle-Mage",
+    "id": 29386,
+    "name": "Necklace of the Juggernaut",
     "slot": 1
   },
   {
@@ -1357,8 +1352,28 @@
     "slot": 1
   },
   {
+    "id": 29775,
+    "name": "Pendant of the Battle-Mage",
+    "slot": 1
+  },
+  {
     "id": 29815,
     "name": "Chain of Glowing Tendrils",
+    "slot": 1
+  },
+  {
+    "id": 30018,
+    "name": "Lord Sanguinar\u0027s Claim",
+    "slot": 1
+  },
+  {
+    "id": 30007,
+    "name": "The Darkener\u0027s Grasp",
+    "slot": 1
+  },
+  {
+    "id": 30017,
+    "name": "Telonicus\u0027s Pendant of Mayhem",
     "slot": 1
   },
   {
@@ -1372,23 +1387,8 @@
     "slot": 1
   },
   {
-    "id": 30017,
-    "name": "Telonicus\u0027s Pendant of Mayhem",
-    "slot": 1
-  },
-  {
-    "id": 30007,
-    "name": "The Darkener\u0027s Grasp",
-    "slot": 1
-  },
-  {
     "id": 30022,
     "name": "Pendant of the Perilous",
-    "slot": 1
-  },
-  {
-    "id": 30018,
-    "name": "Lord Sanguinar\u0027s Claim",
     "slot": 1
   },
   {
@@ -1407,18 +1407,13 @@
     "slot": 1
   },
   {
-    "id": 30377,
-    "name": "Karja\u0027s Medallion",
-    "slot": 1
-  },
-  {
     "id": 30378,
     "name": "Thalodien\u0027s Charm",
     "slot": 1
   },
   {
-    "id": 30666,
-    "name": "Ritssyn\u0027s Lost Pendant",
+    "id": 30377,
+    "name": "Karja\u0027s Medallion",
     "slot": 1
   },
   {
@@ -1429,6 +1424,11 @@
   {
     "id": 30726,
     "name": "Archaic Charm of Presence",
+    "slot": 1
+  },
+  {
+    "id": 30666,
+    "name": "Ritssyn\u0027s Lost Pendant",
     "slot": 1
   },
   {
@@ -1445,8 +1445,18 @@
     }
   },
   {
+    "id": 31178,
+    "name": "Amulet of Unstable Power",
+    "slot": 1
+  },
+  {
     "id": 31147,
     "name": "Pendant of Cunning",
+    "slot": 1
+  },
+  {
+    "id": 31196,
+    "name": "Amulet of Sanctification",
     "slot": 1
   },
   {
@@ -1454,16 +1464,6 @@
     "name": "Gronn-Blessed Warbeads",
     "slot": 1,
     "randomEnchantment": true
-  },
-  {
-    "id": 31178,
-    "name": "Amulet of Unstable Power",
-    "slot": 1
-  },
-  {
-    "id": 31196,
-    "name": "Amulet of Sanctification",
-    "slot": 1
   },
   {
     "id": 31275,
@@ -1481,6 +1481,11 @@
     "slot": 1
   },
   {
+    "id": 31696,
+    "name": "Natasha\u0027s Battle Chain",
+    "slot": 1
+  },
+  {
     "id": 31693,
     "name": "Natasha\u0027s Arcane Filament",
     "slot": 1
@@ -1491,8 +1496,8 @@
     "slot": 1
   },
   {
-    "id": 31691,
-    "name": "Natasha\u0027s Guardian Cord",
+    "id": 31694,
+    "name": "Natasha\u0027s Pack Collar",
     "slot": 1
   },
   {
@@ -1501,18 +1506,23 @@
     "slot": 1
   },
   {
-    "id": 31790,
-    "name": "Expedition Pendant",
+    "id": 31691,
+    "name": "Natasha\u0027s Guardian Cord",
     "slot": 1
   },
   {
-    "id": 31694,
-    "name": "Natasha\u0027s Pack Collar",
+    "id": 31727,
+    "name": "Choker of Bloodied Feathers",
     "slot": 1
   },
   {
     "id": 31726,
     "name": "Necklace of Bloodied Feathers",
+    "slot": 1
+  },
+  {
+    "id": 31748,
+    "name": "Shattrath Choker of Power",
     "slot": 1
   },
   {
@@ -1526,18 +1536,8 @@
     "slot": 1
   },
   {
-    "id": 31748,
-    "name": "Shattrath Choker of Power",
-    "slot": 1
-  },
-  {
-    "id": 31727,
-    "name": "Choker of Bloodied Feathers",
-    "slot": 1
-  },
-  {
-    "id": 31696,
-    "name": "Natasha\u0027s Battle Chain",
+    "id": 31790,
+    "name": "Expedition Pendant",
     "slot": 1
   },
   {
@@ -1546,29 +1546,20 @@
     "slot": 1
   },
   {
-    "id": 31932,
-    "name": "Living Charm",
-    "slot": 1,
-    "resistances": {
-      "Nature": 18
-    },
-    "randomEnchantment": true
-  },
-  {
-    "id": 31933,
-    "name": "Dark Charm",
-    "slot": 1,
-    "resistances": {
-      "Shadow": 18
-    },
-    "randomEnchantment": true
-  },
-  {
     "id": 31931,
     "name": "Fiery Charm",
     "slot": 1,
     "resistances": {
       "Fire": 18
+    },
+    "randomEnchantment": true
+  },
+  {
+    "id": 31932,
+    "name": "Living Charm",
+    "slot": 1,
+    "resistances": {
+      "Nature": 18
     },
     "randomEnchantment": true
   },
@@ -1588,6 +1579,15 @@
     "randomEnchantment": true
   },
   {
+    "id": 31933,
+    "name": "Dark Charm",
+    "slot": 1,
+    "resistances": {
+      "Shadow": 18
+    },
+    "randomEnchantment": true
+  },
+  {
     "id": 31934,
     "name": "Frigid Charm",
     "slot": 1,
@@ -1602,8 +1602,8 @@
     "slot": 1
   },
   {
-    "id": 32370,
-    "name": "Nadina\u0027s Pendant of Purity",
+    "id": 32349,
+    "name": "Translucent Spellthread Necklace",
     "slot": 1
   },
   {
@@ -1612,8 +1612,8 @@
     "slot": 1
   },
   {
-    "id": 32349,
-    "name": "Translucent Spellthread Necklace",
+    "id": 32370,
+    "name": "Nadina\u0027s Pendant of Purity",
     "slot": 1
   },
   {
@@ -1628,13 +1628,13 @@
     "slot": 1
   },
   {
-    "id": 32591,
-    "name": "Choker of Serrated Blades",
+    "id": 32589,
+    "name": "Hellfire-Encased Pendant",
     "slot": 1
   },
   {
-    "id": 32589,
-    "name": "Hellfire-Encased Pendant",
+    "id": 32591,
+    "name": "Choker of Serrated Blades",
     "slot": 1
   },
   {
@@ -1650,16 +1650,26 @@
     "sockets": 1
   },
   {
+    "id": 33067,
+    "name": "Veteran\u0027s Pendant of Conquest",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
     "id": 33068,
     "name": "Veteran\u0027s Pendant of Salvation",
     "slot": 1,
     "sockets": 1
   },
   {
-    "id": 33067,
-    "name": "Veteran\u0027s Pendant of Conquest",
-    "slot": 1,
-    "sockets": 1
+    "id": 33197,
+    "name": "Mossy Necklace",
+    "slot": 1
+  },
+  {
+    "id": 33201,
+    "name": "Silver Moonstone Pendant",
+    "slot": 1
   },
   {
     "id": 33198,
@@ -1677,13 +1687,8 @@
     "slot": 1
   },
   {
-    "id": 33201,
-    "name": "Silver Moonstone Pendant",
-    "slot": 1
-  },
-  {
-    "id": 33197,
-    "name": "Mossy Necklace",
+    "id": 33297,
+    "name": "The Savage\u0027s Choker",
     "slot": 1
   },
   {
@@ -1692,25 +1697,14 @@
     "slot": 1
   },
   {
-    "id": 33297,
-    "name": "The Savage\u0027s Choker",
+    "id": 33296,
+    "name": "Brooch of Deftness",
     "slot": 1
   },
   {
     "id": 33466,
     "name": "Loop of Cursed Bones",
     "slot": 1
-  },
-  {
-    "id": 33296,
-    "name": "Brooch of Deftness",
-    "slot": 1
-  },
-  {
-    "id": 33921,
-    "name": "Vindicator\u0027s Pendant of Dominance",
-    "slot": 1,
-    "sockets": 1
   },
   {
     "id": 33922,
@@ -1725,14 +1719,20 @@
     "sockets": 1
   },
   {
+    "id": 33921,
+    "name": "Vindicator\u0027s Pendant of Dominance",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
     "id": 33920,
     "name": "Vindicator\u0027s Pendant of Conquest",
     "slot": 1,
     "sockets": 1
   },
   {
-    "id": 34177,
-    "name": "Clutch of Demise",
+    "id": 34178,
+    "name": "Collar of the Pit Lord",
     "slot": 1
   },
   {
@@ -1741,31 +1741,14 @@
     "slot": 1
   },
   {
+    "id": 34177,
+    "name": "Clutch of Demise",
+    "slot": 1
+  },
+  {
     "id": 34204,
     "name": "Amulet of Unfettered Magics",
     "slot": 1
-  },
-  {
-    "id": 34178,
-    "name": "Collar of the Pit Lord",
-    "slot": 1
-  },
-  {
-    "id": 34249,
-    "name": "Hula Girl Doll",
-    "slot": 1
-  },
-  {
-    "id": 34359,
-    "name": "Pendant of Sunfire",
-    "slot": 1,
-    "sockets": 1
-  },
-  {
-    "id": 34358,
-    "name": "Hard Khorium Choker",
-    "slot": 1,
-    "sockets": 1
   },
   {
     "id": 34360,
@@ -1774,18 +1757,25 @@
     "sockets": 1
   },
   {
-    "id": 34677,
-    "name": "Shattered Sun Pendant of Restoration",
+    "id": 34249,
+    "name": "Hula Girl Doll",
     "slot": 1
   },
   {
-    "id": 34679,
-    "name": "Shattered Sun Pendant of Might",
-    "slot": 1
+    "id": 34358,
+    "name": "Hard Khorium Choker",
+    "slot": 1,
+    "sockets": 1
   },
   {
-    "id": 34680,
-    "name": "Shattered Sun Pendant of Resolve",
+    "id": 34359,
+    "name": "Pendant of Sunfire",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 34657,
+    "name": "Choker of Damnation",
     "slot": 1
   },
   {
@@ -1794,10 +1784,19 @@
     "slot": 1
   },
   {
-    "id": 35133,
-    "name": "Guardian\u0027s Pendant of Dominance",
-    "slot": 1,
-    "sockets": 1
+    "id": 34679,
+    "name": "Shattered Sun Pendant of Might",
+    "slot": 1
+  },
+  {
+    "id": 34677,
+    "name": "Shattered Sun Pendant of Restoration",
+    "slot": 1
+  },
+  {
+    "id": 34680,
+    "name": "Shattered Sun Pendant of Resolve",
+    "slot": 1
   },
   {
     "id": 35134,
@@ -1806,14 +1805,20 @@
     "sockets": 1
   },
   {
-    "id": 35132,
-    "name": "Guardian\u0027s Pendant of Conquest",
+    "id": 35135,
+    "name": "Guardian\u0027s Pendant of Triumph",
     "slot": 1,
     "sockets": 1
   },
   {
-    "id": 35135,
-    "name": "Guardian\u0027s Pendant of Triumph",
+    "id": 35133,
+    "name": "Guardian\u0027s Pendant of Dominance",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 35132,
+    "name": "Guardian\u0027s Pendant of Conquest",
     "slot": 1,
     "sockets": 1
   },
@@ -1836,20 +1841,30 @@
     "sockets": 1
   },
   {
-    "id": 35317,
-    "name": "Vindicator\u0027s Pendant of Reprieve",
-    "slot": 1,
-    "sockets": 1
-  },
-  {
     "id": 35319,
     "name": "Vindicator\u0027s Pendant of Subjugation",
     "slot": 1,
     "sockets": 1
   },
   {
+    "id": 35317,
+    "name": "Vindicator\u0027s Pendant of Reprieve",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 35508,
+    "name": "Choker of the Arctic Flow",
+    "slot": 1
+  },
+  {
     "id": 35511,
     "name": "Hailstone Pendant",
+    "slot": 1
+  },
+  {
+    "id": 35509,
+    "name": "Amulet of Glacial Tranquility",
     "slot": 1
   },
   {
@@ -1858,13 +1873,242 @@
     "slot": 1
   },
   {
-    "id": 35508,
-    "name": "Choker of the Arctic Flow",
+    "id": 35610,
+    "name": "Slasher\u0027s Amulet",
     "slot": 1
   },
   {
-    "id": 35509,
-    "name": "Amulet of Glacial Tranquility",
+    "id": 35666,
+    "name": "Mark of the Spider",
+    "slot": 1
+  },
+  {
+    "id": 35680,
+    "name": "Amulet of Wills",
+    "slot": 1
+  },
+  {
+    "id": 35631,
+    "name": "Crystal Pendant of Warding",
+    "slot": 1
+  },
+  {
+    "id": 35839,
+    "name": "Runed Clamshell Choker",
+    "slot": 1
+  },
+  {
+    "id": 35904,
+    "name": "Puissance-Infused Pendant",
+    "slot": 1
+  },
+  {
+    "id": 35886,
+    "name": "Worgtooth Pendant",
+    "slot": 1
+  },
+  {
+    "id": 35936,
+    "name": "Worg-Fang Talisman",
+    "slot": 1
+  },
+  {
+    "id": 36434,
+    "name": "Gold Mesh Collar",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36438,
+    "name": "Shark-Toothed Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36442,
+    "name": "Silken Cord Amulet",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36433,
+    "name": "Snake Entwined Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36439,
+    "name": "Serpentine Chain",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36431,
+    "name": "Painted Wooden Beads",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36444,
+    "name": "Ice Encrusted Amulet",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36443,
+    "name": "Platinum Medallion",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36432,
+    "name": "Silver Rope Chain",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36437,
+    "name": "Figaro Chain",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36440,
+    "name": "Gold Clasped Chain",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36436,
+    "name": "Jasper Bead Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36441,
+    "name": "Pearl Woven Choker",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36435,
+    "name": "Embroidered Pendant",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36943,
+    "name": "Timeless Beads of Eternos",
+    "slot": 1
+  },
+  {
+    "id": 36988,
+    "name": "Chaotic Spiral Amulet",
+    "slot": 1
+  },
+  {
+    "id": 37053,
+    "name": "Amulet of Deflected Blows",
+    "slot": 1
+  },
+  {
+    "id": 37096,
+    "name": "Necklace of the Chrono-Lord",
+    "slot": 1
+  },
+  {
+    "id": 37141,
+    "name": "Amulet of Dazzling Light",
+    "slot": 1
+  },
+  {
+    "id": 37231,
+    "name": "Frostspeaker Collar",
+    "slot": 1
+  },
+  {
+    "id": 37290,
+    "name": "Dragon Prow Amulet",
+    "slot": 1
+  },
+  {
+    "id": 37397,
+    "name": "Gold Amulet of Kings",
+    "slot": 1
+  },
+  {
+    "id": 37546,
+    "name": "Choker of the Northern Wind",
+    "slot": 1
+  },
+  {
+    "id": 37548,
+    "name": "Iceflow Collar",
+    "slot": 1
+  },
+  {
+    "id": 37549,
+    "name": "BT49 Healer Neck2",
+    "slot": 1
+  },
+  {
+    "id": 37541,
+    "name": "Giant Turtle Collar",
+    "slot": 1
+  },
+  {
+    "id": 37545,
+    "name": "Graven Shoveltusk Pendant",
+    "slot": 1
+  },
+  {
+    "id": 37544,
+    "name": "Drakebone Necklace",
+    "slot": 1
+  },
+  {
+    "id": 37543,
+    "name": "Pugnacious Collar",
+    "slot": 1
+  },
+  {
+    "id": 37595,
+    "name": "Necklace of Taldaram",
+    "slot": 1
+  },
+  {
+    "id": 37689,
+    "name": "Pendant of the Nathrezim",
+    "slot": 1
+  },
+  {
+    "id": 37683,
+    "name": "Necromancer\u0027s Amulet",
+    "slot": 1
+  },
+  {
+    "id": 37646,
+    "name": "Burning Skull Pendant",
+    "slot": 1
+  },
+  {
+    "id": 37794,
+    "name": "Torta\u0027s Oversized Choker",
+    "slot": 1
+  },
+  {
+    "id": 37748,
+    "name": "Winterfall\u0027s Frozen Necklace",
+    "slot": 1
+  },
+  {
+    "id": 37758,
+    "name": "Raine\u0027s Choker of Combustion",
+    "slot": 1
+  },
+  {
+    "id": 37823,
+    "name": "Draconic Choker of Ferocity",
     "slot": 1
   },
   {
@@ -1874,9 +2118,1480 @@
     "sockets": 1
   },
   {
+    "id": 37861,
+    "name": "Necklace of Arcane Spheres",
+    "slot": 1
+  },
+  {
+    "id": 37939,
+    "name": "Baleen Braided Collar",
+    "slot": 1
+  },
+  {
     "id": 37928,
     "name": "Guardian\u0027s Pendant of Subjugation",
     "slot": 1,
     "sockets": 1
+  },
+  {
+    "id": 38042,
+    "name": "Scourge Ghoul Collar",
+    "slot": 1
+  },
+  {
+    "id": 37992,
+    "name": "Ritual Neckguard",
+    "slot": 1
+  },
+  {
+    "id": 38032,
+    "name": "Wyrm-slave Collar",
+    "slot": 1
+  },
+  {
+    "id": 37997,
+    "name": "DB26 Spell Neck2",
+    "slot": 1
+  },
+  {
+    "id": 37976,
+    "name": "DB54 Healer Neck2",
+    "slot": 1
+  },
+  {
+    "id": 38069,
+    "name": "DB57 Physical Neck3",
+    "slot": 1
+  },
+  {
+    "id": 38227,
+    "name": "Indomitable Choker of Light",
+    "slot": 1
+  },
+  {
+    "id": 38232,
+    "name": "Chain of Vigilant Thought",
+    "slot": 1
+  },
+  {
+    "id": 38228,
+    "name": "Pendant of Revolutionary Thought",
+    "slot": 1
+  },
+  {
+    "id": 38226,
+    "name": "Chain of the Tolling Bell",
+    "slot": 1
+  },
+  {
+    "id": 38231,
+    "name": "Choker of Forceful Redemption",
+    "slot": 1
+  },
+  {
+    "id": 38230,
+    "name": "Clutch of Undying Will",
+    "slot": 1
+  },
+  {
+    "id": 38613,
+    "name": "Chain of Fiery Orbs",
+    "slot": 1
+  },
+  {
+    "id": 38662,
+    "name": "Bladed Ebon Amulet",
+    "slot": 1
+  },
+  {
+    "id": 38754,
+    "name": "Pruning Pendant",
+    "slot": 1
+  },
+  {
+    "id": 38752,
+    "name": "Tatjana\u0027s Pendant",
+    "slot": 1
+  },
+  {
+    "id": 38751,
+    "name": "Vengeful Spirit Beads",
+    "slot": 1
+  },
+  {
+    "id": 38753,
+    "name": "Hoarder\u0027s Necklace",
+    "slot": 1
+  },
+  {
+    "id": 39146,
+    "name": "Collar of Dissolution",
+    "slot": 1
+  },
+  {
+    "id": 39232,
+    "name": "Pendant of Lost Vocations",
+    "slot": 1
+  },
+  {
+    "id": 39246,
+    "name": "Amulet of Autopsy",
+    "slot": 1
+  },
+  {
+    "id": 39282,
+    "name": "Bone-Linked Amulet",
+    "slot": 1
+  },
+  {
+    "id": 39472,
+    "name": "Chain of Latent Energies",
+    "slot": 1
+  },
+  {
+    "id": 39470,
+    "name": "Medallion of the Disgraced",
+    "slot": 1
+  },
+  {
+    "id": 39392,
+    "name": "Veiled Amulet of Life",
+    "slot": 1
+  },
+  {
+    "id": 39421,
+    "name": "Gem of Imprisoned Vassals",
+    "slot": 1
+  },
+  {
+    "id": 39485,
+    "name": "Blood-Infused Pendant",
+    "slot": 1
+  },
+  {
+    "id": 39475,
+    "name": "Artruis\u0027s Focus Stone",
+    "slot": 1
+  },
+  {
+    "id": 39484,
+    "name": "Spiked Collar of Servitude",
+    "slot": 1
+  },
+  {
+    "id": 39483,
+    "name": "Choker of Binding",
+    "slot": 1
+  },
+  {
+    "id": 39653,
+    "name": "Choker of Betrayal",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 39652,
+    "name": "Choker of the Betrayer",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 39655,
+    "name": "Betrayer\u0027s Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 39793,
+    "name": "Neckcharm of Mighty Mojo",
+    "slot": 1
+  },
+  {
+    "id": 39848,
+    "name": "Neckcharm of the Bloodletter",
+    "slot": 1
+  },
+  {
+    "id": 39840,
+    "name": "Rescuer\u0027s Ripcord",
+    "slot": 1
+  },
+  {
+    "id": 40064,
+    "name": "Thunderstorm Amulet",
+    "slot": 1
+  },
+  {
+    "id": 40065,
+    "name": "Fool\u0027s Trial",
+    "slot": 1
+  },
+  {
+    "id": 40071,
+    "name": "Chains of Adoration",
+    "slot": 1
+  },
+  {
+    "id": 40069,
+    "name": "Heritage",
+    "slot": 1
+  },
+  {
+    "id": 40412,
+    "name": "Ousted Bead Necklace",
+    "slot": 1
+  },
+  {
+    "id": 40387,
+    "name": "Boundless Ambition",
+    "slot": 1
+  },
+  {
+    "id": 40369,
+    "name": "Icy Blast Amulet",
+    "slot": 1
+  },
+  {
+    "id": 40374,
+    "name": "Cosmic Lights",
+    "slot": 1
+  },
+  {
+    "id": 40378,
+    "name": "Ceaseless Pity",
+    "slot": 1
+  },
+  {
+    "id": 40427,
+    "name": "Circle of Arcane Streams",
+    "slot": 1
+  },
+  {
+    "id": 40486,
+    "name": "Necklace of the Glittering Chamber",
+    "slot": 1
+  },
+  {
+    "id": 40681,
+    "name": "Lattice Choker of Light",
+    "slot": 1
+  },
+  {
+    "id": 40678,
+    "name": "Pendant of the Outcast Hero",
+    "slot": 1
+  },
+  {
+    "id": 40679,
+    "name": "Chained Military Gorget",
+    "slot": 1
+  },
+  {
+    "id": 40680,
+    "name": "Encircling Burnished Gold Chains",
+    "slot": 1
+  },
+  {
+    "id": 42037,
+    "name": "Furious Gladiator\u0027s Pendant of Ascendancy",
+    "slot": 1
+  },
+  {
+    "id": 42033,
+    "name": "Deadly Gladiator\u0027s Pendant of Salvation",
+    "slot": 1
+  },
+  {
+    "id": 42038,
+    "name": "Furious Gladiator\u0027s Pendant of Subjugation",
+    "slot": 1
+  },
+  {
+    "id": 42026,
+    "name": "Hateful Gladiator\u0027s Pendant of Salvation",
+    "slot": 1
+  },
+  {
+    "id": 42029,
+    "name": "Deadly Gladiator\u0027s Pendant of Dominance",
+    "slot": 1
+  },
+  {
+    "id": 42021,
+    "name": "Hateful Gladiator\u0027s Pendant of Victory",
+    "slot": 1
+  },
+  {
+    "id": 42045,
+    "name": "Relentless Gladiator\u0027s Pendant of Subjugation",
+    "slot": 1
+  },
+  {
+    "id": 42041,
+    "name": "Relentless Gladiator\u0027s Pendant of Triumph",
+    "slot": 1
+  },
+  {
+    "id": 42030,
+    "name": "Deadly Gladiator\u0027s Pendant of Ascendancy",
+    "slot": 1
+  },
+  {
+    "id": 42042,
+    "name": "Relentless Gladiator\u0027s Pendant of Victory",
+    "slot": 1
+  },
+  {
+    "id": 42023,
+    "name": "Hateful Gladiator\u0027s Pendant of Subjugation",
+    "slot": 1
+  },
+  {
+    "id": 42040,
+    "name": "Furious Gladiator\u0027s Pendant of Salvation",
+    "slot": 1
+  },
+  {
+    "id": 42031,
+    "name": "Deadly Gladiator\u0027s Pendant of Subjugation",
+    "slot": 1
+  },
+  {
+    "id": 42032,
+    "name": "Deadly Gladiator\u0027s Pendant of Deliverance",
+    "slot": 1
+  },
+  {
+    "id": 42020,
+    "name": "Hateful Gladiator\u0027s Pendant of Triumph",
+    "slot": 1
+  },
+  {
+    "id": 42024,
+    "name": "Hateful Gladiator\u0027s Pendant of Ascendancy",
+    "slot": 1
+  },
+  {
+    "id": 42039,
+    "name": "Furious Gladiator\u0027s Pendant of Deliverance",
+    "slot": 1
+  },
+  {
+    "id": 42022,
+    "name": "Hateful Gladiator\u0027s Pendant of Dominance",
+    "slot": 1
+  },
+  {
+    "id": 42025,
+    "name": "Hateful Gladiator\u0027s Pendant of Deliverance",
+    "slot": 1
+  },
+  {
+    "id": 42035,
+    "name": "Furious Gladiator\u0027s Pendant of Victory",
+    "slot": 1
+  },
+  {
+    "id": 42047,
+    "name": "Relentless Gladiator\u0027s Pendant of Salvation",
+    "slot": 1
+  },
+  {
+    "id": 42043,
+    "name": "Relentless Gladiator\u0027s Pendant of Dominance",
+    "slot": 1
+  },
+  {
+    "id": 42036,
+    "name": "Furious Gladiator\u0027s Pendant of Dominance",
+    "slot": 1
+  },
+  {
+    "id": 42034,
+    "name": "Furious Gladiator\u0027s Pendant of Triumph",
+    "slot": 1
+  },
+  {
+    "id": 42027,
+    "name": "Deadly Gladiator\u0027s Pendant of Triumph",
+    "slot": 1
+  },
+  {
+    "id": 42044,
+    "name": "Relentless Gladiator\u0027s Pendant of Ascendancy",
+    "slot": 1
+  },
+  {
+    "id": 42046,
+    "name": "Relentless Gladiator\u0027s Pendant of Deliverance",
+    "slot": 1
+  },
+  {
+    "id": 42028,
+    "name": "Deadly Gladiator\u0027s Pendant of Victory",
+    "slot": 1
+  },
+  {
+    "id": 42338,
+    "name": "Jade Dagger Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 42339,
+    "name": "Blood Sun Necklace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 42647,
+    "name": "Titanium Spellshock Necklace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 42646,
+    "name": "Titanium Earthguard Chain",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 42645,
+    "name": "Titanium Impact Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 42808,
+    "name": "Bouldercrag\u0027s Pendant",
+    "slot": 1
+  },
+  {
+    "id": 42793,
+    "name": "Locket of Snowcrest",
+    "slot": 1
+  },
+  {
+    "id": 42856,
+    "name": "Frosthowl Amulet",
+    "slot": 1
+  },
+  {
+    "id": 43244,
+    "name": "Crystal Citrine Necklace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 43309,
+    "name": "Amulet of the Stampede",
+    "slot": 1
+  },
+  {
+    "id": 43282,
+    "name": "Shadowseeker\u0027s Pendant",
+    "slot": 1
+  },
+  {
+    "id": 43245,
+    "name": "Crystal Chalcedony Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 43285,
+    "name": "Amulet of the Spell Flinger",
+    "slot": 1
+  },
+  {
+    "id": 43358,
+    "name": "Pendant of Shadow Beams",
+    "slot": 1
+  },
+  {
+    "id": 43404,
+    "name": "Zuramat\u0027s Necklace",
+    "slot": 1
+  },
+  {
+    "id": 43849,
+    "name": "Chain of the Sovereign",
+    "slot": 1
+  },
+  {
+    "id": 43884,
+    "name": "Amulet of the Malefic Necromancer",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44033,
+    "name": "The Severed Noose of Westwind",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44034,
+    "name": "Amulet of the Crusade",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 43992,
+    "name": "Volitant Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44017,
+    "name": "Emeline\u0027s Locket",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44035,
+    "name": "Reinforced Titanium Neckguard",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44390,
+    "name": "Venomous Pendant",
+    "slot": 1
+  },
+  {
+    "id": 44375,
+    "name": "Razor-Blade Pendant",
+    "slot": 1
+  },
+  {
+    "id": 44377,
+    "name": "Woven Steel Necklace",
+    "slot": 1
+  },
+  {
+    "id": 44376,
+    "name": "Necklace of Fragmented Light",
+    "slot": 1
+  },
+  {
+    "id": 44389,
+    "name": "Curative Necklace",
+    "slot": 1
+  },
+  {
+    "id": 44392,
+    "name": "Necklace of Permeation",
+    "slot": 1
+  },
+  {
+    "id": 44391,
+    "name": "Cast Steel Choker",
+    "slot": 1
+  },
+  {
+    "id": 44374,
+    "name": "Amulet of the Tranquil Mind",
+    "slot": 1
+  },
+  {
+    "id": 44402,
+    "name": "Tiled-Stone Pendant",
+    "slot": 1
+  },
+  {
+    "id": 44403,
+    "name": "Amulet of Constrained Power",
+    "slot": 1
+  },
+  {
+    "id": 44400,
+    "name": "Necklace of Calm Skies",
+    "slot": 1
+  },
+  {
+    "id": 44401,
+    "name": "Hundred Tooth Necklace",
+    "slot": 1
+  },
+  {
+    "id": 44664,
+    "name": "Favor of the Dragon Queen",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44659,
+    "name": "Pendant of the Dragonsworn",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44657,
+    "name": "Torque of the Red Dragonflight",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44662,
+    "name": "Life-Binder\u0027s Locket",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44660,
+    "name": "Drakescale Collar",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44682,
+    "name": "Time-Forward Talisman",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 44688,
+    "name": "Loque\u0027Nahak\u0027s Severed Fang",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 44661,
+    "name": "Wyrmrest Necklace of Power",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44658,
+    "name": "Chain of the Ancient Wyrm",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 44665,
+    "name": "Nexus War Champion Beads",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45116,
+    "name": "Freya\u0027s Choker of Warding",
+    "slot": 1
+  },
+  {
+    "id": 45154,
+    "name": "Necklace of Valiant Blood",
+    "slot": 1
+  },
+  {
+    "id": 45153,
+    "name": "Susurrating Shell Necklace",
+    "slot": 1
+  },
+  {
+    "id": 45213,
+    "name": "Pendant of Emerald Crusader",
+    "slot": 1
+  },
+  {
+    "id": 45152,
+    "name": "Pendant of Azure Dreams",
+    "slot": 1
+  },
+  {
+    "id": 45193,
+    "name": "Insurmountable Fervor",
+    "slot": 1
+  },
+  {
+    "id": 45155,
+    "name": "Choker of Spiral Focus",
+    "slot": 1
+  },
+  {
+    "id": 45206,
+    "name": "Choker of Feral Fury",
+    "slot": 1
+  },
+  {
+    "id": 45133,
+    "name": "Pendant of Fiery Havoc",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45207,
+    "name": "Necklace of Stolen Skulls",
+    "slot": 1
+  },
+  {
+    "id": 45223,
+    "name": "Razor\u0027s Edge Pendant",
+    "slot": 1
+  },
+  {
+    "id": 45262,
+    "name": "Necklace of Unerring Mettle",
+    "slot": 1
+  },
+  {
+    "id": 45243,
+    "name": "Sapphire Amulet of Renewal",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45285,
+    "name": "Might of the Leviathan",
+    "slot": 1
+  },
+  {
+    "id": 45236,
+    "name": "Unblinking Eye",
+    "slot": 1
+  },
+  {
+    "id": 45485,
+    "name": "Bronze Pendant of the Vanir",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45517,
+    "name": "Pendulum of Infinity",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45539,
+    "name": "Pendant of Focused Energies",
+    "slot": 1
+  },
+  {
+    "id": 45538,
+    "name": "Titanstone Pendant",
+    "slot": 1
+  },
+  {
+    "id": 45459,
+    "name": "Frigid Strength of Hodir",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45443,
+    "name": "Charm of Meticulous Timing",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45480,
+    "name": "Nymph Heart Charm",
+    "slot": 1
+  },
+  {
+    "id": 45447,
+    "name": "Watchful Eye of Fate",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45699,
+    "name": "Pendant of the Piercing Glare",
+    "slot": 1
+  },
+  {
+    "id": 45696,
+    "name": "Mark of the Unyielding",
+    "slot": 1
+  },
+  {
+    "id": 45821,
+    "name": "Shard of the Crystal Forest",
+    "slot": 1
+  },
+  {
+    "id": 45819,
+    "name": "Spiked Battleguard Choker",
+    "slot": 1
+  },
+  {
+    "id": 45823,
+    "name": "Frozen Tear of Elune",
+    "slot": 1
+  },
+  {
+    "id": 45813,
+    "name": "Sky Sapphire Amulet",
+    "slot": 1
+  },
+  {
+    "id": 45812,
+    "name": "Emerald Choker",
+    "slot": 1
+  },
+  {
+    "id": 45820,
+    "name": "Broach of the Wailing Night",
+    "slot": 1
+  },
+  {
+    "id": 45822,
+    "name": "Evoker\u0027s Charm",
+    "slot": 1
+  },
+  {
+    "id": 45945,
+    "name": "Seed of Budding Carnage",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 45995,
+    "name": "Forgotten Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 45933,
+    "name": "Pendant of the Shallow Grave",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 46015,
+    "name": "Pendant of Endless Despair",
+    "slot": 1
+  },
+  {
+    "id": 46040,
+    "name": "Strength of the Heavens",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 46047,
+    "name": "Pendant of the Somber Witness",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 46008,
+    "name": "Choker of the Abyss",
+    "slot": 1
+  },
+  {
+    "id": 46022,
+    "name": "Pendant of a Thousand Maws",
+    "slot": 1
+  },
+  {
+    "id": 46374,
+    "name": "Relentless Gladiator\u0027s Pendant of Sundering",
+    "slot": 1
+  },
+  {
+    "id": 46343,
+    "name": "Fervor of the Protectorate",
+    "slot": 1
+  },
+  {
+    "id": 46373,
+    "name": "Furious Gladiator\u0027s Pendant of Sundering",
+    "slot": 1
+  },
+  {
+    "id": 47060,
+    "name": "Charge of the Demon Lord",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47043,
+    "name": "Charge of the Demon Lord",
+    "slot": 1
+  },
+  {
+    "id": 47105,
+    "name": "The Executioner\u0027s Malice",
+    "slot": 1
+  },
+  {
+    "id": 47144,
+    "name": "Wail of the Val\u0027kyr",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47139,
+    "name": "Wail of the Val\u0027kyr",
+    "slot": 1
+  },
+  {
+    "id": 47110,
+    "name": "The Executioner\u0027s Malice",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47133,
+    "name": "The Arbiter\u0027s Muse",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47116,
+    "name": "The Arbiter\u0027s Muse",
+    "slot": 1
+  },
+  {
+    "id": 47219,
+    "name": "Brilliant Hailstone Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47297,
+    "name": "The Executioner\u0027s Vice",
+    "slot": 1
+  },
+  {
+    "id": 47272,
+    "name": "Charge of the Eredar",
+    "slot": 1
+  },
+  {
+    "id": 47305,
+    "name": "Legionnaire\u0027s Gorget",
+    "slot": 1
+  },
+  {
+    "id": 47468,
+    "name": "Cry of the Val\u0027kyr",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47458,
+    "name": "The Executioner\u0027s Vice",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47466,
+    "name": "Legionnaire\u0027s Gorget",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47307,
+    "name": "Cry of the Val\u0027kyr",
+    "slot": 1
+  },
+  {
+    "id": 47433,
+    "name": "Charge of the Eredar",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47562,
+    "name": "Symbol of Redemption",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47494,
+    "name": "Ancient Pendant of Arathor",
+    "slot": 1
+  },
+  {
+    "id": 47566,
+    "name": "The Warlord\u0027s Depravity",
+    "slot": 1
+  },
+  {
+    "id": 47607,
+    "name": "Collar of Ceaseless Torment",
+    "slot": 1
+  },
+  {
+    "id": 47679,
+    "name": "Endurance of the Infernal",
+    "slot": 1
+  },
+  {
+    "id": 47619,
+    "name": "Amulet of Binding Elements",
+    "slot": 1
+  },
+  {
+    "id": 47747,
+    "name": "Darkbane Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47915,
+    "name": "Collar of Ceaseless Torment",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47864,
+    "name": "Pendant of Binding Elements",
+    "slot": 1
+  },
+  {
+    "id": 47890,
+    "name": "Darkbane Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47872,
+    "name": "Fortitude of the Infernal",
+    "slot": 1
+  },
+  {
+    "id": 47849,
+    "name": "Collar of Unending Torment",
+    "slot": 1
+  },
+  {
+    "id": 47988,
+    "name": "Collar of Unending Torment",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47939,
+    "name": "Endurance of the Infernal",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47957,
+    "name": "Darkbane Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 48011,
+    "name": "Fortitude of the Infernal",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 48003,
+    "name": "Pendant of Binding Elements",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 47930,
+    "name": "Amulet of Binding Elements",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 48030,
+    "name": "Darkbane Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 49306,
+    "name": "Eskhandar\u0027s Choker",
+    "slot": 1
+  },
+  {
+    "id": 49314,
+    "name": "Sparkling Onyxia Tooth Pendant",
+    "slot": 1,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 49485,
+    "name": "Sparkling Onyxia Tooth Pendant",
+    "slot": 1,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 49492,
+    "name": "Eskhandar\u0027s Links",
+    "slot": 1
+  },
+  {
+    "id": 49818,
+    "name": "Painfully Sharp Choker",
+    "slot": 1
+  },
+  {
+    "id": 49799,
+    "name": "Coil of Missing Gems",
+    "slot": 1
+  },
+  {
+    "id": 49989,
+    "name": "Ahn\u0027kahar Onyx Neckguard",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 49975,
+    "name": "Bone Sentinel\u0027s Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50005,
+    "name": "Amulet of the Silent Eulogy",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50023,
+    "name": "Bile-Encrusted Medallion",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50061,
+    "name": "Holiday\u0027s Grace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50211,
+    "name": "Arcane Loops of Anger",
+    "slot": 1
+  },
+  {
+    "id": 50195,
+    "name": "Noose of Malachite",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50196,
+    "name": "Love\u0027s Prisoner",
+    "slot": 1
+  },
+  {
+    "id": 50228,
+    "name": "Barbed Ymirheim Choker",
+    "slot": 1
+  },
+  {
+    "id": 50182,
+    "name": "Blood Queen\u0027s Crimson Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50180,
+    "name": "Lana\u0027thel\u0027s Chain of Flagellation",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50421,
+    "name": "Sindragosa\u0027s Cruel Claw",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50310,
+    "name": "Fossilized Ammonite Choker",
+    "slot": 1
+  },
+  {
+    "id": 50627,
+    "name": "Noose of Malachite",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50647,
+    "name": "Ahn\u0027kahar Onyx Neckguard",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50633,
+    "name": "Sindragosa\u0027s Cruel Claw",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50452,
+    "name": "Wodin\u0027s Lucky Necklace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50609,
+    "name": "Bone Sentinel\u0027s Amulet",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50658,
+    "name": "Amulet of the Silent Eulogy",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50682,
+    "name": "Bile-Encrusted Medallion",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50724,
+    "name": "Blood Queen\u0027s Crimson Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50728,
+    "name": "Lana\u0027thel\u0027s Chain of Flagellation",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50763,
+    "name": "Marrowgar\u0027s Scratching Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50700,
+    "name": "Holiday\u0027s Grace",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50852,
+    "name": "Precious\u0027s Putrid Collar",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 50809,
+    "name": "Soulcleave Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51008,
+    "name": "Choker of Filthy Diamonds",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51012,
+    "name": "Infected Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51016,
+    "name": "Pendant of Split Veins",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51353,
+    "name": "Wrathful Gladiator\u0027s Pendant of Sundering",
+    "slot": 1
+  },
+  {
+    "id": 51347,
+    "name": "Wrathful Gladiator\u0027s Pendant of Salvation",
+    "slot": 1
+  },
+  {
+    "id": 51331,
+    "name": "Wrathful Gladiator\u0027s Pendant of Dominance",
+    "slot": 1
+  },
+  {
+    "id": 51357,
+    "name": "Wrathful Gladiator\u0027s Pendant of Victory",
+    "slot": 1
+  },
+  {
+    "id": 51349,
+    "name": "Wrathful Gladiator\u0027s Pendant of Deliverance",
+    "slot": 1
+  },
+  {
+    "id": 51355,
+    "name": "Wrathful Gladiator\u0027s Pendant of Triumph",
+    "slot": 1
+  },
+  {
+    "id": 51335,
+    "name": "Wrathful Gladiator\u0027s Pendant of Ascendancy",
+    "slot": 1
+  },
+  {
+    "id": 51333,
+    "name": "Wrathful Gladiator\u0027s Pendant of Subjugation",
+    "slot": 1
+  },
+  {
+    "id": 51548,
+    "name": "Collar of Haughty Disdain",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51568,
+    "name": "Titan-Forged Pendant of Ascendancy",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51569,
+    "name": "Titan-Forged Pendant of Victory",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51779,
+    "name": "Rimetooth Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51863,
+    "name": "Pendant of Split Veins",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51804,
+    "name": "Winking Eye of Love",
+    "slot": 1
+  },
+  {
+    "id": 51807,
+    "name": "Sweet Perfume Broach",
+    "slot": 1
+  },
+  {
+    "id": 51806,
+    "name": "Shard of Pirouetting Happiness",
+    "slot": 1
+  },
+  {
+    "id": 51822,
+    "name": "Rimetooth Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51871,
+    "name": "Choker of Filthy Diamonds",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51894,
+    "name": "Soulcleave Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51842,
+    "name": "Collar of Haughty Disdain",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51867,
+    "name": "Infected Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51890,
+    "name": "Precious\u0027s Putrid Collar",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 51808,
+    "name": "Choker of the Pure Heart",
+    "slot": 1
+  },
+  {
+    "id": 51805,
+    "name": "Heartbreak Charm",
+    "slot": 1
+  },
+  {
+    "id": 51995,
+    "name": "Turbulent Necklace",
+    "slot": 1,
+    "randomEnchantment": true
+  },
+  {
+    "id": 51934,
+    "name": "Marrowgar\u0027s Scratching Choker",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 53132,
+    "name": "Penumbra Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 53103,
+    "name": "Baltharus\u0027 Gift",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 54557,
+    "name": "Baltharus\u0027 Gift",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 54581,
+    "name": "Penumbra Pendant",
+    "slot": 1,
+    "sockets": 1
+  },
+  {
+    "id": 186074,
+    "name": "Communal Necklace",
+    "slot": 1
+  },
+  {
+    "id": 199519,
+    "name": "Collective Necklace",
+    "slot": 1
+  },
+  {
+    "id": 199521,
+    "name": "Collective Necklace",
+    "slot": 1
+  },
+  {
+    "id": 199520,
+    "name": "Collective Necklace",
+    "slot": 1
   }
 ]

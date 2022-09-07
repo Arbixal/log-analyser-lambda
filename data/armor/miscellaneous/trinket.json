@@ -35,11 +35,6 @@
     "slot": 12
   },
   {
-    "id": 11815,
-    "name": "Hand of Justice",
-    "slot": 12
-  },
-  {
     "id": 11810,
     "name": "Force of Will",
     "slot": 12
@@ -47,22 +42,21 @@
   {
     "id": 11811,
     "name": "Smoking Heart of the Mountain",
-    "slot": 12,
-    "resistances": {
-      "Fire": 7,
-      "Nature": 7,
-      "Frost": 7,
-      "Shadow": 7
-    }
-  },
-  {
-    "id": 11832,
-    "name": "Burst of Knowledge",
     "slot": 12
   },
   {
     "id": 11819,
     "name": "Second Wind",
+    "slot": 12
+  },
+  {
+    "id": 11815,
+    "name": "Hand of Justice",
+    "slot": 12
+  },
+  {
+    "id": 11832,
+    "name": "Burst of Knowledge",
     "slot": 12
   },
   {
@@ -108,13 +102,13 @@
     "slot": 12
   },
   {
-    "id": 13379,
-    "name": "Piccolo of the Flaming Fire",
+    "id": 13382,
+    "name": "Cannonball Runner",
     "slot": 12
   },
   {
-    "id": 13382,
-    "name": "Cannonball Runner",
+    "id": 13379,
+    "name": "Piccolo of the Flaming Fire",
     "slot": 12
   },
   {
@@ -128,6 +122,14 @@
     "slot": 12
   },
   {
+    "id": 13966,
+    "name": "Mark of Tyranny",
+    "slot": 12,
+    "resistances": {
+      "Arcane": 10
+    }
+  },
+  {
     "id": 13965,
     "name": "Blackhand\u0027s Breadth",
     "slot": 12
@@ -136,14 +138,6 @@
     "id": 13968,
     "name": "Eye of the Beast",
     "slot": 12
-  },
-  {
-    "id": 13966,
-    "name": "Mark of Tyranny",
-    "slot": 12,
-    "resistances": {
-      "Arcane": 10
-    }
   },
   {
     "id": 14022,
@@ -161,13 +155,13 @@
     "slot": 12
   },
   {
-    "id": 15873,
-    "name": "Ragged John\u0027s Neverending Cup",
+    "id": 15867,
+    "name": "Prismcharm",
     "slot": 12
   },
   {
-    "id": 15867,
-    "name": "Prismcharm",
+    "id": 15873,
+    "name": "Ragged John\u0027s Neverending Cup",
     "slot": 12
   },
   {
@@ -176,13 +170,13 @@
     "slot": 12
   },
   {
-    "id": 17082,
-    "name": "Shard of the Flame",
+    "id": 17064,
+    "name": "Shard of the Scale",
     "slot": 12
   },
   {
-    "id": 17064,
-    "name": "Shard of the Scale",
+    "id": 17082,
+    "name": "Shard of the Flame",
     "slot": 12
   },
   {
@@ -210,6 +204,11 @@
     }
   },
   {
+    "id": 17759,
+    "name": "Mark of Resolution",
+    "slot": 12
+  },
+  {
     "id": 17900,
     "name": "Stormpike Insignia Rank 2",
     "slot": 12,
@@ -218,13 +217,16 @@
     }
   },
   {
-    "id": 17759,
-    "name": "Mark of Resolution",
-    "slot": 12
-  },
-  {
     "id": 17901,
     "name": "Stormpike Insignia Rank 3",
+    "slot": 12,
+    "resistances": {
+      "Frost": 5
+    }
+  },
+  {
+    "id": 17905,
+    "name": "Frostwolf Insignia Rank 2",
     "slot": 12,
     "resistances": {
       "Frost": 5
@@ -247,6 +249,30 @@
     }
   },
   {
+    "id": 17902,
+    "name": "Stormpike Insignia Rank 4",
+    "slot": 12,
+    "resistances": {
+      "Frost": 8
+    }
+  },
+  {
+    "id": 17904,
+    "name": "Stormpike Insignia Rank 6",
+    "slot": 12,
+    "resistances": {
+      "Frost": 10
+    }
+  },
+  {
+    "id": 17906,
+    "name": "Frostwolf Insignia Rank 3",
+    "slot": 12,
+    "resistances": {
+      "Frost": 5
+    }
+  },
+  {
     "id": 17907,
     "name": "Frostwolf Insignia Rank 4",
     "slot": 12,
@@ -263,40 +289,18 @@
     }
   },
   {
-    "id": 17904,
-    "name": "Stormpike Insignia Rank 6",
-    "slot": 12,
-    "resistances": {
-      "Frost": 10
-    }
-  },
-  {
-    "id": 17905,
-    "name": "Frostwolf Insignia Rank 2",
-    "slot": 12,
-    "resistances": {
-      "Frost": 5
-    }
-  },
-  {
-    "id": 17902,
-    "name": "Stormpike Insignia Rank 4",
-    "slot": 12,
-    "resistances": {
-      "Frost": 8
-    }
-  },
-  {
-    "id": 17906,
-    "name": "Frostwolf Insignia Rank 3",
-    "slot": 12,
-    "resistances": {
-      "Frost": 5
-    }
-  },
-  {
     "id": 18354,
     "name": "Pimgib\u0027s Collar",
+    "slot": 12
+  },
+  {
+    "id": 18370,
+    "name": "Vigilance Charm",
+    "slot": 12
+  },
+  {
+    "id": 18371,
+    "name": "Mindtap Talisman",
     "slot": 12
   },
   {
@@ -308,33 +312,7 @@
     }
   },
   {
-    "id": 18371,
-    "name": "Mindtap Talisman",
-    "slot": 12
-  },
-  {
-    "id": 18370,
-    "name": "Vigilance Charm",
-    "slot": 12
-  },
-  {
     "id": 18465,
-    "name": "Royal Seal of Eldre\u0027Thalas",
-    "slot": 12,
-    "resistances": {
-      "Fire": 10
-    }
-  },
-  {
-    "id": 18469,
-    "name": "Royal Seal of Eldre\u0027Thalas",
-    "slot": 12,
-    "resistances": {
-      "Fire": 10
-    }
-  },
-  {
-    "id": 18473,
     "name": "Royal Seal of Eldre\u0027Thalas",
     "slot": 12,
     "resistances": {
@@ -350,15 +328,7 @@
     }
   },
   {
-    "id": 18472,
-    "name": "Royal Seal of Eldre\u0027Thalas",
-    "slot": 12,
-    "resistances": {
-      "Fire": 10
-    }
-  },
-  {
-    "id": 18471,
+    "id": 18467,
     "name": "Royal Seal of Eldre\u0027Thalas",
     "slot": 12,
     "resistances": {
@@ -374,12 +344,7 @@
     }
   },
   {
-    "id": 18537,
-    "name": "Counterattack Lodestone",
-    "slot": 12
-  },
-  {
-    "id": 18467,
+    "id": 18469,
     "name": "Royal Seal of Eldre\u0027Thalas",
     "slot": 12,
     "resistances": {
@@ -395,8 +360,32 @@
     }
   },
   {
-    "id": 18637,
-    "name": "Major Recombobulator",
+    "id": 18471,
+    "name": "Royal Seal of Eldre\u0027Thalas",
+    "slot": 12,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 18473,
+    "name": "Royal Seal of Eldre\u0027Thalas",
+    "slot": 12,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 18472,
+    "name": "Royal Seal of Eldre\u0027Thalas",
+    "slot": 12,
+    "resistances": {
+      "Fire": 10
+    }
+  },
+  {
+    "id": 18537,
+    "name": "Counterattack Lodestone",
     "slot": 12
   },
   {
@@ -408,12 +397,9 @@
     }
   },
   {
-    "id": 18638,
-    "name": "Hyper-Radiant Flame Reflector",
-    "slot": 12,
-    "resistances": {
-      "Fire": 18
-    }
+    "id": 18665,
+    "name": "The Eye of Shadow",
+    "slot": 12
   },
   {
     "id": 18639,
@@ -429,8 +415,16 @@
     "slot": 12
   },
   {
-    "id": 18665,
-    "name": "The Eye of Shadow",
+    "id": 18638,
+    "name": "Hyper-Radiant Flame Reflector",
+    "slot": 12,
+    "resistances": {
+      "Fire": 18
+    }
+  },
+  {
+    "id": 18637,
+    "name": "Major Recombobulator",
     "slot": 12
   },
   {
@@ -444,13 +438,83 @@
     "slot": 12
   },
   {
-    "id": 18984,
-    "name": "Dimensional Ripper - Everlook",
+    "id": 18834,
+    "name": "Insignia of the Horde",
     "slot": 12
   },
   {
-    "id": 18986,
-    "name": "Ultrasafe Transporter: Gadgetzan",
+    "id": 18846,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18849,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18862,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18856,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18853,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18859,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18864,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18852,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18858,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18863,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18854,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18850,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18845,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 18857,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 18851,
+    "name": "Insignia of the Horde",
     "slot": 12
   },
   {
@@ -464,28 +528,13 @@
     "slot": 12
   },
   {
-    "id": 19289,
-    "name": "Darkmoon Card: Maelstrom",
-    "slot": 12
-  },
-  {
     "id": 19287,
     "name": "Darkmoon Card: Heroism",
     "slot": 12
   },
   {
-    "id": 19290,
-    "name": "Darkmoon Card: Twisting Nether",
-    "slot": 12
-  },
-  {
     "id": 19288,
     "name": "Darkmoon Card: Blue Dragon",
-    "slot": 12
-  },
-  {
-    "id": 19336,
-    "name": "Arcane Infused Gem",
     "slot": 12
   },
   {
@@ -499,6 +548,11 @@
     "slot": 12
   },
   {
+    "id": 19341,
+    "name": "Lifegiving Gem",
+    "slot": 12
+  },
+  {
     "id": 19342,
     "name": "Venomous Totem",
     "slot": 12
@@ -509,13 +563,23 @@
     "slot": 12
   },
   {
-    "id": 19337,
-    "name": "The Black Book",
+    "id": 19290,
+    "name": "Darkmoon Card: Twisting Nether",
     "slot": 12
   },
   {
-    "id": 19341,
-    "name": "Lifegiving Gem",
+    "id": 19336,
+    "name": "Arcane Infused Gem",
+    "slot": 12
+  },
+  {
+    "id": 19289,
+    "name": "Darkmoon Card: Maelstrom",
+    "slot": 12
+  },
+  {
+    "id": 19337,
+    "name": "The Black Book",
     "slot": 12
   },
   {
@@ -534,6 +598,11 @@
     "slot": 12
   },
   {
+    "id": 19431,
+    "name": "Styleen\u0027s Impeding Scarab",
+    "slot": 12
+  },
+  {
     "id": 19395,
     "name": "Rejuvenating Gem",
     "slot": 12
@@ -541,11 +610,6 @@
   {
     "id": 19406,
     "name": "Drake Fang Talisman",
-    "slot": 12
-  },
-  {
-    "id": 19431,
-    "name": "Styleen\u0027s Impeding Scarab",
     "slot": 12
   },
   {
@@ -569,56 +633,6 @@
     "slot": 12
   },
   {
-    "id": 19957,
-    "name": "Hazza\u0027rah\u0027s Charm of Destruction",
-    "slot": 12
-  },
-  {
-    "id": 19959,
-    "name": "Hazza\u0027rah\u0027s Charm of Magic",
-    "slot": 12
-  },
-  {
-    "id": 19950,
-    "name": "Zandalarian Hero Charm",
-    "slot": 12
-  },
-  {
-    "id": 19954,
-    "name": "Renataki\u0027s Charm of Trickery",
-    "slot": 12
-  },
-  {
-    "id": 19956,
-    "name": "Wushoolay\u0027s Charm of Spirits",
-    "slot": 12
-  },
-  {
-    "id": 19958,
-    "name": "Hazza\u0027rah\u0027s Charm of Healing",
-    "slot": 12
-  },
-  {
-    "id": 19951,
-    "name": "Gri\u0027lek\u0027s Charm of Might",
-    "slot": 12
-  },
-  {
-    "id": 19955,
-    "name": "Wushoolay\u0027s Charm of Nature",
-    "slot": 12
-  },
-  {
-    "id": 19991,
-    "name": "Devilsaur Eye",
-    "slot": 12
-  },
-  {
-    "id": 19949,
-    "name": "Zandalarian Hero Medallion",
-    "slot": 12
-  },
-  {
     "id": 19953,
     "name": "Renataki\u0027s Charm of Beasts",
     "slot": 12
@@ -629,8 +643,48 @@
     "slot": 12
   },
   {
-    "id": 20036,
-    "name": "Fire Ruby",
+    "id": 19954,
+    "name": "Renataki\u0027s Charm of Trickery",
+    "slot": 12
+  },
+  {
+    "id": 19950,
+    "name": "Zandalarian Hero Charm",
+    "slot": 12
+  },
+  {
+    "id": 19949,
+    "name": "Zandalarian Hero Medallion",
+    "slot": 12
+  },
+  {
+    "id": 19955,
+    "name": "Wushoolay\u0027s Charm of Nature",
+    "slot": 12
+  },
+  {
+    "id": 19951,
+    "name": "Gri\u0027lek\u0027s Charm of Might",
+    "slot": 12
+  },
+  {
+    "id": 19957,
+    "name": "Hazza\u0027rah\u0027s Charm of Destruction",
+    "slot": 12
+  },
+  {
+    "id": 19956,
+    "name": "Wushoolay\u0027s Charm of Spirits",
+    "slot": 12
+  },
+  {
+    "id": 19959,
+    "name": "Hazza\u0027rah\u0027s Charm of Magic",
+    "slot": 12
+  },
+  {
+    "id": 19958,
+    "name": "Hazza\u0027rah\u0027s Charm of Healing",
     "slot": 12
   },
   {
@@ -639,13 +693,23 @@
     "slot": 12
   },
   {
+    "id": 19990,
+    "name": "Blessed Prayer Beads",
+    "slot": 12
+  },
+  {
+    "id": 19991,
+    "name": "Devilsaur Eye",
+    "slot": 12
+  },
+  {
     "id": 19992,
     "name": "Devilsaur Tooth",
     "slot": 12
   },
   {
-    "id": 19990,
-    "name": "Blessed Prayer Beads",
+    "id": 20036,
+    "name": "Fire Ruby",
     "slot": 12
   },
   {
@@ -674,18 +738,28 @@
     "slot": 12
   },
   {
-    "id": 20534,
-    "name": "Abyss Shard",
-    "slot": 12
-  },
-  {
     "id": 20525,
     "name": "Earthen Sigil",
     "slot": 12
   },
   {
+    "id": 20534,
+    "name": "Abyss Shard",
+    "slot": 12
+  },
+  {
     "id": 20636,
     "name": "Hibernation Crystal",
+    "slot": 12
+  },
+  {
+    "id": 21115,
+    "name": "Defiler\u0027s Talisman",
+    "slot": 12
+  },
+  {
+    "id": 21117,
+    "name": "Talisman of Arathor",
     "slot": 12
   },
   {
@@ -696,16 +770,6 @@
   {
     "id": 21180,
     "name": "Earthstrike",
-    "slot": 12
-  },
-  {
-    "id": 21117,
-    "name": "Talisman of Arathor",
-    "slot": 12
-  },
-  {
-    "id": 21115,
-    "name": "Defiler\u0027s Talisman",
     "slot": 12
   },
   {
@@ -729,6 +793,11 @@
     "slot": 12
   },
   {
+    "id": 21625,
+    "name": "Scarab Brooch",
+    "slot": 12
+  },
+  {
     "id": 21647,
     "name": "Fetish of the Sand Reaver",
     "slot": 12
@@ -741,11 +810,6 @@
   {
     "id": 21685,
     "name": "Petrified Scarab",
-    "slot": 12
-  },
-  {
-    "id": 21625,
-    "name": "Scarab Brooch",
     "slot": 12
   },
   {
@@ -794,13 +858,13 @@
     "slot": 12
   },
   {
-    "id": 23040,
-    "name": "Glyph of Deflection",
+    "id": 23001,
+    "name": "Eye of Diminution",
     "slot": 12
   },
   {
-    "id": 23041,
-    "name": "Slayer\u0027s Crest",
+    "id": 23027,
+    "name": "Warmth of Forgiveness",
     "slot": 12
   },
   {
@@ -809,13 +873,13 @@
     "slot": 12
   },
   {
-    "id": 23001,
-    "name": "Eye of Diminution",
+    "id": 23040,
+    "name": "Glyph of Deflection",
     "slot": 12
   },
   {
-    "id": 23027,
-    "name": "Warmth of Forgiveness",
+    "id": 23041,
+    "name": "Slayer\u0027s Crest",
     "slot": 12
   },
   {
@@ -836,12 +900,12 @@
     }
   },
   {
-    "id": 23207,
+    "id": 23206,
     "name": "Mark of the Champion",
     "slot": 12
   },
   {
-    "id": 23206,
+    "id": 23207,
     "name": "Mark of the Champion",
     "slot": 12
   },
@@ -856,28 +920,13 @@
     "slot": 12
   },
   {
-    "id": 23836,
-    "name": "Goblin Rocket Launcher",
-    "slot": 12
-  },
-  {
     "id": 23835,
     "name": "Gnomish Poultryizer",
     "slot": 12
   },
   {
-    "id": 24124,
-    "name": "Figurine - Felsteel Boar",
-    "slot": 12
-  },
-  {
-    "id": 24125,
-    "name": "Figurine - Dawnstone Crab",
-    "slot": 12
-  },
-  {
-    "id": 24127,
-    "name": "Figurine - Talasite Owl",
+    "id": 23836,
+    "name": "Goblin Rocket Launcher",
     "slot": 12
   },
   {
@@ -891,8 +940,18 @@
     "slot": 12
   },
   {
-    "id": 24390,
-    "name": "Auslese\u0027s Light Channeler",
+    "id": 24127,
+    "name": "Figurine - Talasite Owl",
+    "slot": 12
+  },
+  {
+    "id": 24125,
+    "name": "Figurine - Dawnstone Crab",
+    "slot": 12
+  },
+  {
+    "id": 24124,
+    "name": "Figurine - Felsteel Boar",
     "slot": 12
   },
   {
@@ -901,18 +960,13 @@
     "slot": 12
   },
   {
+    "id": 24390,
+    "name": "Auslese\u0027s Light Channeler",
+    "slot": 12
+  },
+  {
     "id": 24551,
     "name": "Talisman of the Horde",
-    "slot": 12
-  },
-  {
-    "id": 25634,
-    "name": "Oshu\u0027gun Relic",
-    "slot": 12
-  },
-  {
-    "id": 25619,
-    "name": "Glowing Crystal Insignia",
     "slot": 12
   },
   {
@@ -921,8 +975,13 @@
     "slot": 12
   },
   {
-    "id": 25633,
-    "name": "Uniting Charm",
+    "id": 25619,
+    "name": "Glowing Crystal Insignia",
+    "slot": 12
+  },
+  {
+    "id": 25634,
+    "name": "Oshu\u0027gun Relic",
     "slot": 12
   },
   {
@@ -931,18 +990,23 @@
     "slot": 12
   },
   {
+    "id": 25633,
+    "name": "Uniting Charm",
+    "slot": 12
+  },
+  {
     "id": 25653,
     "name": "Riding Crop",
     "slot": 12
   },
   {
-    "id": 25786,
-    "name": "Hypnotist\u0027s Watch",
+    "id": 25787,
+    "name": "Charm of Alacrity",
     "slot": 12
   },
   {
-    "id": 25787,
-    "name": "Charm of Alacrity",
+    "id": 25786,
+    "name": "Hypnotist\u0027s Watch",
     "slot": 12
   },
   {
@@ -956,6 +1020,11 @@
     "slot": 12
   },
   {
+    "id": 25937,
+    "name": "Terokkar Tablet of Precision",
+    "slot": 12
+  },
+  {
     "id": 25994,
     "name": "Rune of Force",
     "slot": 12
@@ -963,11 +1032,6 @@
   {
     "id": 25995,
     "name": "Star of Sha\u0027naar",
-    "slot": 12
-  },
-  {
-    "id": 25937,
-    "name": "Terokkar Tablet of Precision",
     "slot": 12
   },
   {
@@ -1006,33 +1070,8 @@
     "slot": 12
   },
   {
-    "id": 27896,
-    "name": "Alembic of Infernal Power",
-    "slot": 12
-  },
-  {
     "id": 27900,
     "name": "Jewel of Charismatic Mystique",
-    "slot": 12
-  },
-  {
-    "id": 27891,
-    "name": "Adamantine Figurine",
-    "slot": 12
-  },
-  {
-    "id": 27921,
-    "name": "Mark of Conquest",
-    "slot": 12
-  },
-  {
-    "id": 27926,
-    "name": "Mark of Vindication",
-    "slot": 12
-  },
-  {
-    "id": 27924,
-    "name": "Mark of Defiance",
     "slot": 12
   },
   {
@@ -1041,7 +1080,22 @@
     "slot": 12
   },
   {
-    "id": 27927,
+    "id": 27896,
+    "name": "Alembic of Infernal Power",
+    "slot": 12
+  },
+  {
+    "id": 27891,
+    "name": "Adamantine Figurine",
+    "slot": 12
+  },
+  {
+    "id": 27924,
+    "name": "Mark of Defiance",
+    "slot": 12
+  },
+  {
+    "id": 27926,
     "name": "Mark of Vindication",
     "slot": 12
   },
@@ -1051,13 +1105,18 @@
     "slot": 12
   },
   {
-    "id": 28034,
-    "name": "Hourglass of the Unraveller",
+    "id": 27921,
+    "name": "Mark of Conquest",
     "slot": 12
   },
   {
-    "id": 28041,
-    "name": "Bladefist\u0027s Breadth",
+    "id": 27927,
+    "name": "Mark of Vindication",
+    "slot": 12
+  },
+  {
+    "id": 28034,
+    "name": "Hourglass of the Unraveller",
     "slot": 12
   },
   {
@@ -1066,8 +1125,8 @@
     "slot": 12
   },
   {
-    "id": 28109,
-    "name": "Essence Infused Mushroom",
+    "id": 28041,
+    "name": "Bladefist\u0027s Breadth",
     "slot": 12
   },
   {
@@ -1081,18 +1140,13 @@
     "slot": 12
   },
   {
+    "id": 28109,
+    "name": "Essence Infused Mushroom",
+    "slot": 12
+  },
+  {
     "id": 28121,
     "name": "Icon of Unyielding Courage",
-    "slot": 12
-  },
-  {
-    "id": 28223,
-    "name": "Arcanist\u0027s Stone",
-    "slot": 12
-  },
-  {
-    "id": 28190,
-    "name": "Scarab of the Infinite Cycle",
     "slot": 12
   },
   {
@@ -1101,12 +1155,7 @@
     "slot": 12
   },
   {
-    "id": 28238,
-    "name": "Medallion of the Alliance",
-    "slot": 12
-  },
-  {
-    "id": 28240,
+    "id": 28241,
     "name": "Medallion of the Horde",
     "slot": 12
   },
@@ -1116,17 +1165,32 @@
     "slot": 12
   },
   {
-    "id": 28241,
-    "name": "Medallion of the Horde",
-    "slot": 12
-  },
-  {
     "id": 28242,
     "name": "Medallion of the Horde",
     "slot": 12
   },
   {
-    "id": 28237,
+    "id": 28238,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 28190,
+    "name": "Scarab of the Infinite Cycle",
+    "slot": 12
+  },
+  {
+    "id": 28223,
+    "name": "Arcanist\u0027s Stone",
+    "slot": 12
+  },
+  {
+    "id": 28240,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 28235,
     "name": "Medallion of the Alliance",
     "slot": 12
   },
@@ -1136,13 +1200,13 @@
     "slot": 12
   },
   {
-    "id": 28235,
-    "name": "Medallion of the Alliance",
+    "id": 28243,
+    "name": "Medallion of the Horde",
     "slot": 12
   },
   {
-    "id": 28243,
-    "name": "Medallion of the Horde",
+    "id": 28237,
+    "name": "Medallion of the Alliance",
     "slot": 12
   },
   {
@@ -1186,6 +1250,16 @@
     "slot": 12
   },
   {
+    "id": 28789,
+    "name": "Eye of Magtheridon",
+    "slot": 12
+  },
+  {
+    "id": 28798,
+    "name": "Badge of the Protector",
+    "slot": 12
+  },
+  {
     "id": 28823,
     "name": "Eye of Gruul",
     "slot": 12
@@ -1196,23 +1270,8 @@
     "slot": 12
   },
   {
-    "id": 28798,
-    "name": "Badge of the Protector",
-    "slot": 12
-  },
-  {
-    "id": 28789,
-    "name": "Eye of Magtheridon",
-    "slot": 12
-  },
-  {
     "id": 29132,
     "name": "Scryer\u0027s Bloodgem",
-    "slot": 12
-  },
-  {
-    "id": 29181,
-    "name": "Timelapse Shard",
     "slot": 12
   },
   {
@@ -1221,8 +1280,8 @@
     "slot": 12
   },
   {
-    "id": 29370,
-    "name": "Icon of the Silver Crescent",
+    "id": 29181,
+    "name": "Timelapse Shard",
     "slot": 12
   },
   {
@@ -1231,8 +1290,8 @@
     "slot": 12
   },
   {
-    "id": 29387,
-    "name": "Gnomeregan Auto-Blocker 600",
+    "id": 29370,
+    "name": "Icon of the Silver Crescent",
     "slot": 12
   },
   {
@@ -1241,28 +1300,23 @@
     "slot": 12
   },
   {
+    "id": 29387,
+    "name": "Gnomeregan Auto-Blocker 600",
+    "slot": 12
+  },
+  {
+    "id": 29593,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 29592,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
     "id": 29776,
     "name": "Core of Ar\u0027kelos",
-    "slot": 12
-  },
-  {
-    "id": 29877,
-    "name": "Indalamar\u0027s Trinket of Pwnage",
-    "slot": 12
-  },
-  {
-    "id": 30300,
-    "name": "Dabiri\u0027s Enigma",
-    "slot": 12
-  },
-  {
-    "id": 30351,
-    "name": "Medallion of the Alliance",
-    "slot": 12
-  },
-  {
-    "id": 30344,
-    "name": "Medallion of the Horde",
     "slot": 12
   },
   {
@@ -1271,8 +1325,38 @@
     "slot": 12
   },
   {
+    "id": 30300,
+    "name": "Dabiri\u0027s Enigma",
+    "slot": 12
+  },
+  {
+    "id": 30346,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 30345,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
     "id": 30340,
     "name": "Starkiller\u0027s Bauble",
+    "slot": 12
+  },
+  {
+    "id": 30348,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 30343,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 30344,
+    "name": "Medallion of the Horde",
     "slot": 12
   },
   {
@@ -1286,33 +1370,8 @@
     "slot": 12
   },
   {
-    "id": 30343,
-    "name": "Medallion of the Horde",
-    "slot": 12
-  },
-  {
-    "id": 30345,
-    "name": "Medallion of the Horde",
-    "slot": 12
-  },
-  {
-    "id": 30348,
+    "id": 30351,
     "name": "Medallion of the Alliance",
-    "slot": 12
-  },
-  {
-    "id": 30346,
-    "name": "Medallion of the Horde",
-    "slot": 12
-  },
-  {
-    "id": 30450,
-    "name": "Warp-Spring Coil",
-    "slot": 12
-  },
-  {
-    "id": 30449,
-    "name": "Void Star Talisman",
     "slot": 12
   },
   {
@@ -1321,28 +1380,23 @@
     "slot": 12
   },
   {
+    "id": 30449,
+    "name": "Void Star Talisman",
+    "slot": 12
+  },
+  {
     "id": 30447,
     "name": "Tome of Fiery Redemption",
     "slot": 12
   },
   {
+    "id": 30450,
+    "name": "Warp-Spring Coil",
+    "slot": 12
+  },
+  {
     "id": 30448,
     "name": "Talon of Al\u0027ar",
-    "slot": 12
-  },
-  {
-    "id": 30544,
-    "name": "Ultrasafe Transporter: Toshley\u0027s Station",
-    "slot": 12
-  },
-  {
-    "id": 30542,
-    "name": "Dimensional Ripper - Area 52",
-    "slot": 12
-  },
-  {
-    "id": 30626,
-    "name": "Sextant of Unstable Currents",
     "slot": 12
   },
   {
@@ -1356,8 +1410,8 @@
     "slot": 12
   },
   {
-    "id": 30620,
-    "name": "Spyglass of the Hidden Fleet",
+    "id": 30629,
+    "name": "Scarab of Displacement",
     "slot": 12
   },
   {
@@ -1366,18 +1420,23 @@
     "slot": 12
   },
   {
-    "id": 30629,
-    "name": "Scarab of Displacement",
+    "id": 30626,
+    "name": "Sextant of Unstable Currents",
     "slot": 12
   },
   {
-    "id": 30665,
-    "name": "Earring of Soulful Meditation",
+    "id": 30620,
+    "name": "Spyglass of the Hidden Fleet",
     "slot": 12
   },
   {
     "id": 30663,
     "name": "Fathom-Brooch of the Tidewalker",
+    "slot": 12
+  },
+  {
+    "id": 30665,
+    "name": "Earring of Soulful Meditation",
     "slot": 12
   },
   {
@@ -1409,8 +1468,8 @@
     }
   },
   {
-    "id": 31617,
-    "name": "Ancient Draenei War Talisman",
+    "id": 31080,
+    "name": "Mercurial Stone",
     "slot": 12
   },
   {
@@ -1419,18 +1478,8 @@
     "slot": 12
   },
   {
-    "id": 31857,
-    "name": "Darkmoon Card: Wrath",
-    "slot": 12
-  },
-  {
-    "id": 31859,
-    "name": "Darkmoon Card: Madness",
-    "slot": 12
-  },
-  {
-    "id": 31858,
-    "name": "Darkmoon Card: Vengeance",
+    "id": 31617,
+    "name": "Ancient Draenei War Talisman",
     "slot": 12
   },
   {
@@ -1439,33 +1488,18 @@
     "slot": 12
   },
   {
-    "id": 32488,
-    "name": "Ashtongue Talisman of Insight",
+    "id": 31858,
+    "name": "Darkmoon Card: Vengeance",
     "slot": 12
   },
   {
-    "id": 32486,
-    "name": "Ashtongue Talisman of Equilibrium",
+    "id": 31859,
+    "name": "Darkmoon Card: Madness",
     "slot": 12
   },
   {
-    "id": 32487,
-    "name": "Ashtongue Talisman of Swiftness",
-    "slot": 12
-  },
-  {
-    "id": 32489,
-    "name": "Ashtongue Talisman of Zeal",
-    "slot": 12
-  },
-  {
-    "id": 32490,
-    "name": "Ashtongue Talisman of Acumen",
-    "slot": 12
-  },
-  {
-    "id": 32483,
-    "name": "The Skull of Gul\u0027dan",
+    "id": 31857,
+    "name": "Darkmoon Card: Wrath",
     "slot": 12
   },
   {
@@ -1474,13 +1508,13 @@
     "slot": 12
   },
   {
-    "id": 32493,
-    "name": "Ashtongue Talisman of Shadows",
+    "id": 32481,
+    "name": "Charm of Swift Flight",
     "slot": 12
   },
   {
-    "id": 32501,
-    "name": "Shadowmoon Insignia",
+    "id": 32486,
+    "name": "Ashtongue Talisman of Equilibrium",
     "slot": 12
   },
   {
@@ -1489,13 +1523,8 @@
     "slot": 12
   },
   {
-    "id": 32481,
-    "name": "Charm of Swift Flight",
-    "slot": 12
-  },
-  {
-    "id": 32496,
-    "name": "Memento of Tyrande",
+    "id": 32483,
+    "name": "The Skull of Gul\u0027dan",
     "slot": 12
   },
   {
@@ -1509,13 +1538,48 @@
     "slot": 12
   },
   {
-    "id": 32654,
-    "name": "Crystalforged Trinket",
+    "id": 32496,
+    "name": "Memento of Tyrande",
+    "slot": 12
+  },
+  {
+    "id": 32493,
+    "name": "Ashtongue Talisman of Shadows",
+    "slot": 12
+  },
+  {
+    "id": 32490,
+    "name": "Ashtongue Talisman of Acumen",
+    "slot": 12
+  },
+  {
+    "id": 32489,
+    "name": "Ashtongue Talisman of Zeal",
     "slot": 12
   },
   {
     "id": 32534,
     "name": "Brooch of the Immortal King",
+    "slot": 12
+  },
+  {
+    "id": 32501,
+    "name": "Shadowmoon Insignia",
+    "slot": 12
+  },
+  {
+    "id": 32488,
+    "name": "Ashtongue Talisman of Insight",
+    "slot": 12
+  },
+  {
+    "id": 32487,
+    "name": "Ashtongue Talisman of Swiftness",
+    "slot": 12
+  },
+  {
+    "id": 32654,
+    "name": "Crystalforged Trinket",
     "slot": 12
   },
   {
@@ -1534,13 +1598,13 @@
     "slot": 12
   },
   {
-    "id": 32771,
-    "name": "Airman\u0027s Ribbon of Gallantry",
+    "id": 32770,
+    "name": "Skyguard Silver Cross",
     "slot": 12
   },
   {
-    "id": 32770,
-    "name": "Skyguard Silver Cross",
+    "id": 32771,
+    "name": "Airman\u0027s Ribbon of Gallantry",
     "slot": 12
   },
   {
@@ -1549,28 +1613,13 @@
     "slot": 12
   },
   {
-    "id": 32863,
-    "name": "Skybreaker Whip",
-    "slot": 12
-  },
-  {
     "id": 32864,
     "name": "Commander\u0027s Badge",
     "slot": 12
   },
   {
-    "id": 33829,
-    "name": "Hex Shrunken Head",
-    "slot": 12
-  },
-  {
-    "id": 33828,
-    "name": "Tome of Diabolic Remedy",
-    "slot": 12
-  },
-  {
-    "id": 33830,
-    "name": "Ancient Aqir Artifact",
+    "id": 32863,
+    "name": "Skybreaker Whip",
     "slot": 12
   },
   {
@@ -1579,18 +1628,23 @@
     "slot": 12
   },
   {
+    "id": 33829,
+    "name": "Hex Shrunken Head",
+    "slot": 12
+  },
+  {
+    "id": 33830,
+    "name": "Ancient Aqir Artifact",
+    "slot": 12
+  },
+  {
+    "id": 33828,
+    "name": "Tome of Diabolic Remedy",
+    "slot": 12
+  },
+  {
     "id": 33832,
     "name": "Battlemaster\u0027s Determination",
-    "slot": 12
-  },
-  {
-    "id": 34163,
-    "name": "Battlemaster\u0027s Cruelty",
-    "slot": 12
-  },
-  {
-    "id": 34050,
-    "name": "Battlemaster\u0027s Perseverance",
     "slot": 12
   },
   {
@@ -1599,13 +1653,23 @@
     "slot": 12
   },
   {
-    "id": 34162,
-    "name": "Battlemaster\u0027s Depravity",
+    "id": 34049,
+    "name": "Battlemaster\u0027s Audacity",
     "slot": 12
   },
   {
-    "id": 34049,
-    "name": "Battlemaster\u0027s Audacity",
+    "id": 34050,
+    "name": "Battlemaster\u0027s Perseverance",
+    "slot": 12
+  },
+  {
+    "id": 34163,
+    "name": "Battlemaster\u0027s Cruelty",
+    "slot": 12
+  },
+  {
+    "id": 34162,
+    "name": "Battlemaster\u0027s Depravity",
     "slot": 12
   },
   {
@@ -1614,23 +1678,8 @@
     "slot": 12
   },
   {
-    "id": 34423,
-    "name": "Strength of the High Chief",
-    "slot": 12
-  },
-  {
-    "id": 34470,
-    "name": "Timbal\u0027s Focusing Crystal",
-    "slot": 12
-  },
-  {
-    "id": 34471,
-    "name": "Vial of the Sunwell",
-    "slot": 12
-  },
-  {
-    "id": 34424,
-    "name": "Power of the High Chief",
+    "id": 34429,
+    "name": "Shifting Naaru Sliver",
     "slot": 12
   },
   {
@@ -1639,8 +1688,13 @@
     "slot": 12
   },
   {
-    "id": 34472,
-    "name": "Shard of Contempt",
+    "id": 34471,
+    "name": "Vial of the Sunwell",
+    "slot": 12
+  },
+  {
+    "id": 34470,
+    "name": "Timbal\u0027s Focusing Crystal",
     "slot": 12
   },
   {
@@ -1649,13 +1703,23 @@
     "slot": 12
   },
   {
-    "id": 34473,
-    "name": "Commendation of Kael\u0027thas",
+    "id": 34424,
+    "name": "Power of the High Chief",
     "slot": 12
   },
   {
-    "id": 34429,
-    "name": "Shifting Naaru Sliver",
+    "id": 34423,
+    "name": "Strength of the High Chief",
+    "slot": 12
+  },
+  {
+    "id": 34472,
+    "name": "Shard of Contempt",
+    "slot": 12
+  },
+  {
+    "id": 34473,
+    "name": "Commendation of Kael\u0027thas",
     "slot": 12
   },
   {
@@ -1664,13 +1728,13 @@
     "slot": 12
   },
   {
-    "id": 34579,
-    "name": "Battlemaster\u0027s Audacity",
+    "id": 34577,
+    "name": "Battlemaster\u0027s Depravity",
     "slot": 12
   },
   {
-    "id": 34578,
-    "name": "Battlemaster\u0027s Determination",
+    "id": 34579,
+    "name": "Battlemaster\u0027s Audacity",
     "slot": 12
   },
   {
@@ -1679,13 +1743,8 @@
     "slot": 12
   },
   {
-    "id": 34577,
-    "name": "Battlemaster\u0027s Depravity",
-    "slot": 12
-  },
-  {
-    "id": 35327,
-    "name": "Battlemaster\u0027s Alacrity",
+    "id": 34578,
+    "name": "Battlemaster\u0027s Determination",
     "slot": 12
   },
   {
@@ -1694,8 +1753,23 @@
     "slot": 12
   },
   {
+    "id": 35327,
+    "name": "Battlemaster\u0027s Alacrity",
+    "slot": 12
+  },
+  {
+    "id": 35694,
+    "name": "Figurine - Khorium Boar",
+    "slot": 12
+  },
+  {
     "id": 35702,
     "name": "Figurine - Shadowsong Panther",
+    "slot": 12
+  },
+  {
+    "id": 35703,
+    "name": "Figurine - Seaspray Albatross",
     "slot": 12
   },
   {
@@ -1709,18 +1783,178 @@
     "slot": 12
   },
   {
-    "id": 35694,
-    "name": "Figurine - Khorium Boar",
+    "id": 35937,
+    "name": "Braxley\u0027s Backyard Moonshine",
     "slot": 12
   },
   {
-    "id": 35703,
-    "name": "Figurine - Seaspray Albatross",
+    "id": 35935,
+    "name": "Infused Coldstone Rune",
+    "slot": 12
+  },
+  {
+    "id": 36872,
+    "name": "Mender of the Oncoming Dawn",
+    "slot": 12
+  },
+  {
+    "id": 36871,
+    "name": "Fury of the Encroaching Storm",
+    "slot": 12
+  },
+  {
+    "id": 36874,
+    "name": "Horn of the Herald",
+    "slot": 12
+  },
+  {
+    "id": 36972,
+    "name": "Tome of Arcane Phenomena",
+    "slot": 12
+  },
+  {
+    "id": 36993,
+    "name": "Seal of the Pantheon",
+    "slot": 12
+  },
+  {
+    "id": 37064,
+    "name": "Vestige of Haldor",
+    "slot": 12
+  },
+  {
+    "id": 37127,
+    "name": "Brightbrew Charm",
+    "slot": 12
+  },
+  {
+    "id": 37111,
+    "name": "Soul Preserver",
+    "slot": 12
+  },
+  {
+    "id": 37166,
+    "name": "Sphere of Red Dragon\u0027s Blood",
     "slot": 12
   },
   {
     "id": 37128,
     "name": "Balebrew Charm",
+    "slot": 12
+  },
+  {
+    "id": 37220,
+    "name": "Essence of Gossamer",
+    "slot": 12
+  },
+  {
+    "id": 37254,
+    "name": "Super Simian Sphere",
+    "slot": 12
+  },
+  {
+    "id": 37264,
+    "name": "Pendulum of Telluric Currents",
+    "slot": 12
+  },
+  {
+    "id": 37390,
+    "name": "Meteorite Whetstone",
+    "slot": 12
+  },
+  {
+    "id": 37557,
+    "name": "Warsong\u0027s Fervor",
+    "slot": 12
+  },
+  {
+    "id": 37561,
+    "name": "Touch of the Elements",
+    "slot": 12
+  },
+  {
+    "id": 37558,
+    "name": "Tidal Boon",
+    "slot": 12
+  },
+  {
+    "id": 37563,
+    "name": "BT57 Spell Trinket4",
+    "slot": 12
+  },
+  {
+    "id": 37578,
+    "name": "BT52 Spell Trinket3",
+    "slot": 12
+  },
+  {
+    "id": 37555,
+    "name": "Warsong\u0027s Wrath",
+    "slot": 12
+  },
+  {
+    "id": 37560,
+    "name": "Vial of Renewal",
+    "slot": 12
+  },
+  {
+    "id": 37562,
+    "name": "Fury of the Crimson Drake",
+    "slot": 12
+  },
+  {
+    "id": 37559,
+    "name": "Serrah\u0027s Star",
+    "slot": 12
+  },
+  {
+    "id": 37556,
+    "name": "Talisman of the Tundra",
+    "slot": 12
+  },
+  {
+    "id": 37657,
+    "name": "Spark of Life",
+    "slot": 12
+  },
+  {
+    "id": 37638,
+    "name": "Offering of Sacrifice",
+    "slot": 12
+  },
+  {
+    "id": 37723,
+    "name": "Incisor Fragment",
+    "slot": 12
+  },
+  {
+    "id": 37660,
+    "name": "Forge Ember",
+    "slot": 12
+  },
+  {
+    "id": 37734,
+    "name": "Talisman of Troll Divinity",
+    "slot": 12
+  },
+  {
+    "id": 37835,
+    "name": "Je\u0027Tze\u0027s Bell",
+    "slot": 12
+  },
+  {
+    "id": 37844,
+    "name": "Winged Talisman",
+    "slot": 12
+  },
+  {
+    "id": 37873,
+    "name": "Mark of the War Prisoner",
+    "slot": 12
+  },
+  {
+    "id": 37872,
+    "name": "Lavanthor\u0027s Talisman",
     "slot": 12
   },
   {
@@ -1734,13 +1968,83 @@
     "slot": 12
   },
   {
-    "id": 37127,
-    "name": "Brightbrew Charm",
+    "id": 38079,
+    "name": "DB52 Physical Trinket6",
     "slot": 12
   },
   {
-    "id": 38288,
-    "name": "Direbrew Hops",
+    "id": 38073,
+    "name": "Will of the Red Dragonflight",
+    "slot": 12
+  },
+  {
+    "id": 38074,
+    "name": "DB59 Healer Trinket2",
+    "slot": 12
+  },
+  {
+    "id": 38075,
+    "name": "DB59 Spell Trinket3",
+    "slot": 12
+  },
+  {
+    "id": 38070,
+    "name": "Foresight\u0027s Anticipation",
+    "slot": 12
+  },
+  {
+    "id": 38077,
+    "name": "DB22 Spell Trinket2",
+    "slot": 12
+  },
+  {
+    "id": 38076,
+    "name": "DB59 Physical Trinket5",
+    "slot": 12
+  },
+  {
+    "id": 38081,
+    "name": "Scarab of Isanoth",
+    "slot": 12
+  },
+  {
+    "id": 38072,
+    "name": "Thunder Capacitor",
+    "slot": 12
+  },
+  {
+    "id": 38078,
+    "name": "DB26 Physical Trinket3",
+    "slot": 12
+  },
+  {
+    "id": 38080,
+    "name": "Automated Weapon Coater",
+    "slot": 12
+  },
+  {
+    "id": 38071,
+    "name": "Valonforth\u0027s Remembrance",
+    "slot": 12
+  },
+  {
+    "id": 38213,
+    "name": "Harbinger\u0027s Wrath",
+    "slot": 12
+  },
+  {
+    "id": 38258,
+    "name": "Sailor\u0027s Knotted Charm",
+    "slot": 12
+  },
+  {
+    "id": 38212,
+    "name": "Death Knight\u0027s Anguish",
+    "slot": 12
+  },
+  {
+    "id": 38257,
+    "name": "Strike of the Seas",
     "slot": 12
   },
   {
@@ -1749,13 +2053,1199 @@
     "slot": 12
   },
   {
+    "id": 38290,
+    "name": "Dark Iron Smoking Pipe",
+    "slot": 12
+  },
+  {
+    "id": 38288,
+    "name": "Direbrew Hops",
+    "slot": 12
+  },
+  {
+    "id": 38259,
+    "name": "First Mate\u0027s Pocketwatch",
+    "slot": 12
+  },
+  {
     "id": 38289,
     "name": "Coren\u0027s Lucky Coin",
     "slot": 12
   },
   {
-    "id": 38290,
-    "name": "Dark Iron Smoking Pipe",
+    "id": 38358,
+    "name": "Arcane Revitalizer",
+    "slot": 12
+  },
+  {
+    "id": 38359,
+    "name": "Goblin Repetition Reducer",
+    "slot": 12
+  },
+  {
+    "id": 38383,
+    "name": "Valonforth\u0027s Folly",
+    "slot": 12
+  },
+  {
+    "id": 38526,
+    "name": "Binding of the Imprisoned Soul",
+    "slot": 12
+  },
+  {
+    "id": 38589,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 38572,
+    "name": "Bounty Procurement Enhancer",
+    "slot": 12
+  },
+  {
+    "id": 38588,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 38674,
+    "name": "Soul Harvester\u0027s Charm",
+    "slot": 12
+  },
+  {
+    "id": 38675,
+    "name": "Signet of the Dark Brotherhood",
+    "slot": 12
+  },
+  {
+    "id": 38760,
+    "name": "Mendicant\u0027s Charm",
+    "slot": 12
+  },
+  {
+    "id": 38761,
+    "name": "Talon of Hatred",
+    "slot": 12
+  },
+  {
+    "id": 38762,
+    "name": "Insignia of Bloody Fire",
+    "slot": 12
+  },
+  {
+    "id": 38763,
+    "name": "Futuresight Rune",
+    "slot": 12
+  },
+  {
+    "id": 38764,
+    "name": "Rune of Finite Variation",
+    "slot": 12
+  },
+  {
+    "id": 38765,
+    "name": "Rune of Infinite Power",
+    "slot": 12
+  },
+  {
+    "id": 39229,
+    "name": "Embrace of the Spider",
+    "slot": 12
+  },
+  {
+    "id": 39292,
+    "name": "Repelling Charge",
+    "slot": 12
+  },
+  {
+    "id": 39257,
+    "name": "Loatheb\u0027s Shadow",
+    "slot": 12
+  },
+  {
+    "id": 39388,
+    "name": "Spirit-World Glass",
+    "slot": 12
+  },
+  {
+    "id": 39811,
+    "name": "Badge of the Infiltrator",
+    "slot": 12
+  },
+  {
+    "id": 39821,
+    "name": "Spiritist\u0027s Focus",
+    "slot": 12
+  },
+  {
+    "id": 39889,
+    "name": "Horn of Argent Fury",
+    "slot": 12
+  },
+  {
+    "id": 39819,
+    "name": "Bloodbinder\u0027s Runestone",
+    "slot": 12
+  },
+  {
+    "id": 40258,
+    "name": "Forethought Talisman",
+    "slot": 12
+  },
+  {
+    "id": 40257,
+    "name": "Defender\u0027s Code",
+    "slot": 12
+  },
+  {
+    "id": 40256,
+    "name": "Grim Toll",
+    "slot": 12
+  },
+  {
+    "id": 40255,
+    "name": "Dying Curse",
+    "slot": 12
+  },
+  {
+    "id": 40372,
+    "name": "Rune of Repulsion",
+    "slot": 12
+  },
+  {
+    "id": 40354,
+    "name": "Monster Slayer\u0027s Kit",
+    "slot": 12
+  },
+  {
+    "id": 40371,
+    "name": "Bandit\u0027s Insignia",
+    "slot": 12
+  },
+  {
+    "id": 40373,
+    "name": "Extract of Necromantic Power",
+    "slot": 12
+  },
+  {
+    "id": 40382,
+    "name": "Soul of the Dead",
+    "slot": 12
+  },
+  {
+    "id": 40430,
+    "name": "Majestic Dragon Figurine",
+    "slot": 12
+  },
+  {
+    "id": 40432,
+    "name": "Illustration of the Dragon Soul",
+    "slot": 12
+  },
+  {
+    "id": 40476,
+    "name": "Insignia of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 40431,
+    "name": "Fury of the Five Flights",
+    "slot": 12
+  },
+  {
+    "id": 40532,
+    "name": "Living Ice Crystals",
+    "slot": 12
+  },
+  {
+    "id": 40492,
+    "name": "Argent War Horn",
+    "slot": 12
+  },
+  {
+    "id": 40531,
+    "name": "Mark of Norgannon",
+    "slot": 12
+  },
+  {
+    "id": 40477,
+    "name": "Insignia of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 40593,
+    "name": "Argent Tome",
+    "slot": 12
+  },
+  {
+    "id": 40601,
+    "name": "Argent Dawn Banner",
+    "slot": 12
+  },
+  {
+    "id": 40682,
+    "name": "Sundial of the Exiled",
+    "slot": 12
+  },
+  {
+    "id": 40685,
+    "name": "The Egg of Mortal Essence",
+    "slot": 12
+  },
+  {
+    "id": 40683,
+    "name": "Valor Medal of the First War",
+    "slot": 12
+  },
+  {
+    "id": 40684,
+    "name": "Mirror of Truth",
+    "slot": 12
+  },
+  {
+    "id": 40767,
+    "name": "Sonic Booster",
+    "slot": 12
+  },
+  {
+    "id": 40865,
+    "name": "Noise Machine",
+    "slot": 12
+  },
+  {
+    "id": 41121,
+    "name": "Gnomish Lightning Generator",
+    "slot": 12
+  },
+  {
+    "id": 41588,
+    "name": "Battlemaster\u0027s Aggression",
+    "slot": 12
+  },
+  {
+    "id": 41590,
+    "name": "Battlemaster\u0027s Courage",
+    "slot": 12
+  },
+  {
+    "id": 41589,
+    "name": "Battlemaster\u0027s Resolve",
+    "slot": 12
+  },
+  {
+    "id": 41587,
+    "name": "Battlemaster\u0027s Celerity",
+    "slot": 12
+  },
+  {
+    "id": 42135,
+    "name": "Battlemaster\u0027s Vivacity",
+    "slot": 12
+  },
+  {
+    "id": 42130,
+    "name": "Battlemaster\u0027s Avidity",
+    "slot": 12
+  },
+  {
+    "id": 42126,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 42137,
+    "name": "Battlemaster\u0027s Ruination",
+    "slot": 12
+  },
+  {
+    "id": 42132,
+    "name": "Battlemaster\u0027s Bravery",
+    "slot": 12
+  },
+  {
+    "id": 42136,
+    "name": "Battlemaster\u0027s Rage",
+    "slot": 12
+  },
+  {
+    "id": 42124,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 42123,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 42122,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 42134,
+    "name": "Battlemaster\u0027s Precision",
+    "slot": 12
+  },
+  {
+    "id": 42129,
+    "name": "Battlemaster\u0027s Accuracy",
+    "slot": 12
+  },
+  {
+    "id": 42128,
+    "name": "Battlemaster\u0027s Hostility",
+    "slot": 12
+  },
+  {
+    "id": 42131,
+    "name": "Battlemaster\u0027s Conviction",
+    "slot": 12
+  },
+  {
+    "id": 42133,
+    "name": "Battlemaster\u0027s Fury",
+    "slot": 12
+  },
+  {
+    "id": 42341,
+    "name": "Figurine - Ruby Hare",
+    "slot": 12,
+    "sockets": 2
+  },
+  {
+    "id": 42395,
+    "name": "Figurine - Twilight Serpent",
+    "slot": 12,
+    "sockets": 2
+  },
+  {
+    "id": 42413,
+    "name": "Figurine - Sapphire Owl",
+    "slot": 12,
+    "sockets": 2
+  },
+  {
+    "id": 42418,
+    "name": "Figurine - Emerald Boar",
+    "slot": 12,
+    "sockets": 2
+  },
+  {
+    "id": 42989,
+    "name": "Darkmoon Card: Berserker!",
+    "slot": 12
+  },
+  {
+    "id": 42987,
+    "name": "Darkmoon Card: Greatness",
+    "slot": 12
+  },
+  {
+    "id": 42990,
+    "name": "Darkmoon Card: Death",
+    "slot": 12
+  },
+  {
+    "id": 42988,
+    "name": "Darkmoon Card: Illusion",
+    "slot": 12
+  },
+  {
+    "id": 43555,
+    "name": "Deputy Pa\u0027trolla Badge",
+    "slot": 12
+  },
+  {
+    "id": 43573,
+    "name": "Tears of Bitter Anguish",
+    "slot": 12
+  },
+  {
+    "id": 43836,
+    "name": "Thorny Rose Brooch",
+    "slot": 12
+  },
+  {
+    "id": 43838,
+    "name": "Chuchu\u0027s Tiny Box of Horrors",
+    "slot": 12
+  },
+  {
+    "id": 43837,
+    "name": "Softly Glowing Orb",
+    "slot": 12
+  },
+  {
+    "id": 43829,
+    "name": "Crusader\u0027s Locket",
+    "slot": 12
+  },
+  {
+    "id": 44013,
+    "name": "Cannoneer\u0027s Fuselighter",
+    "slot": 12
+  },
+  {
+    "id": 44014,
+    "name": "Fezzik\u0027s Pocketwatch",
+    "slot": 12
+  },
+  {
+    "id": 44015,
+    "name": "Cannoneer\u0027s Morale",
+    "slot": 12
+  },
+  {
+    "id": 44074,
+    "name": "Oracle Talisman of Ablution",
+    "slot": 12
+  },
+  {
+    "id": 44063,
+    "name": "Figurine - Monarch Crab",
+    "slot": 12,
+    "sockets": 2
+  },
+  {
+    "id": 44073,
+    "name": "Frenzyheart Insignia of Fury",
+    "slot": 12
+  },
+  {
+    "id": 44253,
+    "name": "Darkmoon Card: Greatness",
+    "slot": 12
+  },
+  {
+    "id": 44255,
+    "name": "Darkmoon Card: Greatness",
+    "slot": 12
+  },
+  {
+    "id": 44254,
+    "name": "Darkmoon Card: Greatness",
+    "slot": 12
+  },
+  {
+    "id": 44597,
+    "name": "Medallion of Heroism",
+    "slot": 12
+  },
+  {
+    "id": 44579,
+    "name": "Medallion of Heroism",
+    "slot": 12
+  },
+  {
+    "id": 44869,
+    "name": "Frenzyheart Insignia of Fury",
+    "slot": 12
+  },
+  {
+    "id": 44870,
+    "name": "Oracle Talisman of Ablution",
+    "slot": 12
+  },
+  {
+    "id": 44912,
+    "name": "Flow of Knowledge",
+    "slot": 12
+  },
+  {
+    "id": 44914,
+    "name": "Anvil of Titans",
+    "slot": 12
+  },
+  {
+    "id": 45148,
+    "name": "Living Flame",
+    "slot": 12
+  },
+  {
+    "id": 45158,
+    "name": "Heart of Iron",
+    "slot": 12
+  },
+  {
+    "id": 45131,
+    "name": "Jouster\u0027s Fury",
+    "slot": 12
+  },
+  {
+    "id": 45219,
+    "name": "Jouster\u0027s Fury",
+    "slot": 12
+  },
+  {
+    "id": 45263,
+    "name": "Wrathstone",
+    "slot": 12
+  },
+  {
+    "id": 45308,
+    "name": "Eye of the Broodmother",
+    "slot": 12
+  },
+  {
+    "id": 45313,
+    "name": "Furnace Stone",
+    "slot": 12
+  },
+  {
+    "id": 45286,
+    "name": "Pyrite Infuser",
+    "slot": 12
+  },
+  {
+    "id": 45292,
+    "name": "Energy Siphon",
+    "slot": 12
+  },
+  {
+    "id": 45466,
+    "name": "Scale of Fates",
+    "slot": 12
+  },
+  {
+    "id": 45507,
+    "name": "The General\u0027s Heart",
+    "slot": 12
+  },
+  {
+    "id": 45535,
+    "name": "Show of Faith",
+    "slot": 12
+  },
+  {
+    "id": 45522,
+    "name": "Blood of the Old God",
+    "slot": 12
+  },
+  {
+    "id": 45518,
+    "name": "Flare of the Heavens",
+    "slot": 12
+  },
+  {
+    "id": 45490,
+    "name": "Pandora\u0027s Plea",
+    "slot": 12
+  },
+  {
+    "id": 45609,
+    "name": "Comet\u0027s Trail",
+    "slot": 12
+  },
+  {
+    "id": 45631,
+    "name": "High-powered Flashlight",
+    "slot": 12
+  },
+  {
+    "id": 45703,
+    "name": "Spark of Hope",
+    "slot": 12
+  },
+  {
+    "id": 45866,
+    "name": "Elemental Focus Stone",
+    "slot": 12
+  },
+  {
+    "id": 45931,
+    "name": "Mjolnir Runestone",
+    "slot": 12
+  },
+  {
+    "id": 45929,
+    "name": "Sif\u0027s Remembrance",
+    "slot": 12
+  },
+  {
+    "id": 46038,
+    "name": "Dark Matter",
+    "slot": 12
+  },
+  {
+    "id": 46051,
+    "name": "Meteorite Crystal",
+    "slot": 12
+  },
+  {
+    "id": 46087,
+    "name": "Platinum Disks of Sorcery",
+    "slot": 12
+  },
+  {
+    "id": 46082,
+    "name": "Titan-Forged Rune of Determination",
+    "slot": 12
+  },
+  {
+    "id": 46085,
+    "name": "Titan-Forged Rune of Alacrity",
+    "slot": 12
+  },
+  {
+    "id": 46021,
+    "name": "Royal Seal of King Llane",
+    "slot": 12
+  },
+  {
+    "id": 46083,
+    "name": "Titan-Forged Rune of Accuracy",
+    "slot": 12
+  },
+  {
+    "id": 46084,
+    "name": "Titan-Forged Rune of Cruelty",
+    "slot": 12
+  },
+  {
+    "id": 46081,
+    "name": "Titan-Forged Rune of Audacity",
+    "slot": 12
+  },
+  {
+    "id": 46086,
+    "name": "Platinum Disks of Battle",
+    "slot": 12
+  },
+  {
+    "id": 46088,
+    "name": "Platinum Disks of Swiftness",
+    "slot": 12
+  },
+  {
+    "id": 46312,
+    "name": "Vanquished Clutches of Yogg-Saron",
+    "slot": 12
+  },
+  {
+    "id": 46839,
+    "name": "Frostwolf Insignia Rank 7",
+    "slot": 12
+  },
+  {
+    "id": 46840,
+    "name": "Frostwolf Insignia Rank 7",
+    "slot": 12
+  },
+  {
+    "id": 47059,
+    "name": "Solace of the Defeated",
+    "slot": 12
+  },
+  {
+    "id": 47041,
+    "name": "Solace of the Defeated",
+    "slot": 12
+  },
+  {
+    "id": 47182,
+    "name": "Reign of the Unliving",
+    "slot": 12
+  },
+  {
+    "id": 47080,
+    "name": "Satrina\u0027s Impeding Scarab",
+    "slot": 12
+  },
+  {
+    "id": 47115,
+    "name": "Death\u0027s Verdict",
+    "slot": 12
+  },
+  {
+    "id": 47131,
+    "name": "Death\u0027s Verdict",
+    "slot": 12
+  },
+  {
+    "id": 47088,
+    "name": "Satrina\u0027s Impeding Scarab",
+    "slot": 12
+  },
+  {
+    "id": 47188,
+    "name": "Reign of the Unliving",
+    "slot": 12
+  },
+  {
+    "id": 47216,
+    "name": "The Black Heart",
+    "slot": 12
+  },
+  {
+    "id": 47271,
+    "name": "Solace of the Fallen",
+    "slot": 12
+  },
+  {
+    "id": 47213,
+    "name": "Abyssal Rune",
+    "slot": 12
+  },
+  {
+    "id": 47214,
+    "name": "Banner of Victory",
+    "slot": 12
+  },
+  {
+    "id": 47215,
+    "name": "Tears of the Vanquished",
+    "slot": 12
+  },
+  {
+    "id": 47290,
+    "name": "Juggernaut\u0027s Vitality",
+    "slot": 12
+  },
+  {
+    "id": 47303,
+    "name": "Death\u0027s Choice",
+    "slot": 12
+  },
+  {
+    "id": 47477,
+    "name": "Reign of the Dead",
+    "slot": 12
+  },
+  {
+    "id": 47316,
+    "name": "Reign of the Dead",
+    "slot": 12
+  },
+  {
+    "id": 47432,
+    "name": "Solace of the Fallen",
+    "slot": 12
+  },
+  {
+    "id": 47464,
+    "name": "Death\u0027s Choice",
+    "slot": 12
+  },
+  {
+    "id": 47451,
+    "name": "Juggernaut\u0027s Vitality",
+    "slot": 12
+  },
+  {
+    "id": 47734,
+    "name": "Mark of Supremacy",
+    "slot": 12
+  },
+  {
+    "id": 47727,
+    "name": "Fervor of the Frostborn",
+    "slot": 12
+  },
+  {
+    "id": 47726,
+    "name": "Talisman of Volatile Power",
+    "slot": 12
+  },
+  {
+    "id": 47728,
+    "name": "Binding Light",
+    "slot": 12
+  },
+  {
+    "id": 47735,
+    "name": "Glyph of Indomitability",
+    "slot": 12
+  },
+  {
+    "id": 47725,
+    "name": "Victor\u0027s Call",
+    "slot": 12
+  },
+  {
+    "id": 47881,
+    "name": "Vengeance of the Forsaken",
+    "slot": 12
+  },
+  {
+    "id": 47882,
+    "name": "Eitrigg\u0027s Oath",
+    "slot": 12
+  },
+  {
+    "id": 47880,
+    "name": "Binding Stone",
+    "slot": 12
+  },
+  {
+    "id": 47879,
+    "name": "Fetish of Volatile Power",
+    "slot": 12
+  },
+  {
+    "id": 47946,
+    "name": "Talisman of Volatile Power",
+    "slot": 12
+  },
+  {
+    "id": 47947,
+    "name": "Binding Light",
+    "slot": 12
+  },
+  {
+    "id": 47948,
+    "name": "Victor\u0027s Call",
+    "slot": 12
+  },
+  {
+    "id": 47949,
+    "name": "Fervor of the Frostborn",
+    "slot": 12
+  },
+  {
+    "id": 48018,
+    "name": "Fetish of Volatile Power",
+    "slot": 12
+  },
+  {
+    "id": 48020,
+    "name": "Vengeance of the Forsaken",
+    "slot": 12
+  },
+  {
+    "id": 48019,
+    "name": "Binding Stone",
+    "slot": 12
+  },
+  {
+    "id": 48021,
+    "name": "Eitrigg\u0027s Oath",
+    "slot": 12
+  },
+  {
+    "id": 48722,
+    "name": "Shard of the Crystal Heart",
+    "slot": 12
+  },
+  {
+    "id": 48724,
+    "name": "Talisman of Resurgence",
+    "slot": 12
+  },
+  {
+    "id": 49116,
+    "name": "Bitter Balebrew Charm",
+    "slot": 12
+  },
+  {
+    "id": 49080,
+    "name": "Brawler\u0027s Souvenir",
+    "slot": 12
+  },
+  {
+    "id": 49078,
+    "name": "Ancient Pickled Egg",
+    "slot": 12
+  },
+  {
+    "id": 49074,
+    "name": "Coren\u0027s Chromium Coaster",
+    "slot": 12
+  },
+  {
+    "id": 49076,
+    "name": "Mithril Pocketwatch",
+    "slot": 12
+  },
+  {
+    "id": 49118,
+    "name": "Bubbling Brightbrew Charm",
+    "slot": 12
+  },
+  {
+    "id": 49463,
+    "name": "Purified Shard of the Flame",
+    "slot": 12
+  },
+  {
+    "id": 49312,
+    "name": "Purified Onyxia Blood Talisman",
+    "slot": 12,
+    "resistances": {
+      "Fire": 15
+    }
+  },
+  {
+    "id": 49310,
+    "name": "Purified Shard of the Scale",
+    "slot": 12
+  },
+  {
+    "id": 49487,
+    "name": "Purified Onyxia Blood Talisman",
+    "slot": 12,
+    "resistances": {
+      "Fire": 15
+    }
+  },
+  {
+    "id": 49464,
+    "name": "Shiny Shard of the Flame",
+    "slot": 12
+  },
+  {
+    "id": 49488,
+    "name": "Shiny Shard of the Scale",
+    "slot": 12
+  },
+  {
+    "id": 50260,
+    "name": "Ephemeral Snowflake",
+    "slot": 12
+  },
+  {
+    "id": 50198,
+    "name": "Needle-Encrusted Scorpion",
+    "slot": 12
+  },
+  {
+    "id": 50259,
+    "name": "Nevermelting Ice Crystal",
+    "slot": 12
+  },
+  {
+    "id": 50235,
+    "name": "Ick\u0027s Rotting Thumb",
+    "slot": 12
+  },
+  {
+    "id": 50342,
+    "name": "Whispering Fanged Skull",
+    "slot": 12
+  },
+  {
+    "id": 50365,
+    "name": "Phylactery of the Nameless Lich",
+    "slot": 12
+  },
+  {
+    "id": 50340,
+    "name": "Muradin\u0027s Spyglass",
+    "slot": 12
+  },
+  {
+    "id": 50349,
+    "name": "Corpse Tongue Coin",
+    "slot": 12
+  },
+  {
+    "id": 50343,
+    "name": "Whispering Fanged Skull",
+    "slot": 12
+  },
+  {
+    "id": 50355,
+    "name": "Herkuml War Token",
+    "slot": 12
+  },
+  {
+    "id": 50339,
+    "name": "Sliver of Pure Ice",
+    "slot": 12
+  },
+  {
+    "id": 50360,
+    "name": "Phylactery of the Nameless Lich",
+    "slot": 12
+  },
+  {
+    "id": 50366,
+    "name": "Althor\u0027s Abacus",
+    "slot": 12
+  },
+  {
+    "id": 50356,
+    "name": "Corroded Skeleton Key",
+    "slot": 12
+  },
+  {
+    "id": 50346,
+    "name": "Sliver of Pure Ice",
+    "slot": 12
+  },
+  {
+    "id": 50363,
+    "name": "Deathbringer\u0027s Will",
+    "slot": 12
+  },
+  {
+    "id": 50351,
+    "name": "Tiny Abomination in a Jar",
+    "slot": 12
+  },
+  {
+    "id": 50353,
+    "name": "Dislodged Foreign Object",
+    "slot": 12
+  },
+  {
+    "id": 50358,
+    "name": "Purified Lunar Dust",
+    "slot": 12
+  },
+  {
+    "id": 50361,
+    "name": "Sindragosa\u0027s Flawless Fang",
+    "slot": 12
+  },
+  {
+    "id": 50341,
+    "name": "Unidentifiable Organ",
+    "slot": 12
+  },
+  {
+    "id": 50354,
+    "name": "Bauble of True Blood",
+    "slot": 12
+  },
+  {
+    "id": 50357,
+    "name": "Maghia\u0027s Misguided Quill",
+    "slot": 12
+  },
+  {
+    "id": 50359,
+    "name": "Althor\u0027s Abacus",
+    "slot": 12
+  },
+  {
+    "id": 50362,
+    "name": "Deathbringer\u0027s Will",
+    "slot": 12
+  },
+  {
+    "id": 50348,
+    "name": "Dislodged Foreign Object",
+    "slot": 12
+  },
+  {
+    "id": 50345,
+    "name": "Muradin\u0027s Spyglass",
+    "slot": 12
+  },
+  {
+    "id": 50352,
+    "name": "Corpse Tongue Coin",
+    "slot": 12
+  },
+  {
+    "id": 50344,
+    "name": "Unidentifiable Organ",
+    "slot": 12
+  },
+  {
+    "id": 50364,
+    "name": "Sindragosa\u0027s Flawless Fang",
+    "slot": 12
+  },
+  {
+    "id": 50706,
+    "name": "Tiny Abomination in a Jar",
+    "slot": 12
+  },
+  {
+    "id": 50726,
+    "name": "Bauble of True Blood",
+    "slot": 12
+  },
+  {
+    "id": 51378,
+    "name": "Medallion of the Horde",
+    "slot": 12
+  },
+  {
+    "id": 51377,
+    "name": "Medallion of the Alliance",
+    "slot": 12
+  },
+  {
+    "id": 185987,
+    "name": "Communal Stone of Wisdom",
+    "slot": 12
+  },
+  {
+    "id": 54572,
+    "name": "Charred Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54569,
+    "name": "Sharpened Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54588,
+    "name": "Charred Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54573,
+    "name": "Glowing Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54590,
+    "name": "Sharpened Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 185986,
+    "name": "Communal Stone of Durability",
+    "slot": 12
+  },
+  {
+    "id": 185985,
+    "name": "Communal Stone of Onslaught",
+    "slot": 12
+  },
+  {
+    "id": 185988,
+    "name": "Communal Stone of Stoicism",
+    "slot": 12
+  },
+  {
+    "id": 54591,
+    "name": "Petrified Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54571,
+    "name": "Petrified Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 54589,
+    "name": "Glowing Twilight Scale",
+    "slot": 12
+  },
+  {
+    "id": 199529,
+    "name": "Collective Stone of Wisdom",
+    "slot": 12
+  },
+  {
+    "id": 199530,
+    "name": "Collective Stone of Stoicism",
+    "slot": 12
+  },
+  {
+    "id": 199528,
+    "name": "Collective Stone of Durability",
+    "slot": 12
+  },
+  {
+    "id": 199527,
+    "name": "Collective Stone of Onslaught",
     "slot": 12
   }
 ]

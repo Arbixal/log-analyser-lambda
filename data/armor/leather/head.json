@@ -1,11 +1,11 @@
 [
   {
-    "id": 8261,
-    "name": "Serpentskin Helm"
-  },
-  {
     "id": 8299,
     "name": "Traveler\u0027s Helm"
+  },
+  {
+    "id": 8261,
+    "name": "Serpentskin Helm"
   },
   {
     "id": 8753,
@@ -17,13 +17,13 @@
     "randomEnchantment": true
   },
   {
-    "id": 10150,
-    "name": "Mighty Helmet",
+    "id": 10111,
+    "name": "Wanderer\u0027s Hat",
     "randomEnchantment": true
   },
   {
-    "id": 10111,
-    "name": "Wanderer\u0027s Hat",
+    "id": 10150,
+    "name": "Mighty Helmet",
     "randomEnchantment": true
   },
   {
@@ -128,12 +128,12 @@
     "randomEnchantment": true
   },
   {
-    "id": 16424,
-    "name": "Lieutenant Commander\u0027s Dragonhide Shroud"
-  },
-  {
     "id": 16418,
     "name": "Lieutenant Commander\u0027s Leather Veil"
+  },
+  {
+    "id": 16424,
+    "name": "Lieutenant Commander\u0027s Dragonhide Shroud"
   },
   {
     "id": 16451,
@@ -182,16 +182,16 @@
     }
   },
   {
-    "id": 16900,
-    "name": "Stormrage Cover",
+    "id": 16908,
+    "name": "Bloodfang Hood",
     "resistances": {
       "Frost": 10,
       "Shadow": 10
     }
   },
   {
-    "id": 16908,
-    "name": "Bloodfang Hood",
+    "id": 16900,
+    "name": "Stormrage Cover",
     "resistances": {
       "Frost": 10,
       "Shadow": 10
@@ -233,12 +233,12 @@
     "name": "Lizardscale Eyepatch"
   },
   {
-    "id": 19984,
-    "name": "Ebon Mask"
-  },
-  {
     "id": 19998,
     "name": "Bloodvine Lens"
+  },
+  {
+    "id": 19984,
+    "name": "Ebon Mask"
   },
   {
     "id": 20623,
@@ -289,12 +289,12 @@
     "name": "Helm of the New Moon"
   },
   {
-    "id": 22478,
-    "name": "Bonescythe Helmet"
-  },
-  {
     "id": 22490,
     "name": "Dreamwalker Headpiece"
+  },
+  {
+    "id": 22478,
+    "name": "Bonescythe Helmet"
   },
   {
     "id": 22689,
@@ -348,28 +348,8 @@
     "name": "Gnomish Battle Goggles"
   },
   {
-    "id": 24697,
-    "name": "Bonechewer Skincloak",
-    "randomEnchantment": true
-  },
-  {
-    "id": 24705,
-    "name": "Haal\u0027eshi Hat",
-    "randomEnchantment": true
-  },
-  {
     "id": 24713,
     "name": "Vengeance Helm",
-    "randomEnchantment": true
-  },
-  {
-    "id": 24729,
-    "name": "Dementia Hood",
-    "randomEnchantment": true
-  },
-  {
-    "id": 24721,
-    "name": "Dreghood Cowl",
     "randomEnchantment": true
   },
   {
@@ -378,13 +358,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 24753,
-    "name": "Daggerfen Cowl",
-    "randomEnchantment": true
-  },
-  {
-    "id": 24745,
-    "name": "Ranger Hat",
+    "id": 24697,
+    "name": "Bonechewer Skincloak",
     "randomEnchantment": true
   },
   {
@@ -393,8 +368,38 @@
     "randomEnchantment": true
   },
   {
+    "id": 24721,
+    "name": "Dreghood Cowl",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24745,
+    "name": "Ranger Hat",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24769,
+    "name": "Clefthoof Cover",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24729,
+    "name": "Dementia Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24753,
+    "name": "Daggerfen Cowl",
+    "randomEnchantment": true
+  },
+  {
     "id": 24777,
     "name": "Boneshredder Skullcap",
+    "randomEnchantment": true
+  },
+  {
+    "id": 24705,
+    "name": "Haal\u0027eshi Hat",
     "randomEnchantment": true
   },
   {
@@ -410,11 +415,6 @@
   {
     "id": 24794,
     "name": "Expedition Hood",
-    "randomEnchantment": true
-  },
-  {
-    "id": 24769,
-    "name": "Clefthoof Cover",
     "randomEnchantment": true
   },
   {
@@ -434,16 +434,16 @@
     "name": "QR 9863 Druid Helm"
   },
   {
-    "id": 25616,
-    "name": "Tim\u0027s Trusty Helmet"
+    "id": 25570,
+    "name": "Melia\u0027s Lustrous Crown"
   },
   {
     "id": 25617,
     "name": "Captain Krosh\u0027s Crash Helmet"
   },
   {
-    "id": 25570,
-    "name": "Melia\u0027s Lustrous Crown"
+    "id": 25616,
+    "name": "Tim\u0027s Trusty Helmet"
   },
   {
     "id": 25680,
@@ -526,13 +526,13 @@
     "sockets": 2
   },
   {
-    "id": 28574,
-    "name": "Exorcist\u0027s Dragonhide Helm",
+    "id": 28561,
+    "name": "Exorcist\u0027s Leather Helm",
     "sockets": 1
   },
   {
-    "id": 28561,
-    "name": "Exorcist\u0027s Leather Helm",
+    "id": 28574,
+    "name": "Exorcist\u0027s Dragonhide Helm",
     "sockets": 1
   },
   {
@@ -546,8 +546,9 @@
     "sockets": 2
   },
   {
-    "id": 28732,
-    "name": "Cowl of Defiance"
+    "id": 28720,
+    "name": "Grand Marshal\u0027s Wyrmhide Helm",
+    "sockets": 2
   },
   {
     "id": 28685,
@@ -555,17 +556,16 @@
     "sockets": 2
   },
   {
-    "id": 28720,
-    "name": "Grand Marshal\u0027s Wyrmhide Helm",
-    "sockets": 2
-  },
-  {
-    "id": 28803,
-    "name": "Cowl of Nature\u0027s Breath"
+    "id": 28732,
+    "name": "Cowl of Defiance"
   },
   {
     "id": 28796,
     "name": "Malefic Mask of the Shadows"
+  },
+  {
+    "id": 28803,
+    "name": "Cowl of Nature\u0027s Breath"
   },
   {
     "id": 28812,
@@ -611,12 +611,12 @@
     "name": "Cobrascale Hood"
   },
   {
-    "id": 29505,
-    "name": "Hood of Primal Life"
-  },
-  {
     "id": 29504,
     "name": "Windscale Hood"
+  },
+  {
+    "id": 29505,
+    "name": "Hood of Primal Life"
   },
   {
     "id": 29931,
@@ -636,6 +636,11 @@
     "sockets": 2
   },
   {
+    "id": 30219,
+    "name": "Nordrassil Headguard",
+    "sockets": 2
+  },
+  {
     "id": 30228,
     "name": "Nordrassil Headdress",
     "sockets": 2
@@ -643,11 +648,6 @@
   {
     "id": 30233,
     "name": "Nordrassil Headpiece",
-    "sockets": 2
-  },
-  {
-    "id": 30219,
-    "name": "Nordrassil Headguard",
     "sockets": 2
   },
   {
@@ -663,21 +663,21 @@
     "name": "Energized Helm"
   },
   {
-    "id": 30935,
-    "name": "QR 10637 Leather Rogue Helm"
-  },
-  {
     "id": 30946,
     "name": "Mooncrest Headdress"
   },
   {
-    "id": 31027,
-    "name": "Slayer\u0027s Helm",
-    "sockets": 2
+    "id": 30935,
+    "name": "QR 10637 Leather Rogue Helm"
   },
   {
     "id": 31037,
     "name": "Thunderheart Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 31027,
+    "name": "Slayer\u0027s Helm",
     "sockets": 2
   },
   {
@@ -691,6 +691,11 @@
     "sockets": 2
   },
   {
+    "id": 31109,
+    "name": "Stealther\u0027s Helmet of Second Sight",
+    "sockets": 3
+  },
+  {
     "id": 31110,
     "name": "Druidic Helmet of Second Sight",
     "sockets": 3
@@ -698,11 +703,6 @@
   {
     "id": 31145,
     "name": "Headdress of the Sleeper"
-  },
-  {
-    "id": 31109,
-    "name": "Stealther\u0027s Helmet of Second Sight",
-    "sockets": 3
   },
   {
     "id": 31219,
@@ -719,22 +719,22 @@
     "name": "Mask of Veiled Death"
   },
   {
-    "id": 31333,
-    "name": "The Night Watchman"
-  },
-  {
     "id": 31376,
     "name": "Gladiator\u0027s Kodohide Helm",
     "sockets": 2
+  },
+  {
+    "id": 31333,
+    "name": "The Night Watchman"
   },
   {
     "id": 31457,
     "name": "Toshley\u0027s Station Hero\u0027s Hat"
   },
   {
-    "id": 31560,
-    "name": "Skystalker\u0027s Shroud",
-    "randomEnchantment": true
+    "id": 31585,
+    "name": "High Warlord\u0027s Kodohide Helm",
+    "sockets": 2
   },
   {
     "id": 31590,
@@ -742,9 +742,9 @@
     "sockets": 2
   },
   {
-    "id": 31585,
-    "name": "High Warlord\u0027s Kodohide Helm",
-    "sockets": 2
+    "id": 31560,
+    "name": "Skystalker\u0027s Shroud",
+    "randomEnchantment": true
   },
   {
     "id": 31688,
@@ -765,18 +765,13 @@
     "sockets": 2
   },
   {
-    "id": 31988,
-    "name": "Merciless Gladiator\u0027s Kodohide Helm",
-    "sockets": 2
-  },
-  {
     "id": 31999,
     "name": "Merciless Gladiator\u0027s Leather Helm",
     "sockets": 2
   },
   {
-    "id": 32057,
-    "name": "Merciless Gladiator\u0027s Wyrmhide Helm",
+    "id": 31988,
+    "name": "Merciless Gladiator\u0027s Kodohide Helm",
     "sockets": 2
   },
   {
@@ -790,8 +785,8 @@
     "sockets": 2
   },
   {
-    "id": 32240,
-    "name": "Guise of the Tidal Lurker",
+    "id": 32057,
+    "name": "Merciless Gladiator\u0027s Wyrmhide Helm",
     "sockets": 2
   },
   {
@@ -800,13 +795,18 @@
     "sockets": 2
   },
   {
-    "id": 32480,
-    "name": "Magnified Moon Specs",
+    "id": 32240,
+    "name": "Guise of the Tidal Lurker",
     "sockets": 2
   },
   {
     "id": 32478,
     "name": "Deathblow X11 Goggles",
+    "sockets": 2
+  },
+  {
+    "id": 32480,
+    "name": "Magnified Moon Specs",
     "sockets": 2
   },
   {
@@ -820,9 +820,22 @@
     "sockets": 3
   },
   {
+    "id": 33439,
+    "name": "Fur-Lined Leather Helmet"
+  },
+  {
+    "id": 33434,
+    "name": "Frozen Leather Helmet"
+  },
+  {
     "id": 33479,
     "name": "Grimgrin Faceguard",
     "sockets": 3
+  },
+  {
+    "id": 33701,
+    "name": "Vengeful Gladiator\u0027s Leather Helm",
+    "sockets": 2
   },
   {
     "id": 33672,
@@ -832,11 +845,6 @@
   {
     "id": 33691,
     "name": "Vengeful Gladiator\u0027s Kodohide Helm",
-    "sockets": 2
-  },
-  {
-    "id": 33701,
-    "name": "Vengeful Gladiator\u0027s Leather Helm",
     "sockets": 2
   },
   {
@@ -850,13 +858,13 @@
     "sockets": 3
   },
   {
-    "id": 34353,
-    "name": "Quad Deathblow X44 Goggles",
+    "id": 34245,
+    "name": "Cover of Ursol the Wise",
     "sockets": 2
   },
   {
-    "id": 34245,
-    "name": "Cover of Ursol the Wise",
+    "id": 34353,
+    "name": "Quad Deathblow X44 Goggles",
     "sockets": 2
   },
   {
@@ -880,6 +888,11 @@
     "sockets": 2
   },
   {
+    "id": 35033,
+    "name": "Brutal Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
     "id": 35023,
     "name": "Brutal Gladiator\u0027s Kodohide Helm",
     "sockets": 2
@@ -890,8 +903,8 @@
     "sockets": 2
   },
   {
-    "id": 35033,
-    "name": "Brutal Gladiator\u0027s Leather Helm",
+    "id": 35183,
+    "name": "Wonderheal XT68 Shades",
     "sockets": 2
   },
   {
@@ -900,8 +913,8 @@
     "sockets": 2
   },
   {
-    "id": 35183,
-    "name": "Wonderheal XT68 Shades",
+    "id": 35357,
+    "name": "Dragonhide Helm",
     "sockets": 2
   },
   {
@@ -910,8 +923,8 @@
     "sockets": 2
   },
   {
-    "id": 35357,
-    "name": "Dragonhide Helm",
+    "id": 35367,
+    "name": "Opportunist\u0027s Leather Helm",
     "sockets": 2
   },
   {
@@ -920,8 +933,1014 @@
     "sockets": 2
   },
   {
-    "id": 35367,
-    "name": "Opportunist\u0027s Leather Helm",
+    "id": 35620,
+    "name": "Berserker\u0027s Horns"
+  },
+  {
+    "id": 35634,
+    "name": "Scabrous-Hide Helm"
+  },
+  {
+    "id": 35833,
+    "name": "Imperious Worghide Cap"
+  },
+  {
+    "id": 35918,
+    "name": "Spiked Skullguard"
+  },
+  {
+    "id": 35864,
+    "name": "Fizznik\u0027s Patented Earwarmer"
+  },
+  {
+    "id": 36079,
+    "name": "Winterfin Cowl",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36071,
+    "name": "Daggercap Cover",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36103,
+    "name": "Caribou Cowl",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36087,
+    "name": "Riplash Cover",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36135,
+    "name": "Wolverine Cap",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36111,
+    "name": "Vileprey Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36143,
+    "name": "Ghrino Cover",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36127,
+    "name": "Muradin Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36159,
+    "name": "Wendigo Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36151,
+    "name": "Pygmy Helmet",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36119,
+    "name": "Taunka Hat",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36095,
+    "name": "Wildevar Cap",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36175,
+    "name": "Geist Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36167,
+    "name": "Webspinner Hood",
+    "randomEnchantment": true
+  },
+  {
+    "id": 36948,
+    "name": "Horned Helm of Varos",
+    "sockets": 1
+  },
+  {
+    "id": 36996,
+    "name": "Hood of the Furtive Assassin",
+    "sockets": 1
+  },
+  {
+    "id": 37007,
+    "name": "Faux Leather Hood"
+  },
+  {
+    "id": 37149,
+    "name": "Helm of Anomalus",
     "sockets": 2
+  },
+  {
+    "id": 37180,
+    "name": "Battlemap Hide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 37293,
+    "name": "Mask of the Watcher",
+    "sockets": 2
+  },
+  {
+    "id": 37404,
+    "name": "Floodplain Cover"
+  },
+  {
+    "id": 37353,
+    "name": "Reinforced Caribou-Hide Helm"
+  },
+  {
+    "id": 37391,
+    "name": "Rhinohide Mask"
+  },
+  {
+    "id": 37463,
+    "name": "Winterfin Patch of Honor"
+  },
+  {
+    "id": 37636,
+    "name": "Helm of Cheated Fate"
+  },
+  {
+    "id": 37767,
+    "name": "Ryft\u0027s Deathgaze"
+  },
+  {
+    "id": 38021,
+    "name": "DB57 Leather Healer Head2"
+  },
+  {
+    "id": 38016,
+    "name": "DB51 Leather Physical Head4"
+  },
+  {
+    "id": 37986,
+    "name": "Hood of the Forgotten Rifleman"
+  },
+  {
+    "id": 37994,
+    "name": "DB21 Leather Healer Head"
+  },
+  {
+    "id": 37995,
+    "name": "Snowfall Reaver Hood"
+  },
+  {
+    "id": 38010,
+    "name": "Scourgeslayer Cover"
+  },
+  {
+    "id": 38437,
+    "name": "Arctic Helm"
+  },
+  {
+    "id": 38438,
+    "name": "Iceborne Helm"
+  },
+  {
+    "id": 38525,
+    "name": "Jailor\u0027s Padded Cover"
+  },
+  {
+    "id": 39034,
+    "name": "Bearskin Helm"
+  },
+  {
+    "id": 39020,
+    "name": "Drakuru\u0027s Ghastly Helm"
+  },
+  {
+    "id": 39022,
+    "name": "Helm of Rising Smoke"
+  },
+  {
+    "id": 39039,
+    "name": "QR IC36 Leather Physical Head3 - PH"
+  },
+  {
+    "id": 39240,
+    "name": "Noth\u0027s Curse",
+    "sockets": 2
+  },
+  {
+    "id": 39399,
+    "name": "Helm of the Vast Legions",
+    "sockets": 2
+  },
+  {
+    "id": 39385,
+    "name": "Helm of the Ancient Horn"
+  },
+  {
+    "id": 39531,
+    "name": "Heroes\u0027 Dreamwalker Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 39561,
+    "name": "Heroes\u0027 Bonescythe Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 39553,
+    "name": "Heroes\u0027 Dreamwalker Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 39545,
+    "name": "Heroes\u0027 Dreamwalker Cover",
+    "sockets": 2
+  },
+  {
+    "id": 39707,
+    "name": "Verdant Tundra Cap"
+  },
+  {
+    "id": 39768,
+    "name": "Cowl of the Perished"
+  },
+  {
+    "id": 39859,
+    "name": "Bloodletter\u0027s Skullcap"
+  },
+  {
+    "id": 39835,
+    "name": "Supple Bloodbinder\u0027s Helm"
+  },
+  {
+    "id": 39868,
+    "name": "Ravager\u0027s Skullcap"
+  },
+  {
+    "id": 40304,
+    "name": "Headpiece of Fungal Bloom",
+    "sockets": 2
+  },
+  {
+    "id": 40291,
+    "name": "Helm of the Avenging Protector"
+  },
+  {
+    "id": 40329,
+    "name": "Hood of the Exodus",
+    "sockets": 2
+  },
+  {
+    "id": 40296,
+    "name": "Cover of Silence"
+  },
+  {
+    "id": 40467,
+    "name": "Valorous Dreamwalker Cover",
+    "sockets": 2
+  },
+  {
+    "id": 40473,
+    "name": "Valorous Dreamwalker Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 40461,
+    "name": "Valorous Dreamwalker Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 40499,
+    "name": "Valorous Bonescythe Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 41269,
+    "name": "Savage Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41321,
+    "name": "Furious Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41322,
+    "name": "Relentless Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41327,
+    "name": "Furious Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41326,
+    "name": "Deadly Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41325,
+    "name": "Hateful Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41319,
+    "name": "Hateful Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41324,
+    "name": "Savage Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41320,
+    "name": "Deadly Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41328,
+    "name": "Relentless Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41676,
+    "name": "Hateful Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41644,
+    "name": "Savage Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41673,
+    "name": "Relentless Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41671,
+    "name": "Deadly Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41675,
+    "name": "Savage Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41678,
+    "name": "Furious Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41670,
+    "name": "Hateful Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41677,
+    "name": "Deadly Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41672,
+    "name": "Furious Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41679,
+    "name": "Relentless Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 41829,
+    "name": "Horns of Electrified Terror"
+  },
+  {
+    "id": 42094,
+    "name": "Snowhide Cap"
+  },
+  {
+    "id": 42550,
+    "name": "Weakness Spectralizers",
+    "sockets": 2
+  },
+  {
+    "id": 42554,
+    "name": "Greensight Gogs",
+    "sockets": 2
+  },
+  {
+    "id": 42691,
+    "name": "Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 42696,
+    "name": "Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 42681,
+    "name": "Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 42686,
+    "name": "Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 42872,
+    "name": "Proto-Drake Cover",
+    "sockets": 1
+  },
+  {
+    "id": 43261,
+    "name": "Overcast Headguard"
+  },
+  {
+    "id": 43260,
+    "name": "Eviscerator\u0027s Facemask"
+  },
+  {
+    "id": 43403,
+    "name": "Shroud of Darkness",
+    "sockets": 2
+  },
+  {
+    "id": 43840,
+    "name": "Sixen\u0027s Skullcap"
+  },
+  {
+    "id": 43887,
+    "name": "QR IC34 Leather Physical Head3 - PH"
+  },
+  {
+    "id": 43905,
+    "name": "Fur-lined Helm",
+    "sockets": 1
+  },
+  {
+    "id": 44007,
+    "name": "Headpiece of Reconciliation",
+    "sockets": 2
+  },
+  {
+    "id": 44044,
+    "name": "Tirion\u0027s Headwrap"
+  },
+  {
+    "id": 44170,
+    "name": "Helm of the Majestic Stag"
+  },
+  {
+    "id": 44409,
+    "name": "Headguard of Retaliation"
+  },
+  {
+    "id": 44732,
+    "name": "Azure Dragonleather Helm",
+    "randomEnchantment": true
+  },
+  {
+    "id": 44740,
+    "name": "Mechanized Snow Goggles",
+    "randomEnchantment": true
+  },
+  {
+    "id": 44908,
+    "name": "Titan-Forged Leather Helm of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 44907,
+    "name": "Titan-Forged Leather Helm of Dominance",
+    "sockets": 2
+  },
+  {
+    "id": 44906,
+    "name": "Titan-Forged Leather Helm of Salvation",
+    "sockets": 2
+  },
+  {
+    "id": 45398,
+    "name": "Valorous Terrorblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 45356,
+    "name": "Valorous Nightsong Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 45346,
+    "name": "Valorous Nightsong Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 45439,
+    "name": "Unwavering Stare",
+    "sockets": 2
+  },
+  {
+    "id": 45523,
+    "name": "Garona\u0027s Guise",
+    "sockets": 2
+  },
+  {
+    "id": 45864,
+    "name": "Cover of the Keepers",
+    "sockets": 2
+  },
+  {
+    "id": 45993,
+    "name": "Mimiron\u0027s Flight Goggles",
+    "sockets": 2
+  },
+  {
+    "id": 45893,
+    "name": "Guise of the Midgard Serpent",
+    "sockets": 2
+  },
+  {
+    "id": 46184,
+    "name": "Conqueror\u0027s Nightsong Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 46313,
+    "name": "Valorous Nightsong Cover",
+    "sockets": 2
+  },
+  {
+    "id": 46161,
+    "name": "Conqueror\u0027s Nightsong Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 46125,
+    "name": "Conqueror\u0027s Terrorblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 46191,
+    "name": "Conqueror\u0027s Nightsong Cover",
+    "sockets": 2
+  },
+  {
+    "id": 47217,
+    "name": "Gaze of the Somber Keeper",
+    "sockets": 2
+  },
+  {
+    "id": 47529,
+    "name": "Mask of Distant Memory",
+    "sockets": 2
+  },
+  {
+    "id": 47690,
+    "name": "Helm of Abundant Growth",
+    "sockets": 2
+  },
+  {
+    "id": 47689,
+    "name": "Hood of Lethal Intent",
+    "sockets": 2
+  },
+  {
+    "id": 47688,
+    "name": "Mask of Lethal Intent",
+    "sockets": 2
+  },
+  {
+    "id": 47691,
+    "name": "Mask of Abundant Growth",
+    "sockets": 2
+  },
+  {
+    "id": 47746,
+    "name": "Helm of the Snowy Grotto",
+    "sockets": 2
+  },
+  {
+    "id": 47891,
+    "name": "Helm of the High Mesa",
+    "sockets": 2
+  },
+  {
+    "id": 47959,
+    "name": "Helm of the Snowy Grotto",
+    "sockets": 2
+  },
+  {
+    "id": 48034,
+    "name": "Helm of the High Mesa",
+    "sockets": 2
+  },
+  {
+    "id": 48102,
+    "name": "Malfurion\u0027s Headpiece of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48134,
+    "name": "Malfurion\u0027s Headpiece of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48230,
+    "name": "VanCleef\u0027s Helmet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48154,
+    "name": "Runetotem\u0027s Headpiece of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48158,
+    "name": "Malfurion\u0027s Cover of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48174,
+    "name": "Runetotem\u0027s Cover of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48201,
+    "name": "Runetotem\u0027s Headguard of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48144,
+    "name": "Runetotem\u0027s Headpiece of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48218,
+    "name": "VanCleef\u0027s Helmet of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48225,
+    "name": "VanCleef\u0027s Helmet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48171,
+    "name": "Malfurion\u0027s Cover of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48204,
+    "name": "Malfurion\u0027s Headguard of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48214,
+    "name": "Malfurion\u0027s Headguard of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48151,
+    "name": "Runetotem\u0027s Headpiece of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48181,
+    "name": "Runetotem\u0027s Cover of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48188,
+    "name": "Runetotem\u0027s Headguard of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48211,
+    "name": "Malfurion\u0027s Headguard of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48141,
+    "name": "Malfurion\u0027s Headpiece of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48164,
+    "name": "Malfurion\u0027s Cover of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48184,
+    "name": "Runetotem\u0027s Cover of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48194,
+    "name": "Runetotem\u0027s Headguard of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48235,
+    "name": "Garona\u0027s Helmet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48240,
+    "name": "Garona\u0027s Helmet of Triumph",
+    "sockets": 2
+  },
+  {
+    "id": 48245,
+    "name": "Garona\u0027s Helmet of Conquest",
+    "sockets": 2
+  },
+  {
+    "id": 48795,
+    "name": "Runetotem\u0027s Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 48800,
+    "name": "Malfurion\u0027s Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 48770,
+    "name": "Runetotem\u0027s Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 48786,
+    "name": "Malfurion\u0027s Cover",
+    "sockets": 2
+  },
+  {
+    "id": 48806,
+    "name": "Garona\u0027s Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 48775,
+    "name": "Malfurion\u0027s Headpiece",
+    "sockets": 2
+  },
+  {
+    "id": 48781,
+    "name": "Runetotem\u0027s Cover",
+    "sockets": 2
+  },
+  {
+    "id": 48811,
+    "name": "VanCleef\u0027s Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 49327,
+    "name": "Stormrage Antlers",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49328,
+    "name": "Stormrage Helm",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49471,
+    "name": "Stormrage Coverlet",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49326,
+    "name": "Stormrage Hood",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49472,
+    "name": "Stormrage Crown",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49477,
+    "name": "Bloodfang Hood",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49322,
+    "name": "Bloodfang Mask",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49473,
+    "name": "Stormrage Cover",
+    "sockets": 2,
+    "resistances": {
+      "Frost": 10,
+      "Shadow": 10
+    }
+  },
+  {
+    "id": 49830,
+    "name": "Fallen Sentry\u0027s Hood",
+    "sockets": 2
+  },
+  {
+    "id": 50073,
+    "name": "Geistlord\u0027s Punishment Sack",
+    "sockets": 2
+  },
+  {
+    "id": 50089,
+    "name": "Shadowblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 50026,
+    "name": "Helm of the Elder Moon",
+    "sockets": 2
+  },
+  {
+    "id": 50108,
+    "name": "Lasherweave Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 50206,
+    "name": "Frayed Scoundrel\u0027s Cap",
+    "sockets": 2
+  },
+  {
+    "id": 50679,
+    "name": "Helm of the Elder Moon",
+    "sockets": 2
+  },
+  {
+    "id": 50713,
+    "name": "Geistlord\u0027s Punishment Sack",
+    "sockets": 2
+  },
+  {
+    "id": 50821,
+    "name": "Lasherweave Cover",
+    "sockets": 2
+  },
+  {
+    "id": 50826,
+    "name": "Lasherweave Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 51013,
+    "name": "Discarded Bag of Entrails",
+    "sockets": 2
+  },
+  {
+    "id": 51143,
+    "name": "Sanctified Lasherweave Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 51137,
+    "name": "Sanctified Lasherweave Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51149,
+    "name": "Sanctified Lasherweave Cover",
+    "sockets": 2
+  },
+  {
+    "id": 51187,
+    "name": "Sanctified Shadowblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51252,
+    "name": "Sanctified Shadowblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51302,
+    "name": "Sanctified Lasherweave Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51290,
+    "name": "Sanctified Lasherweave Cover",
+    "sockets": 2
+  },
+  {
+    "id": 51296,
+    "name": "Sanctified Lasherweave Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 51427,
+    "name": "Wrathful Gladiator\u0027s Dragonhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 51435,
+    "name": "Wrathful Gladiator\u0027s Wyrmhide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 51421,
+    "name": "Wrathful Gladiator\u0027s Kodohide Helm",
+    "sockets": 2
+  },
+  {
+    "id": 51494,
+    "name": "Wrathful Gladiator\u0027s Leather Helm",
+    "sockets": 2
+  },
+  {
+    "id": 51585,
+    "name": "Sister Svalna\u0027s Spangenhelm",
+    "sockets": 2
+  },
+  {
+    "id": 51745,
+    "name": "Shadowblade Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51704,
+    "name": "Lasherweave Cover",
+    "sockets": 2
+  },
+  {
+    "id": 51694,
+    "name": "Lasherweave Helmet",
+    "sockets": 2
+  },
+  {
+    "id": 51699,
+    "name": "Lasherweave Headguard",
+    "sockets": 2
+  },
+  {
+    "id": 51825,
+    "name": "Sister Svalna\u0027s Spangenhelm",
+    "sockets": 2
+  },
+  {
+    "id": 51866,
+    "name": "Discarded Bag of Entrails",
+    "sockets": 2
+  },
+  {
+    "id": 186026,
+    "name": "Communal Crown"
+  },
+  {
+    "id": 186078,
+    "name": "Communal Crown"
+  },
+  {
+    "id": 199463,
+    "name": "Collective Crown"
+  },
+  {
+    "id": 199478,
+    "name": "Collective Crown"
   }
 ]

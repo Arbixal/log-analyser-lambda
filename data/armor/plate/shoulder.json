@@ -22,14 +22,20 @@
     "randomEnchantment": true
   },
   {
+    "id": 10245,
+    "name": "Heavy Lamellar Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
     "id": 10281,
     "name": "Emerald Pauldrons",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 10245,
-    "name": "Heavy Lamellar Pauldrons",
+    "id": 10383,
+    "name": "Commander\u0027s Pauldrons",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -37,12 +43,6 @@
     "id": 10374,
     "name": "Imbued Plate Pauldrons",
     "slot": 2
-  },
-  {
-    "id": 10383,
-    "name": "Commander\u0027s Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
   },
   {
     "id": 10390,
@@ -69,16 +69,6 @@
     "slot": 2
   },
   {
-    "id": 12625,
-    "name": "Dawnbringer Shoulders",
-    "slot": 2
-  },
-  {
-    "id": 12557,
-    "name": "Ebonsteel Spaulders",
-    "slot": 2
-  },
-  {
     "id": 12610,
     "name": "Runic Plate Shoulders",
     "slot": 2,
@@ -86,6 +76,16 @@
       "Fire": 10,
       "Nature": 10
     }
+  },
+  {
+    "id": 12557,
+    "name": "Ebonsteel Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 12625,
+    "name": "Dawnbringer Shoulders",
+    "slot": 2
   },
   {
     "id": 13066,
@@ -134,6 +134,12 @@
     "slot": 2
   },
   {
+    "id": 14937,
+    "name": "Heroic Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
     "id": 14868,
     "name": "Warleader\u0027s Shoulders",
     "slot": 2
@@ -145,20 +151,8 @@
     "randomEnchantment": true
   },
   {
-    "id": 14937,
-    "name": "Heroic Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
     "id": 14963,
     "name": "High Chief\u0027s Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
-    "id": 14981,
-    "name": "Exalted Epaulets",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -169,9 +163,10 @@
     "randomEnchantment": true
   },
   {
-    "id": 16432,
-    "name": "Lieutenant Commander\u0027s Plate Pauldrons",
-    "slot": 2
+    "id": 14981,
+    "name": "Exalted Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
   },
   {
     "id": 16436,
@@ -179,13 +174,18 @@
     "slot": 2
   },
   {
-    "id": 16480,
-    "name": "Field Marshal\u0027s Plate Shoulderguards",
+    "id": 16432,
+    "name": "Lieutenant Commander\u0027s Plate Pauldrons",
     "slot": 2
   },
   {
     "id": 16476,
     "name": "Field Marshal\u0027s Lamellar Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 16480,
+    "name": "Field Marshal\u0027s Plate Shoulderguards",
     "slot": 2
   },
   {
@@ -199,13 +199,13 @@
     "slot": 2
   },
   {
-    "id": 16729,
-    "name": "Lightforge Spaulders",
+    "id": 16733,
+    "name": "Spaulders of Valor",
     "slot": 2
   },
   {
-    "id": 16733,
-    "name": "Spaulders of Valor",
+    "id": 16729,
+    "name": "Lightforge Spaulders",
     "slot": 2
   },
   {
@@ -266,23 +266,23 @@
     "slot": 2
   },
   {
-    "id": 20057,
-    "name": "Highlander\u0027s Plate Spaulders",
-    "slot": 2
-  },
-  {
     "id": 20058,
     "name": "Highlander\u0027s Lamellar Spaulders",
     "slot": 2
   },
   {
-    "id": 20212,
-    "name": "Defiler\u0027s Plate Spaulders",
+    "id": 20057,
+    "name": "Highlander\u0027s Plate Spaulders",
     "slot": 2
   },
   {
     "id": 20184,
     "name": "Defiler\u0027s Lamellar Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 20212,
+    "name": "Defiler\u0027s Plate Spaulders",
     "slot": 2
   },
   {
@@ -310,13 +310,13 @@
     "slot": 2
   },
   {
-    "id": 21391,
-    "name": "Avenger\u0027s Pauldrons",
+    "id": 21453,
+    "name": "Mantle of the Horusath",
     "slot": 2
   },
   {
-    "id": 21453,
-    "name": "Mantle of the Horusath",
+    "id": 21391,
+    "name": "Avenger\u0027s Pauldrons",
     "slot": 2
   },
   {
@@ -368,13 +368,13 @@
     "slot": 2
   },
   {
-    "id": 23277,
-    "name": "Lieutenant Commander\u0027s Lamellar Shoulders",
+    "id": 23315,
+    "name": "Lieutenant Commander\u0027s Plate Shoulders",
     "slot": 2
   },
   {
-    "id": 23315,
-    "name": "Lieutenant Commander\u0027s Plate Shoulders",
+    "id": 23277,
+    "name": "Lieutenant Commander\u0027s Lamellar Shoulders",
     "slot": 2
   },
   {
@@ -383,14 +383,14 @@
     "slot": 2
   },
   {
-    "id": 24463,
-    "name": "Pauldrons of Brute Force",
+    "id": 24457,
+    "name": "Truth Bearer Shoulderguards",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 24457,
-    "name": "Truth Bearer Shoulderguards",
+    "id": 24463,
+    "name": "Pauldrons of Brute Force",
     "slot": 2,
     "sockets": 2
   },
@@ -399,12 +399,6 @@
     "name": "Gladiator\u0027s Plate Shoulders",
     "slot": 2,
     "sockets": 2
-  },
-  {
-    "id": 24932,
-    "name": "Ango\u0027rosh Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
   },
   {
     "id": 24940,
@@ -419,20 +413,14 @@
     "randomEnchantment": true
   },
   {
+    "id": 24932,
+    "name": "Ango\u0027rosh Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
     "id": 24948,
     "name": "Bloodscale Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24964,
-    "name": "Khan\u0027aish Epaulets",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
-    "id": 24956,
-    "name": "Bogslayer Pauldrons",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -443,8 +431,20 @@
     "randomEnchantment": true
   },
   {
+    "id": 24964,
+    "name": "Khan\u0027aish Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
     "id": 24980,
     "name": "Reaver Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 24956,
+    "name": "Bogslayer Pauldrons",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -461,26 +461,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 25012,
-    "name": "Conqueror\u0027s Epaulets",
-    "slot": 2,
-    "randomEnchantment": true
-  },
-  {
     "id": 25004,
     "name": "Bloodfist Epaulets",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 25020,
-    "name": "Shattered Hand Epaulets",
+    "id": 25012,
+    "name": "Conqueror\u0027s Epaulets",
     "slot": 2,
     "randomEnchantment": true
   },
   {
     "id": 25028,
     "name": "Warlord\u0027s Iron-Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25020,
+    "name": "Shattered Hand Epaulets",
     "slot": 2,
     "randomEnchantment": true
   },
@@ -550,15 +550,15 @@
     "sockets": 2
   },
   {
-    "id": 27844,
-    "name": "Pauldrons of Swift Retribution",
-    "slot": 2
-  },
-  {
     "id": 27847,
     "name": "Fanblade Pauldrons",
     "slot": 2,
     "sockets": 2
+  },
+  {
+    "id": 27844,
+    "name": "Pauldrons of Swift Retribution",
+    "slot": 2
   },
   {
     "id": 27883,
@@ -583,8 +583,8 @@
     "sockets": 2
   },
   {
-    "id": 28713,
-    "name": "Grand Marshal\u0027s Scaled Shoulders",
+    "id": 28703,
+    "name": "Grand Marshal\u0027s Plate Shoulders",
     "slot": 2,
     "sockets": 2
   },
@@ -595,8 +595,8 @@
     "sockets": 2
   },
   {
-    "id": 28703,
-    "name": "Grand Marshal\u0027s Plate Shoulders",
+    "id": 28713,
+    "name": "Grand Marshal\u0027s Scaled Shoulders",
     "slot": 2,
     "sockets": 2
   },
@@ -625,14 +625,14 @@
     "sockets": 2
   },
   {
-    "id": 29064,
-    "name": "Justicar Pauldrons",
+    "id": 29023,
+    "name": "Warbringer Shoulderplates",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 29023,
-    "name": "Warbringer Shoulderplates",
+    "id": 29064,
+    "name": "Justicar Pauldrons",
     "slot": 2,
     "sockets": 2
   },
@@ -655,13 +655,13 @@
     "sockets": 2
   },
   {
-    "id": 29617,
-    "name": "Warlord\u0027s Lamellar Pauldrons",
+    "id": 29605,
+    "name": "Champion\u0027s Lamellar Shoulders",
     "slot": 2
   },
   {
-    "id": 29605,
-    "name": "Champion\u0027s Lamellar Shoulders",
+    "id": 29617,
+    "name": "Warlord\u0027s Lamellar Pauldrons",
     "slot": 2
   },
   {
@@ -759,6 +759,12 @@
     "slot": 2
   },
   {
+    "id": 30997,
+    "name": "Lightbringer Shoulderbraces",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
     "id": 30998,
     "name": "Lightbringer Shoulderguards",
     "slot": 2,
@@ -771,8 +777,8 @@
     "sockets": 2
   },
   {
-    "id": 30997,
-    "name": "Lightbringer Shoulderbraces",
+    "id": 30996,
+    "name": "Lightbringer Pauldrons",
     "slot": 2,
     "sockets": 2
   },
@@ -783,21 +789,15 @@
     "sockets": 2
   },
   {
-    "id": 30996,
-    "name": "Lightbringer Pauldrons",
+    "id": 31159,
+    "name": "Felstone Pauldrons",
     "slot": 2,
-    "sockets": 2
+    "randomEnchantment": true
   },
   {
     "id": 31115,
     "name": "Uvuros Plated Spaulders",
     "slot": 2
-  },
-  {
-    "id": 31159,
-    "name": "Felstone Pauldrons",
-    "slot": 2,
-    "randomEnchantment": true
   },
   {
     "id": 31247,
@@ -816,25 +816,25 @@
     "slot": 2
   },
   {
-    "id": 31521,
-    "name": "Expedition Defender\u0027s Shoulders",
-    "slot": 2
-  },
-  {
     "id": 31577,
     "name": "Slatesteel Shoulders",
     "slot": 2,
     "randomEnchantment": true
   },
   {
-    "id": 31634,
-    "name": "Grand Marshal\u0027s Ornamented Spaulders",
-    "slot": 2,
-    "sockets": 2
+    "id": 31521,
+    "name": "Expedition Defender\u0027s Shoulders",
+    "slot": 2
   },
   {
     "id": 31639,
     "name": "High Warlord\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 31634,
+    "name": "Grand Marshal\u0027s Ornamented Spaulders",
     "slot": 2,
     "sockets": 2
   },
@@ -850,15 +850,16 @@
     "slot": 2
   },
   {
-    "id": 31996,
-    "name": "Merciless Gladiator\u0027s Lamellar Shoulders",
+    "id": 32024,
+    "name": "Merciless Gladiator\u0027s Ornamented Spaulders",
     "slot": 2,
     "sockets": 2
   },
   {
-    "id": 32073,
-    "name": "Spaulders of Dementia",
-    "slot": 2
+    "id": 31996,
+    "name": "Merciless Gladiator\u0027s Lamellar Shoulders",
+    "slot": 2,
+    "sockets": 2
   },
   {
     "id": 32043,
@@ -867,10 +868,9 @@
     "sockets": 2
   },
   {
-    "id": 32024,
-    "name": "Merciless Gladiator\u0027s Ornamented Spaulders",
-    "slot": 2,
-    "sockets": 2
+    "id": 32073,
+    "name": "Spaulders of Dementia",
+    "slot": 2
   },
   {
     "id": 32250,
@@ -899,6 +899,16 @@
     "slot": 2
   },
   {
+    "id": 33410,
+    "name": "Ice-Bound Plate Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 33419,
+    "name": "Frost-Worn Plate Shoulderpads",
+    "slot": 2
+  },
+  {
     "id": 33481,
     "name": "Pauldrons of Stone Resolve",
     "slot": 2,
@@ -916,6 +926,12 @@
     "sockets": 2
   },
   {
+    "id": 33753,
+    "name": "Vengeful Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
     "id": 33699,
     "name": "Vengeful Gladiator\u0027s Lamellar Shoulders",
     "slot": 2,
@@ -924,12 +940,6 @@
   {
     "id": 33726,
     "name": "Vengeful Gladiator\u0027s Ornamented Spaulders",
-    "slot": 2,
-    "sockets": 2
-  },
-  {
-    "id": 33753,
-    "name": "Vengeful Gladiator\u0027s Scaled Shoulders",
     "slot": 2,
     "sockets": 2
   },
@@ -964,14 +974,13 @@
     "sockets": 2
   },
   {
-    "id": 35092,
-    "name": "Brutal Gladiator\u0027s Scaled Shoulders",
-    "slot": 2,
-    "sockets": 2
+    "id": 34655,
+    "name": "Acherus Knight\u0027s Pauldrons",
+    "slot": 2
   },
   {
-    "id": 35063,
-    "name": "Brutal Gladiator\u0027s Ornamented Spaulders",
+    "id": 35092,
+    "name": "Brutal Gladiator\u0027s Scaled Shoulders",
     "slot": 2,
     "sockets": 2
   },
@@ -984,6 +993,12 @@
   {
     "id": 35031,
     "name": "Brutal Gladiator\u0027s Lamellar Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 35063,
+    "name": "Brutal Gladiator\u0027s Ornamented Spaulders",
     "slot": 2,
     "sockets": 2
   },
@@ -1010,5 +1025,1527 @@
     "name": "Crusader\u0027s Ornamented Spaulders",
     "slot": 2,
     "sockets": 2
+  },
+  {
+    "id": 35602,
+    "name": "Chiseled Stalagmite Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 35643,
+    "name": "Spaulders of Ichoron",
+    "slot": 2
+  },
+  {
+    "id": 35843,
+    "name": "Ramshorn-Inlaid Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 35920,
+    "name": "Feather-Lined Shoulderpads",
+    "slot": 2
+  },
+  {
+    "id": 35895,
+    "name": "Emeraldscale Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 36305,
+    "name": "Coldrock Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36353,
+    "name": "Jormungar Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36345,
+    "name": "Bloodmar Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36297,
+    "name": "Westguard Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36329,
+    "name": "Halgrind Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36321,
+    "name": "Wyrmskull Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36313,
+    "name": "Baleheim Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36361,
+    "name": "Frostpaw Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36337,
+    "name": "Grizzlemaw Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36393,
+    "name": "Revenant Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36369,
+    "name": "Magnataur Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36377,
+    "name": "Kraken Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36385,
+    "name": "Golem Pauldrons",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36401,
+    "name": "Necropolis Epaulets",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36887,
+    "name": "Mightstone Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37115,
+    "name": "Crusader\u0027s Square Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37109,
+    "name": "Discarded Silver Hand Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 37376,
+    "name": "Ferocious Pauldrons of the Rhino",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 37470,
+    "name": "BT56 Plate Physical Shoulders4",
+    "slot": 2
+  },
+  {
+    "id": 37507,
+    "name": "Chilled Shoulderplates",
+    "slot": 2
+  },
+  {
+    "id": 37508,
+    "name": "Sinking Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37517,
+    "name": "Chilled Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37635,
+    "name": "Pauldrons of the Colossus",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 37690,
+    "name": "Pauldrons of Destiny",
+    "slot": 2
+  },
+  {
+    "id": 37627,
+    "name": "Snake Den Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 37698,
+    "name": "Spaulders of Elder\u0027s Square",
+    "slot": 2
+  },
+  {
+    "id": 37814,
+    "name": "Iron Dwarf Smith Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 37783,
+    "name": "Blood-Tempered Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 38092,
+    "name": "Crystalplate Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 38112,
+    "name": "Bark Covered Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 38121,
+    "name": "DB53 Plate Healer Shoulder",
+    "slot": 2
+  },
+  {
+    "id": 38105,
+    "name": "Stonepath Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 38663,
+    "name": "Blood-soaked Saronite Plated Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 39091,
+    "name": "Blood-Spattered Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 39103,
+    "name": "QR IC32 Plate Physical Shoulder3 - PH",
+    "slot": 2
+  },
+  {
+    "id": 39082,
+    "name": "Shocksteel Shoulderguards",
+    "slot": 2
+  },
+  {
+    "id": 39083,
+    "name": "Cobalt Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 39249,
+    "name": "Shoulderplates of Bloodshed",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39168,
+    "name": "Worg-Rendering Shoulderguards",
+    "slot": 2
+  },
+  {
+    "id": 39198,
+    "name": "Frostblight Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 39172,
+    "name": "Bone-Polished Iceplate Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 39267,
+    "name": "Abomination Shoulderblades",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39450,
+    "name": "Bug-Smashing Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 39451,
+    "name": "Pauldrons of the Silent Mist",
+    "slot": 2
+  },
+  {
+    "id": 39534,
+    "name": "Pauldrons of the Lightning Revenant",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39637,
+    "name": "Heroes\u0027 Redemption Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39608,
+    "name": "Heroes\u0027 Dreadnaught Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39627,
+    "name": "Heroes\u0027 Scourgeborne Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39631,
+    "name": "Heroes\u0027 Redemption Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39621,
+    "name": "Heroes\u0027 Scourgeborne Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39642,
+    "name": "Heroes\u0027 Redemption Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39613,
+    "name": "Heroes\u0027 Dreadnaught Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39704,
+    "name": "Pauldrons of Unnatural Death",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 39725,
+    "name": "Epaulets of the Grieving Servant",
+    "slot": 2
+  },
+  {
+    "id": 39817,
+    "name": "Brazen Offender\u0027s Shoulderplates",
+    "slot": 2
+  },
+  {
+    "id": 39888,
+    "name": "Scourgebane Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 40185,
+    "name": "Shoulderguards of Opportunity",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40334,
+    "name": "Burdened Shoulderplates",
+    "slot": 2
+  },
+  {
+    "id": 40377,
+    "name": "Noble Birthright Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40414,
+    "name": "Shoulderguards of the Undaunted",
+    "slot": 2
+  },
+  {
+    "id": 40548,
+    "name": "Valorous Dreadnaught Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40530,
+    "name": "Valorous Dreadnaught Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40444,
+    "name": "Brutal Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 40511,
+    "name": "Focusing Energy Epaulets",
+    "slot": 2
+  },
+  {
+    "id": 40578,
+    "name": "Valorous Redemption Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40557,
+    "name": "Valorous Scourgeborne Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40675,
+    "name": "Tempered Saronite Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 40573,
+    "name": "Valorous Redemption Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40590,
+    "name": "Elevated Lair Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 40584,
+    "name": "Valorous Redemption Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40568,
+    "name": "Valorous Scourgeborne Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40857,
+    "name": "Savage Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40861,
+    "name": "Hateful Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40858,
+    "name": "Savage Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40864,
+    "name": "Deadly Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40856,
+    "name": "Savage Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40859,
+    "name": "Hateful Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40870,
+    "name": "Relentless Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40872,
+    "name": "Relentless Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40866,
+    "name": "Furious Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40869,
+    "name": "Furious Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40863,
+    "name": "Deadly Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40862,
+    "name": "Deadly Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40868,
+    "name": "Furious Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40871,
+    "name": "Relentless Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40860,
+    "name": "Hateful Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40961,
+    "name": "Hateful Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40963,
+    "name": "Furious Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40956,
+    "name": "Reinforced Cobalt Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 40960,
+    "name": "Savage Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40962,
+    "name": "Deadly Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40964,
+    "name": "Relentless Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 40950,
+    "name": "Spiked Cobalt Shoulders",
+    "slot": 2
+  },
+  {
+    "id": 41351,
+    "name": "Savage Saronite Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 41845,
+    "name": "Life-Light Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 42634,
+    "name": "Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42639,
+    "name": "Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42629,
+    "name": "Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42658,
+    "name": "Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 42727,
+    "name": "Ornate Saronite Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 42834,
+    "name": "Mantle of Long Winter",
+    "slot": 2
+  },
+  {
+    "id": 42876,
+    "name": "Light-Touched Mantle",
+    "slot": 2
+  },
+  {
+    "id": 43068,
+    "name": "Blessed Spaulders of Undead Slaying",
+    "slot": 2
+  },
+  {
+    "id": 43197,
+    "name": "Pauldrons of Extinguished Hatred",
+    "slot": 2
+  },
+  {
+    "id": 43184,
+    "name": "Tundra Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 43198,
+    "name": "Mantle of Volkhan",
+    "slot": 2
+  },
+  {
+    "id": 43387,
+    "name": "Shoulderplates of the Beholder",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 43844,
+    "name": "Ebon Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 43865,
+    "name": "Brilliant Saronite Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 43902,
+    "name": "QR IC34 Plate Physical Shoulder2 - PH",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 43941,
+    "name": "Grimy Saronite Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 44111,
+    "name": "Gold Star Spaulders",
+    "slot": 2
+  },
+  {
+    "id": 44112,
+    "name": "Glimmershell Shoulder Protectors",
+    "slot": 2
+  },
+  {
+    "id": 44195,
+    "name": "Spaulders of the Giant Lords",
+    "slot": 2
+  },
+  {
+    "id": 44352,
+    "name": "Shoulderplates of the Abolished",
+    "slot": 2
+  },
+  {
+    "id": 44312,
+    "name": "Wapach\u0027s Spaulders of Solidarity",
+    "slot": 2
+  },
+  {
+    "id": 44373,
+    "name": "Pauldrons of Reconnaissance",
+    "slot": 2
+  },
+  {
+    "id": 44381,
+    "name": "Pauldrons of Morbidus",
+    "slot": 2
+  },
+  {
+    "id": 45140,
+    "name": "Razorscale Shoulderguards",
+    "slot": 2
+  },
+  {
+    "id": 45321,
+    "name": "Pauldrons of Tempered Will",
+    "slot": 2
+  },
+  {
+    "id": 45320,
+    "name": "Shoulderplates of the Eternal",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45251,
+    "name": "Shoulderplates of the Deconstructor",
+    "slot": 2
+  },
+  {
+    "id": 45344,
+    "name": "Valorous Darkruned Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45373,
+    "name": "Valorous Aegis Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45380,
+    "name": "Valorous Aegis Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45385,
+    "name": "Valorous Aegis Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45339,
+    "name": "Valorous Darkruned Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45428,
+    "name": "Valorous Siegebreaker Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45433,
+    "name": "Valorous Siegebreaker Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 45697,
+    "name": "Shoulderguards of the Solemn Watch",
+    "slot": 2
+  },
+  {
+    "id": 46037,
+    "name": "Shoulderplates of the Celestial Watch",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 46167,
+    "name": "Conqueror\u0027s Siegebreaker Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46149,
+    "name": "Conqueror\u0027s Siegebreaker Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46117,
+    "name": "Conqueror\u0027s Darkruned Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46152,
+    "name": "Conqueror\u0027s Aegis Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46182,
+    "name": "Conqueror\u0027s Aegis Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46177,
+    "name": "Conqueror\u0027s Aegis Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 46122,
+    "name": "Conqueror\u0027s Darkruned Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47514,
+    "name": "Regal Aurous Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47502,
+    "name": "Majestic Silversmith Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47702,
+    "name": "Pauldrons of the Cavalier",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47699,
+    "name": "Shoulderguards of Enduring Order",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47697,
+    "name": "Pauldrons of Trembling Rage",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47720,
+    "name": "Pauldrons of the Silver Defender",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47696,
+    "name": "Shoulderplates of Trembling Rage",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47701,
+    "name": "Shoulderplates of the Cavalier",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47698,
+    "name": "Shoulderplates of Enduring Order",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 47877,
+    "name": "Sunreaver Defender\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48016,
+    "name": "Sunreaver Defender\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 47944,
+    "name": "Pauldrons of the Silver Defender",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 48381,
+    "name": "Wrynn\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48400,
+    "name": "Hellscream\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48395,
+    "name": "Hellscream\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48374,
+    "name": "Wrynn\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48390,
+    "name": "Hellscream\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48448,
+    "name": "Wrynn\u0027s Pauldrons of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48454,
+    "name": "Wrynn\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48380,
+    "name": "Wrynn\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48455,
+    "name": "Wrynn\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48495,
+    "name": "Koltira\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48496,
+    "name": "Koltira\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48535,
+    "name": "Thassarian\u0027s Pauldrons of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48470,
+    "name": "Hellscream\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48485,
+    "name": "Thassarian\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48562,
+    "name": "Koltira\u0027s Pauldrons of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48542,
+    "name": "Thassarian\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48465,
+    "name": "Hellscream\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48460,
+    "name": "Hellscream\u0027s Pauldrons of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48572,
+    "name": "Turalyon\u0027s Spaulders of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48585,
+    "name": "Liadrin\u0027s Spaulders of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48553,
+    "name": "Koltira\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48580,
+    "name": "Turalyon\u0027s Spaulders of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48478,
+    "name": "Thassarian\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48579,
+    "name": "Turalyon\u0027s Spaulders of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48543,
+    "name": "Thassarian\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48552,
+    "name": "Koltira\u0027s Pauldrons of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48486,
+    "name": "Thassarian\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48505,
+    "name": "Koltira\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48611,
+    "name": "Turalyon\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48612,
+    "name": "Turalyon\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48636,
+    "name": "Turalyon\u0027s Shoulderguards of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48595,
+    "name": "Liadrin\u0027s Spaulders of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48646,
+    "name": "Turalyon\u0027s Shoulderguards of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48606,
+    "name": "Turalyon\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48637,
+    "name": "Turalyon\u0027s Shoulderguards of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48661,
+    "name": "Liadrin\u0027s Shoulderguards of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48590,
+    "name": "Liadrin\u0027s Spaulders of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48621,
+    "name": "Liadrin\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48622,
+    "name": "Liadrin\u0027s Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48647,
+    "name": "Liadrin\u0027s Shoulderguards of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48627,
+    "name": "Liadrin\u0027s Shoulderplates of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48656,
+    "name": "Liadrin\u0027s Shoulderguards of Conquest",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48864,
+    "name": "Hellscream\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48879,
+    "name": "Wrynn\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48894,
+    "name": "Koltira\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48926,
+    "name": "Liadrin\u0027s Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48899,
+    "name": "Thassarian\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48884,
+    "name": "Koltira\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48906,
+    "name": "Liadrin\u0027s Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48889,
+    "name": "Thassarian\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48869,
+    "name": "Wrynn\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48919,
+    "name": "Turalyon\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48874,
+    "name": "Hellscream\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48901,
+    "name": "Turalyon\u0027s Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48914,
+    "name": "Liadrin\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 48931,
+    "name": "Turalyon\u0027s Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 49829,
+    "name": "Valonforth\u0027s Tarnished Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 49980,
+    "name": "Rusted Bonespike Pauldrons",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50003,
+    "name": "Boneguard Commander\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50020,
+    "name": "Raging Behemoth\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50098,
+    "name": "Scourgelord Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50082,
+    "name": "Ymirjar Lord\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50208,
+    "name": "Pauldrons of the Souleater",
+    "slot": 2
+  },
+  {
+    "id": 50234,
+    "name": "Shoulderplates of Frozen Blood",
+    "slot": 2
+  },
+  {
+    "id": 50324,
+    "name": "Lightsworn Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50660,
+    "name": "Boneguard Commander\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50617,
+    "name": "Rusted Bonespike Pauldrons",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50674,
+    "name": "Raging Behemoth\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 50860,
+    "name": "Lightsworn Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50865,
+    "name": "Lightsworn Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50853,
+    "name": "Scourgelord Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 50846,
+    "name": "Ymirjar Lord\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51160,
+    "name": "Sanctified Lightsworn Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51170,
+    "name": "Sanctified Lightsworn Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51125,
+    "name": "Sanctified Scourgelord Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51166,
+    "name": "Sanctified Lightsworn Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51014,
+    "name": "Scalpel-Sharpening Shoulderguards",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51130,
+    "name": "Sanctified Scourgelord Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51229,
+    "name": "Sanctified Ymirjar Lord\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51210,
+    "name": "Sanctified Ymirjar Lord\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51215,
+    "name": "Sanctified Ymirjar Lord\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51273,
+    "name": "Sanctified Lightsworn Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51224,
+    "name": "Sanctified Ymirjar Lord\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51269,
+    "name": "Sanctified Lightsworn Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51279,
+    "name": "Sanctified Lightsworn Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51309,
+    "name": "Sanctified Scourgelord Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51383,
+    "name": "Spaulders of the Blood Princes",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51314,
+    "name": "Sanctified Scourgelord Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51418,
+    "name": "Wrathful Gladiator\u0027s Dreadplate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51479,
+    "name": "Wrathful Gladiator\u0027s Scaled Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51473,
+    "name": "Wrathful Gladiator\u0027s Ornamented Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51545,
+    "name": "Wrathful Gladiator\u0027s Plate Shoulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51586,
+    "name": "Emerald Saint\u0027s Spaulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51682,
+    "name": "Scourgelord Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51580,
+    "name": "Titan-Forged Shoulderplates of Triumph",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51581,
+    "name": "Titan-Forged Shoulderplates of Salvation",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51721,
+    "name": "Lightsworn Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51776,
+    "name": "Ymirjar Lord\u0027s Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51691,
+    "name": "Scourgelord Pauldrons",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51726,
+    "name": "Lightsworn Spaulders",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51731,
+    "name": "Lightsworn Shoulderguards",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51767,
+    "name": "Ymirjar Lord\u0027s Shoulderplates",
+    "slot": 2,
+    "sockets": 1
+  },
+  {
+    "id": 51865,
+    "name": "Scalpel-Sharpening Shoulderguards",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51847,
+    "name": "Spaulders of the Blood Princes",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51824,
+    "name": "Emerald Saint\u0027s Spaulders",
+    "slot": 2,
+    "sockets": 2
+  },
+  {
+    "id": 51983,
+    "name": "Stalwart Shoulderguards",
+    "slot": 2,
+    "randomEnchantment": true
+  },
+  {
+    "id": 185977,
+    "name": "Communal Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 186088,
+    "name": "Communal Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 199504,
+    "name": "Collective Pauldrons",
+    "slot": 2
+  },
+  {
+    "id": 199512,
+    "name": "Collective Pauldrons",
+    "slot": 2
   }
 ]

@@ -85,13 +85,13 @@
     "slot": 15
   },
   {
-    "id": 23451,
-    "name": "Grand Marshal\u0027s Mageblade",
+    "id": 23458,
+    "name": "High Warlord\u0027s Spellblade",
     "slot": 15
   },
   {
-    "id": 23458,
-    "name": "High Warlord\u0027s Spellblade",
+    "id": 23451,
+    "name": "Grand Marshal\u0027s Mageblade",
     "slot": 15
   },
   {
@@ -105,18 +105,31 @@
     "slot": 15
   },
   {
-    "id": 24356,
-    "name": "Wastewalker Shiv",
-    "slot": 15
-  },
-  {
     "id": 24453,
     "name": "Zangartooth Shortblade",
     "slot": 15
   },
   {
+    "id": 25303,
+    "name": "Amplifying Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
     "id": 25297,
     "name": "Tuning Knife",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25306,
+    "name": "Permafrost Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25300,
+    "name": "Lightning Dagger",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -127,8 +140,14 @@
     "randomEnchantment": true
   },
   {
-    "id": 25298,
-    "name": "Combustion Dagger",
+    "id": 25304,
+    "name": "Destructo-Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 25309,
+    "name": "Warpdagger",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -151,50 +170,26 @@
     "randomEnchantment": true
   },
   {
-    "id": 25305,
-    "name": "Elemental Dagger",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25304,
-    "name": "Destructo-Blade",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25303,
-    "name": "Amplifying Blade",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
     "id": 25302,
     "name": "Soul-Drain Dagger",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 25309,
-    "name": "Warpdagger",
+    "id": 25298,
+    "name": "Combustion Dagger",
     "slot": 15,
     "randomEnchantment": true
   },
   {
-    "id": 25300,
-    "name": "Lightning Dagger",
+    "id": 25305,
+    "name": "Elemental Dagger",
     "slot": 15,
     "randomEnchantment": true
   },
   {
     "id": 25301,
     "name": "Shattering Dagger",
-    "slot": 15,
-    "randomEnchantment": true
-  },
-  {
-    "id": 25306,
-    "name": "Permafrost Dagger",
     "slot": 15,
     "randomEnchantment": true
   },
@@ -229,13 +224,13 @@
     "slot": 15
   },
   {
-    "id": 28322,
-    "name": "Runed Dagger of Solace",
+    "id": 28297,
+    "name": "Gladiator\u0027s Spellblade",
     "slot": 15
   },
   {
-    "id": 28297,
-    "name": "Gladiator\u0027s Spellblade",
+    "id": 28322,
+    "name": "Runed Dagger of Solace",
     "slot": 15
   },
   {
@@ -244,13 +239,13 @@
     "slot": 15
   },
   {
-    "id": 28957,
-    "name": "Grand Marshal\u0027s Spellblade",
+    "id": 28931,
+    "name": "High Warlord\u0027s Spellblade",
     "slot": 15
   },
   {
-    "id": 28931,
-    "name": "High Warlord\u0027s Spellblade",
+    "id": 28957,
+    "name": "Grand Marshal\u0027s Spellblade",
     "slot": 15
   },
   {
@@ -335,8 +330,421 @@
     "slot": 15
   },
   {
+    "id": 35570,
+    "name": "Keleseth\u0027s Blade of Evocation",
+    "slot": 15
+  },
+  {
+    "id": 35809,
+    "name": "Earthspike",
+    "slot": 15
+  },
+  {
+    "id": 36670,
+    "name": "Gypsy Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36674,
+    "name": "Old Tooth",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36671,
+    "name": "Ominous Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36678,
+    "name": "Runed Talon",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36672,
+    "name": "Strange Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36681,
+    "name": "Wisdom Carver",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36673,
+    "name": "Wise Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36679,
+    "name": "Singing Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36677,
+    "name": "Levitating Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36682,
+    "name": "Seduced Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36676,
+    "name": "Water Blade",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36675,
+    "name": "Sockeye Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36669,
+    "name": "Eccentric Dagger",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36680,
+    "name": "Mystic Fang",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 36880,
+    "name": "Vicious Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 37042,
+    "name": "Glimmering Orca Tooth",
+    "slot": 15
+  },
+  {
+    "id": 37377,
+    "name": "Netherbreath Spellblade",
+    "slot": 15
+  },
+  {
     "id": 37739,
     "name": "Brutal Gladiator\u0027s Blade of Alacrity",
+    "slot": 15
+  },
+  {
+    "id": 38142,
+    "name": "Infused Dragonbone Splinter",
+    "slot": 15
+  },
+  {
+    "id": 38134,
+    "name": "Bloodtinged Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 38138,
+    "name": "Keldonus\u0027s Missing Spellshard",
+    "slot": 15
+  },
+  {
+    "id": 38130,
+    "name": "Emme\u0027s Lost Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 39133,
+    "name": "Necrolord\u0027s Sacrificial Dagger",
+    "slot": 15
+  },
+  {
+    "id": 39271,
+    "name": "Blade of Dormant Memories",
+    "slot": 15
+  },
+  {
+    "id": 39424,
+    "name": "The Soulblade",
+    "slot": 15
+  },
+  {
+    "id": 39852,
+    "name": "Victorious Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 40408,
+    "name": "Haunting Call",
+    "slot": 15
+  },
+  {
+    "id": 42347,
+    "name": "Furious Gladiator\u0027s Spellblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 42346,
+    "name": "Deadly Gladiator\u0027s Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 42348,
+    "name": "Relentless Gladiator\u0027s Spellblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 42343,
+    "name": "Savage Gladiator\u0027s Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 42345,
+    "name": "Hateful Gladiator\u0027s Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 42831,
+    "name": "Maiden\u0027s Dagger",
+    "slot": 15
+  },
+  {
+    "id": 42811,
+    "name": "Twisted Reflection",
+    "slot": 15
+  },
+  {
+    "id": 43917,
+    "name": "Ritualist\u0027s Bloodletter",
+    "slot": 15
+  },
+  {
+    "id": 44173,
+    "name": "Flameheart Spell Scalpel",
+    "slot": 15
+  },
+  {
+    "id": 45085,
+    "name": "Titansteel Spellblade",
+    "slot": 15
+  },
+  {
+    "id": 45078,
+    "name": "Dagger of Lunar Purity",
+    "slot": 15
+  },
+  {
+    "id": 45214,
+    "name": "Scalpel of the Royal Apothecary",
+    "slot": 15
+  },
+  {
+    "id": 45332,
+    "name": "Stormtip",
+    "slot": 15
+  },
+  {
+    "id": 45527,
+    "name": "Soulscribe",
+    "slot": 15
+  },
+  {
+    "id": 45620,
+    "name": "Starshard Edge",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 45685,
+    "name": "Plasma Foil",
+    "slot": 15
+  },
+  {
+    "id": 45970,
+    "name": "Furious Gladiator\u0027s Mageblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 46980,
+    "name": "Blade of Tarasque",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 46979,
+    "name": "Blade of Tarasque",
+    "slot": 15
+  },
+  {
+    "id": 47261,
+    "name": "Barb of Tarasque",
+    "slot": 15
+  },
+  {
+    "id": 47422,
+    "name": "Barb of Tarasque",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47569,
+    "name": "Spectral Kris",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47724,
+    "name": "Blade of the Silver Disciple",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47874,
+    "name": "Sunreaver Disciple\u0027s Blade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48013,
+    "name": "Sunreaver Disciple\u0027s Blade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 47941,
+    "name": "Blade of the Silver Disciple",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 48408,
+    "name": "Relentless Gladiator\u0027s Mageblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49191,
+    "name": "Relentless Gladiator\u0027s Blade of Celerity",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49304,
+    "name": "Sharpened Fang of the Mystics",
+    "slot": 15
+  },
+  {
+    "id": 49227,
+    "name": "Skoll\u0027s Fang",
+    "slot": 15,
+    "randomEnchantment": true
+  },
+  {
+    "id": 49189,
+    "name": "Relentless Gladiator\u0027s Blade of Alacrity",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49494,
+    "name": "Honed Fang of the Mystics",
+    "slot": 15
+  },
+  {
+    "id": 49846,
+    "name": "Chilled Heart of the Glacier",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 49968,
+    "name": "Frozen Bonespike",
+    "slot": 15
+  },
+  {
+    "id": 50227,
+    "name": "Surgeon\u0027s Needle",
+    "slot": 15
+  },
+  {
+    "id": 50608,
+    "name": "Frozen Bonespike",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 50793,
+    "name": "Midnight Sun",
+    "slot": 15
+  },
+  {
+    "id": 51399,
+    "name": "Wrathful Gladiator\u0027s Mageblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51397,
+    "name": "Wrathful Gladiator\u0027s Spellblade",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51398,
+    "name": "Wrathful Gladiator\u0027s Blade of Celerity",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51406,
+    "name": "Wrathful Gladiator\u0027s Blade of Alacrity",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51788,
+    "name": "Bleak Coldarra Carver",
+    "slot": 15
+  },
+  {
+    "id": 51803,
+    "name": "Tel\u0027thas, Dagger of the Blood King",
+    "slot": 15
+  },
+  {
+    "id": 51815,
+    "name": "Bleak Coldarra Carver",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51939,
+    "name": "Tel\u0027thas, Dagger of the Blood King",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 51910,
+    "name": "Midnight Sun",
+    "slot": 15,
+    "sockets": 1
+  },
+  {
+    "id": 199709,
+    "name": "Collective Dagger",
     "slot": 15
   }
 ]

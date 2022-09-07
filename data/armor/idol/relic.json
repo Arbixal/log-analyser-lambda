@@ -6,14 +6,14 @@
     "notEnchantable": true
   },
   {
-    "id": 22399,
-    "name": "Idol of Health",
+    "id": 22397,
+    "name": "Idol of Ferocity",
     "slot": 17,
     "notEnchantable": true
   },
   {
-    "id": 22397,
-    "name": "Idol of Ferocity",
+    "id": 22399,
+    "name": "Idol of Health",
     "slot": 17,
     "notEnchantable": true
   },
@@ -78,14 +78,14 @@
     "notEnchantable": true
   },
   {
-    "id": 28064,
-    "name": "Idol of the Wild",
+    "id": 27990,
+    "name": "Idol of Savagery",
     "slot": 17,
     "notEnchantable": true
   },
   {
-    "id": 27990,
-    "name": "Idol of Savagery",
+    "id": 28064,
+    "name": "Idol of the Wild",
     "slot": 17,
     "notEnchantable": true
   },
@@ -144,6 +144,12 @@
     "notEnchantable": true
   },
   {
+    "id": 33509,
+    "name": "Idol of Terror",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
     "id": 33508,
     "name": "Idol of Budding Life",
     "slot": 17,
@@ -156,26 +162,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33509,
-    "name": "Idol of Terror",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
     "id": 33841,
     "name": "Vengeful Gladiator\u0027s Idol of Tenacity",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 33942,
-    "name": "Gladiator\u0027s Idol of Steadfastness",
-    "slot": 17,
-    "notEnchantable": true
-  },
-  {
-    "id": 33944,
-    "name": "Vengeful Gladiator\u0027s Idol of Steadfastness",
     "slot": 17,
     "notEnchantable": true
   },
@@ -192,8 +180,8 @@
     "notEnchantable": true
   },
   {
-    "id": 33945,
-    "name": "Gladiator\u0027s Idol of Resolve",
+    "id": 33944,
+    "name": "Vengeful Gladiator\u0027s Idol of Steadfastness",
     "slot": 17,
     "notEnchantable": true
   },
@@ -204,8 +192,20 @@
     "notEnchantable": true
   },
   {
-    "id": 35021,
-    "name": "Brutal Gladiator\u0027s Idol of Tenacity",
+    "id": 33942,
+    "name": "Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 33945,
+    "name": "Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 35020,
+    "name": "Brutal Gladiator\u0027s Idol of Steadfastness",
     "slot": 17,
     "notEnchantable": true
   },
@@ -216,8 +216,272 @@
     "notEnchantable": true
   },
   {
-    "id": 35020,
-    "name": "Brutal Gladiator\u0027s Idol of Steadfastness",
+    "id": 35021,
+    "name": "Brutal Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 37573,
+    "name": "Idol of the Plainstalker",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38365,
+    "name": "Idol of Perspicacious Attacks",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38295,
+    "name": "Idol of the Wastes",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38360,
+    "name": "Idol of Arcane Terror",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 38366,
+    "name": "Idol of Pure Thoughts",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 39757,
+    "name": "Idol of Worship",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40321,
+    "name": "Idol of the Shooting Star",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40342,
+    "name": "Idol of Awakening",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40711,
+    "name": "Idol of Lush Moss",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40712,
+    "name": "Idol of Steadfast Renewal",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 40713,
+    "name": "Idol of the Ravenous Beast",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42591,
+    "name": "Relentless Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42580,
+    "name": "Relentless Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42577,
+    "name": "Hateful Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42574,
+    "name": "Savage Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42583,
+    "name": "Deadly Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42579,
+    "name": "Furious Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42578,
+    "name": "Deadly Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42585,
+    "name": "Relentless Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42587,
+    "name": "Hateful Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42576,
+    "name": "Savage Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42582,
+    "name": "Hateful Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42588,
+    "name": "Deadly Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42584,
+    "name": "Furious Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42575,
+    "name": "Savage Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 42589,
+    "name": "Furious Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45270,
+    "name": "Idol of the Crying Wind",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 45509,
+    "name": "Idol of the Corruptor",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 46138,
+    "name": "Idol of the Flourishing Life",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47670,
+    "name": "Idol of Lunar Fury",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47668,
+    "name": "Idol of Mutilation",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 47671,
+    "name": "Idol of Flaring Growth",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50456,
+    "name": "Idol of the Crying Moon",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50454,
+    "name": "Idol of the Black Willow",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 50457,
+    "name": "Idol of the Lunar Eclipse",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51423,
+    "name": "Wrathful Gladiator\u0027s Idol of Tenacity",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51429,
+    "name": "Wrathful Gladiator\u0027s Idol of Resolve",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 51437,
+    "name": "Wrathful Gladiator\u0027s Idol of Steadfastness",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186052,
+    "name": "Communal Idol of Wrath",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186054,
+    "name": "Communal Idol of Life",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 186053,
+    "name": "Communal Idol of the Wild",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199639,
+    "name": "Collective Idol of the Wild",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199638,
+    "name": "Collective Idol of Wrath",
+    "slot": 17,
+    "notEnchantable": true
+  },
+  {
+    "id": 199640,
+    "name": "Collective Idol of Life",
     "slot": 17,
     "notEnchantable": true
   }
