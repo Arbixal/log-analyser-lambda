@@ -225,7 +225,7 @@ class WCLParser:
                     self._increment_property(player_id, -1, round(buff_length / fight_length, 3),
                                              'buffs', entry['guid'], 'percentage')
 
-                    if entry['bands'][0]['startTime'] == fight_band['start_time']:
+                    if fight_band['start_time'] in [x['startTime'] for x in entry['bands']]:
                         self._add_to_fight_property_array_if_empty(player_id, fight_band['id'], fight_band['id'],
                                                                    'buffs', entry['guid'], 'prebuff')
                         self._add_to_fight_property_array_if_empty(player_id, -1, fight_band['id'], 'buffs',
@@ -532,10 +532,7 @@ class WCLParser:
 
         node = fight
         for arg_index in range(0, len(args)):
-            if args[arg_index] not in node:
-                if arg_index == len(args) - 1:
-                    node[args[arg_index]].append(value)
-                else:
-                    node[args[arg_index]] = {}
+            if arg_index == len(args) - 1:
+                node[args[arg_index]].append(value)
 
             node = node[args[arg_index]]
