@@ -130,7 +130,10 @@ class WCLParser:
                                                                               in item['resistances'] else None,
                         'sockets': item['sockets'] if 'sockets' in item else None,
                     }
-        
+
+    async def needs_update(self, fights):
+        await self.get_fights()
+
     async def parse_report(self):
         self._preload_item_data()
         await self.get_fights()
@@ -208,10 +211,25 @@ class WCLParser:
                     fight_length = fight_band['end_time'] - fight_band['start_time']
                     buff_length = sum(x['endTime'] - x['startTime'] for x in fights)
 
+                    self._set_property_if_empty(player_id, fight_band['id'], {
+                        'percentage': 0,
+                        'prebuff': []
+                    }, 'buffs', entry['guid'])
                     self._increment_property(player_id, fight_band['id'], round(buff_length / fight_length, 3),
-                                             'buffs', entry['guid'])
+                                             'buffs', entry['guid'], 'percentage')
+
+                    self._set_property_if_empty(player_id, -1, {
+                        'percentage': 0,
+                        'prebuff': []
+                    }, 'buffs', entry['guid'])
                     self._increment_property(player_id, -1, round(buff_length / fight_length, 3),
-                                             'buffs', entry['guid'])
+                                             'buffs', entry['guid'], 'percentage')
+
+                    if entry['bands'][0]['startTime'] == fight_band['start_time']:
+                        self._add_to_fight_property_array_if_empty(player_id, fight_band['id'], fight_band['id'],
+                                                                   'buffs', entry['guid'], 'prebuff')
+                        self._add_to_fight_property_array_if_empty(player_id, -1, fight_band['id'], 'buffs',
+                                                                   entry['guid'], 'prebuff')
 
                     if entry['guid'] in RESISTANCE_BUFFS:
                         for resistance in RESISTANCE_BUFFS[entry['guid']].keys():
@@ -501,6 +519,22 @@ class WCLParser:
             if args[arg_index] not in node:
                 if arg_index == len(args) - 1:
                     node[args[arg_index]] = value
+                else:
+                    node[args[arg_index]] = {}
+
+            node = node[args[arg_index]]
+
+    def _add_to_fight_property_array_if_empty(self, player_id, fight_id, value, *args):
+        (fight, summary_fight) = self._get_fight(player_id, fight_id)
+
+        if fight is None:
+            return
+
+        node = fight
+        for arg_index in range(0, len(args)):
+            if args[arg_index] not in node:
+                if arg_index == len(args) - 1:
+                    node[args[arg_index]].append(value)
                 else:
                     node[args[arg_index]] = {}
 

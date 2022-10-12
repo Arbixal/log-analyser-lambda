@@ -10,7 +10,7 @@ from exceptions import NotFoundException
 
 
 S3_BUCKET = os.environ['S3_BUCKET']
-API_VERSION = 'v1.0'
+API_VERSION = 'v1.1'
 CONTENT_TYPE_PREFIX = "application/vnd.bixnpieces.logsummary-"
 CONTENT_TYPE_PATTERN = CONTENT_TYPE_PREFIX + "%s+json"
 
