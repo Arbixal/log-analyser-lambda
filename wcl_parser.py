@@ -39,6 +39,8 @@ def create_fight(fight):
         "kill": fight['kill'] if 'kill' in fight else None,
         "fight_percentage": fight["fightPercentage"] if 'fightPercentage' in fight else None,
         "fight_type": "boss" if fight['boss'] > 0 else "trash",
+        "hardModeLevel": fight['hardModeLevel'] if 'hardModeLevel' in fight else 0,
+        "size": fight['size'] if 'size' in fight else 0,
         "start_time": fight['start_time'],
         "end_time": fight['end_time'],
         "name": fight['name'],

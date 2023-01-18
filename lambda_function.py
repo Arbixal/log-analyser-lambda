@@ -10,7 +10,7 @@ from exceptions import NotFoundException
 
 
 S3_BUCKET = os.environ['S3_BUCKET']
-API_VERSION = 'v1.1'
+API_VERSION = 'v1.2'
 CONTENT_TYPE_PREFIX = "application/vnd.bixnpieces.logsummary-"
 CONTENT_TYPE_PATTERN = CONTENT_TYPE_PREFIX + "%s+json"
 
@@ -115,4 +115,4 @@ if __name__ == '__main__':
     # print(lambda_handler({"pathParameters": {"id": "aH7DNdKTjZMRfVyb", "fight": "-1"},
     #                       "headers": {"Accept": "application/vnd.bixnpieces.logsummary-v0.9+json"}}, {}))
     # print(lambda_handler({"pathParameters": {"id": "p2AZhyBCH4xb9t8Y", "fight": "-1"}}, {}))
-    print(lambda_handler({"pathParameters": {"id": "J3VZBXgTCFpyhdG9", "fight": "-1"}}, {}))
+    print(lambda_handler({"pathParameters": {"id": "NX6jCcZMfATagzH4", "fight": "-1"}}, {}))
